@@ -4,4 +4,5 @@ import { Home } from '../modules/home';
 
 console.log('src/pages/index.jsx ');
 aaa
+bbb
 export default compose(withAuth)(Home);
