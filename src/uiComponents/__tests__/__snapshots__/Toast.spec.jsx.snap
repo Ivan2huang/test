@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Toast UI Component should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiSnackbar-root MuiSnackbar-anchorOriginBottomCenter"
+  >
+    <div
+      class="MuiTypography-root MuiPaper-root MuiPaper-elevation6 MuiSnackbarContent-root Toast-snackbarContentRoot-1 MuiTypography-body2"
+      direction="up"
+      role="alertdialog"
+      style="opacity: 1; transform: scale(1, 1); transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+    >
+      <div
+        class="MuiSnackbarContent-message Toast-snackbarContentMessage-2"
+      >
+        <div
+          class="MuiTypography-root makeStyles-root-70 makeStyles-root-71 MuiTypography-body1"
+        >
+          Dummy Message
+        </div>
+      </div>
+      <div
+        class="MuiSnackbarContent-action"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root"
+          data-testid="icon-close"
+          focusable="false"
+          role="presentation"
+          style="width: 1.125rem; height: 1.125rem;"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M18 1.02802L16.972 0L9 7.97198L1.02802 0L0 1.02802L7.97198 9L0 16.972L1.02802 18L9 10.028L16.972 18L18 16.972L10.028 9L18 1.02802Z"
+            fill="white"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;

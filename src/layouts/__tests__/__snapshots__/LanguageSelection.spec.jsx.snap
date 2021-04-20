@@ -1,0 +1,349 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LanguageSelection component should match snapshot 1`] = `
+<div>
+  <button
+    aria-controls="select-languages"
+    aria-haspopup="true"
+    class="MuiBox-root MuiBox-root-5 makeStyles-selectedLanguge-1"
+    tabindex="0"
+  >
+    <img
+      alt="UK English"
+      class="makeStyles-flag-2"
+      src="/static/flag.en.png"
+    />
+    <div>
+      Typography component
+      <span>
+        type = style-8
+      </span>
+      <span>
+        UK English
+      </span>
+    </div>
+  </button>
+  <div>
+    MenuItem component
+    <span>
+      id = select-languages
+      anchorEl = null
+      keepMounted = true
+      open = false
+    </span>
+    <span>
+      <div>
+        Typography component
+        <span>
+          type = style-10
+          color = highEmphasis
+          className = makeStyles-header-3
+        </span>
+        <span>
+          Language Selection
+        </span>
+      </div>
+      <div>
+        MenuItem component
+        <span>
+          classes = [object Object]
+          tabIndex = 0
+          selected = false
+        </span>
+        <span>
+          <img
+            alt="UK English"
+            class="makeStyles-flag-2"
+            src="/static/flag.en.png"
+          />
+          <div>
+            Typography component
+            <span>
+              type = style-8
+              color = highEmphasis
+            </span>
+            <span>
+              UK English
+            </span>
+          </div>
+        </span>
+        <button
+          data-testid="language"
+          type="button"
+        >
+          Change
+        </button>
+      </div>
+      <div>
+        MenuItem component
+        <span>
+          classes = [object Object]
+          tabIndex = 0
+          selected = false
+        </span>
+        <span>
+          <img
+            alt="中文 (繁體)"
+            class="makeStyles-flag-2"
+            src="/static/flag.zh.png"
+          />
+          <div>
+            Typography component
+            <span>
+              type = style-8
+              color = highEmphasis
+            </span>
+            <span>
+              中文 (繁體)
+            </span>
+          </div>
+        </span>
+        <button
+          data-testid="language"
+          type="button"
+        >
+          Change
+        </button>
+      </div>
+    </span>
+    <button
+      data-testid="close-language"
+      type="button"
+    >
+      Change
+    </button>
+  </div>
+</div>
+`;
+
+exports[`LanguageSelection component should match snapshot when click on menu language 1`] = `
+<div>
+  <button
+    aria-controls="select-languages"
+    aria-haspopup="true"
+    class="MuiBox-root MuiBox-root-17 makeStyles-selectedLanguge-13"
+    tabindex="0"
+  >
+    <img
+      alt="UK English"
+      class="makeStyles-flag-14"
+      src="/static/flag.en.png"
+    />
+    <div>
+      Typography component
+      <span>
+        type = style-8
+      </span>
+      <span>
+        UK English
+      </span>
+    </div>
+  </button>
+  <div>
+    MenuItem component
+    <span>
+      id = select-languages
+      anchorEl = null
+      keepMounted = true
+      open = false
+    </span>
+    <span>
+      <div>
+        Typography component
+        <span>
+          type = style-10
+          color = highEmphasis
+          className = makeStyles-header-15
+        </span>
+        <span>
+          Language Selection
+        </span>
+      </div>
+      <div>
+        MenuItem component
+        <span>
+          classes = [object Object]
+          tabIndex = 0
+          selected = false
+        </span>
+        <span>
+          <img
+            alt="UK English"
+            class="makeStyles-flag-14"
+            src="/static/flag.en.png"
+          />
+          <div>
+            Typography component
+            <span>
+              type = style-8
+              color = highEmphasis
+            </span>
+            <span>
+              UK English
+            </span>
+          </div>
+        </span>
+        <button
+          data-testid="language"
+          type="button"
+        >
+          Change
+        </button>
+      </div>
+      <div>
+        MenuItem component
+        <span>
+          classes = [object Object]
+          tabIndex = 0
+          selected = false
+        </span>
+        <span>
+          <img
+            alt="中文 (繁體)"
+            class="makeStyles-flag-14"
+            src="/static/flag.zh.png"
+          />
+          <div>
+            Typography component
+            <span>
+              type = style-8
+              color = highEmphasis
+            </span>
+            <span>
+              中文 (繁體)
+            </span>
+          </div>
+        </span>
+        <button
+          data-testid="language"
+          type="button"
+        >
+          Change
+        </button>
+      </div>
+    </span>
+    <button
+      data-testid="close-language"
+      type="button"
+    >
+      Change
+    </button>
+  </div>
+</div>
+`;
+
+exports[`LanguageSelection component should match snapshot when click on selected language 1`] = `
+<div>
+  <button
+    aria-controls="select-languages"
+    aria-haspopup="true"
+    class="MuiBox-root MuiBox-root-11 makeStyles-selectedLanguge-7"
+    tabindex="0"
+  >
+    <img
+      alt="UK English"
+      class="makeStyles-flag-8"
+      src="/static/flag.en.png"
+    />
+    <div>
+      Typography component
+      <span>
+        type = style-8
+      </span>
+      <span>
+        UK English
+      </span>
+    </div>
+  </button>
+  <div>
+    MenuItem component
+    <span>
+      id = select-languages
+      anchorEl = [object HTMLButtonElement]
+      keepMounted = true
+      open = true
+    </span>
+    <span>
+      <div>
+        Typography component
+        <span>
+          type = style-10
+          color = highEmphasis
+          className = makeStyles-header-9
+        </span>
+        <span>
+          Language Selection
+        </span>
+      </div>
+      <div>
+        MenuItem component
+        <span>
+          classes = [object Object]
+          tabIndex = 0
+          selected = false
+        </span>
+        <span>
+          <img
+            alt="UK English"
+            class="makeStyles-flag-8"
+            src="/static/flag.en.png"
+          />
+          <div>
+            Typography component
+            <span>
+              type = style-8
+              color = highEmphasis
+            </span>
+            <span>
+              UK English
+            </span>
+          </div>
+        </span>
+        <button
+          data-testid="language"
+          type="button"
+        >
+          Change
+        </button>
+      </div>
+      <div>
+        MenuItem component
+        <span>
+          classes = [object Object]
+          tabIndex = 0
+          selected = false
+        </span>
+        <span>
+          <img
+            alt="中文 (繁體)"
+            class="makeStyles-flag-8"
+            src="/static/flag.zh.png"
+          />
+          <div>
+            Typography component
+            <span>
+              type = style-8
+              color = highEmphasis
+            </span>
+            <span>
+              中文 (繁體)
+            </span>
+          </div>
+        </span>
+        <button
+          data-testid="language"
+          type="button"
+        >
+          Change
+        </button>
+      </div>
+    </span>
+    <button
+      data-testid="close-language"
+      type="button"
+    >
+      Change
+    </button>
+  </div>
+</div>
+`;

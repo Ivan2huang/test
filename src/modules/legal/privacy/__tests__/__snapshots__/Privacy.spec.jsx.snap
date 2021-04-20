@@ -1,0 +1,319 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Privacy component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-8"
+  >
+    <div>
+      Typography component
+      <span>
+        type = style-2
+      </span>
+      <span>
+        Privacy Policy
+      </span>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-9 makeStyles-description-1 makeStyles-description-4"
+      classes="[object Object]"
+    >
+      <div>
+        Typography component
+        <span>
+          type = style-6
+        </span>
+        <span>
+          <span>
+            Privacy Policy content
+          </span>
+        </span>
+      </div>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+      data-testid="btn-back-to-previous-page"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Go back
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Privacy component should match snapshot when api response data is empty 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-58"
+  >
+    <div>
+      Typography component
+      <span>
+        type = style-2
+      </span>
+      <span>
+        Privacy Policy
+      </span>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-59 makeStyles-description-51 makeStyles-description-54"
+      classes="[object Object]"
+    >
+      <div>
+        Typography component
+        <span>
+          type = style-6
+        </span>
+        <span>
+          <span />
+        </span>
+      </div>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+      data-testid="btn-back-to-previous-page"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Go back
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Privacy component should match snapshot when user is not logged in 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-108"
+  >
+    <div>
+      Typography component
+      <span>
+        type = style-2
+      </span>
+      <span>
+        Privacy Policy
+      </span>
+    </div>
+    <div
+      class="MuiTabs-root makeStyles-tabContainer-103 makeStyles-tabContainer-106"
+    >
+      <div
+        class="MuiTabs-scroller MuiTabs-fixed"
+        style="overflow: hidden;"
+      >
+        <div
+          class="MuiTabs-flexContainer"
+          role="tablist"
+        >
+          <button
+            aria-selected="false"
+            class="MuiButtonBase-root MuiTab-root makeStyles-firstTab-102 makeStyles-firstTab-105 MuiTab-textColorInherit"
+            data-testid="en-HK-tab"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <div>
+                Typography component
+                <span>
+                  type = style-4
+                </span>
+                <span>
+                  English
+                </span>
+              </div>
+            </span>
+          </button>
+          <button
+            aria-selected="true"
+            class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected"
+            data-testid="zh-HK-tab"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <div>
+                Typography component
+                <span>
+                  type = style-4
+                </span>
+                <span>
+                  中文 (繁體)
+                </span>
+              </div>
+            </span>
+          </button>
+        </div>
+        <span
+          class="PrivateTabIndicator-root-133 PrivateTabIndicator-colorSecondary-135 MuiTabs-indicator"
+          style="left: 0px; width: 0px;"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-137 makeStyles-description-101 makeStyles-description-104"
+      classes="[object Object]"
+    >
+      <div>
+        Typography component
+        <span>
+          type = style-6
+        </span>
+        <span>
+          <span>
+            privacy policy in Chinese
+          </span>
+        </span>
+      </div>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+      data-testid="btn-back-to-previous-page"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Go back
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Privacy component should match snapshot when user is not logged in and changes the language tab 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-183"
+  >
+    <div>
+      Typography component
+      <span>
+        type = style-2
+      </span>
+      <span>
+        Privacy Policy
+      </span>
+    </div>
+    <div
+      class="MuiTabs-root makeStyles-tabContainer-178 makeStyles-tabContainer-181"
+    >
+      <div
+        class="MuiTabs-scroller MuiTabs-fixed"
+        style="overflow: hidden;"
+      >
+        <div
+          class="MuiTabs-flexContainer"
+          role="tablist"
+        >
+          <button
+            aria-selected="true"
+            class="MuiButtonBase-root MuiTab-root makeStyles-firstTab-177 makeStyles-firstTab-180 MuiTab-textColorInherit Mui-selected"
+            data-testid="en-HK-tab"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <div>
+                Typography component
+                <span>
+                  type = style-4
+                </span>
+                <span>
+                  English
+                </span>
+              </div>
+            </span>
+          </button>
+          <button
+            aria-selected="false"
+            class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit"
+            data-testid="zh-HK-tab"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <div>
+                Typography component
+                <span>
+                  type = style-4
+                </span>
+                <span>
+                  中文 (繁體)
+                </span>
+              </div>
+            </span>
+          </button>
+        </div>
+        <span
+          class="PrivateTabIndicator-root-208 PrivateTabIndicator-colorSecondary-210 MuiTabs-indicator"
+          style="left: 0px; width: 0px;"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-212 makeStyles-description-176 makeStyles-description-179"
+      classes="[object Object]"
+    >
+      <div>
+        Typography component
+        <span>
+          type = style-6
+        </span>
+        <span>
+          <span>
+            Privacy policy
+          </span>
+        </span>
+      </div>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+      data-testid="btn-back-to-previous-page"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Go back
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;

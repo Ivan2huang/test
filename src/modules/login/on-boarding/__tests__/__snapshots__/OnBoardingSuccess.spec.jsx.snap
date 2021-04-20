@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OnBoardingSuccess Component should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-6"
+  >
+    <div
+      type="style-1"
+    >
+      Typography Component
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-7"
+  >
+    <div
+      type="style-6"
+    >
+      Typography Component
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-8 OnBoardingSuccess-linksContainer-1"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-9"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-10"
+      >
+        <div
+          type="style-6"
+        >
+          Typography Component
+        </div>
+      </div>
+      <a
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiButton-root OnBoardingSuccess-appLinks-3 MuiButton-text"
+        data-testid="btn-app-store"
+        href="app-store-link"
+        tabindex="0"
+        target="_blank"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          <img
+            alt=""
+            class="OnBoardingSuccess-buttonImage-2"
+            src="/static/app_store_badge.png"
+          />
+        </span>
+      </a>
+      <a
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiButton-root OnBoardingSuccess-appLinks-3 MuiButton-text"
+        data-testid="btn-play-store"
+        href="play-store-link"
+        tabindex="0"
+        target="_blank"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          <img
+            alt=""
+            class="OnBoardingSuccess-buttonImage-2"
+            src="/static/play_store_badge.png"
+          />
+        </span>
+      </a>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-42"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-43"
+      >
+        <div
+          type="style-6"
+        >
+          Typography Component
+        </div>
+      </div>
+      <canvas
+        height="120"
+        style="height: 120px; width: 120px;"
+        width="120"
+      />
+    </div>
+  </div>
+</div>
+`;

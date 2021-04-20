@@ -1,0 +1,881 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ClaimDetails component should match the snapshot when claims list available 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-696"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root injectIntl(withRouter(ClaimDetails))-cardRoot-691 MuiPaper-rounded"
+    >
+      <div
+        class="MuiCardContent-root injectIntl(withRouter(ClaimDetails))-cardContent-692"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-815"
+            >
+              <img
+                alt="Background"
+                src="/static/pending_claim_background.svg"
+              />
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-816"
+            >
+              <div>
+                Typography Component
+                Processing
+              </div>
+              <div>
+                Typography Component
+                Wellness Claim
+              </div>
+              <div>
+                Typography Component
+                this is a test remark
+              </div>
+            </div>
+            <div>
+              <div>
+                Dummy Details Component
+              </div>
+              <div>
+                header
+              </div>
+              <div
+                data-id="props"
+              >
+                <div>
+                  <span>
+                    Claim number
+                  </span>
+                  <span>
+                    1121
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Claim submission date
+                  </span>
+                  <span>
+                    16 Aug 2019
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div>
+                Dummy Details Component
+              </div>
+              <div>
+                header
+              </div>
+              <div
+                data-id="props"
+              >
+                <div>
+                  <span>
+                    Patient name
+                  </span>
+                  <span>
+                    William Brown
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div>
+                Dummy Details Component
+              </div>
+              <div>
+                header
+              </div>
+              <div
+                data-id="props"
+              >
+                <div>
+                  <span>
+                    Consultation type
+                  </span>
+                  <span>
+                    dummy
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Consultation date
+                  </span>
+                  <span>
+                    01 Aug 2019
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Claim amount
+                  </span>
+                  <span>
+                    HK$ 123.01
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Claim amount(other insurer)
+                  </span>
+                  <span>
+                    HK$ 123
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-817"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                data-testid="btn-back-to-previous-page"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  Back
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ClaimDetails component should match the snapshot with Approved claims 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-174"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root injectIntl(withRouter(ClaimDetails))-cardRoot-169 MuiPaper-rounded"
+    >
+      <div
+        class="MuiCardContent-root injectIntl(withRouter(ClaimDetails))-cardContent-170"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-293"
+            >
+              <img
+                alt="Background"
+                src="/static/pending_claim_background.svg"
+              />
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-294"
+            >
+              <div>
+                Typography Component
+                Approved
+              </div>
+              <div>
+                Typography Component
+                Wellness Claim
+              </div>
+              <div>
+                Typography Component
+                this is a test remark
+              </div>
+            </div>
+            <div>
+              <div>
+                Dummy Details Component
+              </div>
+              <div>
+                header
+              </div>
+              <div
+                data-id="props"
+              >
+                <div>
+                  <span>
+                    Claim number
+                  </span>
+                  <span>
+                    1121
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Claim submission date
+                  </span>
+                  <span>
+                    16 Aug 2019
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div>
+                Dummy Details Component
+              </div>
+              <div>
+                header
+              </div>
+              <div
+                data-id="props"
+              >
+                <div>
+                  <span>
+                    Patient name
+                  </span>
+                  <span>
+                    William Brown
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div>
+                Dummy Details Component
+              </div>
+              <div>
+                header
+              </div>
+              <div
+                data-id="props"
+              >
+                <div>
+                  <span>
+                    Consultation type
+                  </span>
+                  <span>
+                    dummy
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Consultation date
+                  </span>
+                  <span>
+                    01 Aug 2019
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Claim amount
+                  </span>
+                  <span>
+                    HK$ 123.01
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Claim amount(other insurer)
+                  </span>
+                  <span>
+                    HK$ 123
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-295"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                data-testid="btn-back-to-previous-page"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  Back
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ClaimDetails component should match the snapshot with Pending claims 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-6"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root injectIntl(withRouter(ClaimDetails))-cardRoot-1 MuiPaper-rounded"
+    >
+      <div
+        class="MuiCardContent-root injectIntl(withRouter(ClaimDetails))-cardContent-2"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-125"
+            >
+              <img
+                alt="Background"
+                src="/static/pending_claim_background.svg"
+              />
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-126"
+            >
+              <div>
+                Typography Component
+                Processing
+              </div>
+              <div>
+                Typography Component
+                Wellness Claim
+              </div>
+              <div>
+                Typography Component
+                this is a test remark
+              </div>
+            </div>
+            <div>
+              <div>
+                Dummy Details Component
+              </div>
+              <div>
+                header
+              </div>
+              <div
+                data-id="props"
+              >
+                <div>
+                  <span>
+                    Claim number
+                  </span>
+                  <span>
+                    1121
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Claim submission date
+                  </span>
+                  <span>
+                    16 Aug 2019
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div>
+                Dummy Details Component
+              </div>
+              <div>
+                header
+              </div>
+              <div
+                data-id="props"
+              >
+                <div>
+                  <span>
+                    Patient name
+                  </span>
+                  <span>
+                    William Brown
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div>
+                Dummy Details Component
+              </div>
+              <div>
+                header
+              </div>
+              <div
+                data-id="props"
+              >
+                <div>
+                  <span>
+                    Consultation type
+                  </span>
+                  <span>
+                    dummy
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Consultation date
+                  </span>
+                  <span>
+                    01 Aug 2019
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Claim amount
+                  </span>
+                  <span>
+                    HK$ 123.01
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Claim amount(other insurer)
+                  </span>
+                  <span>
+                    HK$ 123
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-127"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                data-testid="btn-back-to-previous-page"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  Back
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ClaimDetails component should match the snapshot with Rejected claims 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-342"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root injectIntl(withRouter(ClaimDetails))-cardRoot-337 MuiPaper-rounded"
+    >
+      <div
+        class="MuiCardContent-root injectIntl(withRouter(ClaimDetails))-cardContent-338"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-461"
+            >
+              <img
+                alt="Background"
+                src="/static/pending_claim_background.svg"
+              />
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-462"
+            >
+              <div>
+                Typography Component
+                Rejected
+              </div>
+              <div>
+                Typography Component
+                Wellness Claim
+              </div>
+              <div>
+                Typography Component
+                this is a test remark
+              </div>
+            </div>
+            <div>
+              <div>
+                Dummy Details Component
+              </div>
+              <div>
+                header
+              </div>
+              <div
+                data-id="props"
+              >
+                <div>
+                  <span>
+                    Claim number
+                  </span>
+                  <span>
+                    1121
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Claim submission date
+                  </span>
+                  <span>
+                    16 Aug 2019
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div>
+                Dummy Details Component
+              </div>
+              <div>
+                header
+              </div>
+              <div
+                data-id="props"
+              >
+                <div>
+                  <span>
+                    Patient name
+                  </span>
+                  <span>
+                    William Brown
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div>
+                Dummy Details Component
+              </div>
+              <div>
+                header
+              </div>
+              <div
+                data-id="props"
+              >
+                <div>
+                  <span>
+                    Consultation type
+                  </span>
+                  <span>
+                    dummy
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Consultation date
+                  </span>
+                  <span>
+                    01 Aug 2019
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Claim amount
+                  </span>
+                  <span>
+                    HK$ 123.01
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Claim amount(other insurer)
+                  </span>
+                  <span>
+                    HK$ 123
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-463"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                data-testid="btn-back-to-previous-page"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  Back
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ClaimDetails component should match the snapshot with Request for information 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-510"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root injectIntl(withRouter(ClaimDetails))-cardRoot-505 MuiPaper-rounded"
+    >
+      <div
+        class="MuiCardContent-root injectIntl(withRouter(ClaimDetails))-cardContent-506"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-629"
+            >
+              <img
+                alt="Background"
+                src="/static/pending_claim_background.svg"
+              />
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-630"
+            >
+              <div>
+                Typography Component
+                Processing
+              </div>
+              <div>
+                Typography Component
+                Wellness Claim
+              </div>
+              <div>
+                Typography Component
+                this is a test remark
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-634 makeStyles-container-632 makeStyles-container-633 NotificationBox-container-631 injectIntl(withRouter(ClaimDetails))-moreInfo-508"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-635"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root"
+                  focusable="false"
+                  role="presentation"
+                  size="24"
+                  style="width: 1.125rem; height: 1.125rem;"
+                  viewBox="0 0 18 18"
+                >
+                  <path
+                    d="M8.30911 1.68243L0.109113 15.8004C-0.199887 16.3324 0.184113 17.0004 0.800113 17.0004H17.2001C17.8161 17.0004 18.2001 16.3324 17.8911 15.8004L9.69111 1.68243C9.38311 1.15143 8.61711 1.15143 8.30911 1.68243Z"
+                    fill="#A8000B"
+                  />
+                  <path
+                    d="M9.89997 5H8.09998V11H9.89997V5Z"
+                    fill="white"
+                  />
+                  <path
+                    d="M9 14.826C9.69036 14.826 10.25 14.2663 10.25 13.576C10.25 12.8856 9.69036 12.326 9 12.326C8.30964 12.326 7.75 12.8856 7.75 13.576C7.75 14.2663 8.30964 14.826 9 14.826Z"
+                    fill="white"
+                  />
+                </svg>
+              </div>
+              <div>
+                Typography Component
+                More information is required. We will contact you soon.
+              </div>
+            </div>
+            <div>
+              <div>
+                Dummy Details Component
+              </div>
+              <div>
+                header
+              </div>
+              <div
+                data-id="props"
+              >
+                <div>
+                  <span>
+                    Claim number
+                  </span>
+                  <span>
+                    1121
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Claim submission date
+                  </span>
+                  <span>
+                    16 Aug 2019
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div>
+                Dummy Details Component
+              </div>
+              <div>
+                header
+              </div>
+              <div
+                data-id="props"
+              >
+                <div>
+                  <span>
+                    Patient name
+                  </span>
+                  <span>
+                    William Brown
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div>
+                Dummy Details Component
+              </div>
+              <div>
+                header
+              </div>
+              <div
+                data-id="props"
+              >
+                <div>
+                  <span>
+                    Consultation type
+                  </span>
+                  <span>
+                    dummy
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Consultation date
+                  </span>
+                  <span>
+                    01 Aug 2019
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Claim amount
+                  </span>
+                  <span>
+                    HK$ 123.01
+                  </span>
+                </div>
+                <div>
+                  <span>
+                    Claim amount(other insurer)
+                  </span>
+                  <span>
+                    HK$ 123
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-645"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                data-testid="btn-back-to-previous-page"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  Back
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ClaimDetails component should match the snapshot without before claim data fetched 1`] = `
+<div>
+  
+</div>
+`;

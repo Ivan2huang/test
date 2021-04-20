@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VerifyNewEmail Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      data-md="12"
+      data-xs="12"
+    >
+      <span>
+        GridItem Component
+      </span>
+      <div>
+        <div>
+          loading...
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

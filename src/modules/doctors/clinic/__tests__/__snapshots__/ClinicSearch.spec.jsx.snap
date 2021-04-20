@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ClinicSearch Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-3"
+  >
+    <div
+      class="MuiFormControl-root MuiTextField-root ClinicSearch-searchField-1 MuiFormControl-fullWidth"
+      data-testid="search-bar-field"
+    >
+      <label
+        class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+        data-shrink="false"
+      >
+        Search clinic or location
+      </label>
+      <div
+        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+      >
+        <input
+          aria-invalid="false"
+          autocomplete="off"
+          class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+          type="text"
+          value=""
+        />
+        <div
+          class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+        >
+          <button
+            aria-label="search"
+            class="MuiButtonBase-root MuiIconButton-root"
+            data-testid="btn-clinic-search"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                data-testid="img-search"
+                focusable="false"
+                role="presentation"
+                style="width: 1.125rem; height: 1.125rem;"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M2.92924 17.0707C4.88124 19.024 7.44124 20 9.99991 20C12.3092 20 14.6132 19.1973 16.4772 17.608L22.8346 23.964L23.9666 22.8333L17.6092 16.476C20.9599 12.5467 20.7866 6.64133 17.0732 2.928C15.1186 0.976 12.5586 0 9.99991 0C7.44124 0 4.88124 0.976 2.92924 2.92933C-0.976089 6.83467 -0.976089 13.1653 2.92924 17.0707ZM1.59991 10C1.59991 7.756 2.47458 5.64667 4.05991 4.06C5.64524 2.47333 7.75591 1.6 9.99991 1.6C12.2439 1.6 14.3532 2.47333 15.9399 4.06C19.2146 7.33467 19.2146 12.664 15.9399 15.94C14.3532 17.5267 12.2439 18.4 9.99991 18.4C7.75591 18.4 5.64658 17.5267 4.05991 15.94C2.47324 14.3533 1.59991 12.244 1.59991 10Z"
+                  fill="#333333"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <fieldset
+          aria-hidden="true"
+          class="PrivateNotchedOutline-root-91 MuiOutlinedInput-notchedOutline"
+          style="padding-left: 8px;"
+        >
+          <legend
+            class="PrivateNotchedOutline-legend-92"
+            style="width: 0.01px;"
+          >
+            <span>
+              ​
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+    <div
+      data-areas="[object Object]"
+      data-open="false"
+      data-testid="popup-suggestions"
+    >
+      Clinic Search Suggestions
+    </div>
+    <button
+      data-testid="show-all-clinics"
+    >
+      Show all clinics
+    </button>
+    <button
+      data-testid="popup-suggestion-item"
+    >
+      Suggestion
+    </button>
+  </div>
+</div>
+`;

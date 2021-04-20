@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ClaimsHeaderDependent Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-4"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-5"
+    >
+      <div
+        type="style-2"
+      >
+        Dummy Typography
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-6"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container"
+      />
+    </div>
+  </div>
+</div>
+`;

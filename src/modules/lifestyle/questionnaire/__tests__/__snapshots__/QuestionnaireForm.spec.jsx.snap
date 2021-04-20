@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QuestionnaireForm Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root ReduxForm-cardRoot-1 MuiPaper-rounded"
+  >
+    <form
+      autocomplete="off"
+    >
+      <div>
+        AboutMeContainer Component
+        <span
+          data-id="height"
+        />
+        <input
+          name="aboutMe.height"
+          value=""
+        />
+        <span>
+          fieldChange = function fieldChange
+        </span>
+      </div>
+      <hr
+        class="MuiDivider-root"
+      />
+      <div>
+        QuestionsSection Component
+        <span>
+          title = My choices
+          imageUrl = /static/questionnaire_my_choices.svg
+          questions = [object Object],[object Object]
+        </span>
+      </div>
+      <hr
+        class="MuiDivider-root"
+      />
+      <div>
+        QuestionsSection Component
+        <span>
+          title = My health
+          imageUrl = /static/questionnaire_my_health.svg
+          questions = [object Object],[object Object]
+        </span>
+      </div>
+      <div>
+        FutureMeContainer Component
+        <span>
+          fieldChange = function fieldChange
+        </span>
+      </div>
+      <hr
+        class="MuiDivider-root"
+      />
+      <div
+        class="MuiBox-root MuiBox-root-37"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+          data-testid="btn-submit-questionnaire"
+          tabindex="0"
+          type="submit"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Show results
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </form>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-97"
+  >
+    <div>
+      Typography Component
+      <span>
+        type = style-8
+        color = highEmphasis
+        children = Disclaimer
+      </span>
+    </div>
+    <div>
+      Typography Component
+      <span>
+        type = style-8
+        color = mediumEmphasis
+        children = This questionnaire is designed to provide you with an indication of your lifestyle and its impact on your health/wellness. It is NOT intended to constitute professional medical advice, diagnosis or treatment, and is NOT a substitute for a medical health assessment by a qualified medical professional. If you’re experiencing signs and symptoms we recommend you seek medical attention from a qualified medical professional. By submitting this questionnaire, you do so in at your own choice and in agreement with this disclaimer.
+      </span>
+    </div>
+  </div>
+</div>
+`;

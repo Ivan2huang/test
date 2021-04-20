@@ -1,0 +1,154 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ClaimListItems Component should match snapshot 1`] = `
+<div>
+  <ul
+    class="MuiBox-root MuiBox-root-3"
+  >
+    <li
+      class="MuiBox-root MuiBox-root-4 injectIntl(ClaimListItems)-item-1"
+      classes="[object Object]"
+      data-testid="claim-item-12"
+    >
+      <div
+        status="PENDING"
+      >
+        ClaimStatus Component
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-5"
+      >
+        <div
+          status="PENDING"
+        >
+          MoreInformationRequired Component
+        </div>
+        <div
+          type="style-6"
+        >
+          2019-04-24T05:52:25.173Z
+        </div>
+        <div
+          type="style-6"
+        >
+          General Medical Practitioner
+        </div>
+        <div
+          type="style-6"
+        >
+          willom
+        </div>
+      </div>
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M6.73834 3.99965L14.736 12L6.73867 20L9 20L17 12L8.99967 3.99965L6.73834 3.99965Z"
+          fill="#333333"
+        />
+      </svg>
+    </li>
+    <li
+      class="MuiBox-root MuiBox-root-15 injectIntl(ClaimListItems)-item-1"
+      classes="[object Object]"
+      data-testid="claim-item-13"
+    >
+      <div
+        status="APPROVED"
+      >
+        ClaimStatus Component
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-16"
+      >
+        <div
+          status="APPROVED"
+        >
+          MoreInformationRequired Component
+        </div>
+        <div
+          type="style-6"
+        >
+          2019-04-25T05:52:25.173Z
+        </div>
+        <div
+          type="style-6"
+        >
+          Dental Care
+        </div>
+        <div
+          type="style-6"
+        >
+          brown
+        </div>
+      </div>
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M6.73834 3.99965L14.736 12L6.73867 20L9 20L17 12L8.99967 3.99965L6.73834 3.99965Z"
+          fill="#333333"
+        />
+      </svg>
+    </li>
+    <li
+      class="MuiBox-root MuiBox-root-17 injectIntl(ClaimListItems)-item-1"
+      classes="[object Object]"
+      data-testid="claim-item-14"
+    >
+      <div
+        status="REJECTED"
+      >
+        ClaimStatus Component
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-18"
+      >
+        <div
+          status="REJECTED"
+        >
+          MoreInformationRequired Component
+        </div>
+        <div
+          type="style-6"
+        >
+          2019-04-26T05:52:25.173Z
+        </div>
+        <div
+          type="style-6"
+        >
+          General Medical Practitioner
+        </div>
+        <div
+          type="style-6"
+        >
+          brown
+        </div>
+      </div>
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M6.73834 3.99965L14.736 12L6.73867 20L9 20L17 12L8.99967 3.99965L6.73834 3.99965Z"
+          fill="#333333"
+        />
+      </svg>
+    </li>
+  </ul>
+</div>
+`;

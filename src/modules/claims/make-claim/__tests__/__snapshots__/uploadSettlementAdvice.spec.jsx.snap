@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UploadSettlementAdvice Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div
+      type="style-3"
+    >
+      Typography Component
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-3"
+    >
+      <div
+        aria-live="polite"
+      >
+        <div
+          id="helptext-upload-settlement-advice-rule"
+          type="style-6"
+        >
+          Typography Component
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-4"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-8 FilePicker-wrapper-5 FilePicker-wrapper-7"
+      >
+        <input
+          aria-describedby="helptext-upload-settlement-advice-rule"
+          class="FilePicker-inputFile-6"
+          data-testid="input-upload-settlement-advice"
+          multiple=""
+          title=""
+          type="file"
+        />
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiBox-root MuiBox-root-9 MuiButton-outlinedSecondary"
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Upload a settlement advice
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-51"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-52"
+      />
+    </div>
+  </div>
+</div>
+`;

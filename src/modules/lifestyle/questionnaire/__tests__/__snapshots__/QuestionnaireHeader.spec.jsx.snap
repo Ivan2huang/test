@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QuestionnaireHeader Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div>
+      Grid
+      <div
+        data-md="6"
+        data-xs="12"
+      >
+        <span>
+          GridItem Component
+        </span>
+        <div>
+          <div
+            type="style-1"
+          >
+            Lifestyle Questionnaire
+          </div>
+          <div
+            type="style-6"
+          >
+            We combined questions from the latest scientific tools to help us access your lifestyle risks
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

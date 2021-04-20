@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Lifestyle overview header Component should match snapshot 1`] = `
+<div>
+  <div>
+    <span>
+      Grid Component
+    </span>
+    <div>
+      <div
+        data-md="7"
+        data-xs="12"
+      >
+        <span>
+          GridItem Component
+        </span>
+        <div>
+          <div
+            class="MuiBox-root MuiBox-root-2"
+          >
+            <div
+              type="style-1"
+            >
+              My lifestyle overview
+              (Typography)
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-3 PrivateHiddenCss-smDown-9"
+            >
+              <div
+                type="style-3"
+              >
+                Remember, your health is primarily a result of your lifestyle.
+                (Typography)
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-19"
+            >
+              <div>
+                <span>
+                  update button
+                </span>
+                <span>
+                  clinic button
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,264 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Text Field utils should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+    data-testid="testID"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+      data-shrink="true"
+      for="input-undefined"
+    >
+      test-label
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+      label="test-label"
+    >
+      <input
+        aria-describedby="helptext-undefined"
+        aria-invalid="false"
+        class="MuiInputBase-input MuiOutlinedInput-input"
+        id="input-undefined"
+        type="text"
+        value="test"
+      />
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-59 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-60"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    >
+      <p
+        class="MuiFormHelperText-root MuiFormHelperText-contained MuiFormHelperText-filled"
+        id="helptext-undefined"
+      >
+        helperText
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`render Text Field utils should match snapshot when error is a locale object 1`] = `
+<div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+    data-testid="testID"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined Mui-error Mui-error MuiFormLabel-filled"
+      data-shrink="true"
+      for="input-undefined"
+    >
+      test-label
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root Mui-error Mui-error MuiInputBase-formControl"
+      label="test-label"
+    >
+      <input
+        aria-describedby="helptext-undefined"
+        aria-invalid="true"
+        class="MuiInputBase-input MuiOutlinedInput-input"
+        id="input-undefined"
+        type="text"
+        value="test"
+      />
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-323 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-324"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    >
+      <p
+        class="MuiFormHelperText-root MuiFormHelperText-contained Mui-error MuiFormHelperText-filled"
+        id="helptext-undefined"
+      >
+        Error message default
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`render Text Field utils should match snapshot when error is a string 1`] = `
+<div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+    data-testid="testID"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined Mui-error Mui-error MuiFormLabel-filled"
+      data-shrink="true"
+      for="input-undefined"
+    >
+      test-label
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root Mui-error Mui-error MuiInputBase-formControl"
+      label="test-label"
+    >
+      <input
+        aria-describedby="helptext-undefined"
+        aria-invalid="true"
+        class="MuiInputBase-input MuiOutlinedInput-input"
+        id="input-undefined"
+        type="text"
+        value="test"
+      />
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-255 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-256"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    >
+      <p
+        class="MuiFormHelperText-root MuiFormHelperText-contained Mui-error MuiFormHelperText-filled"
+        id="helptext-undefined"
+      >
+        Invalid value
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`render Text Field utils should match snapshot when error with error message 1`] = `
+<div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+    data-testid="testID"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined Mui-error Mui-error MuiFormLabel-filled"
+      data-shrink="true"
+      for="input-undefined"
+    >
+      test-label
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root Mui-error Mui-error MuiInputBase-formControl"
+      label="test-label"
+    >
+      <input
+        aria-describedby="helptext-undefined"
+        aria-invalid="true"
+        class="MuiInputBase-input MuiOutlinedInput-input"
+        id="input-undefined"
+        type="text"
+        value="test"
+      />
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-187 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-188"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    >
+      <p
+        class="MuiFormHelperText-root MuiFormHelperText-contained Mui-error MuiFormHelperText-filled"
+        id="helptext-undefined"
+      >
+        error
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`render Text Field utils should match snapshot when error without error message 1`] = `
+<div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+    data-testid="testID"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined Mui-error Mui-error MuiFormLabel-filled"
+      data-shrink="true"
+      for="input-undefined"
+    >
+      test-label
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root Mui-error Mui-error MuiInputBase-formControl"
+      label="test-label"
+    >
+      <input
+        aria-describedby="helptext-undefined"
+        aria-invalid="true"
+        class="MuiInputBase-input MuiOutlinedInput-input"
+        id="input-undefined"
+        type="text"
+        value="test"
+      />
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-127 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-128"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MakeClaimHeader Component should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-3"
+    >
+      <div
+        type="style-1"
+      >
+        Make a claim
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-4"
+    >
+      <div
+        type="style-8"
+      >
+        Claim submission is only applicable to designated outpatient consultation incurred in HK (refer to ‘Consultation Type’ in the next step). Please keep your original receipt as HSBC Life BenefitsPlus reserves the right to request for the original receipt within 6 months of the claim completion date. For details, please refer to the leaflets.
+      </div>
+    </div>
+  </div>
+</div>
+`;

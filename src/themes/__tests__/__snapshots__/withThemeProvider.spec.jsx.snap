@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WithThemeProvider should match snapshot 1`] = `
+<div>
+  <div
+    theme="ocean"
+  >
+    Theme
+  </div>
+</div>
+`;

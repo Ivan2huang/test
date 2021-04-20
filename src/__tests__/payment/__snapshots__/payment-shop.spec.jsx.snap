@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PaymentShop Page should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-8 makeStyles-container-1 makeStyles-container-4"
+  >
+    <main
+      class="makeStyles-main-2 makeStyles-main-5"
+    >
+      <div>
+        Dummy CheckOut Container
+      </div>
+    </main>
+  </div>
+</div>
+`;
+
+exports[`PaymentShop Page should match snapshot with no order 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-16 makeStyles-container-9 makeStyles-container-12"
+  >
+    <main
+      class="makeStyles-main-10 makeStyles-main-13"
+    >
+      <div>
+        Dummy CheckOut Container
+      </div>
+    </main>
+  </div>
+</div>
+`;

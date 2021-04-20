@@ -1,0 +1,187 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RequestForm Component should match snapshot 1`] = `
+<div>
+  <form
+    autocomplete="off"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-2"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container"
+      >
+        <div
+          data-md="5"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <img
+              alt=""
+              src="/static/invite_dependent.svg"
+            />
+          </div>
+        </div>
+        <div
+          data-md="6"
+          data-xs="12"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <div
+              class="MuiBox-root MuiBox-root-92"
+            >
+              <div
+                type="style-1"
+              >
+                Change email address
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-container"
+            >
+              <div
+                data-md="10"
+                data-xs="12"
+              >
+                <span>
+                  GridItem Component
+                </span>
+                <div>
+                  <div
+                    class="MuiFormControl-root MuiFormControl-fullWidth"
+                    data-testid="input-newEmail"
+                  >
+                    <label
+                      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                      data-shrink="false"
+                      for="input-newEmail"
+                    >
+                      New email address
+                    </label>
+                    <div
+                      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+                      label="New email address"
+                    >
+                      <input
+                        aria-describedby="helptext-newEmail"
+                        aria-invalid="false"
+                        class="MuiInputBase-input MuiOutlinedInput-input"
+                        id="input-newEmail"
+                        type="text"
+                        value=""
+                      />
+                      <fieldset
+                        aria-hidden="true"
+                        class="PrivateNotchedOutline-root-151 MuiOutlinedInput-notchedOutline"
+                        style="padding-left: 8px;"
+                      >
+                        <legend
+                          class="PrivateNotchedOutline-legend-152"
+                          style="width: 0.01px;"
+                        >
+                          <span>
+                            ​
+                          </span>
+                        </legend>
+                      </fieldset>
+                    </div>
+                    <div
+                      aria-live="polite"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                data-md="10"
+                data-xs="12"
+              >
+                <span>
+                  GridItem Component
+                </span>
+                <div>
+                  <div
+                    class="MuiFormControl-root MuiFormControl-fullWidth"
+                    data-testid="input-confirmEmail"
+                  >
+                    <label
+                      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                      data-shrink="false"
+                      for="input-confirmEmail"
+                    >
+                      Confirm email address
+                    </label>
+                    <div
+                      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+                      label="Confirm email address"
+                    >
+                      <input
+                        aria-describedby="helptext-confirmEmail"
+                        aria-invalid="false"
+                        class="MuiInputBase-input MuiOutlinedInput-input"
+                        id="input-confirmEmail"
+                        type="text"
+                        value=""
+                      />
+                      <fieldset
+                        aria-hidden="true"
+                        class="PrivateNotchedOutline-root-151 MuiOutlinedInput-notchedOutline"
+                        style="padding-left: 8px;"
+                      >
+                        <legend
+                          class="PrivateNotchedOutline-legend-152"
+                          style="width: 0.01px;"
+                        >
+                          <span>
+                            ​
+                          </span>
+                        </legend>
+                      </fieldset>
+                    </div>
+                    <div
+                      aria-live="polite"
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                data-md="12"
+                data-xs="12"
+              >
+                <span>
+                  GridItem Component
+                </span>
+                <div>
+                  <div
+                    class="MuiBox-root MuiBox-root-153"
+                  >
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                      data-testid="btn-submitUpdateEmail"
+                      tabindex="0"
+                      type="submit"
+                    >
+                      <span
+                        class="MuiButton-label"
+                      >
+                        Submit
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;

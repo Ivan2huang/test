@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LegalLayout Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-6 makeStyles-container-1 makeStyles-container-3"
+    classes="[object Object]"
+  >
+    <div>
+      <div>
+        Loader Container
+      </div>
+      <main
+        class="makeStyles-main-2 makeStyles-main-4"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div>
+              Layout Content
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>
+</div>
+`;

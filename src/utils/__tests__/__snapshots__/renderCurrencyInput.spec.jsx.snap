@@ -1,0 +1,184 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Currency Input Field utils should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+    data-testid="testID"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+      data-shrink="true"
+      for="input-test"
+    >
+      test-label
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedStart MuiOutlinedInput-adornedStart"
+      label="test-label"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-60 makeStyles-root-61 CurrencyInput-typography-1 MuiTypography-body1"
+      >
+        HK$
+      </div>
+      <input
+        aria-describedby="helptext-test"
+        aria-invalid="false"
+        class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedStart MuiOutlinedInput-inputAdornedStart"
+        id="input-test"
+        maxlength="20"
+        name="test"
+        type="text"
+        value="1,234"
+      />
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-92 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-93"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    >
+      <p
+        class="MuiFormHelperText-root MuiFormHelperText-contained MuiFormHelperText-filled"
+        id="helptext-test"
+      >
+        helperText
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`render Currency Input Field utils should match snapshot when error 1`] = `
+<div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+    data-testid="testID"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined Mui-error Mui-error MuiFormLabel-filled"
+      data-shrink="true"
+      for="input-test"
+    >
+      test-label
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root Mui-error Mui-error MuiInputBase-formControl MuiInputBase-adornedStart MuiOutlinedInput-adornedStart"
+      label="test-label"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-161 makeStyles-root-162 CurrencyInput-typography-102 MuiTypography-body1"
+      >
+        HK$
+      </div>
+      <input
+        aria-describedby="helptext-test"
+        aria-invalid="true"
+        class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedStart MuiOutlinedInput-inputAdornedStart"
+        id="input-test"
+        maxlength="20"
+        name="test"
+        type="text"
+        value="1,234"
+      />
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-193 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-194"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    >
+      <p
+        class="MuiFormHelperText-root MuiFormHelperText-contained Mui-error MuiFormHelperText-filled"
+        id="helptext-test"
+      >
+        invalid value
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`render Currency Input Field utils should match snapshot when error is boolean 1`] = `
+<div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+    data-testid="testID"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined Mui-error Mui-error MuiFormLabel-filled"
+      data-shrink="true"
+      for="input-test"
+    >
+      test-label
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root Mui-error Mui-error MuiInputBase-formControl MuiInputBase-adornedStart MuiOutlinedInput-adornedStart"
+      label="test-label"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-262 makeStyles-root-263 CurrencyInput-typography-203 MuiTypography-body1"
+      >
+        HK$
+      </div>
+      <input
+        aria-describedby="helptext-test"
+        aria-invalid="true"
+        class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedStart MuiOutlinedInput-inputAdornedStart"
+        id="input-test"
+        maxlength="20"
+        name="test"
+        type="text"
+        value="1,234"
+      />
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-294 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-295"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    >
+      <p
+        class="MuiFormHelperText-root MuiFormHelperText-contained Mui-error MuiFormHelperText-filled"
+        id="helptext-test"
+      >
+        helperText
+      </p>
+    </div>
+  </div>
+</div>
+`;

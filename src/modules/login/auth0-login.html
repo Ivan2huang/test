@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>Welcome to HSBC Benefits</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700"
+      rel="stylesheet"
+    />
+    <style>
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+      }
+      body {
+        background: url(https://benefits.cxapalawan.com/static/forgot_password_bg.svg)
+          no-repeat left bottom;
+        background-size: auto 100%;
+        font-family: 'Open Sans', sans-serif;
+      }
+      input {
+        width: 100%;
+        height: 56px;
+        border: 1px solid #9e9e9e;
+        box-sizing: border-box;
+        border-radius: 4px;
+        padding: 16px;
+        margin-top: 32px;
+        font-size: 14px;
+      }
+      .container {
+        max-width: 1280px;
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 124px;
+        box-sizing: border-box;
+
+        display: -ms-grid;
+        display: grid;
+        grid-gap: 32px;
+        -ms-grid-columns: 1fr 32px 1fr 32px 1fr 32px 1fr 32px 1fr 32px 1fr 32px
+          1fr 32px 1fr 32px 1fr 32px 1fr 32px 1fr 32px 1fr;
+        grid-template-columns: repeat(12, 1fr);
+      }
+      .login-container {
+        margin-top: 161px;
+
+        -ms-grid-column: 15;
+        -ms-grid-column-span: 7;
+        grid-column: 8/12;
+      }
+      .login-header {
+        font-style: normal;
+        font-weight: 300;
+        font-size: 30px;
+        line-height: 36px;
+        letter-spacing: -1.5px;
+        color: #000000;
+        margin-bottom: 12px;
+      }
+      .login-buttons {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        margin-top: 20px;
+      }
+      .login-buttons > button {
+        background: #db0011;
+        color: white;
+        height: 40px;
+        margin-left: 16px;
+        font-size: 14px;
+        padding: 0 16px;
+      }
+      .powered-by {
+        display: flex;
+        align-items: center;
+        padding-left: 16px;
+      }
+      .powered-by span {
+        margin-right: 8px;
+      }
+      #error-message {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+        display: none;
+      }
+      #login-error,
+      #password-error {
+        display: none;
+        margin-left: 16px;
+        margin-top: 4px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+        line-height: 13px;
+      }
+      .error {
+        display: block !important;
+        color: #a8000b;
+      }
+      .forgot-password {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+        color: #0275d8;
+      }
+      .footer-container {
+        background-color: black;
+        position: fixed;
+        bottom: 0;
+        height: 96px;
+        width: 100%;
+        display: flex;
+        left: 0;
+        justify-content: space-between;
+        box-sizing: border-box;
+        align-items: center;
+        color: white;
+        padding: 40px;
+      }
+      .footer-text {
+        font-size: 11px;
+        line-height: 15px;
+        letter-spacing: unset;
+        font-style: normal;
+        font-weight: 400;
+      }
+      .footer-right {
+        display: flex;
+        align-items: center;
+      }
+      .links-container > *::after {
+        content: '';
+        height: 16px;
+        border: 1px;
+        border-color: #9e9e9e;
+        margin-left: 16px;
+        border-style: solid;
+      }
+      .links-container > * {
+        padding-left: 16px;
+      }
+      .footer-anchor {
+        color: inherit;
+        text-decoration: none;
+      }
+      @media (max-width: 768px) {
+        body {
+          background: none;
+        }
+        .container {
+          display: block;
+          padding: 32px;
+        }
+        .login-container {
+          margin-top: 32px;
+        }
+        .login-buttons {
+          flex-direction: column-reverse;
+        }
+        .login-buttons > button {
+          width: 100%;
+          margin-bottom: 16px;
+          margin-left: 0;
+        }
+        .powered-by {
+          align-items: center;
+          padding-left: 0;
+        }
+        .footer-container {
+          flex-direction: column-reverse;
+          height: 76px;
+          justify-content: center;
+          padding: 4px;
+        }
+        .footer-right {
+          flex-direction: column;
+          padding-bottom: 8px;
+        }
+        .links-container > *:last-child::after {
+          content: '';
+          border: 0;
+        }
+        .links-container {
+          padding-bottom: 8px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <form
+        class="login-container"
+        onsubmit="return false;"
+        method="post"
+        autocomplete="off"
+      >
+        <div class="login-header">Welcome to <br /><b>HSBC Benefits</b></div>
+        <div id="error-message">
+          Your email address or password do not match our records. Please try
+          again.
+        </div>
+        <input id="email" type="text" placeholder="Email" />
+        <div id="login-error">Enter valid email address</div>
+        <input id="password" type="password" placeholder="Password" />
+        <div id="password-error">Enter valid password</div>
+        <div class="login-buttons">
+          <a
+            class="forgot-password"
+            href="https://benefits.cxapalawan.com/forgot-password"
+            >Forgot Password?</a
+          >
+          <button id="btn-login">Login</button>
+        </div>
+      </form>
+      <footer class="footer-container footer-text">
+        <div>
+          &#9400; 2019 HSBC group. All Rights Reserved.
+        </div>
+        <div class="footer-right">
+          <div class="links-container">
+            <a
+              href="https://benefits.cxapalawan.com/legal/terms"
+              class="footer-anchor"
+            >
+              Terms
+            </a>
+            <a
+              href="https://benefits.cxapalawan.com/legal/privacy"
+              class="footer-anchor"
+            >
+              Privacy
+            </a>
+          </div>
+          <span class="powered-by">
+            Powered by
+            <img src="https://benefits.cxapalawan.com/static/footer_logo.svg" />
+          </span>
+        </div>
+      </footer>
+    </div>
+    <!--[if IE 8]>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/ie8/0.2.5/ie8.js"></script>
+    <![endif]-->
+
+    <!--[if lte IE 9]>
+      <script src="https://cdn.auth0.com/js/polyfills/1.0/base64.min.js"></script>
+      <script src="https://cdn.auth0.com/js/polyfills/1.0/es5-shim.min.js"></script>
+    <![endif]-->
+
+    <script src="https://cdn.auth0.com/js/auth0/9.10/auth0.min.js"></script>
+    <script src="https://cdn.auth0.com/js/polyfills/1.0/object-assign.min.js"></script>
+    <script>
+      var config = JSON.parse(
+        decodeURIComponent(escape(window.atob('@@config@@'))),
+      );
+
+      var params = Object.assign(
+        {
+          /* additional configuration needed for use of custom domains
+      overrides: {
+        __tenant: config.auth0Tenant,
+        __token_issuer: 'YOUR_CUSTOM_DOMAIN'
+      }, */
+          domain: config.auth0Domain,
+          clientID: config.clientID,
+          redirectUri: config.callbackURL,
+          responseType: 'code',
+        },
+        config.internalOptions,
+      );
+
+      var webAuth = new auth0.WebAuth(params);
+
+      var databaseConnection = config.connection;
+
+      function doLogin(username, password) {
+        console.log('auth0-login.html doLogin')
+        webAuth.login(
+          {
+            realm: databaseConnection,
+            username: username,
+            password: password,
+          },
+          function(err) {
+            if (err) {
+              displayError();
+              window.ReactNativeWebView.postMessage(
+                JSON.stringify({ type: 'LoginError', error: err }),
+              );
+            }
+          },
+        );
+      }
+
+      function login(e) {
+        e.preventDefault();
+        var username = document.getElementById('email').value;
+        var password = document.getElementById('password').value;
+        var loginError = document.getElementById('login-error');
+        var passwordError = document.getElementById('password-error');
+
+        document.getElementById('error-message').classList.remove('error');
+
+        var isError = false;
+        if (!/^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}$/i.test(username)) {
+          loginError.classList.add('error');
+          isError = true;
+        } else {
+          loginError.classList.remove('error');
+        }
+
+        if (!password) {
+          passwordError.classList.add('error');
+          isError = true;
+        } else {
+          passwordError.classList.remove('error');
+        }
+
+        if (isError) return;
+        doLogin(username, password);
+      }
+
+      function displayError() {
+        document.getElementById('error-message').classList.add('error');
+      }
+
+      window.addEventListener('load', function() {
+        document.getElementById('btn-login').addEventListener('click', login);
+      });
+    </script>
+  </body>
+</html>

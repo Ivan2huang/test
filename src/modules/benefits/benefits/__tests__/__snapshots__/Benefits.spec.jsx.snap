@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Benefits Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-4 injectIntl(Benefits)-title-1 injectIntl(Benefits)-title-2"
+    id="myBenefits"
+  >
+    <div
+      type="style-2"
+    >
+      My Benefits
+      (Typography)
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-5"
+  >
+    <div>
+      <span>
+        Policy Details Component
+      </span>
+      <span
+        data-id="props"
+      >
+        insurer = test benefits name
+        policyNumber = testNumber
+        effectiveFrom = date
+        effectiveTo = data
+      </span>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-6"
+  >
+    <div>
+      <span>
+        Benefit Summary Component
+      </span>
+      <span
+        data-id="props"
+      >
+        benefitedList = [object Object],[object Object],[object Object]
+        plans = [object Object]
+        memberToWalletBalanceMap = [object Object]
+        isWalletsDisabled = false
+      </span>
+    </div>
+  </div>
+</div>
+`;

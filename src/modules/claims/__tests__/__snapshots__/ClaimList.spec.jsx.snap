@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ClaimList Component should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-3"
+    >
+      <div
+        type="style-3"
+      >
+        Dummy Header
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-4"
+    >
+      <div>
+        Dummy Table
+      </div>
+      <table>
+        <tbody>
+          <tr
+            data-testid="row-0"
+          >
+            <td>
+              <div
+                class="MuiBox-root MuiBox-root-5"
+              >
+                <div
+                  status="PENDING"
+                >
+                  ClaimStatus Component
+                </div>
+                <div
+                  status="PENDING"
+                >
+                  MoreInformationRequired Component
+                </div>
+              </div>
+            </td>
+            <td>
+              2019-04-24T05:52:25.173Z
+            </td>
+            <td>
+              General Medical Practitioner
+            </td>
+            <td>
+              willom
+            </td>
+            <td>
+              -
+            </td>
+          </tr>
+          <tr
+            data-testid="row-1"
+          >
+            <td>
+              <div
+                class="MuiBox-root MuiBox-root-6"
+              >
+                <div
+                  status="APPROVED"
+                >
+                  ClaimStatus Component
+                </div>
+                <div
+                  status="APPROVED"
+                >
+                  MoreInformationRequired Component
+                </div>
+              </div>
+            </td>
+            <td>
+              2019-04-25T05:52:25.173Z
+            </td>
+            <td>
+              General Medical Practitioner
+            </td>
+            <td>
+              brown
+            </td>
+            <td>
+              400
+            </td>
+          </tr>
+          <tr
+            data-testid="row-2"
+          >
+            <td>
+              <div
+                class="MuiBox-root MuiBox-root-7"
+              >
+                <div
+                  status="REJECTED"
+                >
+                  ClaimStatus Component
+                </div>
+                <div
+                  status="REJECTED"
+                >
+                  MoreInformationRequired Component
+                </div>
+              </div>
+            </td>
+            <td>
+              2019-04-26T05:52:25.173Z
+            </td>
+            <td>
+              General Medical Practitioner
+            </td>
+            <td />
+            <td>
+              -
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+`;

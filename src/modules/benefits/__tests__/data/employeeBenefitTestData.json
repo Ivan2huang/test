@@ -1,0 +1,22 @@
+{
+  "member": {
+    "memberId": "3",
+    "membershipNumber": "0000130",
+    "checkpointVisits": [],
+    "planId": 5
+  },
+  "relationships": [
+    {
+      "memberId": "27",
+      "membershipNumber": "0000131",
+      "planId": 1,
+      "checkpointVisits": []
+    },
+    {
+      "memberId": "28",
+      "membershipNumber": "0000132",
+      "planId": 6,
+      "checkpointVisits": []
+    }
+  ]
+}

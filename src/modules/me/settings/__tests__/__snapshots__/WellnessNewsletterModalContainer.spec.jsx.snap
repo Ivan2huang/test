@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WellnessNewsletterModalContainer should match snapshot when close 1`] = `
+<div>
+  <div>
+    WellnessNewsletterModal Component
+  </div>
+</div>
+`;
+
+exports[`WellnessNewsletterModalContainer should match snapshot when open 1`] = `
+<div>
+  <div>
+    WellnessNewsletterModal Component
+  </div>
+</div>
+`;

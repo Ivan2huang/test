@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GridItem UI Component should match snapshot for md breakpoint 1`] = `
+<div>
+  <div
+    class="MuiGrid-root MuiGrid-item MuiGrid-grid-md-2"
+  />
+  <div
+    class="MuiGrid-root MuiGrid-item MuiGrid-grid-md-4"
+  >
+    Grid Item (md)
+  </div>
+</div>
+`;
+
+exports[`GridItem UI Component should match snapshot for sm breakpoint 1`] = `
+<div>
+  <div
+    class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-1"
+  />
+  <div
+    class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-6"
+  >
+    Grid Item (sm)
+  </div>
+</div>
+`;
+
+exports[`GridItem UI Component should match snapshot for xs breakpoint 1`] = `<div />`;

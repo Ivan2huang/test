@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LayoutContent Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      data-md="5"
+      data-sm="12"
+      data-xs="12"
+    >
+      <span>
+        GridItem Component
+      </span>
+      <div>
+        <div
+          class="MuiBox-root MuiBox-root-94 LayoutContent-backgroundImageContainer-1"
+        >
+          <img
+            alt=""
+            class="LayoutContent-backgroundImage-2"
+            src="test/BackgroundImage.svg"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      data-md="5"
+      data-sm="12"
+      data-xs="12"
+    >
+      <span>
+        GridItem Component
+      </span>
+      <div>
+        <div
+          class="MuiBox-root MuiBox-root-95 LayoutContent-mobileTextCenter-3"
+        >
+          <div>
+            Typography component
+            <span>
+              type = style-1
+            </span>
+            <span>
+              Title
+            </span>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-container"
+        >
+          <div
+            data-md="10"
+            data-xs="12"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div
+                class="MuiBox-root MuiBox-root-96 LayoutContent-mobileTextCenter-3"
+              >
+                <div>
+                  Typography component
+                  <span>
+                    type = style-6
+                  </span>
+                  <span>
+                    Description
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

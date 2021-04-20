@@ -1,0 +1,316 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MakeClaimForm Component should disabled the submit button when wallet balance is zero 1`] = `
+<button
+  class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary Mui-disabled Mui-disabled"
+  data-testid="btn-submit-claim"
+  disabled=""
+  tabindex="-1"
+  type="submit"
+>
+  <span
+    class="MuiButton-label"
+  >
+    Submit
+  </span>
+</button>
+`;
+
+exports[`MakeClaimForm Component should match the snapshot 1`] = `
+<div>
+  <form
+    autocomplete="off"
+  >
+    <div>
+      <span>
+        Patient Details Section
+      </span>
+      <span
+        data-id="props"
+      >
+        patients = [object Object],[object Object]
+        fieldChange = function () {
+    return dispatch(actionCreator.apply(this, arguments));
+  }
+      </span>
+    </div>
+    <div>
+      <span>
+        Claim Details Section
+      </span>
+      <span
+        data-id="props"
+      >
+        planId = 2019
+        consultationTypes = [object Object]
+        diagnosisTypes = [object Object],[object Object]
+        selectedClaimId = undefined
+        anotherInsurerEnabled = false
+        insuranceClaim = true
+        maxReceiptAmount = 800
+        loader = [object Object]
+        fieldChange = function () {
+    return dispatch(actionCreator.apply(this, arguments));
+  }
+        fieldUntouch = function () {
+    return dispatch(actionCreator.apply(this, arguments));
+  }
+        getWalletBalance = function mockConstructor() {
+        return fn.apply(this, arguments);
+      }
+        selectedMemberId = 12
+        walletBalance = [object Object]
+        selectedDiagnosisKey = undefined
+        isWellnessClaim = false
+        isMaternity = false
+        isTerminatedPatient = false
+        terminatedDate = undefined
+        consultationCategoryName = [object Object]
+      </span>
+    </div>
+    <div>
+      <span>
+        Upload Receipts Section
+      </span>
+      <span
+        data-id="props"
+      >
+        intl = [object Object]
+        onChangeHandle = function () {
+    return dispatch(actionCreator.apply(this, arguments));
+  }
+      </span>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-240"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-305 makeStyles-root-306 MuiTypography-body1"
+      >
+        Make sure your documents are clear and legible.
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-273"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+        data-testid="btn-submit-claim"
+        tabindex="0"
+        type="submit"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Submit
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`MakeClaimForm Component should match the snapshot with chinese herbalist documents enabled 1`] = `
+<div>
+  <form
+    autocomplete="off"
+  >
+    <div>
+      <span>
+        Patient Details Section
+      </span>
+      <span
+        data-id="props"
+      >
+        patients = [object Object],[object Object]
+        fieldChange = function () {
+    return dispatch(actionCreator.apply(this, arguments));
+  }
+      </span>
+    </div>
+    <div>
+      <span>
+        Claim Details Section
+      </span>
+      <span
+        data-id="props"
+      >
+        planId = 2019
+        consultationTypes = [object Object]
+        diagnosisTypes = [object Object],[object Object]
+        selectedClaimId = undefined
+        anotherInsurerEnabled = false
+        insuranceClaim = true
+        maxReceiptAmount = 800
+        loader = [object Object]
+        fieldChange = function () {
+    return dispatch(actionCreator.apply(this, arguments));
+  }
+        fieldUntouch = function () {
+    return dispatch(actionCreator.apply(this, arguments));
+  }
+        getWalletBalance = function mockConstructor() {
+        return fn.apply(this, arguments);
+      }
+        selectedMemberId = 12
+        walletBalance = [object Object]
+        selectedDiagnosisKey = undefined
+        isWellnessClaim = false
+        isMaternity = false
+        isTerminatedPatient = false
+        terminatedDate = undefined
+        consultationCategoryName = [object Object]
+      </span>
+    </div>
+    <div>
+      <span>
+        Upload Receipts Section
+      </span>
+      <span
+        data-id="props"
+      >
+        intl = [object Object]
+        onChangeHandle = function () {
+    return dispatch(actionCreator.apply(this, arguments));
+  }
+      </span>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-318"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-319 makeStyles-root-320 MuiTypography-body1"
+      >
+        Prescription / Supporing Documents
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-351"
+      >
+        <div
+          aria-live="polite"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-352 makeStyles-root-353 MuiTypography-body1"
+            id="helptext-upload-prescriptions-rule"
+          >
+            Upload up to 5 files (max 2MB each). We accept PDF, JPG, TIFF, PNG or HEIC.
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-354"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-358 FilePicker-wrapper-355 FilePicker-wrapper-357"
+        >
+          <input
+            aria-describedby="helptext-upload-prescriptions-rule"
+            class="FilePicker-inputFile-356"
+            data-testid="input-upload-prescriptions"
+            multiple=""
+            title=""
+            type="file"
+          />
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiBox-root MuiBox-root-359 MuiButton-outlinedSecondary"
+            tabindex="-1"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              Upload a prescription / supporing documents
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-401"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-402"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-403"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-404 makeStyles-root-405 MuiTypography-body1"
+      >
+        Referral letters by the registered medical practitioner are also required.
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-406"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-407 makeStyles-root-408 MuiTypography-body1"
+      >
+        Make sure your documents are clear and legible.
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-409"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+        data-testid="btn-submit-claim"
+        tabindex="0"
+        type="submit"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Submit
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`MakeClaimForm Component should not disabled submit button when wallet balance api fail 1`] = `
+<button
+  class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+  data-testid="btn-submit-claim"
+  tabindex="0"
+  type="submit"
+>
+  <span
+    class="MuiButton-label"
+  >
+    Submit
+  </span>
+  <span
+    class="MuiTouchRipple-root"
+  />
+</button>
+`;
+
+exports[`MakeClaimForm Component should not disabled the submit button when wallet balance is not zero 1`] = `
+<button
+  class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+  data-testid="btn-submit-claim"
+  tabindex="0"
+  type="submit"
+>
+  <span
+    class="MuiButton-label"
+  >
+    Submit
+  </span>
+  <span
+    class="MuiTouchRipple-root"
+  />
+</button>
+`;

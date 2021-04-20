@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`account activation component should match snapshot 1`] = `
+<div>
+  <form
+    autocomplete="off"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-5"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container"
+      />
+    </div>
+  </form>
+</div>
+`;
+
+exports[`account activation component should match snapshot without email 1`] = `
+<div>
+  <form
+    autocomplete="off"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-99"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container"
+      />
+    </div>
+  </form>
+</div>
+`;

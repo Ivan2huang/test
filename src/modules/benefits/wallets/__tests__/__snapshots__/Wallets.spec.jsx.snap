@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Wallets Component should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-9"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-10 makeStyles-header-1"
+    >
+      <div
+        type="style-1"
+      >
+        Wallet balance(HK$)
+        (Typography)
+      </div>
+      <div
+        type="style-6"
+      >
+        Expires on 18 Apr 2020
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-walletCardHolder-2 MuiPaper-rounded"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-39 makeStyles-name-3"
+      >
+        <div
+          type="style-3"
+        >
+           
+          (Typography)
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-40 makeStyles-balanceWrapper-4"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-41"
+        >
+          <div
+            type="style-2"
+          >
+            0.00
+            (Typography)
+          </div>
+          <div
+            class="makeStyles-amount-5"
+            color="lowEmphasis"
+            type="style-2"
+          >
+             of 0.00
+            (Typography)
+          </div>
+        </div>
+        <div
+          aria-valuenow="NaN"
+          class="MuiLinearProgress-root makeStyles-progressRoot-6 MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+          role="progressbar"
+        >
+          <div
+            class="MuiLinearProgress-bar makeStyles-progressbar-7 MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+            style="transform: translateX(NaN%);"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Wallets Component should match the snapshot when useCurrencySymbol is true 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-71"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-72 makeStyles-header-63"
+    >
+      <div
+        type="style-1"
+      >
+        Wallet balance($)
+        (Typography)
+      </div>
+      <div
+        type="style-6"
+      >
+        Expires on 18 Apr 2020
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-walletCardHolder-64 MuiPaper-rounded"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-101 makeStyles-name-65"
+      >
+        <div
+          type="style-3"
+        >
+           
+          (Typography)
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-102 makeStyles-balanceWrapper-66"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-103"
+        >
+          <div
+            type="style-2"
+          >
+            0.00
+            (Typography)
+          </div>
+          <div
+            class="makeStyles-amount-67"
+            color="lowEmphasis"
+            type="style-2"
+          >
+             of 0.00
+            (Typography)
+          </div>
+        </div>
+        <div
+          aria-valuenow="NaN"
+          class="MuiLinearProgress-root makeStyles-progressRoot-68 MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+          role="progressbar"
+        >
+          <div
+            class="MuiLinearProgress-bar makeStyles-progressbar-69 MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+            style="transform: translateX(NaN%);"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

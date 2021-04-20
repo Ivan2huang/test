@@ -1,0 +1,124 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavBar Component should match snapshot 1`] = `
+<div>
+  <div
+    data-component="MuiHidden"
+  >
+    <div
+      class="MuiTabs-root"
+    >
+      <div
+        class="MuiTabs-scroller MuiTabs-fixed"
+        style="overflow: hidden;"
+      >
+        <div
+          class="MuiTabs-flexContainer NavBar-flexContainer-1"
+          role="tablist"
+        >
+          <button
+            aria-selected="false"
+            class="MuiButtonBase-root MuiTab-root NavBar-tabRoot-2 MuiTab-textColorInherit"
+            data-testid="nav-lifestyle"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <span>
+                Lifestyle
+              </span>
+            </span>
+          </button>
+          <button
+            aria-selected="false"
+            class="MuiButtonBase-root MuiTab-root NavBar-tabRoot-2 MuiTab-textColorInherit"
+            data-testid="nav-doctors"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <span>
+                Doctors
+              </span>
+            </span>
+          </button>
+          <button
+            aria-selected="false"
+            class="MuiButtonBase-root MuiTab-root NavBar-tabRoot-2 MuiTab-textColorInherit"
+            data-testid="nav-benefits"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <span>
+                Benefits
+              </span>
+            </span>
+          </button>
+          <button
+            aria-selected="true"
+            class="MuiButtonBase-root MuiTab-root NavBar-tabRoot-2 MuiTab-textColorInherit Mui-selected NavBar-selected-3"
+            data-testid="nav-claims"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <span>
+                Claims
+              </span>
+            </span>
+          </button>
+          <button
+            aria-selected="false"
+            class="MuiButtonBase-root MuiTab-root NavBar-tabRoot-2 MuiTab-textColorInherit"
+            data-testid="nav-eshop"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <span>
+                Choices
+              </span>
+            </span>
+          </button>
+          <button
+            aria-selected="false"
+            class="MuiButtonBase-root MuiTab-root NavBar-tabRoot-2 MuiTab-textColorInherit"
+            data-testid="nav-me"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <span>
+                Me
+              </span>
+            </span>
+          </button>
+        </div>
+        <span
+          class="PrivateTabIndicator-root-28 PrivateTabIndicator-colorPrimary-29 MuiTabs-indicator"
+          style="left: 0px; width: 0px;"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

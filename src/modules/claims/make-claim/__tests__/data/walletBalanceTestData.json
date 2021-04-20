@@ -1,0 +1,14 @@
+{
+  "member": {
+    "memberId": "3",
+    "balance": 1000.0,
+    "balanceText": "HK$1000"
+  },
+  "dependents": [
+    {
+      "memberId": "27",
+      "balance": 2000.0,
+      "balanceText": "HK$2000"
+    }
+  ]
+}

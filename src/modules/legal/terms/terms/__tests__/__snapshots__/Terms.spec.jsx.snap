@@ -1,0 +1,783 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Terms component should dispatch acceptTerms & setLocal when terms is accepted 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-587"
+  >
+    <div>
+      Typography component
+      <span>
+        type = style-2
+      </span>
+      <span>
+        Terms & conditions
+      </span>
+    </div>
+    <div
+      class="MuiTabs-root makeStyles-tabContainer-580 makeStyles-tabContainer-584"
+    >
+      <div
+        class="MuiTabs-scroller MuiTabs-fixed"
+        style="overflow: hidden;"
+      >
+        <div
+          class="MuiTabs-flexContainer"
+          role="tablist"
+        >
+          <button
+            aria-selected="true"
+            class="MuiButtonBase-root MuiTab-root makeStyles-firstTab-579 makeStyles-firstTab-583 MuiTab-textColorInherit Mui-selected"
+            data-testid="en-HK-tab"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <div>
+                Typography component
+                <span>
+                  type = style-4
+                </span>
+                <span>
+                  English
+                </span>
+              </div>
+            </span>
+          </button>
+          <button
+            aria-selected="false"
+            class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit"
+            data-testid="zh-HK-tab"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <div>
+                Typography component
+                <span>
+                  type = style-4
+                </span>
+                <span>
+                  中文 (繁體)
+                </span>
+              </div>
+            </span>
+          </button>
+        </div>
+        <span
+          class="PrivateTabIndicator-root-612 PrivateTabIndicator-colorSecondary-614 MuiTabs-indicator"
+          style="left: 0px; width: 0px;"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-616 makeStyles-description-578 makeStyles-description-582"
+      classes="[object Object]"
+    >
+      <div>
+        Typography component
+        <span>
+          type = style-6
+        </span>
+        <span>
+          <span>
+            Terms and conditions
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-617"
+    >
+      <label
+        class="MuiFormControlLabel-root"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-630 MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-checked-631 Mui-checked MuiIconButton-colorPrimary"
+          data-testid="checkbox-terms"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              class="PrivateSwitchBase-input-633"
+              data-indeterminate="false"
+              type="checkbox"
+              value="true"
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+        <span
+          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          <div>
+            Typography component
+            <span>
+              type = style-6
+            </span>
+            <span>
+              I Accept the terms and conditions
+            </span>
+          </div>
+        </span>
+      </label>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-682"
+    >
+      <label
+        class="MuiFormControlLabel-root"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-630 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+          data-testid="checkbox-edm"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              class="PrivateSwitchBase-input-633"
+              data-indeterminate="false"
+              type="checkbox"
+              value="false"
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+        <span
+          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          <div>
+            Typography component
+            <span>
+              type = style-6
+            </span>
+            <span>
+              (Optional) I do not want to receive health, wellness or insurance {promotional} (by selecting this option, you will not receive our exclusive offers)
+            </span>
+          </div>
+        </span>
+      </label>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-685 makeStyles-root-683 makeStyles-root-684"
+      classes="[object Object]"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+        data-testid="btn-accept-terms"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Agree and continue
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+        data-testid="btn-logout"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Disagree and logout
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Terms component should match snapshot when api response data is empty 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-252"
+  >
+    <div>
+      Typography component
+      <span>
+        type = style-2
+      </span>
+      <span>
+        Terms & conditions
+      </span>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-253 makeStyles-description-243 makeStyles-description-247"
+      classes="[object Object]"
+    >
+      <div>
+        Typography component
+        <span>
+          type = style-6
+        </span>
+        <span>
+          <span />
+        </span>
+      </div>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+      data-testid="btn-back-to-previous-page"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Go back
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Terms component should match snapshot when user has already accepted terms 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-510"
+  >
+    <div>
+      Typography component
+      <span>
+        type = style-2
+      </span>
+      <span>
+        Terms & conditions
+      </span>
+    </div>
+    <div
+      class="MuiTabs-root makeStyles-tabContainer-503 makeStyles-tabContainer-507"
+    >
+      <div
+        class="MuiTabs-scroller MuiTabs-fixed"
+        style="overflow: hidden;"
+      >
+        <div
+          class="MuiTabs-flexContainer"
+          role="tablist"
+        >
+          <button
+            aria-selected="true"
+            class="MuiButtonBase-root MuiTab-root makeStyles-firstTab-502 makeStyles-firstTab-506 MuiTab-textColorInherit Mui-selected"
+            data-testid="en-HK-tab"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <div>
+                Typography component
+                <span>
+                  type = style-4
+                </span>
+                <span>
+                  English
+                </span>
+              </div>
+            </span>
+          </button>
+          <button
+            aria-selected="false"
+            class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit"
+            data-testid="zh-HK-tab"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <div>
+                Typography component
+                <span>
+                  type = style-4
+                </span>
+                <span>
+                  中文 (繁體)
+                </span>
+              </div>
+            </span>
+          </button>
+        </div>
+        <span
+          class="PrivateTabIndicator-root-535 PrivateTabIndicator-colorSecondary-537 MuiTabs-indicator"
+          style="left: 0px; width: 0px;"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-539 makeStyles-description-501 makeStyles-description-505"
+      classes="[object Object]"
+    >
+      <div>
+        Typography component
+        <span>
+          type = style-6
+        </span>
+        <span>
+          <span>
+            Terms and conditions
+          </span>
+        </span>
+      </div>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+      data-testid="btn-back-to-previous-page"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Go back
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Terms component should match snapshot when user is logged in and has not accepted terms 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-10"
+  >
+    <div>
+      Typography component
+      <span>
+        type = style-2
+      </span>
+      <span>
+        Terms & conditions
+      </span>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-11 makeStyles-description-1 makeStyles-description-5"
+      classes="[object Object]"
+    >
+      <div>
+        Typography component
+        <span>
+          type = style-6
+        </span>
+        <span>
+          <span>
+            Terms and conditions
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-12"
+    >
+      <label
+        class="MuiFormControlLabel-root"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-25 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+          data-testid="checkbox-terms"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              class="PrivateSwitchBase-input-28"
+              data-indeterminate="false"
+              type="checkbox"
+              value="false"
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+        <span
+          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          <div>
+            Typography component
+            <span>
+              type = style-6
+            </span>
+            <span>
+              I Accept the terms and conditions
+            </span>
+          </div>
+        </span>
+      </label>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-80"
+    >
+      <label
+        class="MuiFormControlLabel-root"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-25 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+          data-testid="checkbox-edm"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              class="PrivateSwitchBase-input-28"
+              data-indeterminate="false"
+              type="checkbox"
+              value="false"
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+        <span
+          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          <div>
+            Typography component
+            <span>
+              type = style-6
+            </span>
+            <span>
+              (Optional) I do not want to receive health, wellness or insurance {promotional} (by selecting this option, you will not receive our exclusive offers)
+            </span>
+          </div>
+        </span>
+      </label>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-83 makeStyles-root-81 makeStyles-root-82"
+      classes="[object Object]"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary Mui-disabled Mui-disabled"
+        data-testid="btn-accept-terms"
+        disabled=""
+        tabindex="-1"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Agree and continue
+        </span>
+      </button>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+        data-testid="btn-logout"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Disagree and logout
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Terms component should match snapshot when user is not logged in 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-304"
+  >
+    <div>
+      Typography component
+      <span>
+        type = style-2
+      </span>
+      <span>
+        Terms & conditions
+      </span>
+    </div>
+    <div
+      class="MuiTabs-root makeStyles-tabContainer-297 makeStyles-tabContainer-301"
+    >
+      <div
+        class="MuiTabs-scroller MuiTabs-fixed"
+        style="overflow: hidden;"
+      >
+        <div
+          class="MuiTabs-flexContainer"
+          role="tablist"
+        >
+          <button
+            aria-selected="false"
+            class="MuiButtonBase-root MuiTab-root makeStyles-firstTab-296 makeStyles-firstTab-300 MuiTab-textColorInherit"
+            data-testid="en-HK-tab"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <div>
+                Typography component
+                <span>
+                  type = style-4
+                </span>
+                <span>
+                  English
+                </span>
+              </div>
+            </span>
+          </button>
+          <button
+            aria-selected="true"
+            class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected"
+            data-testid="zh-HK-tab"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <div>
+                Typography component
+                <span>
+                  type = style-4
+                </span>
+                <span>
+                  中文 (繁體)
+                </span>
+              </div>
+            </span>
+          </button>
+        </div>
+        <span
+          class="PrivateTabIndicator-root-329 PrivateTabIndicator-colorSecondary-331 MuiTabs-indicator"
+          style="left: 0px; width: 0px;"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-333 makeStyles-description-295 makeStyles-description-299"
+      classes="[object Object]"
+    >
+      <div>
+        Typography component
+        <span>
+          type = style-6
+        </span>
+        <span>
+          <span>
+            Terms in Chinese
+          </span>
+        </span>
+      </div>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+      data-testid="btn-back-to-previous-page"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Go back
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Terms component should match snapshot when user is not logged in and changes the language tab 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-381"
+  >
+    <div>
+      Typography component
+      <span>
+        type = style-2
+      </span>
+      <span>
+        Terms & conditions
+      </span>
+    </div>
+    <div
+      class="MuiTabs-root makeStyles-tabContainer-374 makeStyles-tabContainer-378"
+    >
+      <div
+        class="MuiTabs-scroller MuiTabs-fixed"
+        style="overflow: hidden;"
+      >
+        <div
+          class="MuiTabs-flexContainer"
+          role="tablist"
+        >
+          <button
+            aria-selected="true"
+            class="MuiButtonBase-root MuiTab-root makeStyles-firstTab-373 makeStyles-firstTab-377 MuiTab-textColorInherit Mui-selected"
+            data-testid="en-HK-tab"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <div>
+                Typography component
+                <span>
+                  type = style-4
+                </span>
+                <span>
+                  English
+                </span>
+              </div>
+            </span>
+          </button>
+          <button
+            aria-selected="false"
+            class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit"
+            data-testid="zh-HK-tab"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <div>
+                Typography component
+                <span>
+                  type = style-4
+                </span>
+                <span>
+                  中文 (繁體)
+                </span>
+              </div>
+            </span>
+          </button>
+        </div>
+        <span
+          class="PrivateTabIndicator-root-406 PrivateTabIndicator-colorSecondary-408 MuiTabs-indicator"
+          style="left: 0px; width: 0px;"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-410 makeStyles-description-372 makeStyles-description-376"
+      classes="[object Object]"
+    >
+      <div>
+        Typography component
+        <span>
+          type = style-6
+        </span>
+        <span>
+          <span>
+            Terms and conditions
+          </span>
+        </span>
+      </div>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+      data-testid="btn-back-to-previous-page"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Go back
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;

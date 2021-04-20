@@ -1,0 +1,171 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LoginLayout Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-13 makeStyles-container-1 makeStyles-container-7"
+    classes="[object Object]"
+  >
+    <div>
+      <div>
+        Loader Container
+      </div>
+      <main
+        class="makeStyles-main-2 makeStyles-main-8"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div>
+              Layout Content
+            </div>
+          </div>
+        </div>
+      </main>
+      <div
+        class="MuiBox-root MuiBox-root-103 makeStyles-footerContainer-4 makeStyles-footerContainer-10"
+        classes="[object Object]"
+      >
+        <div>
+          Footer Component
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`LoginLayout Component should match snapshot with app brand header 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-322 makeStyles-container-310 makeStyles-container-316"
+    classes="[object Object]"
+  >
+    <div>
+      <div>
+        Loader Container
+      </div>
+      <main
+        class="makeStyles-main-311 makeStyles-main-317"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div>
+              Layout Content
+            </div>
+          </div>
+        </div>
+      </main>
+      <div
+        class="MuiBox-root MuiBox-root-412 makeStyles-footerContainer-313 makeStyles-footerContainer-319"
+        classes="[object Object]"
+      >
+        <div>
+          Footer Component
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`LoginLayout Component should match snapshot with illustration 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-116 makeStyles-container-104 makeStyles-container-110"
+    classes="[object Object]"
+  >
+    <div>
+      <div>
+        Loader Container
+      </div>
+      <main
+        class="makeStyles-main-105 makeStyles-main-111"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-items-xs-center"
+        >
+          <div
+            class="MuiGrid-root makeStyles-illustrationWrapper-108 MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <img
+              alt="error"
+              class="makeStyles-illustration-109 makeStyles-illustration-114"
+              src="/testUrl"
+            />
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div>
+              Layout Content
+            </div>
+          </div>
+        </div>
+      </main>
+      <div
+        class="MuiBox-root MuiBox-root-206 makeStyles-footerContainer-107 makeStyles-footerContainer-113"
+        classes="[object Object]"
+      >
+        <div>
+          Footer Component
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`LoginLayout Component should match snapshot with illustration desktop only 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-219 makeStyles-container-207 makeStyles-container-213"
+    classes="[object Object]"
+  >
+    <div>
+      <div>
+        Loader Container
+      </div>
+      <main
+        class="makeStyles-main-208 makeStyles-main-214"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-items-xs-center"
+        >
+          <div
+            class="MuiGrid-root makeStyles-illustrationWrapper-211 MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <img
+              alt="error"
+              class="makeStyles-illustration-212 makeStyles-illustration-217"
+              src="/testUrl"
+            />
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div>
+              Layout Content
+            </div>
+          </div>
+        </div>
+      </main>
+      <div
+        class="MuiBox-root MuiBox-root-309 makeStyles-footerContainer-210 makeStyles-footerContainer-216"
+        classes="[object Object]"
+      >
+        <div>
+          Footer Component
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

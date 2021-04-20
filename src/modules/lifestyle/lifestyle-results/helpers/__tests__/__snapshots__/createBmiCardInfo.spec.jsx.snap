@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Create Bmi Risk Info should match snapshot when bmiScore is a decimal number 1`] = `
+Object {
+  "CardIcon": <Unknown
+    fontWeight="bold"
+    type="style-1"
+  >
+    8.2
+  </Unknown>,
+  "color": undefined,
+  "description": undefined,
+  "id": "bmi",
+  "subTitle": undefined,
+  "title": "BMI",
+}
+`;
+
+exports[`Create Bmi Risk Info should match snapshot when bmiScore is a integer number 1`] = `
+Object {
+  "CardIcon": <Unknown
+    fontWeight="bold"
+    type="style-1"
+  >
+    8.0
+  </Unknown>,
+  "color": undefined,
+  "description": undefined,
+  "id": "bmi",
+  "subTitle": undefined,
+  "title": "BMI",
+}
+`;
+
+exports[`Create Bmi Risk Info should match snapshot when bmiScore is not a number 1`] = `
+Object {
+  "CardIcon": <Unknown
+    fontWeight="bold"
+    type="style-1"
+  >
+    
+  </Unknown>,
+  "color": undefined,
+  "description": undefined,
+  "id": "bmi",
+  "subTitle": undefined,
+  "title": "BMI",
+}
+`;

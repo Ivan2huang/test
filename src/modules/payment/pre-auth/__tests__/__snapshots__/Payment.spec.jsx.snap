@@ -1,0 +1,575 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Payment Component should match the snapshot with 2 instrument 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-386"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root Payment-card-384 MuiPaper-rounded"
+    >
+      <div
+        class="MuiCardContent-root"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-416"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container"
+          >
+            <div>
+              GridItem Component
+              <div
+                class="MuiBox-root MuiBox-root-506"
+                md="[object Object]"
+              >
+                <div
+                  class="MuiTypography-root makeStyles-root-642 makeStyles-root-643 MuiTypography-body1"
+                >
+                  To verify the validity of your existing payment option, SGD$1.00 will be charged and refunded automatically for pre-authorisation of your credit card.
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-539"
+                >
+                  <div
+                    class="MuiTypography-root makeStyles-root-644 makeStyles-root-645 MuiTypography-body1"
+                  >
+                    The total consultation fees will be sent to you after your consultation.
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-542"
+                >
+                  <div
+                    class="MuiTypography-root makeStyles-root-646 makeStyles-root-647 MuiTypography-body1"
+                  >
+                    Payment method
+                  </div>
+                </div>
+                <fieldset
+                  class="MuiFormControl-root"
+                >
+                  <div
+                    class="MuiFormGroup-root"
+                    role="radiogroup"
+                  >
+                    <label
+                      class="MuiFormControlLabel-root"
+                    >
+                      <span
+                        aria-disabled="false"
+                        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-562 MuiRadio-root MuiRadio-colorSecondary PrivateSwitchBase-checked-563 Mui-checked MuiIconButton-colorSecondary"
+                      >
+                        <span
+                          class="MuiIconButton-label"
+                        >
+                          <input
+                            class="PrivateSwitchBase-input-565"
+                            name="select-card"
+                            type="radio"
+                            value="ADD_NEW_CARD"
+                          />
+                          <div
+                            class="PrivateRadioButtonIcon-root-578 PrivateRadioButtonIcon-checked-580"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                              />
+                            </svg>
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root PrivateRadioButtonIcon-layer-579"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                              />
+                            </svg>
+                          </div>
+                        </span>
+                        <span
+                          class="MuiTouchRipple-root"
+                        />
+                      </span>
+                      <span
+                        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                      >
+                        Formatted message
+                      </span>
+                    </label>
+                    <label
+                      class="MuiFormControlLabel-root"
+                    >
+                      <span
+                        aria-disabled="false"
+                        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-562 MuiRadio-root MuiRadio-colorSecondary MuiIconButton-colorSecondary"
+                      >
+                        <span
+                          class="MuiIconButton-label"
+                        >
+                          <input
+                            class="PrivateSwitchBase-input-565"
+                            name="select-card"
+                            type="radio"
+                            value="2"
+                          />
+                          <div
+                            class="PrivateRadioButtonIcon-root-578"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                              />
+                            </svg>
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root PrivateRadioButtonIcon-layer-579"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                              />
+                            </svg>
+                          </div>
+                        </span>
+                        <span
+                          class="MuiTouchRipple-root"
+                        />
+                      </span>
+                      <span
+                        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                      >
+                         xxx2
+                      </span>
+                    </label>
+                    <label
+                      class="MuiFormControlLabel-root"
+                    >
+                      <span
+                        aria-disabled="false"
+                        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-562 MuiRadio-root MuiRadio-colorSecondary MuiIconButton-colorSecondary"
+                      >
+                        <span
+                          class="MuiIconButton-label"
+                        >
+                          <input
+                            class="PrivateSwitchBase-input-565"
+                            name="select-card"
+                            type="radio"
+                            value="3"
+                          />
+                          <div
+                            class="PrivateRadioButtonIcon-root-578"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                              />
+                            </svg>
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root PrivateRadioButtonIcon-layer-579"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                              />
+                            </svg>
+                          </div>
+                        </span>
+                        <span
+                          class="MuiTouchRipple-root"
+                        />
+                      </span>
+                      <span
+                        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                      >
+                         xxx3
+                      </span>
+                    </label>
+                  </div>
+                </fieldset>
+                <div
+                  class=""
+                >
+                  <div
+                    class="MuiTypography-root makeStyles-root-658 makeStyles-root-659 MuiTypography-body1"
+                  >
+                    Credit card information
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-638"
+                  >
+                    <div
+                      class="MuiTypography-root makeStyles-root-660 makeStyles-root-661 MuiTypography-body1"
+                    >
+                      Supported Cards
+                    </div>
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root"
+                      focusable="false"
+                      role="presentation"
+                      style="width: 20px; height: 16px; padding-left: 8px;"
+                      viewBox="0 0 20 16"
+                    >
+                      <path
+                        d="M2 0C0.895 0 0 0.895 0 2V14C0 15.105 0.895 16 2 16H18C19.105 16 20 15.105 20 14V2C20 0.895 19.105 0 18 0H2ZM8 4C8.733 4 9.41195 4.21069 10.002 4.55469C10.593 4.21169 11.269 4 12 4C14.206 4 16 5.794 16 8C16 10.206 14.206 12 12 12C11.269 12 10.593 11.7893 10.002 11.4453C9.41195 11.7893 8.733 12 8 12C5.791 12 4 10.209 4 8C4 5.791 5.791 4 8 4ZM12 6C11.821 6 11.6513 6.03022 11.4863 6.07422C11.8043 6.64822 12 7.298 12 8C12 8.702 11.8043 9.35178 11.4863 9.92578C11.6513 9.96978 11.821 10 12 10C13.103 10 14 9.103 14 8C14 6.897 13.103 6 12 6Z"
+                        fill="#666666"
+                      />
+                    </svg>
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root"
+                      focusable="false"
+                      role="presentation"
+                      style="width: 20px; height: 16px; padding-left: 8px;"
+                      viewBox="0 0 20 16"
+                    >
+                      <path
+                        d="M2 0C0.895 0 0 0.895 0 2V14C0 15.105 0.895 16 2 16H18C19.105 16 20 15.105 20 14V2C20 0.895 19.105 0 18 0H2ZM12.3887 5C13.0087 5 13.7324 5.31055 13.7324 5.31055L13.4219 6.55078C13.4219 6.55078 12.9047 6.13672 12.3887 6.13672C11.6657 6.13672 11.459 6.44781 11.459 6.75781C11.459 7.48081 13.5254 7.5823 13.5254 9.0293C13.5244 10.2673 12.0784 11.0942 11.1484 10.9902C10.1154 10.9902 9.59961 10.6816 9.59961 10.6816L9.80664 9.44141C9.80664 9.44141 10.426 9.75195 11.252 9.75195C12.078 9.75195 12.1816 9.44038 12.1816 9.23438C12.1816 8.30437 10.1152 8.61486 10.1152 6.75586C10.1152 5.82586 10.8387 5 12.3887 5ZM5.88086 5.10352H7.32617L5.15625 10.8887H3.60742L2.4707 6.24023C2.4707 6.24023 3.71059 6.96275 4.43359 8.71875C4.43359 8.92575 4.53711 9.23633 4.53711 9.23633L5.88086 5.10352ZM15.9004 5.10352H17.4492L18.5859 10.8887H17.3457L17.1387 10.0625H15.2793L14.9707 10.8887H13.5234L15.9004 5.10352ZM7.94531 5.20508H9.49414L8.56445 10.9902H7.11914L7.94531 5.20508ZM0.714844 5.20703H2.98828C3.60828 5.20703 3.81445 5.72266 3.81445 5.72266L4.33008 8.30469C3.71008 6.13569 0.714844 5.20703 0.714844 5.20703ZM16.416 6.85938L15.5898 9.0293H16.8281L16.416 6.85938Z"
+                        fill="#666666"
+                      />
+                    </svg>
+                  </div>
+                  <div
+                    class="MuiGrid-root MuiGrid-container"
+                  >
+                    <div>
+                      GridItem Component
+                      <div>
+                        <input
+                          class="AddNewCardForm-input-619"
+                          id="cardNumber"
+                          placeholder="Card Number"
+                          readonly=""
+                          type="text"
+                        />
+                      </div>
+                    </div>
+                    <div>
+                      GridItem Component
+                      <div>
+                        <input
+                          class="AddNewCardForm-input-619"
+                          id="expiryMonth"
+                          placeholder="Expiry Month"
+                          readonly=""
+                          type="text"
+                        />
+                      </div>
+                    </div>
+                    <div>
+                      GridItem Component
+                      <div>
+                        <input
+                          class="AddNewCardForm-input-619"
+                          id="expiryYear"
+                          placeholder="Expiry Year"
+                          readonly=""
+                          type="text"
+                        />
+                      </div>
+                    </div>
+                    <div>
+                      GridItem Component
+                      <div>
+                        <input
+                          class="AddNewCardForm-input-619"
+                          id="securityCode"
+                          placeholder="Security Code"
+                          readonly=""
+                          type="password"
+                        />
+                      </div>
+                    </div>
+                    <div>
+                      GridItem Component
+                      <div
+                        class="MuiBox-root MuiBox-root-641"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-fullWidth"
+                          data-testid="btn-submit-card"
+                          tabindex="0"
+                          type="submit"
+                        >
+                          <span
+                            class="MuiButton-label"
+                          >
+                            Next
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Payment Component should match the snapshot with add new card 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-142"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root Payment-card-140 MuiPaper-rounded"
+    >
+      <div
+        class="MuiCardContent-root"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-172"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container"
+          >
+            <div>
+              GridItem Component
+              <div
+                class="MuiBox-root MuiBox-root-262"
+                md="[object Object]"
+              >
+                <div
+                  class="MuiTypography-root makeStyles-root-364 makeStyles-root-365 MuiTypography-body1"
+                >
+                  To verify the validity of your existing payment option, SGD$1.00 will be charged and refunded automatically for pre-authorisation of your credit card.
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-295"
+                >
+                  <div
+                    class="MuiTypography-root makeStyles-root-366 makeStyles-root-367 MuiTypography-body1"
+                  >
+                    The total consultation fees will be sent to you after your consultation.
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-298"
+                >
+                  <div
+                    class="MuiTypography-root makeStyles-root-368 makeStyles-root-369 MuiTypography-body1"
+                  >
+                    Payment method
+                  </div>
+                </div>
+                <div
+                  class=""
+                >
+                  <div
+                    class="MuiTypography-root makeStyles-root-370 makeStyles-root-371 MuiTypography-body1"
+                  >
+                    Credit card information
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-320"
+                  >
+                    <div
+                      class="MuiTypography-root makeStyles-root-372 makeStyles-root-373 MuiTypography-body1"
+                    >
+                      Supported Cards
+                    </div>
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root"
+                      focusable="false"
+                      role="presentation"
+                      style="width: 20px; height: 16px; padding-left: 8px;"
+                      viewBox="0 0 20 16"
+                    >
+                      <path
+                        d="M2 0C0.895 0 0 0.895 0 2V14C0 15.105 0.895 16 2 16H18C19.105 16 20 15.105 20 14V2C20 0.895 19.105 0 18 0H2ZM8 4C8.733 4 9.41195 4.21069 10.002 4.55469C10.593 4.21169 11.269 4 12 4C14.206 4 16 5.794 16 8C16 10.206 14.206 12 12 12C11.269 12 10.593 11.7893 10.002 11.4453C9.41195 11.7893 8.733 12 8 12C5.791 12 4 10.209 4 8C4 5.791 5.791 4 8 4ZM12 6C11.821 6 11.6513 6.03022 11.4863 6.07422C11.8043 6.64822 12 7.298 12 8C12 8.702 11.8043 9.35178 11.4863 9.92578C11.6513 9.96978 11.821 10 12 10C13.103 10 14 9.103 14 8C14 6.897 13.103 6 12 6Z"
+                        fill="#666666"
+                      />
+                    </svg>
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root"
+                      focusable="false"
+                      role="presentation"
+                      style="width: 20px; height: 16px; padding-left: 8px;"
+                      viewBox="0 0 20 16"
+                    >
+                      <path
+                        d="M2 0C0.895 0 0 0.895 0 2V14C0 15.105 0.895 16 2 16H18C19.105 16 20 15.105 20 14V2C20 0.895 19.105 0 18 0H2ZM12.3887 5C13.0087 5 13.7324 5.31055 13.7324 5.31055L13.4219 6.55078C13.4219 6.55078 12.9047 6.13672 12.3887 6.13672C11.6657 6.13672 11.459 6.44781 11.459 6.75781C11.459 7.48081 13.5254 7.5823 13.5254 9.0293C13.5244 10.2673 12.0784 11.0942 11.1484 10.9902C10.1154 10.9902 9.59961 10.6816 9.59961 10.6816L9.80664 9.44141C9.80664 9.44141 10.426 9.75195 11.252 9.75195C12.078 9.75195 12.1816 9.44038 12.1816 9.23438C12.1816 8.30437 10.1152 8.61486 10.1152 6.75586C10.1152 5.82586 10.8387 5 12.3887 5ZM5.88086 5.10352H7.32617L5.15625 10.8887H3.60742L2.4707 6.24023C2.4707 6.24023 3.71059 6.96275 4.43359 8.71875C4.43359 8.92575 4.53711 9.23633 4.53711 9.23633L5.88086 5.10352ZM15.9004 5.10352H17.4492L18.5859 10.8887H17.3457L17.1387 10.0625H15.2793L14.9707 10.8887H13.5234L15.9004 5.10352ZM7.94531 5.20508H9.49414L8.56445 10.9902H7.11914L7.94531 5.20508ZM0.714844 5.20703H2.98828C3.60828 5.20703 3.81445 5.72266 3.81445 5.72266L4.33008 8.30469C3.71008 6.13569 0.714844 5.20703 0.714844 5.20703ZM16.416 6.85938L15.5898 9.0293H16.8281L16.416 6.85938Z"
+                        fill="#666666"
+                      />
+                    </svg>
+                  </div>
+                  <div
+                    class="MuiGrid-root MuiGrid-container"
+                  >
+                    <div>
+                      GridItem Component
+                      <div>
+                        <input
+                          class="AddNewCardForm-input-301"
+                          id="cardNumber"
+                          placeholder="Card Number"
+                          readonly=""
+                          type="text"
+                        />
+                      </div>
+                    </div>
+                    <div>
+                      GridItem Component
+                      <div>
+                        <input
+                          class="AddNewCardForm-input-301"
+                          id="expiryMonth"
+                          placeholder="Expiry Month"
+                          readonly=""
+                          type="text"
+                        />
+                      </div>
+                    </div>
+                    <div>
+                      GridItem Component
+                      <div>
+                        <input
+                          class="AddNewCardForm-input-301"
+                          id="expiryYear"
+                          placeholder="Expiry Year"
+                          readonly=""
+                          type="text"
+                        />
+                      </div>
+                    </div>
+                    <div>
+                      GridItem Component
+                      <div>
+                        <input
+                          class="AddNewCardForm-input-301"
+                          id="securityCode"
+                          placeholder="Security Code"
+                          readonly=""
+                          type="password"
+                        />
+                      </div>
+                    </div>
+                    <div>
+                      GridItem Component
+                      <div
+                        class="MuiBox-root MuiBox-root-332"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-fullWidth"
+                          data-testid="btn-submit-card"
+                          tabindex="0"
+                          type="submit"
+                        >
+                          <span
+                            class="MuiButton-label"
+                          >
+                            Next
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Payment Component should match the snapshot with loading circle 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-3"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root Payment-card-1 MuiPaper-rounded"
+    >
+      <div
+        class="MuiCardContent-root"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-33"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container"
+          >
+            <div>
+              GridItem Component
+              <div
+                class="MuiBox-root MuiBox-root-123"
+                md="[object Object]"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-127 Loading-root-124"
+                  classes="[object Object]"
+                >
+                  <div
+                    class="MuiCircularProgress-root MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+                    role="progressbar"
+                    style="width: 40px; height: 40px;"
+                  >
+                    <svg
+                      class="MuiCircularProgress-svg"
+                      viewBox="22 22 44 44"
+                    >
+                      <circle
+                        class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+                        cx="44"
+                        cy="44"
+                        fill="none"
+                        r="20.2"
+                        stroke-width="3.6"
+                      />
+                    </svg>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

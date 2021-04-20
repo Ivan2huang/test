@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NonSelectedStackedMarker should match the snapshot 1`] = `
+<div>
+  <div>
+    averageCenter = true
+    enableRetinaIcons = true
+    gridSize = 60
+    styles = [object Object]
+    onClick = handleClick
+  </div>
+  <span>
+    /static/stacked_inactive_locations.png
+  </span>
+  <div>
+    <div>
+      Dummy Map Pins
+    </div>
+    Number of clinics:
+    2
+  </div>
+  <div>
+    Dummy Cluster Marker, Number of clinics 
+  </div>
+  <div
+    data-testid="dummyTestButton"
+  />
+</div>
+`;

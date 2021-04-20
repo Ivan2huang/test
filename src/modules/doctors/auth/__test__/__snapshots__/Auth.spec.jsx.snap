@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profile checker should not redirect if client benefits ehealth card status falsy 1`] = `<div />`;
+
+exports[`Profile checker should redirect to find a doctor page for normal employee 1`] = `<div />`;
+
+exports[`Profile checker should redirect to find a doctor page for terminated employee 1`] = `<div />`;

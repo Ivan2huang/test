@@ -1,0 +1,244 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Settings Component should match the snapshot when user open promotional link 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-4"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-5"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+      >
+        <div
+          class="PrivateHiddenCss-smDown-39"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-6"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-md-5"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-152"
+              >
+                <div>
+                  Typography Component
+                  Promotional materials
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-md-7"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-153"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-154"
+                >
+                  <div>
+                    Typography Component
+                    Not receive health, wellness and insurance 
+                    <a
+                      class="makeStyles-link-1"
+                      data-testid="promotion-link"
+                      href="/legal/news-letter"
+                    >
+                      promotional materials
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-155"
+                >
+                  <div
+                    class="MuiFormGroup-root MuiFormGroup-row"
+                    data-testid="edm-opt-out"
+                    role="radiogroup"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-158"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-170 MuiRadio-root MuiRadio-colorSecondary PrivateSwitchBase-checked-171 Mui-checked MuiIconButton-colorSecondary"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              checked=""
+                              class="PrivateSwitchBase-input-173"
+                              name="EdmOptedOut"
+                              type="radio"
+                              value="false"
+                            />
+                            <div
+                              class="PrivateRadioButtonIcon-root-186 PrivateRadioButtonIcon-checked-188"
+                            >
+                              <svg
+                                aria-hidden="true"
+                                class="MuiSvgIcon-root"
+                                focusable="false"
+                                role="presentation"
+                                viewBox="0 0 24 24"
+                              >
+                                <path
+                                  d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                                />
+                              </svg>
+                              <svg
+                                aria-hidden="true"
+                                class="MuiSvgIcon-root PrivateRadioButtonIcon-layer-187"
+                                focusable="false"
+                                role="presentation"
+                                viewBox="0 0 24 24"
+                              >
+                                <path
+                                  d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                                />
+                              </svg>
+                            </div>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          No
+                        </span>
+                      </label>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-228"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-170 MuiRadio-root MuiRadio-colorSecondary MuiIconButton-colorSecondary"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-173"
+                              name="EdmOptedOut"
+                              type="radio"
+                              value="true"
+                            />
+                            <div
+                              class="PrivateRadioButtonIcon-root-186"
+                            >
+                              <svg
+                                aria-hidden="true"
+                                class="MuiSvgIcon-root"
+                                focusable="false"
+                                role="presentation"
+                                viewBox="0 0 24 24"
+                              >
+                                <path
+                                  d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                                />
+                              </svg>
+                              <svg
+                                aria-hidden="true"
+                                class="MuiSvgIcon-root PrivateRadioButtonIcon-layer-187"
+                                focusable="false"
+                                role="presentation"
+                                viewBox="0 0 24 24"
+                              >
+                                <path
+                                  d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                                />
+                              </svg>
+                            </div>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          Yes
+                        </span>
+                      </label>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="PrivateHiddenCss-mdUp-41"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-229"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-230"
+            >
+              <div>
+                Typography Component
+                Not receive health, wellness and insurance 
+                <a
+                  class="makeStyles-link-1"
+                  data-testid="promotion-link-mobile"
+                  href="/legal/news-letter"
+                >
+                  promotional materials
+                </a>
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-231"
+            >
+              <span
+                class="MuiSwitch-root IOSSwitch-root-232"
+              >
+                <span
+                  aria-disabled="false"
+                  class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-170 MuiSwitch-switchBase IOSSwitch-switchBase-233 MuiSwitch-colorSecondary"
+                  data-testid="switch-edm-opt-out"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <input
+                      class="PrivateSwitchBase-input-173 MuiSwitch-input"
+                      type="checkbox"
+                      value=""
+                    />
+                    <span
+                      class="MuiSwitch-thumb IOSSwitch-thumb-234"
+                    />
+                  </span>
+                </span>
+                <span
+                  class="MuiSwitch-track IOSSwitch-track-235"
+                />
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      App Version
+    </div>
+    <div>
+      WellnessNewsLetterModalContainer Component
+    </div>
+  </div>
+</div>
+`;

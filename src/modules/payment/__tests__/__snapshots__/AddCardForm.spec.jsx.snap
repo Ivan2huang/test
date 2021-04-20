@@ -1,0 +1,185 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddCardForm Component should match to snapshot when there is  at least one instrument 1`] = `
+<div>
+  <div>
+    To verify the validity of your existing payment option, SGD$1.00 will be charged and refunded automatically for pre-authorisation of your credit card.
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div>
+      The total consultation fees will be sent to you after your consultation.
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-3"
+  >
+    <div>
+      Payment method
+    </div>
+  </div>
+  <fieldset
+    class="MuiFormControl-root"
+  >
+    <div
+      class="MuiFormGroup-root"
+      role="radiogroup"
+    >
+      <label
+        class="MuiFormControlLabel-root"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-21 MuiRadio-root MuiRadio-colorSecondary PrivateSwitchBase-checked-22 Mui-checked MuiIconButton-colorSecondary"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              class="PrivateSwitchBase-input-24"
+              name="select-card"
+              type="radio"
+              value="1"
+            />
+            <div
+              class="PrivateRadioButtonIcon-root-37 PrivateRadioButtonIcon-checked-39"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                />
+              </svg>
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root PrivateRadioButtonIcon-layer-38"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                />
+              </svg>
+            </div>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+        <span
+          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          **** **** *** 1234
+        </span>
+      </label>
+      <label
+        class="MuiFormControlLabel-root"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-21 MuiRadio-root MuiRadio-colorSecondary MuiIconButton-colorSecondary"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              class="PrivateSwitchBase-input-24"
+              name="select-card"
+              type="radio"
+              value="ADD_NEW_CARD"
+            />
+            <div
+              class="PrivateRadioButtonIcon-root-37"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                />
+              </svg>
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root PrivateRadioButtonIcon-layer-38"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                />
+              </svg>
+            </div>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+        <span
+          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          New Card
+        </span>
+      </label>
+    </div>
+  </fieldset>
+  <div
+    class="MuiBox-root MuiBox-root-79"
+  >
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+      data-testid="btn-submit-preauth"
+      tabindex="0"
+      type="submit"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Next
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+  <button
+    data-testid="mock-submit-newcard"
+  />
+</div>
+`;
+
+exports[`AddCardForm Component should match to snapshot when there is no instruments 1`] = `
+<div>
+  <div>
+    To verify the validity of your existing payment option, SGD$1.00 will be charged and refunded automatically for pre-authorisation of your credit card.
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-119"
+  >
+    <div>
+      The total consultation fees will be sent to you after your consultation.
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-120"
+  >
+    <div>
+      Payment method
+    </div>
+  </div>
+  <button
+    data-testid="mock-submit-newcard"
+  />
+</div>
+`;

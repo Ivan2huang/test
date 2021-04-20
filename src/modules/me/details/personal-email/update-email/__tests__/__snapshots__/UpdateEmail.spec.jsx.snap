@@ -1,0 +1,216 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UpdateEmail Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-4 injectIntl(Layout)-backContainer-1"
+  >
+    <button
+      data-testid="btn-BackToDetails"
+      type="button"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root injectIntl(Layout)-backIcon-2"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M11.67 3.87L9.9 2.1 0 12l9.9 9.9 1.77-1.77L3.54 12z"
+        />
+      </svg>
+      <div
+        type="style-10"
+      >
+        My details
+      </div>
+    </button>
+  </div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+  >
+    <form
+      autocomplete="off"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-42"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container"
+        >
+          <div
+            data-md="5"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <img
+                alt=""
+                src="/static/invite_dependent.svg"
+              />
+            </div>
+          </div>
+          <div
+            data-md="6"
+            data-xs="12"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div
+                class="MuiBox-root MuiBox-root-146"
+              >
+                <div
+                  type="style-1"
+                >
+                  Change email address
+                </div>
+              </div>
+              <div
+                class="MuiGrid-root MuiGrid-container"
+              >
+                <div
+                  data-md="10"
+                  data-xs="12"
+                >
+                  <span>
+                    GridItem Component
+                  </span>
+                  <div>
+                    <div
+                      class="MuiFormControl-root MuiFormControl-fullWidth"
+                      data-testid="input-newEmail"
+                    >
+                      <label
+                        class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                        data-shrink="false"
+                        for="input-newEmail"
+                      >
+                        New email address
+                      </label>
+                      <div
+                        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+                        label="New email address"
+                      >
+                        <input
+                          aria-describedby="helptext-newEmail"
+                          aria-invalid="false"
+                          class="MuiInputBase-input MuiOutlinedInput-input"
+                          id="input-newEmail"
+                          type="text"
+                          value=""
+                        />
+                        <fieldset
+                          aria-hidden="true"
+                          class="PrivateNotchedOutline-root-205 MuiOutlinedInput-notchedOutline"
+                          style="padding-left: 8px;"
+                        >
+                          <legend
+                            class="PrivateNotchedOutline-legend-206"
+                            style="width: 0.01px;"
+                          >
+                            <span>
+                              ​
+                            </span>
+                          </legend>
+                        </fieldset>
+                      </div>
+                      <div
+                        aria-live="polite"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  data-md="10"
+                  data-xs="12"
+                >
+                  <span>
+                    GridItem Component
+                  </span>
+                  <div>
+                    <div
+                      class="MuiFormControl-root MuiFormControl-fullWidth"
+                      data-testid="input-confirmEmail"
+                    >
+                      <label
+                        class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                        data-shrink="false"
+                        for="input-confirmEmail"
+                      >
+                        Confirm email address
+                      </label>
+                      <div
+                        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+                        label="Confirm email address"
+                      >
+                        <input
+                          aria-describedby="helptext-confirmEmail"
+                          aria-invalid="false"
+                          class="MuiInputBase-input MuiOutlinedInput-input"
+                          id="input-confirmEmail"
+                          type="text"
+                          value=""
+                        />
+                        <fieldset
+                          aria-hidden="true"
+                          class="PrivateNotchedOutline-root-205 MuiOutlinedInput-notchedOutline"
+                          style="padding-left: 8px;"
+                        >
+                          <legend
+                            class="PrivateNotchedOutline-legend-206"
+                            style="width: 0.01px;"
+                          >
+                            <span>
+                              ​
+                            </span>
+                          </legend>
+                        </fieldset>
+                      </div>
+                      <div
+                        aria-live="polite"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  data-md="12"
+                  data-xs="12"
+                >
+                  <span>
+                    GridItem Component
+                  </span>
+                  <div>
+                    <div
+                      class="MuiBox-root MuiBox-root-207"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                        data-testid="btn-submitUpdateEmail"
+                        tabindex="0"
+                        type="submit"
+                      >
+                        <span
+                          class="MuiButton-label"
+                        >
+                          Submit
+                        </span>
+                        <span
+                          class="MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
+`;

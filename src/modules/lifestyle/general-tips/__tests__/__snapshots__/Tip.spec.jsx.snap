@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tip component should match snapshot 1`] = `
+<div>
+  <div
+    aria-label="Learn more about xyz"
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root Tip-muiCardRoot-1 MuiPaper-rounded"
+    data-testid="card-xyz"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-34"
+      tabindex="0"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-35 Tip-textContainer-3"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-36"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-37 makeStyles-root-38 MuiTypography-body1"
+          >
+            xyz
+          </div>
+          <div
+            class="MuiTypography-root makeStyles-root-69 makeStyles-root-70 Tip-source-2 MuiTypography-body1"
+          >
+            by abc
+          </div>
+        </div>
+        <div
+          class="MuiTypography-root makeStyles-root-71 makeStyles-root-72 MuiTypography-body1"
+        >
+          test text
+        </div>
+      </div>
+      <hr
+        class="MuiDivider-root"
+      />
+      <div
+        class="MuiBox-root MuiBox-root-79"
+        tabindex="0"
+      >
+        <div
+          class="MuiTypography-root makeStyles-root-80 makeStyles-root-81 MuiTypography-body1"
+        >
+          Learn more
+        </div>
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root Tip-launchIcon-4"
+          focusable="false"
+          role="presentation"
+          style="width: 1.125rem; height: 1.125rem;"
+          viewBox="0 0 18 18"
+        >
+          <path
+            d="M16.65 16.65H1.35V1.35H9V0H0V18H18V9H16.65V16.65ZM10.6425 8.3115L16.65 2.304V7.713L18 6.363V0H11.6359L10.287 1.34887H15.6971L9.6885 7.3575L10.6425 8.3115Z"
+            fill="#333333"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;

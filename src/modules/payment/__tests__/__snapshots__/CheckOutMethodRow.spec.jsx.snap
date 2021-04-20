@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CheckOutMethodRow Component should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-3"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-4"
+      >
+        <div>
+          Dummy VisaCard Icon
+        </div>
+      </div>
+      <div
+        class="MuiTypography-root makeStyles-root-5 makeStyles-root-6 MuiTypography-body1"
+      >
+        Row
+      </div>
+    </div>
+    <div
+      class="MuiTypography-root makeStyles-root-37 makeStyles-root-38 MuiTypography-body1"
+    >
+      100
+    </div>
+  </div>
+</div>
+`;

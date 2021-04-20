@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Screen UI Component should match snapshot 1`] = `
+<div>
+  <div
+    class="ScreenReader-srOnly-1"
+  >
+    <div>
+      Text
+    </div>
+  </div>
+</div>
+`;

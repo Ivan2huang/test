@@ -1,0 +1,459 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UploadDocuments Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div>
+      <span>
+        Typography Component
+      </span>
+      <span
+        data-id="props"
+      >
+        type = style-3
+        children = Receipts
+      </span>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-3"
+    >
+      <div
+        aria-live="polite"
+      >
+        <div>
+          <span>
+            Typography Component
+          </span>
+          <span
+            data-id="props"
+          >
+            id = helptext-upload-rule
+            type = style-6
+            children = Upload up to 5 files (max 2MB each). We accept PDF, JPG, TIFF, PNG or HEIC.
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-4"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-8 FilePicker-wrapper-5 FilePicker-wrapper-7"
+      >
+        <input
+          aria-describedby="helptext-upload-rule"
+          class="FilePicker-inputFile-6"
+          data-testid="input-upload-receipts"
+          multiple=""
+          title=""
+          type="file"
+        />
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiBox-root MuiBox-root-9 MuiButton-outlinedSecondary"
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Upload Receipts
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+    <div>
+      <span>
+        File Items Component
+      </span>
+      <span
+        data-testid="close-button"
+        role="button"
+        tabindex="0"
+      >
+        Close Button
+      </span>
+      <span
+        data-id="props"
+      >
+        files = [object Object],[object Object]
+        onCloseClick = function onCloseClick
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`UploadDocuments Component should render info if it present 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-449"
+  >
+    <div>
+      <span>
+        Typography Component
+      </span>
+      <span
+        data-id="props"
+      >
+        type = style-3
+        children = Receipts
+      </span>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-450"
+    >
+      <div
+        aria-live="polite"
+      >
+        <div>
+          <span>
+            Typography Component
+          </span>
+          <span
+            data-id="props"
+          >
+            id = helptext-upload-rule
+            type = style-6
+            children = Upload up to 5 files (max 2MB each). We accept PDF, JPG, TIFF, PNG or HEIC.
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-451"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-453 FilePicker-wrapper-403 FilePicker-wrapper-452"
+      >
+        <input
+          aria-describedby="helptext-upload-rule"
+          class="FilePicker-inputFile-404"
+          data-testid="input-upload-receipts"
+          multiple=""
+          title=""
+          type="file"
+        />
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiBox-root MuiBox-root-454 MuiButton-outlinedSecondary"
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Upload Receipts
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+    <div>
+      <span>
+        File Items Component
+      </span>
+      <span
+        data-testid="close-button"
+        role="button"
+        tabindex="0"
+      >
+        Close Button
+      </span>
+      <span
+        data-id="props"
+      >
+        files = [object Object],[object Object]
+        onCloseClick = function onCloseClick
+      </span>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-455"
+    >
+      <div>
+        <span>
+          Typography Component
+        </span>
+        <span
+          data-id="props"
+        >
+          type = style-6
+          children = some information
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`UploadDocuments Component should show error message in case of validation error 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-317"
+  >
+    <div>
+      <span>
+        Typography Component
+      </span>
+      <span
+        data-id="props"
+      >
+        type = style-3
+        children = Receipts
+      </span>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-318"
+    >
+      <div
+        aria-live="polite"
+      >
+        <div>
+          <span>
+            Typography Component
+          </span>
+          <span
+            data-id="props"
+          >
+            id = helptext-upload-rule
+            type = style-6
+            color = error
+            children = Upload up to 5 files (max 2MB each). We accept PDF, JPG, TIFF, PNG or HEIC.
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-319"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-321 FilePicker-wrapper-271 FilePicker-wrapper-320"
+      >
+        <input
+          aria-describedby="helptext-upload-rule"
+          class="FilePicker-inputFile-272"
+          data-testid="input-upload-receipts"
+          multiple=""
+          title=""
+          type="file"
+        />
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiBox-root MuiBox-root-322 MuiButton-outlinedSecondary"
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Upload Receipts
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+    <div>
+      <span>
+        File Items Component
+      </span>
+      <span
+        data-testid="close-button"
+        role="button"
+        tabindex="0"
+      >
+        Close Button
+      </span>
+      <span
+        data-id="props"
+      >
+        files = 
+        onCloseClick = function onCloseClick
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`UploadDocuments Component should show error message when invalid file is selected 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-218"
+  >
+    <div>
+      <span>
+        Typography Component
+      </span>
+      <span
+        data-id="props"
+      >
+        type = style-3
+        children = Receipts
+      </span>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-219"
+    >
+      <div
+        aria-live="polite"
+      >
+        <div>
+          <span>
+            Typography Component
+          </span>
+          <span
+            data-id="props"
+          >
+            id = helptext-upload-rule
+            type = style-6
+            color = error
+            children = Upload up to 5 files (max 2MB each). We accept PDF, JPG, TIFF, PNG or HEIC.
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-220"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-224 FilePicker-wrapper-221 FilePicker-wrapper-223"
+      >
+        <input
+          aria-describedby="helptext-upload-rule"
+          class="FilePicker-inputFile-222"
+          data-testid="input-upload-receipts"
+          multiple=""
+          title=""
+          type="file"
+        />
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiBox-root MuiBox-root-225 MuiButton-outlinedSecondary"
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Upload Receipts
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+    <div>
+      <span>
+        File Items Component
+      </span>
+      <span
+        data-testid="close-button"
+        role="button"
+        tabindex="0"
+      >
+        Close Button
+      </span>
+      <span
+        data-id="props"
+      >
+        files = [object Object],[object Object]
+        onCloseClick = function onCloseClick
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`UploadDocuments Component should show error when more than 5 valid files are selected 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-168"
+  >
+    <div>
+      <span>
+        Typography Component
+      </span>
+      <span
+        data-id="props"
+      >
+        type = style-3
+        children = Receipts
+      </span>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-169"
+    >
+      <div
+        aria-live="polite"
+      >
+        <div>
+          <span>
+            Typography Component
+          </span>
+          <span
+            data-id="props"
+          >
+            id = helptext-upload-rule
+            type = style-6
+            color = error
+            children = Upload up to 5 files (max 2MB each). We accept PDF, JPG, TIFF, PNG or HEIC.
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-170"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-174 FilePicker-wrapper-171 FilePicker-wrapper-173"
+      >
+        <input
+          aria-describedby="helptext-upload-rule"
+          class="FilePicker-inputFile-172"
+          data-testid="input-upload-receipts"
+          multiple=""
+          title=""
+          type="file"
+        />
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiBox-root MuiBox-root-175 MuiButton-outlinedSecondary"
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Upload Receipts
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+    <div>
+      <span>
+        File Items Component
+      </span>
+      <span
+        data-testid="close-button"
+        role="button"
+        tabindex="0"
+      >
+        Close Button
+      </span>
+      <span
+        data-id="props"
+      >
+        files = [object Object],[object Object]
+        onCloseClick = function onCloseClick
+      </span>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loader Component should match snapshot for loading with message 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-7 Loader-root-1"
+    classes="[object Object]"
+  >
+    <div
+      class="MuiCircularProgress-root Loader-progress-3 MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+      role="progressbar"
+      style="width: 40px; height: 40px;"
+    >
+      <svg
+        class="MuiCircularProgress-svg"
+        viewBox="22 22 44 44"
+      >
+        <circle
+          class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+          cx="44"
+          cy="44"
+          fill="none"
+          r="20.8"
+          stroke-width="2.4"
+        />
+      </svg>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-20"
+    >
+      <div
+        type="style-6"
+      >
+        <span>
+          loading...
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-5 Loader-container-2"
+    classes="[object Object]"
+  >
+    <div>
+      Content
+    </div>
+  </div>
+  <div
+    class="ScreenReader-srOnly-6"
+  >
+    <div
+      aria-atomic="true"
+      aria-live="assertive"
+      role="alert"
+    >
+      The content is loading now
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Loader Component should match snapshot for loading without message 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-27 Loader-root-21"
+    classes="[object Object]"
+  >
+    <div
+      class="MuiCircularProgress-root Loader-progress-23 MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+      role="progressbar"
+      style="width: 40px; height: 40px;"
+    >
+      <svg
+        class="MuiCircularProgress-svg"
+        viewBox="22 22 44 44"
+      >
+        <circle
+          class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+          cx="44"
+          cy="44"
+          fill="none"
+          r="20.8"
+          stroke-width="2.4"
+        />
+      </svg>
+    </div>
+    
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-25 Loader-container-22"
+    classes="[object Object]"
+  >
+    <div>
+      Content
+    </div>
+  </div>
+  <div
+    class="ScreenReader-srOnly-26"
+  >
+    <div
+      aria-atomic="true"
+      aria-live="assertive"
+      role="alert"
+    >
+      The content is loading now
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Loader Component should match snapshot for not loading 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-44 Loader-container-41"
+    classes="[object Object]"
+  >
+    <div>
+      Content
+    </div>
+  </div>
+  <div
+    class="ScreenReader-srOnly-45"
+  >
+    <div
+      aria-atomic="true"
+      aria-live="assertive"
+      role="alert"
+    />
+  </div>
+</div>
+`;

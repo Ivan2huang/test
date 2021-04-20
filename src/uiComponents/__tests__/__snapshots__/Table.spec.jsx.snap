@@ -1,0 +1,326 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table component should match snapshot with grouped elements 1`] = `
+<div>
+  <table
+    class="MuiTable-root"
+  >
+    <thead
+      class="MuiTableHead-root"
+    >
+      <tr
+        class="MuiTableRow-root MuiTableRow-head"
+      >
+        <th
+          class="MuiTableCell-root makeStyles-tableCellRoot-70 makeStyles-tableCellRoot-72 MuiTableCell-alignRight MuiTableCell-head makeStyles-tableHeaderCell-71 makeStyles-tableHeaderCell-73"
+          scope="col"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-94 makeStyles-root-95 MuiTypography-body1"
+          >
+            header 1
+          </div>
+        </th>
+        <th
+          class="MuiTableCell-root makeStyles-tableCellRoot-70 makeStyles-tableCellRoot-72 MuiTableCell-head makeStyles-tableHeaderCell-71 makeStyles-tableHeaderCell-73"
+          scope="col"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-126 makeStyles-root-127 MuiTypography-body1"
+          >
+            header 2
+          </div>
+        </th>
+      </tr>
+    </thead>
+    <tbody
+      class="MuiTableBody-root"
+    >
+      <tr
+        class="MuiTableRow-root"
+        tabindex="0"
+      >
+        <td
+          class="MuiTableCell-root makeStyles-tableCellRoot-70 makeStyles-tableCellRoot-72 MuiTableCell-alignRight MuiTableCell-body"
+          rowspan="1"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-129 makeStyles-root-130 MuiTypography-body1"
+          >
+            dummy
+          </div>
+        </td>
+        <td
+          class="MuiTableCell-root makeStyles-tableCellRoot-70 makeStyles-tableCellRoot-72 MuiTableCell-body"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-131 makeStyles-root-132 MuiTypography-body1"
+          >
+            <button
+              type="button"
+            >
+              Edit
+            </button>
+          </div>
+        </td>
+      </tr>
+      <tr
+        class="MuiTableRow-root"
+        tabindex="0"
+      >
+        <td
+          class="MuiTableCell-root makeStyles-tableCellRoot-70 makeStyles-tableCellRoot-72 MuiTableCell-alignRight MuiTableCell-body"
+          rowspan="2"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-133 makeStyles-root-134 MuiTypography-body1"
+          >
+            dummy1
+          </div>
+        </td>
+        <td
+          class="MuiTableCell-root makeStyles-tableCellRoot-70 makeStyles-tableCellRoot-72 MuiTableCell-body"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-135 makeStyles-root-136 MuiTypography-body1"
+          >
+            <button
+              type="button"
+            >
+              Delete
+            </button>
+          </div>
+        </td>
+      </tr>
+      <tr
+        class="MuiTableRow-root"
+        tabindex="0"
+      >
+        <td
+          class="MuiTableCell-root makeStyles-tableCellRoot-70 makeStyles-tableCellRoot-72 MuiTableCell-body"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-137 makeStyles-root-138 MuiTypography-body1"
+          >
+            <button
+              type="button"
+            >
+              Delete
+            </button>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`Table component should match the snapshot 1`] = `
+<div>
+  <table
+    class="MuiTable-root"
+  >
+    <thead
+      class="MuiTableHead-root"
+    >
+      <tr
+        class="MuiTableRow-root MuiTableRow-head"
+      >
+        <th
+          class="MuiTableCell-root makeStyles-tableCellRoot-2 makeStyles-tableCellRoot-4 MuiTableCell-alignRight MuiTableCell-head makeStyles-tableHeaderCell-3 makeStyles-tableHeaderCell-5"
+          scope="col"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-26 makeStyles-root-27 MuiTypography-body1"
+          >
+            header 1
+          </div>
+        </th>
+        <th
+          class="MuiTableCell-root makeStyles-tableCellRoot-2 makeStyles-tableCellRoot-4 MuiTableCell-head makeStyles-tableHeaderCell-3 makeStyles-tableHeaderCell-5"
+          scope="col"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-58 makeStyles-root-59 MuiTypography-body1"
+          >
+            header 2
+          </div>
+        </th>
+      </tr>
+    </thead>
+    <tbody
+      class="MuiTableBody-root"
+    >
+      <tr
+        class="MuiTableRow-root"
+        tabindex="0"
+      >
+        <td
+          class="MuiTableCell-root makeStyles-tableCellRoot-2 makeStyles-tableCellRoot-4 MuiTableCell-alignRight MuiTableCell-body"
+          rowspan="3"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-61 makeStyles-root-62 MuiTypography-body1"
+          >
+            dummy
+          </div>
+        </td>
+        <td
+          class="MuiTableCell-root makeStyles-tableCellRoot-2 makeStyles-tableCellRoot-4 MuiTableCell-body"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-63 makeStyles-root-64 MuiTypography-body1"
+          >
+            <button
+              type="button"
+            >
+              Edit
+            </button>
+          </div>
+        </td>
+      </tr>
+      <tr
+        class="MuiTableRow-root"
+        tabindex="0"
+      >
+        <td
+          class="MuiTableCell-root makeStyles-tableCellRoot-2 makeStyles-tableCellRoot-4 MuiTableCell-body"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-65 makeStyles-root-66 MuiTypography-body1"
+          >
+            <button
+              type="button"
+            >
+              Delete
+            </button>
+          </div>
+        </td>
+      </tr>
+      <tr
+        class="MuiTableRow-root"
+        tabindex="0"
+      >
+        <td
+          class="MuiTableCell-root makeStyles-tableCellRoot-2 makeStyles-tableCellRoot-4 MuiTableCell-body"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-67 makeStyles-root-68 MuiTypography-body1"
+          >
+            <button
+              type="button"
+            >
+              Delete
+            </button>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`Table component should match the snapshot with hover 1`] = `
+<div>
+  <table
+    class="MuiTable-root"
+  >
+    <thead
+      class="MuiTableHead-root"
+    >
+      <tr
+        class="MuiTableRow-root MuiTableRow-head"
+      >
+        <th
+          class="MuiTableCell-root makeStyles-tableCellRoot-140 makeStyles-tableCellRoot-142 MuiTableCell-alignRight MuiTableCell-head makeStyles-tableHeaderCell-141 makeStyles-tableHeaderCell-143"
+          scope="col"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-164 makeStyles-root-165 MuiTypography-body1"
+          >
+            header 1
+          </div>
+        </th>
+        <th
+          class="MuiTableCell-root makeStyles-tableCellRoot-140 makeStyles-tableCellRoot-142 MuiTableCell-head makeStyles-tableHeaderCell-141 makeStyles-tableHeaderCell-143"
+          scope="col"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-196 makeStyles-root-197 MuiTypography-body1"
+          >
+            header 2
+          </div>
+        </th>
+      </tr>
+    </thead>
+    <tbody
+      class="MuiTableBody-root"
+    >
+      <tr
+        class="MuiTableRow-root MuiTableRow-hover makeStyles-tableRowHover-139"
+        tabindex="0"
+      >
+        <td
+          class="MuiTableCell-root makeStyles-tableCellRoot-140 makeStyles-tableCellRoot-142 MuiTableCell-alignRight MuiTableCell-body"
+          rowspan="3"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-199 makeStyles-root-200 MuiTypography-body1"
+          >
+            dummy
+          </div>
+        </td>
+        <td
+          class="MuiTableCell-root makeStyles-tableCellRoot-140 makeStyles-tableCellRoot-142 MuiTableCell-body"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-201 makeStyles-root-202 MuiTypography-body1"
+          >
+            <button
+              type="button"
+            >
+              Edit
+            </button>
+          </div>
+        </td>
+      </tr>
+      <tr
+        class="MuiTableRow-root MuiTableRow-hover makeStyles-tableRowHover-139"
+        tabindex="0"
+      >
+        <td
+          class="MuiTableCell-root makeStyles-tableCellRoot-140 makeStyles-tableCellRoot-142 MuiTableCell-body"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-203 makeStyles-root-204 MuiTypography-body1"
+          >
+            <button
+              type="button"
+            >
+              Delete
+            </button>
+          </div>
+        </td>
+      </tr>
+      <tr
+        class="MuiTableRow-root MuiTableRow-hover makeStyles-tableRowHover-139"
+        tabindex="0"
+      >
+        <td
+          class="MuiTableCell-root makeStyles-tableCellRoot-140 makeStyles-tableCellRoot-142 MuiTableCell-body"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-205 makeStyles-root-206 MuiTypography-body1"
+          >
+            <button
+              type="button"
+            >
+              Delete
+            </button>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

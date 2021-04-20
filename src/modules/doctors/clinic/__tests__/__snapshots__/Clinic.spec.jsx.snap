@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Clinic Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-5 Clinic-root-1 Clinic-root-3"
+  >
+    <div>
+      Left Panel search and filter Component
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-6 Clinic-mapContainer-2"
+      classes="[object Object]"
+    >
+      <div>
+        Map Component with number of clinics
+        <span />
+      </div>
+    </div>
+    <div
+      data-open="false"
+      data-testid="not-found-toast"
+    >
+      No clinics available.
+      <div
+        data-testid="not-found-toast-close"
+      >
+        Close
+      </div>
+      <span />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clinic Component should match snapshot with disabled eWallet status 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-11 Clinic-root-7 Clinic-root-9"
+  >
+    <div>
+      Left Panel search and filter Component
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-12 Clinic-mapContainer-8"
+      classes="[object Object]"
+    >
+      <div>
+        Map Component with number of clinics
+        <span />
+      </div>
+    </div>
+    <div
+      data-open="false"
+      data-testid="not-found-toast"
+    >
+      No clinics available.
+      <div
+        data-testid="not-found-toast-close"
+      >
+        Close
+      </div>
+      <span />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clinic Component should match the snapshot with toast message when open snack bar is true 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-32 Clinic-root-28 Clinic-root-30"
+  >
+    <div>
+      Left Panel search and filter Component
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-33 Clinic-mapContainer-29"
+      classes="[object Object]"
+    >
+      <div>
+        Map Component with number of clinics
+        <span />
+      </div>
+    </div>
+    <div
+      data-open="true"
+      data-testid="not-found-toast"
+    >
+      No clinics available.
+      <div
+        data-testid="not-found-toast-close"
+      >
+        Close
+      </div>
+      <span />
+    </div>
+  </div>
+</div>
+`;

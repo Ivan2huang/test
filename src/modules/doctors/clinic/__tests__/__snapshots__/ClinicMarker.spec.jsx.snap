@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ClinicMarker Component should match the snapshot when clinic is already selected 1`] = `
+<div>
+  <div>
+    Marker icon : 
+    /static/active_locations.png
+    index: 
+    100
+    <div
+      data-testid="map-pin-100"
+    />
+    <span
+      data-id="props"
+    >
+      noRedraw = true
+    </span>
+  </div>
+</div>
+`;
+
+exports[`ClinicMarker Component should match the snapshot when no clinic is being selected 1`] = `
+<div>
+  <div>
+    Marker icon : 
+    /static/inactive_locations.png
+    index: 
+    100
+    <div
+      data-testid="map-pin-100"
+    />
+    <span
+      data-id="props"
+    >
+      noRedraw = true
+    </span>
+  </div>
+</div>
+`;

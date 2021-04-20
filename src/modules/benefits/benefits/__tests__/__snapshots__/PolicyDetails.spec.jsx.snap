@@ -1,0 +1,122 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Policy Details should render Policy Details Component 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-31"
+    >
+      <div>
+        Grid
+        <div
+          columns="[object Object]"
+        >
+          GridItem
+          <div
+            class="MuiBox-root MuiBox-root-32"
+          >
+            <div
+              type="style-3"
+            >
+              Policy Details
+              (Typography)
+            </div>
+          </div>
+        </div>
+        <div
+          columns="[object Object]"
+        >
+          GridItem
+          <div
+            class="MuiBox-root MuiBox-root-33"
+          >
+            <div
+              type="style-6"
+            >
+              insurer
+              (Typography)
+            </div>
+          </div>
+        </div>
+        <div
+          columns="[object Object]"
+        >
+          GridItem
+          <div
+            class="MuiBox-root MuiBox-root-34 PolicyDetails-itemBorder-1"
+          >
+            <div
+              type="style-5"
+            >
+              Axa
+              (Typography)
+            </div>
+          </div>
+        </div>
+        <div
+          columns="[object Object]"
+        >
+          GridItem
+          <div
+            class="MuiBox-root MuiBox-root-35"
+          >
+            <div
+              type="style-6"
+            >
+              policyNumber
+              (Typography)
+            </div>
+          </div>
+        </div>
+        <div
+          columns="[object Object]"
+        >
+          GridItem
+          <div
+            class="MuiBox-root MuiBox-root-36 PolicyDetails-itemBorder-1"
+          >
+            <div
+              type="style-5"
+            >
+              1234
+              (Typography)
+            </div>
+          </div>
+        </div>
+        <div
+          columns="[object Object]"
+        >
+          GridItem
+          <div
+            class="MuiBox-root MuiBox-root-37"
+          >
+            <div
+              type="style-6"
+            >
+              effectivePeriod
+              (Typography)
+            </div>
+          </div>
+        </div>
+        <div
+          columns="[object Object]"
+        >
+          GridItem
+          <div
+            class="MuiBox-root MuiBox-root-38 PolicyDetails-itemBorder-1"
+          >
+            <div
+              type="style-5"
+            >
+              20 Aug 2018 - 29 Aug 2019
+              (Typography)
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

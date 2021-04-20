@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`useful documents component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div>
+      Typography Component
+      Forms and Documents
+    </div>
+  </div>
+  <div>
+    <span>
+      Grid Component
+    </span>
+    <div>
+      <div
+        data-md="8"
+        data-xs="12"
+      >
+        <span>
+          GridItem Component
+        </span>
+        <div>
+          <div
+            class="MuiBox-root MuiBox-root-3"
+          >
+            <div>
+              File Items
+              <button
+                data-testid="file-0"
+                type="button"
+              >
+                name
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

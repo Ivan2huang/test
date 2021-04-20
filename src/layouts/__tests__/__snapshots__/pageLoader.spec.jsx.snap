@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page Loader Component should match snapshot with loader 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div
+      class="MuiCircularProgress-root MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+      role="progressbar"
+      style="width: 30px; height: 30px;"
+    >
+      <svg
+        class="MuiCircularProgress-svg"
+        viewBox="22 22 44 44"
+      >
+        <circle
+          class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+          cx="44"
+          cy="44"
+          fill="none"
+          r="20.2"
+          stroke-width="3.6"
+        />
+      </svg>
+    </div>
+  </div>
+  <div
+    class="ScreenReader-srOnly-15"
+  >
+    <div
+      aria-atomic="true"
+      aria-live="assertive"
+      class="MuiTypography-root makeStyles-root-16 makeStyles-root-17 MuiTypography-body1"
+      role="alert"
+    >
+      The content is loading now
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Page Loader Component should match snapshot without loader 1`] = `
+<div>
+  <div
+    class="ScreenReader-srOnly-48"
+  >
+    <div
+      aria-atomic="true"
+      aria-live="assertive"
+      class="MuiTypography-root makeStyles-root-49 makeStyles-root-50 MuiTypography-body1"
+      role="alert"
+    />
+  </div>
+</div>
+`;

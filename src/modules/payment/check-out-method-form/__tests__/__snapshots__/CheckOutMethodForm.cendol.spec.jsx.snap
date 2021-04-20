@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CheckOutMethodForm Component should match to snapshot when showDisclaimer is true 1`] = `
+<div>
+  <div>
+    CheckOutMethodForm
+    {"showDisclaimer":true,"addNewCardLabel":"Save and Pay now"}
+  </div>
+</div>
+`;

@@ -1,0 +1,257 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Dropdown utils should match Snapshot 1`] = `
+<div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+      data-shrink="true"
+      for="outlined-test-dropdown"
+    >
+      test label
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+      data-testid="test-dropdown"
+    >
+      <div
+        aria-haspopup="listbox"
+        class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+        id="select-test-dropdown"
+        role="button"
+        tabindex="0"
+      >
+        test1
+      </div>
+      <input
+        aria-describedby="helptext-"
+        id="outlined-test-dropdown"
+        name="test-dropdown"
+        type="hidden"
+        value="1"
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 18 18"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+        <mask
+          height="12"
+          id="mask0"
+          mask-type="alpha"
+          maskUnits="userSpaceOnUse"
+          width="18"
+          x="0"
+          y="4"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+            fill="white"
+            fill-rule="evenodd"
+          />
+        </mask>
+        <g
+          mask="url(#mask0)"
+        />
+      </svg>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-171 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-172"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    />
+  </div>
+</div>
+`;
+
+exports[`render Dropdown utils should match Snapshot with error 1`] = `
+<div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined Mui-error Mui-error MuiFormLabel-filled"
+      data-shrink="true"
+      for="outlined-test-dropdown"
+    >
+      test label
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root Mui-error Mui-error MuiInputBase-fullWidth MuiInputBase-formControl"
+      data-testid="test-dropdown"
+    >
+      <div
+        aria-haspopup="listbox"
+        class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+        id="select-test-dropdown"
+        role="button"
+        tabindex="0"
+      >
+        test1
+      </div>
+      <input
+        aria-describedby="helptext-"
+        id="outlined-test-dropdown"
+        name="test-dropdown"
+        type="hidden"
+        value="1"
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 18 18"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+        <mask
+          height="12"
+          id="mask0"
+          mask-type="alpha"
+          maskUnits="userSpaceOnUse"
+          width="18"
+          x="0"
+          y="4"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+            fill="white"
+            fill-rule="evenodd"
+          />
+        </mask>
+        <g
+          mask="url(#mask0)"
+        />
+      </svg>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-81 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-82"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    >
+      <p
+        class="MuiFormHelperText-root MuiFormHelperText-contained Mui-error MuiFormHelperText-filled"
+        id="helptext-"
+      >
+        Invalid value
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`render Dropdown utils should match snapshot with loading 1`] = `
+<div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+      data-shrink="true"
+      for="outlined-test-dropdown"
+    >
+      test label
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+      data-testid="test-dropdown"
+    >
+      <div
+        aria-haspopup="listbox"
+        class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+        id="select-test-dropdown"
+        role="button"
+        tabindex="0"
+      >
+        test1
+      </div>
+      <input
+        aria-describedby="helptext-"
+        id="outlined-test-dropdown"
+        name="test-dropdown"
+        type="hidden"
+        value="1"
+      />
+      <div
+        class="MuiCircularProgress-root StyledCircularProgress-root-240 MuiSelect-icon MuiSelect-iconOutlined MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+        role="progressbar"
+        style="width: 24px; height: 24px;"
+      >
+        <svg
+          class="MuiCircularProgress-svg"
+          viewBox="22 22 44 44"
+        >
+          <circle
+            class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+            cx="44"
+            cy="44"
+            fill="none"
+            r="20.2"
+            stroke-width="3.6"
+          />
+        </svg>
+      </div>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-257 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-258"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    />
+  </div>
+</div>
+`;

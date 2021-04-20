@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WellnessNewsletterModal Component should match the snapshot when closed 1`] = `<div />`;
+
+exports[`WellnessNewsletterModal Component should match the snapshot when open 1`] = `
+<div
+  aria-hidden="true"
+/>
+`;

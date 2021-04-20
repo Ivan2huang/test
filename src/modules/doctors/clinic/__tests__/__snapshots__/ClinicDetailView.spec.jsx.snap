@@ -1,0 +1,394 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Clinic detail view should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-5"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-21"
+    >
+      <button
+        class="MuiTypography-root MuiLink-root MuiLink-underlineNone MuiLink-button MuiTypography-colorPrimary"
+        data-testid="btn-back-to-results"
+      >
+        <div
+          class="MuiTypography-root makeStyles-root-58 makeStyles-root-59 MuiTypography-body1"
+        >
+          Back to results
+        </div>
+      </button>
+    </div>
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root ClinicDetailView-itemContainer-1 MuiBox-root MuiBox-root-60 ClinicDetailView-itemContainer-1 MuiPaper-rounded"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-89"
+      >
+        <div
+          class="MuiTypography-root makeStyles-root-91 makeStyles-root-92 MuiBox-root MuiBox-root-90 MuiTypography-body1"
+        >
+          Dr. Lam Chi Wan Edwin
+
+        </div>
+        <div
+          class="MuiTypography-root makeStyles-root-94 makeStyles-root-95 MuiBox-root MuiBox-root-93 MuiTypography-body1"
+        >
+          GASTRO ENTEROLOGY & HEPATOLOGY  
+        </div>
+        <div
+          class="MuiTypography-root makeStyles-root-97 makeStyles-root-98 MuiBox-root MuiBox-root-96 MuiTypography-body1"
+        >
+          <a
+            class="ClinicDetailView-teleTag-2"
+            data-action="Call clinic from clinic details"
+            data-category="Panel clinic details"
+            href="tel:2157 1111"
+          >
+            2157 1111
+          </a>
+          <a
+            class="ClinicDetailView-teleTag-2"
+            data-action="Call clinic from clinic details"
+            data-category="Panel clinic details"
+            href="tel:333 33333"
+          >
+            333 33333
+          </a>
+        </div>
+        <div
+          class="MuiTypography-root makeStyles-root-100 makeStyles-root-101 MuiBox-root MuiBox-root-99 MuiTypography-body1"
+        >
+          Room 1311, Central Building, 1-3 Pedder St., Central, Hong Kong
+        </div>
+      </div>
+      <hr
+        class="MuiDivider-root"
+      />
+      <div
+        class="MuiBox-root MuiBox-root-108"
+      >
+        <div
+          class="MuiTypography-root makeStyles-root-110 makeStyles-root-111 MuiBox-root MuiBox-root-109 MuiTypography-body1"
+        >
+          Availability
+        </div>
+        <div
+          class="MuiTypography-root makeStyles-root-112 makeStyles-root-113 MuiTypography-body1"
+        >
+          By appointment
+        </div>
+      </div>
+      <hr
+        class="MuiDivider-root"
+      />
+      <div
+        class="MuiBox-root MuiBox-root-114"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-115"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-117 makeStyles-root-118 MuiBox-root MuiBox-root-116 MuiTypography-body1"
+          >
+            Mon-Fri
+          </div>
+          <div
+            class="MuiTypography-root makeStyles-root-119 makeStyles-root-120 MuiTypography-body1"
+          >
+            10:00AM - 1:00PM
+          </div>
+          <div
+            class="MuiTypography-root makeStyles-root-121 makeStyles-root-122 MuiTypography-body1"
+          >
+            3:00PM - 6:00PM
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-123"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-125 makeStyles-root-126 MuiBox-root MuiBox-root-124 MuiTypography-body1"
+          >
+            Wed / Sat
+          </div>
+          <div
+            class="MuiTypography-root makeStyles-root-127 makeStyles-root-128 MuiTypography-body1"
+          >
+            10:00AM - 1:00PM
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-129"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-131 makeStyles-root-132 MuiBox-root MuiBox-root-130 MuiTypography-body1"
+          >
+            Peak hours
+          </div>
+          <div
+            class="MuiTypography-root makeStyles-root-133 makeStyles-root-134 MuiTypography-body1"
+          >
+            10:00AM - 1:00PM
+          </div>
+        </div>
+      </div>
+      <hr
+        class="MuiDivider-root"
+      />
+      <div
+        class="MuiBox-root MuiBox-root-135"
+      >
+        <div
+          class="MuiTypography-root makeStyles-root-137 makeStyles-root-138 MuiBox-root MuiBox-root-136 MuiTypography-body1"
+        >
+          Language(s) spoken
+        </div>
+        <div
+          class="MuiTypography-root makeStyles-root-139 makeStyles-root-140 MuiTypography-body1"
+        >
+          Cantonese and English
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clinic detail view should match snapshot when clinic information is missing 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-145"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-161"
+    >
+      <button
+        class="MuiTypography-root MuiLink-root MuiLink-underlineNone MuiLink-button MuiTypography-colorPrimary"
+        data-testid="btn-back-to-results"
+      >
+        <div
+          class="MuiTypography-root makeStyles-root-198 makeStyles-root-199 MuiTypography-body1"
+        >
+          Back to results
+        </div>
+      </button>
+    </div>
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root ClinicDetailView-itemContainer-141 MuiBox-root MuiBox-root-200 ClinicDetailView-itemContainer-141 MuiPaper-rounded"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-229"
+      >
+        <div
+          class="MuiTypography-root makeStyles-root-231 makeStyles-root-232 MuiBox-root MuiBox-root-230 MuiTypography-body1"
+        >
+          Dr. Lam Chi Wan Edwin
+
+        </div>
+        <div
+          class="MuiTypography-root makeStyles-root-234 makeStyles-root-235 MuiBox-root MuiBox-root-233 MuiTypography-body1"
+        />
+        <div
+          class="MuiTypography-root makeStyles-root-237 makeStyles-root-238 MuiBox-root MuiBox-root-236 MuiTypography-body1"
+        />
+        <div
+          class="MuiTypography-root makeStyles-root-240 makeStyles-root-241 MuiBox-root MuiBox-root-239 MuiTypography-body1"
+        />
+      </div>
+      
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clinic detail view should match snapshot when clinic is terminated 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-249"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-265"
+    >
+      <button
+        class="MuiTypography-root MuiLink-root MuiLink-underlineNone MuiLink-button MuiTypography-colorPrimary"
+        data-testid="btn-back-to-results"
+      >
+        <div
+          class="MuiTypography-root makeStyles-root-302 makeStyles-root-303 MuiTypography-body1"
+        >
+          Back to results
+        </div>
+      </button>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-307 makeStyles-container-305 makeStyles-container-306 NotificationBox-container-304 ClinicDetailView-terminatedItemContainer-247"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-308"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root"
+          focusable="false"
+          role="presentation"
+          style="width: 1.125rem; height: 1.125rem;"
+          viewBox="0 0 18 18"
+        >
+          <path
+            d="M9 18C13.9706 18 18 13.9706 18 9C18 4.02944 13.9706 0 9 0C4.02944 0 0 4.02944 0 9C0 13.9706 4.02944 18 9 18Z"
+            fill="#FFBB33"
+          />
+          <path
+            d="M9.00098 6.25C9.69133 6.25 10.251 5.69036 10.251 5C10.251 4.30964 9.69133 3.75 9.00098 3.75C8.31062 3.75 7.75098 4.30964 7.75098 5C7.75098 5.69036 8.31062 6.25 9.00098 6.25Z"
+            fill="#333333"
+          />
+          <path
+            d="M9.89997 8.25H8.09998V14.25H9.89997V8.25Z"
+            fill="#333333"
+          />
+        </svg>
+      </div>
+      <div
+        class="MuiTypography-root makeStyles-root-318 makeStyles-root-319 MuiTypography-body1"
+      >
+        Terminated. This clinic is no longer part of the panel clinic list and may not be covered.
+      </div>
+    </div>
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root ClinicDetailView-itemContainer-245 MuiBox-root MuiBox-root-320 ClinicDetailView-itemContainer-245 MuiPaper-rounded"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-349"
+      >
+        <div
+          class="MuiTypography-root makeStyles-root-351 makeStyles-root-352 MuiBox-root MuiBox-root-350 MuiTypography-body1"
+        >
+          Dr. Lam Chi Wan Edwin
+
+        </div>
+        <div
+          class="MuiTypography-root makeStyles-root-354 makeStyles-root-355 MuiBox-root MuiBox-root-353 MuiTypography-body1"
+        >
+          GASTRO ENTEROLOGY & HEPATOLOGY  
+        </div>
+        <div
+          class="MuiTypography-root makeStyles-root-357 makeStyles-root-358 MuiBox-root MuiBox-root-356 MuiTypography-body1"
+        >
+          <a
+            class="ClinicDetailView-teleTag-246"
+            data-action="Call clinic from clinic details"
+            data-category="Panel clinic details"
+            href="tel:2157 1111"
+          >
+            2157 1111
+          </a>
+          <a
+            class="ClinicDetailView-teleTag-246"
+            data-action="Call clinic from clinic details"
+            data-category="Panel clinic details"
+            href="tel:333 33333"
+          >
+            333 33333
+          </a>
+        </div>
+        <div
+          class="MuiTypography-root makeStyles-root-360 makeStyles-root-361 MuiBox-root MuiBox-root-359 MuiTypography-body1"
+        >
+          Room 1311, Central Building, 1-3 Pedder St., Central, Hong Kong
+        </div>
+      </div>
+      <hr
+        class="MuiDivider-root"
+      />
+      <div
+        class="MuiBox-root MuiBox-root-368"
+      >
+        <div
+          class="MuiTypography-root makeStyles-root-370 makeStyles-root-371 MuiBox-root MuiBox-root-369 MuiTypography-body1"
+        >
+          Availability
+        </div>
+        <div
+          class="MuiTypography-root makeStyles-root-372 makeStyles-root-373 MuiTypography-body1"
+        >
+          By appointment
+        </div>
+      </div>
+      <hr
+        class="MuiDivider-root"
+      />
+      <div
+        class="MuiBox-root MuiBox-root-374"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-375"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-377 makeStyles-root-378 MuiBox-root MuiBox-root-376 MuiTypography-body1"
+          >
+            Mon-Fri
+          </div>
+          <div
+            class="MuiTypography-root makeStyles-root-379 makeStyles-root-380 MuiTypography-body1"
+          >
+            10:00AM - 1:00PM
+          </div>
+          <div
+            class="MuiTypography-root makeStyles-root-381 makeStyles-root-382 MuiTypography-body1"
+          >
+            3:00PM - 6:00PM
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-383"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-385 makeStyles-root-386 MuiBox-root MuiBox-root-384 MuiTypography-body1"
+          >
+            Wed / Sat
+          </div>
+          <div
+            class="MuiTypography-root makeStyles-root-387 makeStyles-root-388 MuiTypography-body1"
+          >
+            10:00AM - 1:00PM
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-389"
+        >
+          <div
+            class="MuiTypography-root makeStyles-root-391 makeStyles-root-392 MuiBox-root MuiBox-root-390 MuiTypography-body1"
+          >
+            Peak hours
+          </div>
+          <div
+            class="MuiTypography-root makeStyles-root-393 makeStyles-root-394 MuiTypography-body1"
+          >
+            10:00AM - 1:00PM
+          </div>
+        </div>
+      </div>
+      <hr
+        class="MuiDivider-root"
+      />
+      <div
+        class="MuiBox-root MuiBox-root-395"
+      >
+        <div
+          class="MuiTypography-root makeStyles-root-397 makeStyles-root-398 MuiBox-root MuiBox-root-396 MuiTypography-body1"
+        >
+          Language(s) spoken
+        </div>
+        <div
+          class="MuiTypography-root makeStyles-root-399 makeStyles-root-400 MuiTypography-body1"
+        >
+          Cantonese and English
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clinic detail view should match snapshot when no clinic is selected 1`] = `<div />`;

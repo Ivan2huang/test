@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QRCode Component should match snapshot 1`] = `
+<div>
+  <div>
+    Modal Component
+    <div>
+      <div
+        type="style-2"
+      >
+        Markus Tan
+      </div>
+    </div>
+    <span>
+      handleClose = function handleClose
+      open = true
+    </span>
+    <div>
+      <div
+        class="MuiBox-root MuiBox-root-2"
+      >
+        <div
+          type="style-6"
+        >
+          Share card details by showing this QR code to clinic staff.
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-3"
+        >
+          <div>
+            QR Code React Component
+            <span>
+              size = 240
+              value = &lt;xml&gt;&lt;name&gt;Markus Tan&lt;/name&gt;&lt;/xml&gt;
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

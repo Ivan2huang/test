@@ -1,0 +1,573 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FutureMe  Component should match snapshot 1`] = `
+<div>
+  <div>
+    <hr
+      class="MuiDivider-root"
+    />
+    <div
+      class="MuiBox-root MuiBox-root-10"
+    >
+      <div>
+        <span>
+          Grid Component
+        </span>
+        <div>
+          <div
+            data-md="3"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <img
+                alt=""
+                src="/static/questionnaire_future_me.svg"
+              />
+            </div>
+          </div>
+          <div
+            data-md="3"
+            data-xs="12"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div>
+                <span>
+                  Future me
+                </span>
+                <span>
+                  <span>
+                    type = style-1
+                  </span>
+                </span>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-11"
+              >
+                <div>
+                  <span>
+                    Upload a selfie and we will analyse and predict the future you.
+                  </span>
+                  <span>
+                    <span>
+                      type = style-6
+                    </span>
+                  </span>
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-12"
+              >
+                <div>
+                  <span>
+                    Optional
+                  </span>
+                  <span>
+                    <span>
+                      type = style-8
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            data-md="3"
+            data-xs="12"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div
+                class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiBox-root MuiBox-root-13 FutureMe-imageContainer-1 MuiPaper-rounded"
+              >
+                <div>
+                  RenderUploadImage Component
+                  <button
+                    data-testid="btn-show-error"
+                    type="button"
+                  >
+                    file Uploader
+                  </button>
+                  <span>
+                    <span>
+                      input = [object Object]
+                      meta = [object Object]
+                    </span>
+                  </span>
+                </div>
+              </div>
+              <div>
+                <span>
+                  Only .jpeg, .PNG or Tiff files and size should not exceed more than 2mb.
+                </span>
+                <span>
+                  <span>
+                    type = style-8
+                    color = undefined
+                    id = upload-rule
+                  </span>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`FutureMe  Component should match snapshot when image is uploaded 1`] = `
+<div>
+  <div>
+    <hr
+      class="MuiDivider-root"
+    />
+    <div
+      class="MuiBox-root MuiBox-root-225"
+    >
+      <div>
+        <span>
+          Grid Component
+        </span>
+        <div>
+          <div
+            data-md="3"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <img
+                alt=""
+                src="/static/questionnaire_future_me.svg"
+              />
+            </div>
+          </div>
+          <div
+            data-md="3"
+            data-xs="12"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div>
+                <span>
+                  Future me
+                </span>
+                <span>
+                  <span>
+                    type = style-1
+                  </span>
+                </span>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-226"
+              >
+                <div>
+                  <span>
+                    Upload a selfie and we will analyse and predict the future you.
+                  </span>
+                  <span>
+                    <span>
+                      type = style-6
+                    </span>
+                  </span>
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-227"
+              >
+                <div>
+                  <span>
+                    Optional
+                  </span>
+                  <span>
+                    <span>
+                      type = style-8
+                    </span>
+                  </span>
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-228"
+              >
+                <div>
+                  Filepicker component
+                  <input
+                    data-testid="btn-reupload-file"
+                  />
+                  <span>
+                    fileTypes = png,jpeg,jpg,tiff,tif
+                    fileSize = 2048000
+                    inputProps = [object Object]
+                  </span>
+                  <label
+                    aria-disabled="false"
+                    class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+                    data-testid="reupload-photo-btn"
+                    role="button"
+                    tabindex="0"
+                  >
+                    <span
+                      class="MuiButton-label"
+                    >
+                      Reupload a photo
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </label>
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-260"
+              >
+                <button
+                  class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+                  data-testid="delete-photo-btn"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiButton-label"
+                  >
+                    Delete Photo
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </div>
+          </div>
+          <div
+            data-md="3"
+            data-xs="12"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div
+                class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiBox-root MuiBox-root-261 FutureMe-imageContainer-216 MuiPaper-rounded"
+              >
+                <img
+                  alt=""
+                  class="FutureMe-image-217"
+                  data-testid="aging-image"
+                />
+              </div>
+              <div>
+                <span>
+                  Only .jpeg, .PNG or Tiff files and size should not exceed more than 2mb.
+                </span>
+                <span>
+                  <span>
+                    type = style-8
+                    color = undefined
+                    id = upload-rule
+                  </span>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`FutureMe  Component should match snapshot with future image 1`] = `
+<div>
+  <div>
+    <hr
+      class="MuiDivider-root"
+    />
+    <div
+      class="MuiBox-root MuiBox-root-51"
+    >
+      <div>
+        <span>
+          Grid Component
+        </span>
+        <div>
+          <div
+            data-md="3"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <img
+                alt=""
+                src="/static/questionnaire_future_me.svg"
+              />
+            </div>
+          </div>
+          <div
+            data-md="3"
+            data-xs="12"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div>
+                <span>
+                  Future me
+                </span>
+                <span>
+                  <span>
+                    type = style-1
+                  </span>
+                </span>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-52"
+              >
+                <div>
+                  <span>
+                    Upload a selfie and we will analyse and predict the future you.
+                  </span>
+                  <span>
+                    <span>
+                      type = style-6
+                    </span>
+                  </span>
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-53"
+              >
+                <div>
+                  <span>
+                    Optional
+                  </span>
+                  <span>
+                    <span>
+                      type = style-8
+                    </span>
+                  </span>
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-54"
+              >
+                <div>
+                  Filepicker component
+                  <input
+                    data-testid="btn-reupload-file"
+                  />
+                  <span>
+                    fileTypes = png,jpeg,jpg,tiff,tif
+                    fileSize = 2048000
+                    inputProps = [object Object]
+                  </span>
+                  <label
+                    aria-disabled="false"
+                    class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+                    data-testid="reupload-photo-btn"
+                    role="button"
+                    tabindex="0"
+                  >
+                    <span
+                      class="MuiButton-label"
+                    >
+                      Reupload a photo
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </label>
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-86"
+              >
+                <button
+                  class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+                  data-testid="delete-photo-btn"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiButton-label"
+                  >
+                    Delete Photo
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </div>
+          </div>
+          <div
+            data-md="3"
+            data-xs="12"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div
+                class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiBox-root MuiBox-root-87 FutureMe-imageContainer-42 MuiPaper-rounded"
+              >
+                <img
+                  alt=""
+                  class="FutureMe-image-43"
+                  data-testid="aging-image"
+                />
+              </div>
+              <div>
+                <span>
+                  Only .jpeg, .PNG or Tiff files and size should not exceed more than 2mb.
+                </span>
+                <span>
+                  <span>
+                    type = style-8
+                    color = undefined
+                    id = upload-rule
+                  </span>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`FutureMe  Component should show error when invalid image is uploaded 1`] = `
+<div>
+  <div>
+    <hr
+      class="MuiDivider-root"
+    />
+    <div
+      class="MuiBox-root MuiBox-root-312"
+    >
+      <div>
+        <span>
+          Grid Component
+        </span>
+        <div>
+          <div
+            data-md="3"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <img
+                alt=""
+                src="/static/questionnaire_future_me.svg"
+              />
+            </div>
+          </div>
+          <div
+            data-md="3"
+            data-xs="12"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div>
+                <span>
+                  Future me
+                </span>
+                <span>
+                  <span>
+                    type = style-1
+                  </span>
+                </span>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-313"
+              >
+                <div>
+                  <span>
+                    Upload a selfie and we will analyse and predict the future you.
+                  </span>
+                  <span>
+                    <span>
+                      type = style-6
+                    </span>
+                  </span>
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-314"
+              >
+                <div>
+                  <span>
+                    Optional
+                  </span>
+                  <span>
+                    <span>
+                      type = style-8
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            data-md="3"
+            data-xs="12"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div
+                class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiBox-root MuiBox-root-315 FutureMe-imageContainer-303 MuiPaper-rounded"
+              >
+                <div>
+                  RenderUploadImage Component
+                  <button
+                    data-testid="btn-show-error"
+                    type="button"
+                  >
+                    file Uploader
+                  </button>
+                  <span>
+                    <span>
+                      input = [object Object]
+                      meta = [object Object]
+                    </span>
+                  </span>
+                </div>
+              </div>
+              <div>
+                <span>
+                  Only .jpeg, .PNG or Tiff files and size should not exceed more than 2mb.
+                </span>
+                <span>
+                  <span>
+                    type = style-8
+                    color = error
+                    id = upload-rule
+                  </span>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

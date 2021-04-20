@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Questionnaire Component should match snapshot 1`] = `
+<div>
+  <div>
+    QuestionnaireHeader Component
+    <span />
+  </div>
+  <div>
+    QuestionnaireForm Component
+    <span>
+      choicesQuestions = [object Object],[object Object]
+      healthQuestions = [object Object],[object Object]
+      submitQuestionnaire = function submitQuestionnaire
+      initialValues = [object Object]
+      futureMeImageChanged = false
+      faceAgingImageError = false
+      toggleErrorModal = function toggleErrorModal
+    </span>
+  </div>
+</div>
+`;

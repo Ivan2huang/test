@@ -1,0 +1,27 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_ddd)">
+<circle cx="30" cy="29" r="20" fill="white"/>
+</g>
+<path d="M30.0002 26.1428C28.4216 26.1428 27.1431 27.4214 27.1431 29C27.1431 30.5785 28.4216 31.8571 30.0002 31.8571C31.5788 31.8571 32.8574 30.5785 32.8574 29C32.8574 27.4214 31.5788 26.1428 30.0002 26.1428ZM36.3859 28.2857C36.0574 25.3071 33.6931 22.9428 30.7145 22.6143V21.1428H29.2859V22.6143C26.3074 22.9428 23.9431 25.3071 23.6145 28.2857H22.1431V29.7143H23.6145C23.9431 32.6928 26.3074 35.0571 29.2859 35.3857V36.8571H30.7145V35.3857C33.6931 35.0571 36.0574 32.6928 36.3859 29.7143H37.8574V28.2857H36.3859ZM30.0002 34C27.2359 34 25.0002 31.7643 25.0002 29C25.0002 26.2357 27.2359 24 30.0002 24C32.7645 24 35.0002 26.2357 35.0002 29C35.0002 31.7643 32.7645 34 30.0002 34Z" fill="#666666"/>
+<defs>
+<filter id="filter0_ddd" x="0" y="0" width="60" height="60" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.14 0"/>
+<feBlend mode="normal" in2="effect2_dropShadow" result="effect3_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect3_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>

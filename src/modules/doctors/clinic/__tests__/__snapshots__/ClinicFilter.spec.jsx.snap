@@ -1,0 +1,729 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Clinic Filter should apply filter and close popup when apply is clicked 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-280"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-281 ClinicFilter-filterField-277"
+      data-testid="field-filter"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-345 makeStyles-root-346 MuiTypography-body1"
+      >
+        1 filter(s) selected
+      </div>
+      <button
+        class="MuiButtonBase-root MuiIconButton-root ClinicFilter-iconButton-278"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            style="width: 1.125rem; height: 1.125rem;"
+            viewBox="0 0 18 18"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M0 15.0601L9 6.06235L18 15.0601V13.1521L9 4.1521L0 13.1521V15.0601Z"
+              fill="#333333"
+              fill-rule="evenodd"
+            />
+            <mask
+              height="12"
+              id="mask0"
+              mask-type="alpha"
+              maskUnits="userSpaceOnUse"
+              width="18"
+              x="0"
+              y="4"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M0 15.0601L9 6.06235L18 15.0601V13.1521L9 4.1521L0 13.1521V15.0601Z"
+                fill="white"
+                fill-rule="evenodd"
+              />
+            </mask>
+            <g
+              mask="url(#mask0)"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      data-open="true"
+      data-testid="filters-list"
+    >
+      ClinicConsulationTypeFilter
+      <span>
+        open State:
+        true
+      </span>
+      <div>
+        filters:
+        consultationtype1
+      </div>
+      <button
+        data-testid="change-filter-0"
+        type="button"
+      >
+        consultationtype1
+      </button>
+      <button
+        data-testid="change-filter-1"
+        type="button"
+      >
+        consultationtype2
+      </button>
+      <button
+        data-testid="btn-clear-filter"
+        type="button"
+      >
+        clear
+      </button>
+      <button
+        data-testid="btn-apply-filter"
+        type="button"
+      >
+        apply
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clinic Filter should clear all filter when clicked on clear all 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-422"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-423 ClinicFilter-filterField-419"
+      data-testid="field-filter"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-489 makeStyles-root-490 MuiTypography-body1"
+      >
+        All clinic types
+      </div>
+      <button
+        class="MuiButtonBase-root MuiIconButton-root ClinicFilter-iconButton-420"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            style="width: 1.125rem; height: 1.125rem;"
+            viewBox="0 0 18 18"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M0 15.0601L9 6.06235L18 15.0601V13.1521L9 4.1521L0 13.1521V15.0601Z"
+              fill="#333333"
+              fill-rule="evenodd"
+            />
+            <mask
+              height="12"
+              id="mask0"
+              mask-type="alpha"
+              maskUnits="userSpaceOnUse"
+              width="18"
+              x="0"
+              y="4"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M0 15.0601L9 6.06235L18 15.0601V13.1521L9 4.1521L0 13.1521V15.0601Z"
+                fill="white"
+                fill-rule="evenodd"
+              />
+            </mask>
+            <g
+              mask="url(#mask0)"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      data-open="true"
+      data-testid="filters-list"
+    >
+      ClinicConsulationTypeFilter
+      <span>
+        open State:
+        true
+      </span>
+      <div>
+        filters:
+        
+      </div>
+      <button
+        data-testid="change-filter-0"
+        type="button"
+      >
+        consultationtype1
+      </button>
+      <button
+        data-testid="change-filter-1"
+        type="button"
+      >
+        consultationtype2
+      </button>
+      <button
+        data-testid="btn-clear-filter"
+        type="button"
+      >
+        clear
+      </button>
+      <button
+        data-testid="btn-apply-filter"
+        type="button"
+      >
+        apply
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clinic Filter should display label for filter field on filter change 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-140"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-141 ClinicFilter-filterField-137"
+      data-testid="field-filter"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-205 makeStyles-root-206 MuiTypography-body1"
+      >
+        1 filter(s) applied
+      </div>
+      <button
+        class="MuiButtonBase-root MuiIconButton-root ClinicFilter-iconButton-138"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            style="width: 1.125rem; height: 1.125rem;"
+            viewBox="0 0 18 18"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+              fill="#333333"
+              fill-rule="evenodd"
+            />
+            <mask
+              height="12"
+              id="mask0"
+              mask-type="alpha"
+              maskUnits="userSpaceOnUse"
+              width="18"
+              x="0"
+              y="4"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                fill="white"
+                fill-rule="evenodd"
+              />
+            </mask>
+            <g
+              mask="url(#mask0)"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      data-open="false"
+      data-testid="filters-list"
+    >
+      ClinicConsulationTypeFilter
+      <span>
+        open State:
+        false
+      </span>
+      <div>
+        filters:
+        consultationtype1
+      </div>
+      <button
+        data-testid="change-filter-0"
+        type="button"
+      >
+        consultationtype1
+      </button>
+      <button
+        data-testid="change-filter-1"
+        type="button"
+      >
+        consultationtype2
+      </button>
+      <button
+        data-testid="btn-clear-filter"
+        type="button"
+      >
+        clear
+      </button>
+      <button
+        data-testid="btn-apply-filter"
+        type="button"
+      >
+        apply
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clinic Filter should display selected label when popup is opened 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-494"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-495 ClinicFilter-filterField-491"
+      data-testid="field-filter"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-559 makeStyles-root-560 MuiTypography-body1"
+      >
+        1 filter(s) selected
+      </div>
+      <button
+        class="MuiButtonBase-root MuiIconButton-root ClinicFilter-iconButton-492"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            style="width: 1.125rem; height: 1.125rem;"
+            viewBox="0 0 18 18"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M0 15.0601L9 6.06235L18 15.0601V13.1521L9 4.1521L0 13.1521V15.0601Z"
+              fill="#333333"
+              fill-rule="evenodd"
+            />
+            <mask
+              height="12"
+              id="mask0"
+              mask-type="alpha"
+              maskUnits="userSpaceOnUse"
+              width="18"
+              x="0"
+              y="4"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M0 15.0601L9 6.06235L18 15.0601V13.1521L9 4.1521L0 13.1521V15.0601Z"
+                fill="white"
+                fill-rule="evenodd"
+              />
+            </mask>
+            <g
+              mask="url(#mask0)"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      data-open="true"
+      data-testid="filters-list"
+    >
+      ClinicConsulationTypeFilter
+      <span>
+        open State:
+        true
+      </span>
+      <div>
+        filters:
+        consultationtype1
+      </div>
+      <button
+        data-testid="change-filter-0"
+        type="button"
+      >
+        consultationtype1
+      </button>
+      <button
+        data-testid="change-filter-1"
+        type="button"
+      >
+        consultationtype2
+      </button>
+      <button
+        data-testid="btn-clear-filter"
+        type="button"
+      >
+        clear
+      </button>
+      <button
+        data-testid="btn-apply-filter"
+        type="button"
+      >
+        apply
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clinic Filter should do not apply filter and close popup when clicked outside 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-350"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-351 ClinicFilter-filterField-347"
+      data-testid="field-filter"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-417 makeStyles-root-418 MuiTypography-body1"
+      >
+        All clinic types
+      </div>
+      <button
+        class="MuiButtonBase-root MuiIconButton-root ClinicFilter-iconButton-348"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            style="width: 1.125rem; height: 1.125rem;"
+            viewBox="0 0 18 18"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M0 15.0601L9 6.06235L18 15.0601V13.1521L9 4.1521L0 13.1521V15.0601Z"
+              fill="#333333"
+              fill-rule="evenodd"
+            />
+            <mask
+              height="12"
+              id="mask0"
+              mask-type="alpha"
+              maskUnits="userSpaceOnUse"
+              width="18"
+              x="0"
+              y="4"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M0 15.0601L9 6.06235L18 15.0601V13.1521L9 4.1521L0 13.1521V15.0601Z"
+                fill="white"
+                fill-rule="evenodd"
+              />
+            </mask>
+            <g
+              mask="url(#mask0)"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      data-open="true"
+      data-testid="filters-list"
+    >
+      ClinicConsulationTypeFilter
+      <span>
+        open State:
+        true
+      </span>
+      <div>
+        filters:
+        
+      </div>
+      <button
+        data-testid="change-filter-0"
+        type="button"
+      >
+        consultationtype1
+      </button>
+      <button
+        data-testid="change-filter-1"
+        type="button"
+      >
+        consultationtype2
+      </button>
+      <button
+        data-testid="btn-clear-filter"
+        type="button"
+      >
+        clear
+      </button>
+      <button
+        data-testid="btn-apply-filter"
+        type="button"
+      >
+        apply
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clinic Filter should list consultation types on open 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-72"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-73 ClinicFilter-filterField-69"
+      data-testid="field-filter"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-74 makeStyles-root-75 MuiTypography-body1"
+      >
+        All clinic types
+      </div>
+      <button
+        class="MuiButtonBase-root MuiIconButton-root ClinicFilter-iconButton-70"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            style="width: 1.125rem; height: 1.125rem;"
+            viewBox="0 0 18 18"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M0 15.0601L9 6.06235L18 15.0601V13.1521L9 4.1521L0 13.1521V15.0601Z"
+              fill="#333333"
+              fill-rule="evenodd"
+            />
+            <mask
+              height="12"
+              id="mask0"
+              mask-type="alpha"
+              maskUnits="userSpaceOnUse"
+              width="18"
+              x="0"
+              y="4"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M0 15.0601L9 6.06235L18 15.0601V13.1521L9 4.1521L0 13.1521V15.0601Z"
+                fill="white"
+                fill-rule="evenodd"
+              />
+            </mask>
+            <g
+              mask="url(#mask0)"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      data-open="true"
+      data-testid="filters-list"
+    >
+      ClinicConsulationTypeFilter
+      <span>
+        open State:
+        true
+      </span>
+      <div>
+        filters:
+        
+      </div>
+      <button
+        data-testid="change-filter-0"
+        type="button"
+      >
+        consultationtype1
+      </button>
+      <button
+        data-testid="change-filter-1"
+        type="button"
+      >
+        consultationtype2
+      </button>
+      <button
+        data-testid="btn-clear-filter"
+        type="button"
+      >
+        clear
+      </button>
+      <button
+        data-testid="btn-apply-filter"
+        type="button"
+      >
+        apply
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clinic Filter should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-4"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-5 ClinicFilter-filterField-1"
+      data-testid="field-filter"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-6 makeStyles-root-7 MuiTypography-body1"
+      >
+        All clinic types
+      </div>
+      <button
+        class="MuiButtonBase-root MuiIconButton-root ClinicFilter-iconButton-2"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            style="width: 1.125rem; height: 1.125rem;"
+            viewBox="0 0 18 18"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+              fill="#333333"
+              fill-rule="evenodd"
+            />
+            <mask
+              height="12"
+              id="mask0"
+              mask-type="alpha"
+              maskUnits="userSpaceOnUse"
+              width="18"
+              x="0"
+              y="4"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                fill="white"
+                fill-rule="evenodd"
+              />
+            </mask>
+            <g
+              mask="url(#mask0)"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      data-open="false"
+      data-testid="filters-list"
+    >
+      ClinicConsulationTypeFilter
+      <span>
+        open State:
+        false
+      </span>
+      <div>
+        filters:
+        
+      </div>
+      <button
+        data-testid="change-filter-0"
+        type="button"
+      >
+        consultationtype1
+      </button>
+      <button
+        data-testid="change-filter-1"
+        type="button"
+      >
+        consultationtype2
+      </button>
+      <button
+        data-testid="btn-clear-filter"
+        type="button"
+      >
+        clear
+      </button>
+      <button
+        data-testid="btn-apply-filter"
+        type="button"
+      >
+        apply
+      </button>
+    </div>
+  </div>
+</div>
+`;

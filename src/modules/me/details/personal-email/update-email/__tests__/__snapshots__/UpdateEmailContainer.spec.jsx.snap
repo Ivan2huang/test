@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UpdateEmail Container should match snapshot 1`] = `
+<div>
+  <div
+    active="details"
+  >
+    Me Component
+    <div
+      class="MuiBox-root MuiBox-root-4 injectIntl(Layout)-backContainer-1"
+    >
+      <button
+        data-testid="btn-BackToDetails"
+        type="button"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root injectIntl(Layout)-backIcon-2"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M11.67 3.87L9.9 2.1 0 12l9.9 9.9 1.77-1.77L3.54 12z"
+          />
+        </svg>
+        <div
+          class="MuiTypography-root makeStyles-root-178 makeStyles-root-179 MuiTypography-body1"
+        >
+          My details
+        </div>
+      </button>
+    </div>
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <form
+        autocomplete="off"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-74"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container"
+          />
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+`;

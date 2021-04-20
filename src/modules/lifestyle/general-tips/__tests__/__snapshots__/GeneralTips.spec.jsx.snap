@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`General Tips Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-3"
+    >
+      <div>
+        Typography Component
+        <span>
+          type = style-2
+        </span>
+        More lifestyle tips
+      </div>
+    </div>
+    <div>
+      ComponentLoaderAndError Component
+      <span>
+        loading = false
+        errorState = false
+      </span>
+      <div>
+        <span>
+          Item Container Component
+        </span>
+        <div>
+          <div>
+            <span>
+              xyz
+            </span>
+            <span>
+              abc
+            </span>
+            <span>
+              test text
+            </span>
+            <span>
+              http://xyz.com
+            </span>
+          </div>
+        </div>
+        <span>
+          itemLength = 1
+          numberOfColumns = 4
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`General Tips Component should match snapshot when tips is null 1`] = `<div />`;
+
+exports[`General Tips Component should match snapshot when tips is undefined 1`] = `<div />`;

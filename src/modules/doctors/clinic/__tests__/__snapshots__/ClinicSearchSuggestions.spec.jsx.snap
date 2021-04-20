@@ -1,0 +1,402 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ClinicSearchSuggestions Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root ClinicSearchSuggestions-container-1 MuiPaper-rounded PrivateHiddenCss-xsUp-31"
+  >
+    <ul
+      class="MuiList-root MuiList-padding"
+      role="menu"
+      tabindex="-1"
+    >
+      <li
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+        role="menuitem"
+        tabindex="0"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root"
+          focusable="false"
+          role="presentation"
+          style="width: 1.125rem; height: 1.125rem;"
+          viewBox="0 0 24 24"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M0 8.04133V0H24V8.04133C24 15.6147 18.9307 22 12 24C5.07067 22 0 17.236 0 9.66267V8.04133ZM11.996 22.3293C18.1453 20.3453 22.4 14.536 22.4 8.04133V1.6H1.6V8.04133V9.66267C1.6 17.7733 7.91333 21.056 11.996 22.3293ZM12.6667 4.66699V9.33301H17.3334V10.6663H12.6667V15.3337H11.3334V10.6663H6.66675V9.33301H11.3334V4.66699H12.6667Z"
+            fill="#333333"
+            fill-rule="evenodd"
+          />
+        </svg>
+        <div
+          class="MuiBox-root MuiBox-root-77"
+        >
+          <div
+            type="style-5"
+          >
+            Show all clinics
+          </div>
+        </div>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </li>
+      <div
+        class="MuiBox-root MuiBox-root-78"
+      >
+        <li
+          aria-disabled="true"
+          class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters Mui-disabled MuiListItem-button Mui-disabled"
+          role="menuitem"
+          tabindex="-1"
+        >
+          <div
+            type="style-5"
+          >
+            Recent search
+          </div>
+        </li>
+        <li
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+          role="menuitem"
+          tabindex="0"
+        >
+          <div
+            type="style-5"
+          >
+            HongKong (Area)
+          </div>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </li>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-79"
+      >
+        <li
+          aria-disabled="true"
+          class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters Mui-disabled MuiListItem-button Mui-disabled"
+          role="menuitem"
+          tabindex="-1"
+        >
+          <div
+            type="style-5"
+          >
+            Areas
+          </div>
+        </li>
+        <li
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+          data-testid="search-by-area"
+          role="menuitem"
+          tabindex="0"
+        >
+          <div
+            type="style-5"
+          >
+            area1
+          </div>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </li>
+        <li
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+          data-testid="search-by-area"
+          role="menuitem"
+          tabindex="0"
+        >
+          <div
+            type="style-5"
+          >
+            area2
+          </div>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </li>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-80"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-81"
+        >
+          <li
+            aria-disabled="true"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters Mui-disabled MuiListItem-button Mui-disabled"
+            role="menuitem"
+            tabindex="-1"
+          >
+            <div
+              type="style-5"
+            >
+              District - area1
+            </div>
+          </li>
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+            data-testid="search-by-district"
+            role="menuitem"
+            tabindex="0"
+          >
+            <div
+              type="style-5"
+            >
+              Central1
+            </div>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </li>
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+            data-testid="search-by-district"
+            role="menuitem"
+            tabindex="0"
+          >
+            <div
+              type="style-5"
+            >
+              Central3
+            </div>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </li>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-82"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-83"
+        >
+          <li
+            aria-disabled="true"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters Mui-disabled MuiListItem-button Mui-disabled"
+            role="menuitem"
+            tabindex="-1"
+          >
+            <div
+              type="style-5"
+            >
+              District - area2
+            </div>
+          </li>
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+            data-testid="search-by-district"
+            role="menuitem"
+            tabindex="0"
+          >
+            <div
+              type="style-5"
+            >
+              Central2
+            </div>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </li>
+        </div>
+      </div>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`ClinicSearchSuggestions Component should not render the recent searches suggestion when recent searches are empty 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root ClinicSearchSuggestions-container-187 MuiPaper-rounded PrivateHiddenCss-xsUp-217"
+  >
+    <ul
+      class="MuiList-root MuiList-padding"
+      role="menu"
+      tabindex="-1"
+    >
+      <li
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+        role="menuitem"
+        tabindex="0"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root"
+          focusable="false"
+          role="presentation"
+          style="width: 1.125rem; height: 1.125rem;"
+          viewBox="0 0 24 24"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M0 8.04133V0H24V8.04133C24 15.6147 18.9307 22 12 24C5.07067 22 0 17.236 0 9.66267V8.04133ZM11.996 22.3293C18.1453 20.3453 22.4 14.536 22.4 8.04133V1.6H1.6V8.04133V9.66267C1.6 17.7733 7.91333 21.056 11.996 22.3293ZM12.6667 4.66699V9.33301H17.3334V10.6663H12.6667V15.3337H11.3334V10.6663H6.66675V9.33301H11.3334V4.66699H12.6667Z"
+            fill="#333333"
+            fill-rule="evenodd"
+          />
+        </svg>
+        <div
+          class="MuiBox-root MuiBox-root-263"
+        >
+          <div
+            type="style-5"
+          >
+            Show all clinics
+          </div>
+        </div>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </li>
+      <div
+        class="MuiBox-root MuiBox-root-264"
+      >
+        <li
+          aria-disabled="true"
+          class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters Mui-disabled MuiListItem-button Mui-disabled"
+          role="menuitem"
+          tabindex="-1"
+        >
+          <div
+            type="style-5"
+          >
+            Areas
+          </div>
+        </li>
+        <li
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+          data-testid="search-by-area"
+          role="menuitem"
+          tabindex="0"
+        >
+          <div
+            type="style-5"
+          >
+            area1
+          </div>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </li>
+        <li
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+          data-testid="search-by-area"
+          role="menuitem"
+          tabindex="0"
+        >
+          <div
+            type="style-5"
+          >
+            area2
+          </div>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </li>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-265"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-266"
+        >
+          <li
+            aria-disabled="true"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters Mui-disabled MuiListItem-button Mui-disabled"
+            role="menuitem"
+            tabindex="-1"
+          >
+            <div
+              type="style-5"
+            >
+              District - area1
+            </div>
+          </li>
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+            data-testid="search-by-district"
+            role="menuitem"
+            tabindex="0"
+          >
+            <div
+              type="style-5"
+            >
+              Central1
+            </div>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </li>
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+            data-testid="search-by-district"
+            role="menuitem"
+            tabindex="0"
+          >
+            <div
+              type="style-5"
+            >
+              Central3
+            </div>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </li>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-267"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-268"
+        >
+          <li
+            aria-disabled="true"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters Mui-disabled MuiListItem-button Mui-disabled"
+            role="menuitem"
+            tabindex="-1"
+          >
+            <div
+              type="style-5"
+            >
+              District - area2
+            </div>
+          </li>
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+            data-testid="search-by-district"
+            role="menuitem"
+            tabindex="0"
+          >
+            <div
+              type="style-5"
+            >
+              Central2
+            </div>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </li>
+        </div>
+      </div>
+    </ul>
+  </div>
+</div>
+`;

@@ -1,0 +1,46 @@
+{
+  "clientId": "cxadevclient1",
+  "memberId": "3",
+  "fullName": "William Brown",
+  "firstName": "William",
+  "lastName": "Brown",
+  "email": "william@abc.com",
+  "externalId": "3",
+  "gender": "Male",
+  "dateOfBirth": "1989-09-01T00:00:00",
+  "role": "Employee",
+  "relationshipToEmployee": "Self",
+  "relationshipCategory": "Self",
+  "contactNumber": "852 900011",
+  "preferredLocale": "en-HK",
+  "relationships": [
+    {
+      "memberId": "27",
+      "fullName": "Catherine Brown Tan",
+      "firstName": "Catherine Brown",
+      "lastName": "Tan",
+      "email": "cath@test.com",
+      "externalId": "0000124",
+      "gender": "Female",
+      "dateOfBirth": "1990-01-01T00:00:00",
+      "role": "Dependent",
+      "relationshipToEmployee": "Civil Partner",
+      "relationshipCategory": "Spouse",
+      "contactNumber": null
+    },
+    {
+      "memberId": "28",
+      "fullName": "George Brown Tan",
+      "firstName": "George Brown",
+      "lastName": "Tan",
+      "email": "george@test.com",
+      "externalId": "0000125",
+      "gender": "Male",
+      "dateOfBirth": "1990-01-01T00:00:00",
+      "role": "Dependent",
+      "relationshipToEmployee": "Step Child",
+      "relationshipCategory": "Child",
+      "contactNumber": null
+    }
+  ]
+}

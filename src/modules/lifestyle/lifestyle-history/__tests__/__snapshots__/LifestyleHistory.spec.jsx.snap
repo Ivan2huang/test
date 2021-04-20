@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Lifestyle history Component should match snapshot 1`] = `
+<div>
+  <div
+    aria-labelledby="myLifeStyleTitle myHistoryScore"
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root LifestyleHistory-muiCardRoot-1 MuiPaper-rounded"
+    tabindex="0"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-31"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-32"
+      >
+        <div
+          class="MuiTypography-root makeStyles-root-33 makeStyles-root-34 MuiTypography-body1"
+          id="myLifeStyleTitle"
+        >
+          My lifestyle history
+        </div>
+      </div>
+      <div>
+        ComponentLoaderAndError Component
+        <span>
+          loading = false
+          errorState = false
+        </span>
+        <div>
+          BarChart
+          [{"score":1,"createdOn":"Jan"}]
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

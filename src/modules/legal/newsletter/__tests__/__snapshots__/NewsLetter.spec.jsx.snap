@@ -1,0 +1,191 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewsLetter Component should match snapshot with chinese content when click on language tab 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-121"
+  >
+    <div
+      class="MuiTypography-root makeStyles-root-227 makeStyles-root-228 MuiTypography-body1"
+    >
+      保健通訊
+    </div>
+    <div
+      class="MuiTabs-root makeStyles-tabContainer-116 makeStyles-tabContainer-119"
+    >
+      <div
+        class="MuiTabs-scroller MuiTabs-fixed"
+        style="overflow: hidden;"
+      >
+        <div
+          class="MuiTabs-flexContainer"
+          role="tablist"
+        >
+          <button
+            aria-selected="false"
+            class="MuiButtonBase-root MuiTab-root makeStyles-firstTab-115 makeStyles-firstTab-118 MuiTab-textColorInherit"
+            data-testid="english-tab"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <div
+                class="MuiTypography-root makeStyles-root-229 makeStyles-root-230 MuiTypography-body1"
+              >
+                English
+              </div>
+            </span>
+          </button>
+          <button
+            aria-selected="true"
+            class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected"
+            data-testid="chinese-tab"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <div
+                class="MuiTypography-root makeStyles-root-231 makeStyles-root-232 MuiTypography-body1"
+              >
+                中文
+              </div>
+            </span>
+          </button>
+        </div>
+        <span
+          class="PrivateTabIndicator-root-180 PrivateTabIndicator-colorSecondary-182 MuiTabs-indicator"
+          style="left: 0px; width: 0px;"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-186 makeStyles-description-114 makeStyles-description-117"
+      classes="[object Object]"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-233 makeStyles-root-234 MuiTypography-body1"
+      >
+        <span>
+          Chinese Content
+        </span>
+      </div>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+      data-testid="btn-back-to-previous-page"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        返回之前介頁
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`NewsLetter Component should match snapshot with default english content 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-8"
+  >
+    <div
+      class="MuiTypography-root makeStyles-root-9 makeStyles-root-10 MuiTypography-body1"
+    >
+      Wellness Newsletter
+    </div>
+    <div
+      class="MuiTabs-root makeStyles-tabContainer-3 makeStyles-tabContainer-6"
+    >
+      <div
+        class="MuiTabs-scroller MuiTabs-fixed"
+        style="overflow: hidden;"
+      >
+        <div
+          class="MuiTabs-flexContainer"
+          role="tablist"
+        >
+          <button
+            aria-selected="true"
+            class="MuiButtonBase-root MuiTab-root makeStyles-firstTab-2 makeStyles-firstTab-5 MuiTab-textColorInherit Mui-selected"
+            data-testid="english-tab"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <div
+                class="MuiTypography-root makeStyles-root-65 makeStyles-root-66 MuiTypography-body1"
+              >
+                English
+              </div>
+            </span>
+          </button>
+          <button
+            aria-selected="false"
+            class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit"
+            data-testid="chinese-tab"
+            role="tab"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiTab-wrapper"
+            >
+              <div
+                class="MuiTypography-root makeStyles-root-71 makeStyles-root-72 MuiTypography-body1"
+              >
+                中文
+              </div>
+            </span>
+          </button>
+        </div>
+        <span
+          class="PrivateTabIndicator-root-67 PrivateTabIndicator-colorSecondary-69 MuiTabs-indicator"
+          style="left: 0px; width: 0px;"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-73 makeStyles-description-1 makeStyles-description-4"
+      classes="[object Object]"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-74 makeStyles-root-75 MuiTypography-body1"
+      >
+        <span>
+          English Content
+        </span>
+      </div>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+      data-testid="btn-back-to-previous-page"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Go back to the previous screen
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;

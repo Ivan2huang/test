@@ -1,0 +1,412 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details Component should match the snapshot when user is dependent 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-14"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-15"
+    >
+      <div
+        type="style-2"
+      >
+        My details
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-16"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-17"
+      >
+        <div
+          type="style-3"
+        >
+          Main policy holder
+        </div>
+      </div>
+      <div>
+        <span>
+          Person Info
+        </span>
+        <span
+          data-id="props"
+        >
+          Name = Mark Tan
+          Membership Number = 12345
+          Company email address = testing@company.com
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-18"
+    >
+      <div
+        type="style-3"
+      >
+        Dependent(s)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-19"
+    >
+      <div>
+        <span>
+          Person Info
+        </span>
+        <span
+          data-id="props"
+        >
+          Name = William Born
+          Relationship = 
+          Membership Number = 8907
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-20"
+    >
+      <div>
+        <span>
+          Person Info
+        </span>
+        <span
+          data-id="props"
+        >
+          Name = Dash Born
+          Relationship = 
+          Membership Number = 8907
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-21"
+    >
+      <div>
+        <span>
+          Person Info
+        </span>
+        <span
+          data-id="props"
+        >
+          Name = Catherine Tan
+          Relationship = 
+          Membership Number = 8908
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Details Component should match the snapshot when user is dependent and logged in 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-23"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-24"
+    >
+      <div
+        type="style-2"
+      >
+        My details
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-25"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-26"
+      >
+        <div
+          type="style-3"
+        >
+          Main policy holder
+        </div>
+      </div>
+      <div>
+        <span>
+          Person Info
+        </span>
+        <span
+          data-id="props"
+        >
+          Name = Mark Tan
+          Membership Number = 12345
+          Company email address = testing@company.com
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-27"
+    >
+      <div
+        type="style-3"
+      >
+        Dependent(s)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-28"
+    >
+      <div>
+        <span>
+          Person Info
+        </span>
+        <span
+          data-id="props"
+        >
+          Name = William Born
+          Relationship = 
+          Membership Number = 8907
+          Email address = william@test.com
+          Mobile number = -
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-29"
+    >
+      <div>
+        <span>
+          Person Info
+        </span>
+        <span
+          data-id="props"
+        >
+          Name = Dash Born
+          Relationship = 
+          Membership Number = 8907
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-30"
+    >
+      <div>
+        <span>
+          Person Info
+        </span>
+        <span
+          data-id="props"
+        >
+          Name = Catherine Tan
+          Relationship = 
+          Membership Number = 8908
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Details Component should match the snapshot with dependents 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-3"
+    >
+      <div
+        type="style-2"
+      >
+        My details
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-4"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-5"
+      >
+        <div
+          type="style-3"
+        >
+          Main policy holder
+        </div>
+      </div>
+      <div>
+        <span>
+          Person Info
+        </span>
+        <span
+          data-id="props"
+        >
+          Name = Mark Tan
+          Membership Number = 000110
+          Email address = testing@test.com
+          Mobile number = -
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-6"
+    />
+  </div>
+</div>
+`;
+
+exports[`Details Component should match the snapshot with pending email status warning box 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-32"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-33"
+    >
+      <div
+        type="style-2"
+      >
+        My details
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-34"
+    >
+      <div>
+        Warning Pending Email Box
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-35"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-36"
+      >
+        <div
+          type="style-3"
+        >
+          Main policy holder
+        </div>
+      </div>
+      <div>
+        <span>
+          Person Info
+        </span>
+        <span
+          data-id="props"
+        >
+          Name = Mark Tan
+          Membership Number = 000110
+          Email address = testing@test.com
+          Mobile number = -
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-37"
+    />
+  </div>
+</div>
+`;
+
+exports[`Details Component should match the snapshot with pending mobile number status warning box 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-39"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-40"
+    >
+      <div
+        type="style-2"
+      >
+        My details
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-41"
+    >
+      <div>
+        Warning Pending Email Box
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-42"
+    >
+      <div>
+        Warning Pending Mobile Number Box
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-43"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-44"
+      >
+        <div
+          type="style-3"
+        >
+          Main policy holder
+        </div>
+      </div>
+      <div>
+        <span>
+          Person Info
+        </span>
+        <span
+          data-id="props"
+        >
+          Name = Mark Tan
+          Membership Number = 000110
+          Email address = testing@test.com
+          Mobile number = -
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-45"
+    />
+  </div>
+</div>
+`;
+
+exports[`Details Component should match the snapshot without dependents 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-8"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-9"
+    >
+      <div
+        type="style-2"
+      >
+        My details
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-10"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-11"
+      >
+        <div
+          type="style-3"
+        >
+          Main policy holder
+        </div>
+      </div>
+      <div>
+        <span>
+          Person Info
+        </span>
+        <span
+          data-id="props"
+        >
+          Name = Mark Tan
+          Membership Number = 000110
+          Email address = testing@test.com
+          Mobile number = -
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-12"
+    />
+  </div>
+</div>
+`;

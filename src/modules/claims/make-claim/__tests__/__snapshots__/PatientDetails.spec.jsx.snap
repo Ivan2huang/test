@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PatientDetails Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div
+      type="style-3"
+    >
+      Typography Component
+    </div>
+  </div>
+  <select
+    data-testid="select-patient"
+    label="Patient name"
+    name="patientId"
+  >
+    <option
+      value="12"
+    >
+      dummy name
+    </option>
+    <option
+      value="1"
+    >
+      dummy dependant name
+    </option>
+  </select>
+  <input
+    data-testid="input-contact-number"
+    label="Contact number"
+    maxlength="20"
+    name="contactNumber"
+    type="number"
+    value="12345678"
+  />
+</div>
+`;

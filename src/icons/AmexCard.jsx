@@ -1,0 +1,23 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+
+import SvgIcon from '@material-ui/core/SvgIcon';
+
+const AmexCard = ({ fillColor, ...rest }) => (
+  <SvgIcon {...rest} viewBox="0 0 20 16">
+    <path
+      d="M2 0C0.895 0 0 0.895 0 2V14C0 15.105 0.895 16 2 16H18C19.105 16 20 15.105 20 14V2C20 0.895 19.105 0 18 0H2ZM2.6875 6H3.92578L5.5 9.80078V6H7.07422L8.19922 8.69922L9.32422 6H10.7871V10H9.88672V7.09961L8.65039 10H7.75L6.51367 7V10H4.59961L4.26367 9.09961H2.34961L2.01367 10H1L2.6875 6ZM12.0254 6H15.7363L16.6367 7.19922L17.7617 6H19L17.3125 8L19 10H17.875L16.75 8.69922L15.625 10H12.0254V6ZM3.25 6.80078L2.6875 8.19922H3.8125L3.25 6.80078ZM12.9258 6.90039V7.59961H14.9492V8.40039H12.9258V9.19922H15.0625L16.0742 8L15.1758 6.90039H12.9258Z"
+      fill={fillColor}
+    />
+  </SvgIcon>
+);
+
+AmexCard.defaultProps = {
+  fillColor: '#666666',
+};
+
+AmexCard.propTypes = {
+  fillColor: PropTypes.string,
+};
+
+export default AmexCard;

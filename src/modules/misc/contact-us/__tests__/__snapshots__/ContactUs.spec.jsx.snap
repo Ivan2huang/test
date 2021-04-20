@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContactUs Component should match the snapshot when there is contact info 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-145"
+  >
+    <div>
+      Typography Component
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-146"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container"
+      >
+        <div
+          class="CompanyContactDetails-customerSupportHoursContainer-150"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-243"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained injectIntl(ContactUs)-backButton-143 MuiButton-containedPrimary"
+        data-testid="btn-back-to-previous-page"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Go back
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ContactUs Component should match the snapshot when there is no contact info 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-3"
+  >
+    <div>
+      Typography Component
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-4"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container"
+      >
+        <div
+          class="CompanyContactDetails-customerSupportHoursContainer-8"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-101"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained injectIntl(ContactUs)-backButton-1 MuiButton-containedPrimary"
+        data-testid="btn-back-to-previous-page"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Go back
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ButtonGroup UI Component GetStyles should match snapshot 1`] = `
+Object {
+  "& > *": Object {
+    "marginBottom": "16px",
+  },
+  "display": "flex",
+  "flexDirection": "column",
+  "md": Object {
+    "& > *": Object {
+      "&;last-child": Object {
+        "marginRight": 0,
+      },
+      "marginRight": "8px",
+    },
+    "flexDirection": "row",
+    "flexFlow": "row wrap",
+  },
+}
+`;
+
+exports[`ButtonGroup UI Component GetStyles should match snapshot with inverse 1`] = `
+Object {
+  "& > *": Object {
+    "marginBottom": "16px",
+  },
+  "display": "flex",
+  "flexDirection": "column",
+  "md": Object {
+    "& > *": Object {
+      "&:first-child": Object {
+        "marginRight": 0,
+      },
+      "marginRight": "8px",
+    },
+    "flexDirection": "row-reverse",
+    "flexFlow": "row wrap",
+  },
+}
+`;
+
+exports[`ButtonGroup UI Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-4 makeStyles-root-1 makeStyles-root-2"
+    classes="[object Object]"
+  >
+    <div>
+      button 1
+    </div>
+    <div>
+      button 2
+    </div>
+  </div>
+</div>
+`;

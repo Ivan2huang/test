@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout Component should match snapshot with options 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-16 makeStyles-container-9 makeStyles-container-12"
+  >
+    <main
+      class="makeStyles-fullWidth-11 makeStyles-fullWidth-14"
+    >
+      <div>
+        Layout Content
+      </div>
+    </main>
+  </div>
+</div>
+`;
+
+exports[`Layout Component should match snapshot without options 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-8 makeStyles-container-1 makeStyles-container-4"
+  >
+    <main
+      class="makeStyles-main-2 makeStyles-main-5"
+    >
+      <div>
+        Layout Content
+      </div>
+    </main>
+  </div>
+</div>
+`;

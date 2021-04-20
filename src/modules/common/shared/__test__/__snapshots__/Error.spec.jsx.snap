@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-5 Error-container-2"
+    classes="[object Object]"
+  >
+    <div>
+      Test
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Error component should match snapshot when error has occurred 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-10"
+  >
+    
+    <div
+      class="MuiBox-root MuiBox-root-11 Error-root-6"
+      classes="[object Object]"
+    >
+      <div>
+        Typography Component
+        <span>
+          type = style-3
+          color = error
+        </span>
+        Something went wrong.
+      </div>
+      <div>
+        Typography Component
+        <span>
+          type = style-6
+          className = Error-subHeading-8
+        </span>
+        Please refresh or try again later.
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-12 Error-container-7"
+    classes="[object Object]"
+  >
+    <div>
+      Test
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Error component should match snapshot when error has occurred with errorMessage 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-17"
+  >
+    <div>
+      Typography Component
+      <span>
+        type = style-4
+      </span>
+      Custom Error
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-18 Error-root-13"
+      classes="[object Object]"
+    >
+      <div>
+        Typography Component
+        <span>
+          type = style-3
+          color = error
+        </span>
+        Something went wrong.
+      </div>
+      <div>
+        Typography Component
+        <span>
+          type = style-6
+          className = Error-subHeading-15
+        </span>
+        Please refresh or try again later.
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-19 Error-container-14"
+    classes="[object Object]"
+  >
+    <div>
+      Test
+    </div>
+  </div>
+</div>
+`;

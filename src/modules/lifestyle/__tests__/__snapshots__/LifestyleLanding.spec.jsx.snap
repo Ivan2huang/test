@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`No Lifestyle Component should match snapshot 1`] = `
+<div>
+  <div>
+    <header>
+      Layout Header
+    </header>
+    <div
+      class="MuiBox-root MuiBox-root-2"
+    >
+      <div>
+        <span>
+          Grid Component
+        </span>
+        <div>
+          <div
+            data-md="4"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <img
+                alt="lifestyle landing"
+                src="/static/lifestyle_landing.svg"
+              />
+            </div>
+          </div>
+          <div
+            data-md="6"
+            data-xs="12"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div
+                type="style-1"
+              >
+                Become a better version of yourself !
+                (Typography)
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-3"
+              >
+                <div
+                  type="style-6"
+                >
+                  Discover actionable insights on your health status. Enjoy
+personalised recommendations to improve your daily wellbeing.
+                  (Typography)
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-4"
+                >
+                  <div
+                    type="style-6"
+                  >
+                    Don’t worry, no data is shared with your employer.
+                    (Typography)
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-5"
+              >
+                <div>
+                  <span>
+                    add button
+                  </span>
+                  <span>
+                    clinic button
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

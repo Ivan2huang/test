@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StackedMarker should match the snapshot with empty stacked clinics 1`] = `
+<div>
+  <div>
+    Dummy Non Selected stacked clinics 
+    3
+  </div>
+  mockConstructor
+  <div>
+    Dummy Selected stacked clinics 
+    0
+  </div>
+</div>
+`;
+
+exports[`StackedMarker should match the snapshot with non empty stacked clinics 1`] = `
+<div>
+  <div>
+    Dummy Non Selected stacked clinics 
+    1
+  </div>
+  mockConstructor
+  <div>
+    Dummy Selected stacked clinics 
+    2
+  </div>
+</div>
+`;

@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HealthCards Component should match the snapshot 1`] = `
+<div>
+  <div>
+    HealthCard Component
+    <span>
+      fullName = Brown William
+      membershipNumber = 123
+      coPayment = [object Object]
+      cardType = PRIMARY
+      certificateNumber = CERT123
+      insurerCode = IC123
+      insurerName = test eHealth card name
+      insurerType = HSBC
+      policyNumber = PN123
+    </span>
+  </div>
+  <div>
+    HealthCard Component
+    <span>
+      fullName = Black William
+      membershipNumber = 123
+      coPayment = [object Object]
+      cardType = SECONDARY
+      certificateNumber = CERT123
+      insurerCode = IC123
+      insurerName = test eHealth card name
+      insurerType = HSBC
+      policyNumber = PN123
+    </span>
+  </div>
+</div>
+`;
+
+exports[`HealthCards Component should match the snapshot when member role not employee 1`] = `
+<div>
+  <div>
+    HealthCard Component
+    <span>
+      fullName = Brown William
+      membershipNumber = 123
+      coPayment = [object Object]
+      cardType = PRIMARY
+      certificateNumber = CERT123
+      insurerCode = IC123
+      insurerName = test eHealth card name
+      insurerType = HSBC
+      policyNumber = PN123
+    </span>
+  </div>
+</div>
+`;
+
+exports[`HealthCards Component should match the snapshot when not provide policy data 1`] = `
+<div>
+  
+</div>
+`;
+
+exports[`HealthCards Component should match the snapshot when not render copayment section 1`] = `
+<div>
+  <div>
+    HealthCard Component
+    <span>
+      fullName = Brown William
+      membershipNumber = 123
+      coPayment = [object Object]
+      cardType = PRIMARY
+      certificateNumber = CERT123
+      insurerCode = IC123
+      insurerName = test eHealth card name
+      insurerType = HSBC
+      policyNumber = PN123
+    </span>
+  </div>
+  <div>
+    HealthCard Component
+    <span>
+      fullName = Black William
+      membershipNumber = 123
+      coPayment = null
+      cardType = SECONDARY
+      certificateNumber = CERT123
+      insurerCode = IC123
+      insurerName = test eHealth card name
+      insurerType = HSBC
+      policyNumber = PN123
+    </span>
+  </div>
+</div>
+`;
+
+exports[`HealthCards Component should match the snapshot when not rendering health cards 1`] = `
+<div>
+  <div>
+    HealthCard Component
+    <span>
+      fullName = Black William
+      membershipNumber = 123
+      coPayment = [object Object]
+      cardType = PRIMARY
+      certificateNumber = CERT123
+      insurerCode = IC123
+      insurerName = test eHealth card name
+      insurerType = HSBC
+      policyNumber = PN123
+    </span>
+  </div>
+</div>
+`;

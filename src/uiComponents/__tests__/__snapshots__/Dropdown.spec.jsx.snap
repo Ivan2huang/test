@@ -1,0 +1,449 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dropdown UI Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+      data-shrink="true"
+      for="outlined-test-dropdown"
+    >
+      test label
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+      data-testid="test-dropdown"
+    >
+      <div
+        aria-haspopup="listbox"
+        class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+        id="select-test-dropdown"
+        role="button"
+        tabindex="0"
+      >
+        test1
+      </div>
+      <input
+        aria-describedby="helptext-"
+        id="outlined-test-dropdown"
+        name="test-dropdown"
+        type="hidden"
+        value="1"
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 18 18"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+        <mask
+          height="12"
+          id="mask0"
+          mask-type="alpha"
+          maskUnits="userSpaceOnUse"
+          width="18"
+          x="0"
+          y="4"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+            fill="white"
+            fill-rule="evenodd"
+          />
+        </mask>
+        <g
+          mask="url(#mask0)"
+        />
+      </svg>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-81 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-82"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    />
+  </div>
+</div>
+`;
+
+exports[`Dropdown UI Component should match snapshot for disabled dropdown 1`] = `
+<div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined Mui-disabled Mui-disabled MuiFormLabel-filled"
+      data-shrink="true"
+      for="outlined-test-dropdown"
+    >
+      test label
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root Mui-disabled Mui-disabled MuiInputBase-fullWidth MuiInputBase-formControl"
+      data-testid="test-dropdown"
+    >
+      <div
+        aria-haspopup="listbox"
+        class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input Mui-disabled Mui-disabled MuiInputBase-inputSelect MuiOutlinedInput-inputSelect Mui-disabled"
+        id="select-test-dropdown"
+        role="button"
+      >
+        test1
+      </div>
+      <input
+        aria-describedby="helptext-"
+        id="outlined-test-dropdown"
+        name="test-dropdown"
+        type="hidden"
+        value="1"
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 18 18"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+        <mask
+          height="12"
+          id="mask0"
+          mask-type="alpha"
+          maskUnits="userSpaceOnUse"
+          width="18"
+          x="0"
+          y="4"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+            fill="white"
+            fill-rule="evenodd"
+          />
+        </mask>
+        <g
+          mask="url(#mask0)"
+        />
+      </svg>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-163 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-164"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    />
+  </div>
+</div>
+`;
+
+exports[`Dropdown UI Component should match snapshot for error 1`] = `
+<div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined Mui-error Mui-error MuiFormLabel-filled"
+      data-shrink="true"
+      for="outlined-test-dropdown"
+    >
+      test label
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root Mui-error Mui-error MuiInputBase-fullWidth MuiInputBase-formControl"
+      data-testid="test-dropdown"
+    >
+      <div
+        aria-haspopup="listbox"
+        class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+        id="select-test-dropdown"
+        role="button"
+        tabindex="0"
+      >
+        test1
+      </div>
+      <input
+        aria-describedby="helptext-"
+        id="outlined-test-dropdown"
+        name="test-dropdown"
+        type="hidden"
+        value="1"
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 18 18"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+        <mask
+          height="12"
+          id="mask0"
+          mask-type="alpha"
+          maskUnits="userSpaceOnUse"
+          width="18"
+          x="0"
+          y="4"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+            fill="white"
+            fill-rule="evenodd"
+          />
+        </mask>
+        <g
+          mask="url(#mask0)"
+        />
+      </svg>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-613 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-614"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    >
+      <p
+        class="MuiFormHelperText-root MuiFormHelperText-contained Mui-error MuiFormHelperText-filled"
+        id="helptext-"
+      >
+        Invalid value
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Dropdown UI Component should match snapshot for group menu items 1`] = `
+<ul
+  class="MuiList-root MuiMenu-list MuiList-padding"
+  role="listbox"
+  tabindex="-1"
+>
+  <li
+    aria-disabled="true"
+    class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters Mui-disabled MuiListItem-button Mui-disabled"
+    role="option"
+    tabindex="-1"
+  >
+    Outpatient
+  </li>
+  <li
+    aria-disabled="false"
+    aria-selected="true"
+    class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root Mui-selected MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button Mui-selected Mui-focusVisible Mui-focusVisible"
+    data-value="MO-GP"
+    role="option"
+    tabindex="0"
+  >
+    <span
+      class="MuiTouchRipple-root"
+    />
+  </li>
+  <li
+    aria-disabled="true"
+    class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters Mui-disabled MuiListItem-button Mui-disabled"
+    role="option"
+    tabindex="-1"
+  >
+    Wellness
+  </li>
+  <li
+    aria-disabled="false"
+    class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+    data-value="GH-MS"
+    role="option"
+    tabindex="-1"
+  >
+    <span
+      class="MuiTouchRipple-root"
+    />
+  </li>
+  <li
+    aria-disabled="false"
+    class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+    data-value="MO-GS"
+    role="option"
+    tabindex="-1"
+  >
+    <span
+      class="MuiTouchRipple-root"
+    />
+  </li>
+</ul>
+`;
+
+exports[`Dropdown UI Component should match snapshot for loading dropdown 1`] = `
+<div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+      data-shrink="true"
+      for="outlined-test-dropdown"
+    >
+      test label
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+      data-testid="test-dropdown"
+    >
+      <div
+        aria-haspopup="listbox"
+        class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+        id="select-test-dropdown"
+        role="button"
+        tabindex="0"
+      >
+        test1
+      </div>
+      <input
+        aria-describedby="helptext-"
+        id="outlined-test-dropdown"
+        name="test-dropdown"
+        type="hidden"
+        value="1"
+      />
+      <div
+        class="MuiCircularProgress-root StyledCircularProgress-root-232 MuiSelect-icon MuiSelect-iconOutlined MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+        role="progressbar"
+        style="width: 24px; height: 24px;"
+      >
+        <svg
+          class="MuiCircularProgress-svg"
+          viewBox="22 22 44 44"
+        >
+          <circle
+            class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+            cx="44"
+            cy="44"
+            fill="none"
+            r="20.2"
+            stroke-width="3.6"
+          />
+        </svg>
+      </div>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-249 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-250"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    />
+  </div>
+</div>
+`;
+
+exports[`Dropdown UI Component should match snapshot for non group menu items 1`] = `
+<ul
+  class="MuiList-root MuiMenu-list MuiList-padding"
+  role="listbox"
+  tabindex="-1"
+>
+  <li
+    aria-disabled="false"
+    aria-selected="true"
+    class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root Mui-selected MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button Mui-selected Mui-focusVisible Mui-focusVisible"
+    data-value="1"
+    role="option"
+    tabindex="0"
+  >
+    test1
+    <span
+      class="MuiTouchRipple-root"
+    />
+  </li>
+  <li
+    aria-disabled="false"
+    class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+    data-value="2"
+    role="option"
+    tabindex="-1"
+  >
+    test2
+    <span
+      class="MuiTouchRipple-root"
+    />
+  </li>
+  <li
+    aria-disabled="false"
+    class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+    data-value="3"
+    role="option"
+    tabindex="-1"
+  >
+    test3
+    <span
+      class="MuiTouchRipple-root"
+    />
+  </li>
+</ul>
+`;
