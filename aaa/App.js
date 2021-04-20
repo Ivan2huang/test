@@ -54,7 +54,8 @@ const Section = ({ children, title }): Node => {
 
 const App: () => Node = () => {
   const isDarkMode = useColorScheme() === 'dark';
-
+  aaaaaa
+  1231231231232
   switch (a) {
     case 1:
       break;
