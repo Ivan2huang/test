@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Lifestyle Landing Component should match snapshot 1`] = `
+<div>
+  <div>
+    <header>
+      Layout Header
+    </header>
+    <div
+      class="MuiBox-root MuiBox-root-2"
+    >
+      <div>
+        LifeStyle Overview Header Component
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-3"
+      >
+        <div>
+          Grid Component
+          <span />
+          <div>
+            GridItem Component
+            <span>
+              columns = [object Object]
+            </span>
+            <div>
+              LifeStyle Score Component
+            </div>
+          </div>
+          <div>
+            GridItem Component
+            <span>
+              columns = [object Object]
+            </span>
+            <div>
+              Lifestyle History Component
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        LifeStyle Results Component
+      </div>
+      <div>
+        General Tips Component
+      </div>
+      <div>
+        Face Aging Component
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-4"
+      >
+        <div>
+          Suggestions Component
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

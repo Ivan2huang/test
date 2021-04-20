@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component should match snapshot 1`] = `
+<div>
+  <header
+    class="MuiBox-root MuiBox-root-6"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-7 Header-loaderContainer-4 _class-loaderContainer-2"
+      classes="[object Object]"
+    >
+      <div
+        class="ScreenReader-srOnly-8"
+      >
+        <div
+          aria-atomic="true"
+          aria-live="assertive"
+          class="MuiTypography-root makeStyles-root-9 makeStyles-root-10 MuiTypography-body1"
+          role="alert"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-41 Header-boxRoot-3 _class-boxRoot-1"
+      classes="[object Object]"
+    >
+      <button
+        class="MuiBox-root MuiBox-root-46 HeaderBrand-imgContainer-42 HeaderBrand-imgContainer-44"
+        classes="[object Object]"
+        data-testid="link-logo"
+        tabindex="0"
+      >
+        <img
+          alt=""
+          class="HeaderBrand-img-43 HeaderBrand-img-45"
+          src="/static/logo.en.svg"
+        />
+      </button>
+      <div>
+        NavBar Component
+      </div>
+    </div>
+  </header>
+</div>
+`;
+
+exports[`Header Component should use default logo when selected logo with language not found 1`] = `
+<div>
+  <header
+    class="MuiBox-root MuiBox-root-98"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-99 Header-loaderContainer-96 _class-loaderContainer-94"
+      classes="[object Object]"
+    >
+      <div
+        class="ScreenReader-srOnly-100"
+      >
+        <div
+          aria-atomic="true"
+          aria-live="assertive"
+          class="MuiTypography-root makeStyles-root-101 makeStyles-root-102 MuiTypography-body1"
+          role="alert"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-133 Header-boxRoot-95 _class-boxRoot-93"
+      classes="[object Object]"
+    >
+      <button
+        class="MuiBox-root MuiBox-root-138 HeaderBrand-imgContainer-134 HeaderBrand-imgContainer-136"
+        classes="[object Object]"
+        data-testid="link-logo"
+        tabindex="0"
+      >
+        <img
+          alt=""
+          class="HeaderBrand-img-135 HeaderBrand-img-137"
+          src="[object Object]"
+        />
+      </button>
+      <div>
+        NavBar Component
+      </div>
+    </div>
+  </header>
+</div>
+`;

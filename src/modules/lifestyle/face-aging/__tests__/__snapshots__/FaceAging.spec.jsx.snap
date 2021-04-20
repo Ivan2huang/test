@@ -1,0 +1,817 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Face Aging Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiBox-root MuiBox-root-7 MuiPaper-rounded"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-36 FaceAging-container-1"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-40 Error-root-37"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-41"
+        >
+          <div>
+            Grid Component
+            <span />
+            <div>
+              GridItem Component
+              <span>
+                columns = [object Object]
+                className = FaceAging-contentGrid-2
+              </span>
+              <div
+                class="MuiBox-root MuiBox-root-42 PrivateHiddenCss-smDown-48"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-1
+                  </span>
+                  Future Me
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-58 PrivateHiddenCss-smDown-48"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-4
+                  </span>
+                  Me at age 35
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-59"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-60"
+                >
+                  <span
+                    class="MuiSlider-root FaceAging-slider-3 MuiSlider-colorPrimary"
+                    data-testid="age-slider"
+                  >
+                    <span
+                      class="MuiSlider-rail"
+                    />
+                    <span
+                      class="MuiSlider-track"
+                      style="left: 0%; width: 0%;"
+                    />
+                    <input
+                      type="hidden"
+                      value="35"
+                    />
+                    <span
+                      class="MuiSlider-mark FaceAging-mark-4 MuiSlider-markActive"
+                      style="left: 0%;"
+                    />
+                    <span
+                      aria-hidden="true"
+                      class="MuiSlider-markLabel MuiSlider-markLabelActive"
+                      style="left: 0%;"
+                    />
+                    <span
+                      class="MuiSlider-mark FaceAging-mark-4"
+                      style="left: 15.625%;"
+                    />
+                    <span
+                      aria-hidden="true"
+                      class="MuiSlider-markLabel"
+                      style="left: 15.625%;"
+                    />
+                    <span
+                      class="MuiSlider-mark FaceAging-mark-4"
+                      style="left: 100%;"
+                    />
+                    <span
+                      aria-hidden="true"
+                      class="MuiSlider-markLabel"
+                      style="left: 100%;"
+                    />
+                    <span
+                      aria-labelledby="discrete-slider"
+                      aria-orientation="horizontal"
+                      aria-valuemax="67"
+                      aria-valuemin="35"
+                      aria-valuenow="35"
+                      class="MuiSlider-thumb MuiSlider-thumbColorPrimary"
+                      data-index="0"
+                      role="slider"
+                      style="left: 0%;"
+                      tabindex="0"
+                    />
+                  </span>
+                </div>
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-6
+                  </span>
+                  Move the slider to view your future appearance when you live a healthier lifestyle.
+                </div>
+              </div>
+            </div>
+            <div>
+              GridItem Component
+              <span>
+                columns = [object Object]
+                offset = [object Object]
+              </span>
+              <div
+                class="MuiBox-root MuiBox-root-86 PrivateHiddenCss-mdUp-50"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-4
+                  </span>
+                  Me at age 35
+                </div>
+              </div>
+              <div>
+                Grid Component
+                <span />
+                <div>
+                  GridItem Component
+                  <span>
+                    columns = [object Object]
+                  </span>
+                  <img
+                    alt=""
+                    class="MuiBox-root MuiBox-root-87"
+                    src="faceAgingImage/test?age=35&category=healthy"
+                  />
+                  <div
+                    class="MuiBox-root MuiBox-root-88"
+                  >
+                    <div>
+                      Typography Component
+                      <span>
+                        type = style-4
+                      </span>
+                      Healthy lifestyle
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  GridItem Component
+                  <span>
+                    columns = [object Object]
+                  </span>
+                  <img
+                    alt=""
+                    class="MuiBox-root MuiBox-root-89"
+                    src="faceAgingImage/test?age=35&category=unhealthy"
+                  />
+                  <div
+                    class="MuiBox-root MuiBox-root-90"
+                  >
+                    <div>
+                      Typography Component
+                      <span>
+                        type = style-4
+                      </span>
+                      Current lifestyle
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Face Aging Component should match snapshot when categories is empty 1`] = `<div />`;
+
+exports[`Face Aging Component should match snapshot when component is loading 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiBox-root MuiBox-root-97 MuiPaper-rounded"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-126 FaceAging-container-91"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-130 Error-root-127"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-131"
+        >
+          <div>
+            Grid Component
+            <span />
+            <div>
+              GridItem Component
+              <span>
+                columns = [object Object]
+                className = FaceAging-contentGrid-92
+              </span>
+              <div
+                class="MuiBox-root MuiBox-root-132 PrivateHiddenCss-smDown-138"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-1
+                  </span>
+                  Future Me
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-148 PrivateHiddenCss-smDown-138"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-4
+                  </span>
+                  Me at age 35
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-149"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-150"
+                >
+                  <span
+                    class="MuiSlider-root FaceAging-slider-93 MuiSlider-colorPrimary"
+                    data-testid="age-slider"
+                  >
+                    <span
+                      class="MuiSlider-rail"
+                    />
+                    <span
+                      class="MuiSlider-track"
+                      style="left: 0%; width: 0%;"
+                    />
+                    <input
+                      type="hidden"
+                      value="35"
+                    />
+                    <span
+                      class="MuiSlider-mark FaceAging-mark-94 MuiSlider-markActive"
+                      style="left: 0%;"
+                    />
+                    <span
+                      aria-hidden="true"
+                      class="MuiSlider-markLabel MuiSlider-markLabelActive"
+                      style="left: 0%;"
+                    />
+                    <span
+                      class="MuiSlider-mark FaceAging-mark-94"
+                      style="left: 15.625%;"
+                    />
+                    <span
+                      aria-hidden="true"
+                      class="MuiSlider-markLabel"
+                      style="left: 15.625%;"
+                    />
+                    <span
+                      class="MuiSlider-mark FaceAging-mark-94"
+                      style="left: 100%;"
+                    />
+                    <span
+                      aria-hidden="true"
+                      class="MuiSlider-markLabel"
+                      style="left: 100%;"
+                    />
+                    <span
+                      aria-labelledby="discrete-slider"
+                      aria-orientation="horizontal"
+                      aria-valuemax="67"
+                      aria-valuemin="35"
+                      aria-valuenow="35"
+                      class="MuiSlider-thumb MuiSlider-thumbColorPrimary"
+                      data-index="0"
+                      role="slider"
+                      style="left: 0%;"
+                      tabindex="0"
+                    />
+                  </span>
+                </div>
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-6
+                  </span>
+                  Move the slider to view your future appearance when you live a healthier lifestyle.
+                </div>
+              </div>
+            </div>
+            <div>
+              GridItem Component
+              <span>
+                columns = [object Object]
+                offset = [object Object]
+              </span>
+              <div
+                class="MuiBox-root MuiBox-root-176 PrivateHiddenCss-mdUp-140"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-4
+                  </span>
+                  Me at age 35
+                </div>
+              </div>
+              <div>
+                Grid Component
+                <span />
+                <div>
+                  GridItem Component
+                  <span>
+                    columns = [object Object]
+                  </span>
+                  <img
+                    alt=""
+                    class="MuiBox-root MuiBox-root-177"
+                    src="faceAgingImage/test?age=35&category=healthy"
+                  />
+                  <div
+                    class="MuiBox-root MuiBox-root-178"
+                  >
+                    <div>
+                      Typography Component
+                      <span>
+                        type = style-4
+                      </span>
+                      Healthy lifestyle
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  GridItem Component
+                  <span>
+                    columns = [object Object]
+                  </span>
+                  <img
+                    alt=""
+                    class="MuiBox-root MuiBox-root-179"
+                    src="faceAgingImage/test?age=35&category=unhealthy"
+                  />
+                  <div
+                    class="MuiBox-root MuiBox-root-180"
+                  >
+                    <div>
+                      Typography Component
+                      <span>
+                        type = style-4
+                      </span>
+                      Current lifestyle
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Face Aging Component should match snapshot when error has occurred 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiBox-root MuiBox-root-187 MuiPaper-rounded"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-216 FaceAging-container-181"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-217"
+      >
+        <div>
+          Typography Component
+          <span>
+            type = style-1
+          </span>
+          Future Me
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-221 Error-root-218"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-222 Error-container-219"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-223"
+          >
+            <div>
+              Typography Component
+              <span>
+                type = style-3
+              </span>
+              Something went wrong
+            </div>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-224"
+          >
+            <div>
+              Typography Component
+              <span>
+                type = style-6
+              </span>
+              We are unable to process the photo you uploaded.
+              <br />
+              Please retry uploading a selfie and we will analyse and predict the future you.
+            </div>
+          </div>
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+            data-testid="btn-tryAgain"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              Try Again
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-256"
+        >
+          <div>
+            Grid Component
+            <span />
+            <div>
+              GridItem Component
+              <span>
+                columns = [object Object]
+                className = FaceAging-contentGrid-182
+              </span>
+              <div
+                class="MuiBox-root MuiBox-root-267 PrivateHiddenCss-smDown-273"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-1
+                  </span>
+                  Future Me
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-283 PrivateHiddenCss-smDown-273"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-4
+                  </span>
+                  Me at age 35
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-284"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-285"
+                >
+                  <span
+                    class="MuiSlider-root FaceAging-slider-183 MuiSlider-colorPrimary"
+                    data-testid="age-slider"
+                  >
+                    <span
+                      class="MuiSlider-rail"
+                    />
+                    <span
+                      class="MuiSlider-track"
+                      style="left: 0%; width: 0%;"
+                    />
+                    <input
+                      type="hidden"
+                      value="35"
+                    />
+                    <span
+                      class="MuiSlider-mark FaceAging-mark-184 MuiSlider-markActive"
+                      style="left: 0%;"
+                    />
+                    <span
+                      aria-hidden="true"
+                      class="MuiSlider-markLabel MuiSlider-markLabelActive"
+                      style="left: 0%;"
+                    />
+                    <span
+                      class="MuiSlider-mark FaceAging-mark-184"
+                      style="left: 15.625%;"
+                    />
+                    <span
+                      aria-hidden="true"
+                      class="MuiSlider-markLabel"
+                      style="left: 15.625%;"
+                    />
+                    <span
+                      class="MuiSlider-mark FaceAging-mark-184"
+                      style="left: 100%;"
+                    />
+                    <span
+                      aria-hidden="true"
+                      class="MuiSlider-markLabel"
+                      style="left: 100%;"
+                    />
+                    <span
+                      aria-labelledby="discrete-slider"
+                      aria-orientation="horizontal"
+                      aria-valuemax="67"
+                      aria-valuemin="35"
+                      aria-valuenow="35"
+                      class="MuiSlider-thumb MuiSlider-thumbColorPrimary"
+                      data-index="0"
+                      role="slider"
+                      style="left: 0%;"
+                      tabindex="0"
+                    />
+                  </span>
+                </div>
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-6
+                  </span>
+                  Move the slider to view your future appearance when you live a healthier lifestyle.
+                </div>
+              </div>
+            </div>
+            <div>
+              GridItem Component
+              <span>
+                columns = [object Object]
+                offset = [object Object]
+              </span>
+              <div
+                class="MuiBox-root MuiBox-root-311 PrivateHiddenCss-mdUp-275"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-4
+                  </span>
+                  Me at age 35
+                </div>
+              </div>
+              <div>
+                Grid Component
+                <span />
+                <div>
+                  GridItem Component
+                  <span>
+                    columns = [object Object]
+                  </span>
+                  <img
+                    alt=""
+                    class="MuiBox-root MuiBox-root-312"
+                    src="faceAgingImage/test?age=35&category=healthy"
+                  />
+                  <div
+                    class="MuiBox-root MuiBox-root-313"
+                  >
+                    <div>
+                      Typography Component
+                      <span>
+                        type = style-4
+                      </span>
+                      Healthy lifestyle
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  GridItem Component
+                  <span>
+                    columns = [object Object]
+                  </span>
+                  <img
+                    alt=""
+                    class="MuiBox-root MuiBox-root-314"
+                    src="faceAgingImage/test?age=35&category=unhealthy"
+                  />
+                  <div
+                    class="MuiBox-root MuiBox-root-315"
+                  >
+                    <div>
+                      Typography Component
+                      <span>
+                        type = style-4
+                      </span>
+                      Current lifestyle
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Face Aging Component should render different images based on age slider 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiBox-root MuiBox-root-417 MuiPaper-rounded"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-446 FaceAging-container-411"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-450 Error-root-447"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-451"
+        >
+          <div>
+            Grid Component
+            <span />
+            <div>
+              GridItem Component
+              <span>
+                columns = [object Object]
+                className = FaceAging-contentGrid-412
+              </span>
+              <div
+                class="MuiBox-root MuiBox-root-452 PrivateHiddenCss-smDown-458"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-1
+                  </span>
+                  Future Me
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-468 PrivateHiddenCss-smDown-458"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-4
+                  </span>
+                  Me at age 65
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-469"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-470"
+                >
+                  <span
+                    class="MuiSlider-root FaceAging-slider-413 MuiSlider-colorPrimary"
+                    data-testid="age-slider"
+                  >
+                    <span
+                      class="MuiSlider-rail"
+                    />
+                    <span
+                      class="MuiSlider-track"
+                      style="left: 0%; width: 100%;"
+                    />
+                    <input
+                      type="hidden"
+                      value="67"
+                    />
+                    <span
+                      class="MuiSlider-mark FaceAging-mark-414 MuiSlider-markActive"
+                      style="left: 0%;"
+                    />
+                    <span
+                      aria-hidden="true"
+                      class="MuiSlider-markLabel MuiSlider-markLabelActive"
+                      style="left: 0%;"
+                    />
+                    <span
+                      class="MuiSlider-mark FaceAging-mark-414 MuiSlider-markActive"
+                      style="left: 15.625%;"
+                    />
+                    <span
+                      aria-hidden="true"
+                      class="MuiSlider-markLabel MuiSlider-markLabelActive"
+                      style="left: 15.625%;"
+                    />
+                    <span
+                      class="MuiSlider-mark FaceAging-mark-414 MuiSlider-markActive"
+                      style="left: 100%;"
+                    />
+                    <span
+                      aria-hidden="true"
+                      class="MuiSlider-markLabel MuiSlider-markLabelActive"
+                      style="left: 100%;"
+                    />
+                    <span
+                      aria-labelledby="discrete-slider"
+                      aria-orientation="horizontal"
+                      aria-valuemax="67"
+                      aria-valuemin="35"
+                      aria-valuenow="67"
+                      class="MuiSlider-thumb MuiSlider-thumbColorPrimary"
+                      data-index="0"
+                      role="slider"
+                      style="left: 100%;"
+                      tabindex="0"
+                    />
+                  </span>
+                </div>
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-6
+                  </span>
+                  Move the slider to view your future appearance when you live a healthier lifestyle.
+                </div>
+              </div>
+            </div>
+            <div>
+              GridItem Component
+              <span>
+                columns = [object Object]
+                offset = [object Object]
+              </span>
+              <div
+                class="MuiBox-root MuiBox-root-496 PrivateHiddenCss-mdUp-460"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-4
+                  </span>
+                  Me at age 65
+                </div>
+              </div>
+              <div>
+                Grid Component
+                <span />
+                <div>
+                  GridItem Component
+                  <span>
+                    columns = [object Object]
+                  </span>
+                  <img
+                    alt=""
+                    class="MuiBox-root MuiBox-root-497"
+                    src="faceAgingImage/test?age=67&category=healthy"
+                  />
+                  <div
+                    class="MuiBox-root MuiBox-root-498"
+                  >
+                    <div>
+                      Typography Component
+                      <span>
+                        type = style-4
+                      </span>
+                      Healthy lifestyle
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  GridItem Component
+                  <span>
+                    columns = [object Object]
+                  </span>
+                  <img
+                    alt=""
+                    class="MuiBox-root MuiBox-root-499"
+                    src="faceAgingImage/test?age=67&category=unhealthy"
+                  />
+                  <div
+                    class="MuiBox-root MuiBox-root-500"
+                  >
+                    <div>
+                      Typography Component
+                      <span>
+                        type = style-4
+                      </span>
+                      Current lifestyle
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

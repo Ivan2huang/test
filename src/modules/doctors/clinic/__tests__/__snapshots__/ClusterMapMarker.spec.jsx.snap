@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ClusterMapMarker should match the snapshot with clusterMarkers when showClusterMarker is true 1`] = `
+<div>
+  <div>
+    <span>
+      Dummy Cluster Marker with clinics: 
+      2
+    </span>
+  </div>
+</div>
+`;
+
+exports[`ClusterMapMarker should match the snapshot with non selected stacked marker when showClusterMarker is false 1`] = `
+<div>
+  <div>
+    <span>
+      Dummy StackedCluster MarkerContainer: 
+      2
+    </span>
+  </div>
+</div>
+`;
+
+exports[`ClusterMapMarker should not rerender when props are the same 1`] = `
+<div>
+  <div>
+    <span>
+      Dummy Cluster Marker with clinics: 
+      2
+    </span>
+  </div>
+</div>
+`;
+
+exports[`ClusterMapMarker should not rerender when props are the same and clinic is already selected 1`] = `
+<div>
+  <div>
+    <span>
+      Dummy Cluster Marker with clinics: 
+      2
+    </span>
+  </div>
+</div>
+`;

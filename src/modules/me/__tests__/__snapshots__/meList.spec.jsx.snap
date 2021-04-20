@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MeList Constants should match the snapshot 1`] = `
+Array [
+  Object {
+    "activeIcon": <ActiveMyDetails
+      height="1.125rem"
+      width="1.125rem"
+    />,
+    "icon": <MyDetails
+      height="1.125rem"
+      width="1.125rem"
+    />,
+    "id": "details",
+    "name": "My details",
+  },
+  Object {
+    "activeIcon": <ResetPassword
+      height="1.125rem"
+      width="1.125rem"
+    />,
+    "icon": <ResetPassword
+      height="1.125rem"
+      width="1.125rem"
+    />,
+    "id": "resetPassword",
+    "name": "Reset password",
+  },
+  Object {
+    "activeIcon": <ActiveSettings
+      height="1.125rem"
+      width="1.125rem"
+    />,
+    "icon": <Settings
+      height="1.125rem"
+      width="1.125rem"
+    />,
+    "id": "settings",
+    "name": "Settings",
+    "suffix": ".mobile",
+  },
+  Object {
+    "activeIcon": <ResetPassword
+      height="1.125rem"
+      width="1.125rem"
+    />,
+    "icon": <ResetPassword
+      height="1.125rem"
+      width="1.125rem"
+    />,
+    "id": "logout",
+    "name": "Logout",
+  },
+]
+`;
+
+exports[`MeList Constants should match the snapshot for terminated employee 1`] = `
+Array [
+  Object {
+    "activeIcon": <ActiveMyDetails
+      height="1.125rem"
+      width="1.125rem"
+    />,
+    "icon": <MyDetails
+      height="1.125rem"
+      width="1.125rem"
+    />,
+    "id": "details",
+    "name": "My details",
+  },
+  Object {
+    "activeIcon": <ResetPassword
+      height="1.125rem"
+      width="1.125rem"
+    />,
+    "icon": <ResetPassword
+      height="1.125rem"
+      width="1.125rem"
+    />,
+    "id": "resetPassword",
+    "name": "Reset password",
+  },
+  Object {
+    "activeIcon": <ActiveSettings
+      height="1.125rem"
+      width="1.125rem"
+    />,
+    "icon": <Settings
+      height="1.125rem"
+      width="1.125rem"
+    />,
+    "id": "settings",
+    "name": "Settings",
+    "suffix": ".mobile",
+  },
+  Object {
+    "activeIcon": <ResetPassword
+      height="1.125rem"
+      width="1.125rem"
+    />,
+    "icon": <ResetPassword
+      height="1.125rem"
+      width="1.125rem"
+    />,
+    "id": "logout",
+    "name": "Logout",
+  },
+]
+`;

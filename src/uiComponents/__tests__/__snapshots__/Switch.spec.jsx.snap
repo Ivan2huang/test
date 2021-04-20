@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Switch UI Component should match the snapshot 1`] = `
+<div>
+  <span
+    class="MuiSwitch-root IOSSwitch-root-1"
+  >
+    <span
+      aria-disabled="false"
+      class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-19 MuiSwitch-switchBase IOSSwitch-switchBase-2 MuiSwitch-colorSecondary"
+    >
+      <span
+        class="MuiIconButton-label"
+      >
+        <input
+          class="PrivateSwitchBase-input-22 MuiSwitch-input"
+          type="checkbox"
+          value=""
+        />
+        <span
+          class="MuiSwitch-thumb IOSSwitch-thumb-3"
+        />
+      </span>
+    </span>
+    <span
+      class="MuiSwitch-track IOSSwitch-track-4"
+    />
+  </span>
+</div>
+`;

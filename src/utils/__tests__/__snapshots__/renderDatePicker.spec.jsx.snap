@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Dropdown utils should match snapshot 1`] = `
+<div>
+  <div>
+    <span>
+      Date Picker
+    </span>
+    <span
+      data-id="props"
+    >
+      name = undefined
+      label = test label
+      testId = test-datepicker
+      value = undefined
+      helperText = DatePicker
+      minDate = undefined
+      maxDate = undefined
+      error = false
+      onChange = function mockConstructor() {
+        return fn.apply(this, arguments);
+      }
+      disabled = false
+    </span>
+  </div>
+</div>
+`;
+
+exports[`render Dropdown utils should match snapshot for error 1`] = `
+<div>
+  <div>
+    <span>
+      Date Picker
+    </span>
+    <span
+      data-id="props"
+    >
+      name = undefined
+      label = test label
+      testId = test-datepicker
+      value = undefined
+      helperText = Enter a valid date
+      minDate = undefined
+      maxDate = undefined
+      error = true
+      onChange = function mockConstructor() {
+        return fn.apply(this, arguments);
+      }
+      disabled = false
+    </span>
+  </div>
+</div>
+`;

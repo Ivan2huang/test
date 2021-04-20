@@ -1,0 +1,194 @@
+[
+  {
+    "claimId": "1",
+    "clientId": "cxadevclient1",
+    "memberId": "3",
+    "claimantId": "3",
+    "receiptDate": "2019-09-11T04:34:18.065384",
+    "amount": 1.0,
+    "reason": "Abdominal Colic",
+    "reasonCode": "COLIC",
+    "type": "Clinical",
+    "typeCode": "MO-GP",
+    "category": "Outpatient",
+    "categoryCode": "outpatient",
+    "status": "Approved",
+    "statusCode": "APPROVED",
+    "approvedAmount": 0.0,
+    "acceptTermsAndConditions": true,
+    "contactNumber": "123456",
+    "otherInsurerAmount": 0.0,
+    "documents": {
+      "referrals": [],
+      "receipts": [
+        {
+          "id": "1",
+          "contentType": "application/pdf"
+        }
+      ]
+    },
+    "processingStatus": "SUBMITTEDTOINSURER",
+    "lastUpdatedOn": "2019-09-11T05:00:31.68479",
+    "createdOn": "2019-09-11T04:34:18.065384"
+  },
+  {
+    "claimId": "2",
+    "clientId": "cxadevclient1",
+    "memberId": "3",
+    "claimantId": "3",
+    "receiptDate": "2019-09-11T04:37:06.974876",
+    "amount": 100.0,
+    "reason": "Abdominal Colic",
+    "reasonCode": "COLIC",
+    "type": "Clinical",
+    "typeCode": "MO-GP",
+    "category": "Outpatient",
+    "categoryCode": "outpatient",
+    "status": "Processing",
+    "statusCode": "PROCESSING",
+    "approvedAmount": 0.0,
+    "acceptTermsAndConditions": true,
+    "contactNumber": "123456",
+    "otherInsurerAmount": 0.0,
+    "documents": {
+      "referrals": [],
+      "receipts": [
+        {
+          "id": "2",
+          "contentType": "image/jpeg"
+        }
+      ]
+    },
+    "processingStatus": "SUBMITTEDTOINSURER",
+    "lastUpdatedOn": "2019-09-11T05:00:31.684785",
+    "createdOn": "2019-09-11T04:37:06.974876"
+  },
+  {
+    "claimId": "3",
+    "clientId": "cxadevclient1",
+    "memberId": "3",
+    "claimantId": "3",
+    "receiptDate": "2019-09-05T08:18:01.982703",
+    "amount": 222.0,
+    "reason": "Ankle pain / Injury / Sprain",
+    "reasonCode": "PAIN-INJURY-ANKLE",
+    "type": "Hospital",
+    "typeCode": "NF-BONESET",
+    "category": "Wellness",
+    "categoryCode": "wellness",
+    "status": "Processing",
+    "statusCode": "PROCESSING",
+    "approvedAmount": 0.0,
+    "acceptTermsAndConditions": true,
+    "contactNumber": "123456",
+    "otherInsurerAmount": 0.0,
+    "documents": {
+      "referrals": [],
+      "receipts": [
+        {
+          "id": "3",
+          "contentType": ""
+        }
+      ]
+    },
+    "processingStatus": "PENDING",
+    "lastUpdatedOn": "0001-01-01T00:00:00",
+    "createdOn": "2019-09-05T08:18:01.982703"
+  },
+  {
+    "claimId": "4",
+    "clientId": "cxadevclient1",
+    "memberId": "3",
+    "claimantId": "3",
+    "receiptDate": "2019-09-05T08:18:01.982703",
+    "amount": 222.0,
+    "reason": "Ankle pain / Injury / Sprain",
+    "reasonCode": "PAIN-INJURY-ANKLE",
+    "type": "Hospital",
+    "typeCode": "NF-BONESET",
+    "category": "Wellness",
+    "categoryCode": "wellness",
+    "status": "Any",
+    "statusCode": "ANY",
+    "approvedAmount": 0.0,
+    "acceptTermsAndConditions": true,
+    "contactNumber": "123456",
+    "otherInsurerAmount": 0.0,
+    "documents": {
+      "referrals": [],
+      "receipts": [
+        {
+          "id": "3",
+          "contentType": ""
+        }
+      ]
+    },
+    "processingStatus": "Any",
+    "lastUpdatedOn": "0001-01-01T00:00:00",
+    "createdOn": "2019-09-05T08:18:01.982703"
+  },
+  {
+    "claimId": "5",
+    "clientId": "cxadevclient1",
+    "memberId": "3",
+    "claimantId": "3",
+    "receiptDate": "2019-09-11T04:34:18.065384",
+    "amount": 1.0,
+    "reason": "Abdominal Colic",
+    "reasonCode": "COLIC",
+    "type": "Clinical",
+    "typeCode": "MO-GP",
+    "category": "Outpatient",
+    "categoryCode": "outpatient",
+    "status": "Rejected",
+    "statusCode": "REJECTED",
+    "approvedAmount": 0.0,
+    "acceptTermsAndConditions": true,
+    "contactNumber": "123456",
+    "otherInsurerAmount": 0.0,
+    "documents": {
+      "referrals": [],
+      "receipts": [
+        {
+          "id": "1",
+          "contentType": "application/pdf"
+        }
+      ]
+    },
+    "processingStatus": "SUBMITTEDTOINSURER",
+    "lastUpdatedOn": "2019-09-11T05:00:31.68479",
+    "createdOn": "2019-09-11T04:34:18.065384"
+  },
+  {
+    "claimId": "6",
+    "clientId": "cxadevclient1",
+    "memberId": "3",
+    "claimantId": "3",
+    "receiptDate": "2019-09-11T04:34:18.065384",
+    "amount": 1.0,
+    "reason": "Abdominal Colic",
+    "reasonCode": "COLIC",
+    "type": "Clinical",
+    "typeCode": "MO-GP",
+    "category": "Outpatient",
+    "categoryCode": "outpatient",
+    "status": "REQUEST FOR INFORMATION",
+    "statusCode": "REQUEST FOR INFORMATION",
+    "approvedAmount": 0.0,
+    "acceptTermsAndConditions": true,
+    "contactNumber": "123456",
+    "otherInsurerAmount": 0.0,
+    "documents": {
+      "referrals": [],
+      "receipts": [
+        {
+          "id": "1",
+          "contentType": "application/pdf"
+        }
+      ]
+    },
+    "processingStatus": "SUBMITTEDTOINSURER",
+    "lastUpdatedOn": "2019-09-11T05:00:31.68479",
+    "createdOn": "2019-09-11T04:34:18.065384"
+  }
+]

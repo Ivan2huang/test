@@ -1,0 +1,134 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error Component should match snapshot with analyzing loading 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-14 Error-root-10"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-15 Error-container-11"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-16"
+      >
+        <div
+          class="MuiCircularProgress-root Error-loader-12 MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+          role="progressbar"
+          style="width: 30px; height: 30px;"
+        >
+          <svg
+            class="MuiCircularProgress-svg"
+            viewBox="22 22 44 44"
+          >
+            <circle
+              class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+              cx="44"
+              cy="44"
+              fill="none"
+              r="20.2"
+              stroke-width="3.6"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-29"
+      >
+        <div>
+          Typography Component
+          <span>
+            type = style-6
+          </span>
+          Analyzing in progress. This may take a little while.
+          <br />
+          Please do not navigate away.
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-30"
+    >
+      <div>
+        children
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Error Component should match snapshot with children 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-5 Error-root-1"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-6"
+    >
+      <div>
+        children
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Error Component should match snapshot with empty content 1`] = `<div />`;
+
+exports[`Error Component should match snapshot with error content 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-35 Error-root-31"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-36 Error-container-32"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-37"
+      >
+        <div>
+          Typography Component
+          <span>
+            type = style-3
+          </span>
+          Something went wrong
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-38"
+      >
+        <div>
+          Typography Component
+          <span>
+            type = style-6
+          </span>
+          We are unable to process the photo you uploaded.
+          <br />
+          Please retry uploading a selfie and we will analyse and predict the future you.
+        </div>
+      </div>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+        data-testid="btn-tryAgain"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Try Again
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-70"
+    >
+      <div>
+        children
+      </div>
+    </div>
+  </div>
+</div>
+`;

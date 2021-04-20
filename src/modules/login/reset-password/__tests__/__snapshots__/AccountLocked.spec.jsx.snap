@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AccountLocked Component should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div
+      class="MuiTypography-root makeStyles-root-3 makeStyles-root-4 MuiTypography-body1"
+    >
+      Contact Customer Support
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-35"
+  >
+    <div
+      class="MuiTypography-root makeStyles-root-36 makeStyles-root-37 MuiTypography-body1"
+    >
+      This account has been locked due to multiple failures during verification attempts. Please contact your customer service team via undefined to unlock your account.
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,166 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WalletBalance Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-4 injectIntl(WalletBalance)-root-1"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-5"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-6 makeStyles-root-7 MuiTypography-body1"
+      >
+        Wellness balance
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-38"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-39 makeStyles-root-40 MuiTypography-body1"
+      >
+        HK$ 2500
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`WalletBalance Component should match snapshot with api error 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-94 injectIntl(WalletBalance)-root-91"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-95"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-96 makeStyles-root-97 MuiTypography-body1"
+      >
+        Wellness balance
+      </div>
+      <div
+        class="MuiTypography-root makeStyles-root-128 makeStyles-root-129 MuiTypography-body1"
+      >
+        Unable to display wellness balance. Try again later.
+      </div>
+    </div>
+    <span
+      aria-disabled="false"
+      class="MuiButtonBase-root MuiIconButton-root injectIntl(WalletBalance)-iconButton-92 MuiIconButton-colorPrimary"
+      data-testid="btn-refresh"
+      role="button"
+      tabindex="0"
+    >
+      <span
+        class="MuiIconButton-label"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root"
+          focusable="false"
+          role="presentation"
+          style="width: 1.125rem; height: 1.125rem;"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M11.6 4.8V0L5.6 6L11.6 12V7.2C13.5096 7.2 15.3409 7.95857 16.6912 9.30883C18.0414 10.6591 18.8 12.4904 18.8 14.4C18.8 16.3096 18.0414 18.1409 16.6912 19.4912C15.3409 20.8414 13.5096 21.6 11.6 21.6C9.69044 21.6 7.85909 20.8414 6.50883 19.4912C5.15857 18.1409 4.4 16.3096 4.4 14.4H2C2 16.9461 3.01143 19.3879 4.81178 21.1882C6.61212 22.9886 9.05392 24 11.6 24C14.1461 24 16.5879 22.9886 18.3882 21.1882C20.1886 19.3879 21.2 16.9461 21.2 14.4C21.2 11.8539 20.1886 9.41212 18.3882 7.61178C16.5879 5.81143 14.1461 4.8 11.6 4.8V4.8Z"
+            fill="#DB0011"
+          />
+        </svg>
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </span>
+  </div>
+</div>
+`;
+
+exports[`WalletBalance Component should match snapshot with loader 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-44 injectIntl(WalletBalance)-root-41"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-45"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-46 makeStyles-root-47 MuiTypography-body1"
+      >
+        Wellness balance
+      </div>
+    </div>
+    <div
+      class="MuiCircularProgress-root StyledCircularProgress-root-78 MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+      role="progressbar"
+      style="width: 24px; height: 24px;"
+    >
+      <svg
+        class="MuiCircularProgress-svg"
+        viewBox="22 22 44 44"
+      >
+        <circle
+          class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+          cx="44"
+          cy="44"
+          fill="none"
+          r="20.2"
+          stroke-width="3.6"
+        />
+      </svg>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`WalletBalance Component should match snapshot with with zero wallet balance 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-164 injectIntl(WalletBalance)-root-161"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-165"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-166 makeStyles-root-167 MuiTypography-body1"
+      >
+        Wellness balance
+      </div>
+      <div
+        class="MuiTypography-root makeStyles-root-198 makeStyles-root-199 MuiTypography-body1"
+      >
+        Your wellness balance account is empty. You will not be able to make a wellness claim.
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-200"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-201 makeStyles-root-202 MuiTypography-body1"
+      >
+        HK$ 0
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`WalletBalance Component should math snapshot when selected employee/dependents are not provided wallet 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-276 injectIntl(WalletBalance)-root-273"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-277"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-278 makeStyles-root-279 MuiTypography-body1"
+      >
+        Unable to display wellness balance. Try again later.
+      </div>
+    </div>
+  </div>
+</div>
+`;

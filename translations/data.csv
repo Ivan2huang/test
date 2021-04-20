@@ -1,0 +1,336 @@
+﻿Key,Value
+login.welcome.message,歡迎來到
+login.portalName,僱員平台
+login.label.email,電郵
+login.label.password,密碼
+login.button.logIn,登入
+login.link.forgotPassword,忘記密碼?
+login.error.unauthorized,您輸入的電郵地址或密碼與我們的記錄不相符，請再輸入。
+login.resetPassword.header.title,重設密碼
+login.resetPassword.label.newPassword,新密碼
+login.resetPassword.label.confirmPassword,確認密碼
+login.resetPassword.button.submit,發送
+password.guideline.header,您的密碼必須包含
+password.guideline.minimumLength,8人字符或更多
+password.guideline.mixCaseCharacters,大寫和小寫字母
+password.guideline.alphanumeric,最少1個數字
+password.validations.required,輸入密碼
+password.validations.match,輸入的密碼不相符
+password.validations.compliance,輸入的密碼不符合標準
+forgotPassword.button.resetPassword,重設密碼
+forgotPassword.Header.title,忘記您的密碼?
+forgotPassword.Header.description,我們將以電郵形式發送重設密碼的連結，請提供您的電郵地址。
+forgotPasswordSuccess.Header.title,請查看您的電子郵件
+forgotPasswordSuccess.Header.description-yes,我們已發送重設密碼的連結到 <email>
+forgotPasswordSuccess.Header.description-no,如您還未收到有關電郵，請檢查您的濫發郵件或垃圾郵件夾。或重新發送連結
+forgotPasswordSuccess.button.resendLink,重新發送連結
+forgotPasswordSuccess.button.backToLogin,返回登入
+validations.invalid.email,輸入有效的電郵地址
+validations.invalid.password,輸入有效的密碼
+login.label.companyEmail,電郵地址
+forgotPassword.button.back,返回
+nav-choices,選擇
+nav-claims,理賠
+nav-me,我的檔案
+nav-lifestyle,生活模式
+footer.logoText,全力支援
+claim.makeClaim.header.title,申請索償
+claim.makeClaim.header.description,"遞交理賠功能只適用於香港境內之指定門診治療 (參考下一步之""門診類別"")。AXA將保留在理賠申請完成後6個月內要求您提供收據正本的權利，請保留您的收據正本。詳情請參閱成員小冊子。"
+claim.makeClaim.document.info,確保你的文件清晰可見
+claims.makeClaimForm.patientDetails.title,病者資料
+claims.makeClaimForm.claimDetails.title,理賠資料
+claims.makeClaimForm.patientName.label,病者姓名
+claims.makeClaimForm.contactNumber.label,聯絡電話
+claims.makeClaimForm.consultationType.label,診症類別
+claims.makeClaimForm.diagnosis.label,診斷
+claims.makeClaimForm.consultationDate.label,診症日期
+claims.makeClaimForm.receiptAmount.label,收據金額
+claims.makeClaimForm.anotherInsurer.label,我已向其他保險公司申請是次索償
+claims.makeClaimForm.otherInsurerAmount.label,理賠金額 (其他保險公司)
+claims.makeClaimForm.validations.required.consultationType,選擇求診類別
+claims.makeClaimForm.validations.required.consultationDate,輸入求診日期
+claims.makeClaimForm.validations.required.diagnosis,選擇診斷結論
+claims.makeClaimForm.validations.required.receiptAmount,輸入有效的金額
+claims.makeClaimForm.validations.max.receiptAmount,如欲申請高於 {amount} 的索償，請遞交實體索償申請表格
+claims.makeClaimForm.receiptAmount.helperText,最高收據金額為 港幣
+claims.makeClaimForm.contactNumber.helperText,可選擇填寫
+claims.makeClaimForm.consultationDate.helperText,必須少於90天
+claims.makeClaimForm.otherInsurerAmount.helperText,必須低於收據金額
+claims.makeClaimForm.claimAmount.label,理賠金額
+claim.makeClaimForm.walletBalance.header,保健保障餘額
+claim.makeClaimForm.walletBalance.apiError,未能顯示保健保障餘額，請再輸入。
+claim.makeClaimForm.walletBalance.zeroBalanceError,您的健康保障並無餘額，您未能遞交健康保障之索償。
+claims.makeClaimForm.validations.max.claimAmount,必須低於健康保障餘額
+claims.makeClaimForm.claimAmount.helperText,必須低於健康保障餘額
+claims.makeClaimForm.uploadReceipt.title,收據
+claims.makeClaimForm.uploadReceipt.description,"最多上載5個檔案 (每個檔案大小限制在2MB以內)。可接受PDF, JPG, TIFF, PNG 或HEIC。"
+claims.makeClaimForm.button.uploadReceipts,上載
+claims.makeClaimForm.uploadReferralLetter.title,醫生轉介信
+claims.makeClaimForm.uploadReferralLetter.description,"上載1個檔案 (大小限制在2MB以內)。可接受PDF, JPG, TIFF, PNG 或HEIC。"
+claims.makeClaimForm.uploadReferralLetter.info,必須提交註冊西醫的轉介信
+claims.makeClaimForm.button.uploadReferralLetter,上載醫生轉介信
+claims.makeClaimForm.button.submit,遞交
+claims.makeClaimForm.submitLoaderMessage,索償正在遞交… <br> 請不要關閉或重新整理版面
+claims.makeClaimSuccess.title,索償申請已遞交
+claims.makeClaimSuccess.description,謝謝。請保留您的正本收據最少6個月。您的理賠會將14天內作出結算。
+claims.makeClaimSuccess.button.backToClaims,返回索償
+claims.makeClaimSuccess.button.makeAnotherClaim,申請另一個理賠個案
+claims.claimDetails.header.pending,待審核
+claims.claimDetails.header.approved,成功批核
+claims.claimDetails.header.rejected,拒絕
+claims.claimDetails.subHeader.outpatient,門診理賠
+claims.claimDetails.subHeader.wellness,保健理賠
+claims.claimDetails.label.claimNumber,理賠號碼
+claims.claimDetails.label.claimSubmissionDate,理賠遞交日期
+claims.claimDetails.header.patientDetails,病者資料
+claims.claimDetails.label.patientName,病者姓名
+claims.claimDetails.label.contactNumber,聯絡電話
+claims.claimDetails.header.claimDetails,理賠資料
+claims.claimDetails.label.consultationType,診症類別
+claims.claimDetails.label.diagnosis,診斷
+claims.claimDetails.label.consultationDate,診症日期
+claims.claimDetails.label.receiptAmount,收據金額
+claims.claimDetails.label.claimAmount,理賠金額
+claims.claimDetails.label.claimAmountFromAnotherInsurer,理賠金額 (其他保險公司)
+claims.claimDetails.header.receipts,收據
+claims.claimDetails.header.referralLetter,醫生轉介信
+claims.claimDetails.label.reimbursedAmount,賠償金額
+claims.claimDetails.label.settlementDate,批核日期
+claims.termsAndConditions.button.accept,同意條款細則
+claims.termsAndConditions.header,條款細則
+claims.button.label,申請索償
+claims.noClaim.heading,沒有索償申請
+claims.heading,理賠
+claims.description,在遞交索償前，請準備好您的收據及相關文件。
+claims.table.pendingHeader,待審核
+claims.table.approvedRejectedHeader,批核 及 拒絕
+claims.table.header.status,狀況
+claims.table.header.claimSubmissionDate,理賠遞交日期
+claims.table.header.consultationType,診症類別
+claims.table.header.patientName,病者姓名
+claims.table.header.amountClaimed,索償金額 (港幣)
+claims.table.header.reimbursed,賠償金額  (港幣)
+clinic.searchClinics.total,找到{noOfClinics} 診所
+clinic.searchClinics.toggleView,查看
+clinic.searchClinics.noClinics.title,沒有診所
+clinic.searchClinics.noClinics.description,沒有符合您搜尋條件的診所。
+clinic.searchClinics.toast.noClinics,沒有診所
+clinic.searchClinics.label.searchField,搜尋診所或位置
+clinic.searchClinics.suggestions.label.district,地區 - {區域}
+clinic.searchClinics.suggestions.label.areas,區域
+clinic.listView.link.clinicDetails,查看診所詳細資料
+clinic.detailView.clinicDetails,返回搜尋結果
+clinic.detailView.availability,服務時間
+clinic.detailView.peakHours,高峰時段
+clinic.detailView.languageSpoken,語言
+error.title,系統出現問題。
+error.message,請稍後再試。
+error.button.home,前往主頁
+error.button.goback,返回
+lifestyle.button.findClinic,搜尋診所
+lifestyle.clinic.snackbar.message,谷歌地圖並未授權使用您的位置，啟用瀏覽器的位置資訊。
+me.tabs.label.healthCard,e-康健咭
+me.tabs.label.benefits,我的福利
+me.tabs.label.details,我的資料
+me.tabs.label.usefulDocuments,表格及文件
+me.tabs.label.help,需要幫助?
+me.tabs.label.settings,設定
+me.tabs.myDetails.header.mainPolicyHolder,主投保人
+me.tabs.myDetails.header.dependents,家屬
+me.tabs.myDetails.header.dependent,家屬
+me.tabs.myDetails.label.name,姓名
+me.tabs.myDetails.label.relationship,關係
+me.tabs.myDetails.label.membershipNumber,會員號碼
+me.tabs.myDetails.label.email,公司電郵
+me.tabs.eHealthCard.label.header,
+me.tabs.eHealthCard.label.name,姓名
+me.tabs.eHealthCard.label.membershipNumber,會員號碼
+me.tabs.eHealthCard.label.coPayment,共付額
+me.tabs.eHealthCard.label.gp,普通科醫生
+me.tabs.eHealthCard.label.sp,專科門診
+me.tabs.eHealthCard.label.phy,物理治療
+me.tabs.benefits.label.myBenefits,我的福利
+me.tabs.benefits.label.policyDetails,計劃年度
+me.tabs.benefits.label.benefitsSummary,福利摘要
+me.tabs.benefits.label.viewFor,查看
+me.tabs.benefits.label.Notes,注意:
+me.tabs.benefits.dropdown.item,
+resetPasswordSuccess.Header.title,密碼已成功更改
+resetPasswordSuccess.Header.description,您可以以您的新驗証登入流動應用程式
+resetPasswordLinkExpired.Header.title,連結逾時
+resetPasswordLinkExpired.Header.description,"點擊 ""重新發送連結"" 以獲取新連結"
+clinic.searchClinics.suggestions.label.recentSearch,最近搜尋
+clinic.searchClinics.suggestions.recentSearch.label.area,區域
+clinic.searchClinics.suggestions.recentSearch.label.district,地區
+clinic.filter.label.selectedOrApplied,篩選 {selectedOrApplied}
+clinic.filter.label.all,所有診所類別
+clinic.filter.btn.apply,適用
+clinic.filter.btn.clearAll,清除所有
+me.tabs.benefits.dropdown.item,
+claims.noClaim.dependent.hintEmployee,您未能於網上遞交索償。請向您的配偶/父母代表您於網上遞交索償。
+claims.noClaim.dependent.hintSelf,您可以自行遞交索償，只須遞交
+claims.noClaim.dependent.hintForm,實體索償申請表格
+me.tabs.label.healthCard.QRCodeMessage,向診所職員展示<br/>此二維碼以提供醫療卡資料。
+me.tab.setting.label.languageSelection,語言
+me.tab.setting.label.field.languageSelection,語言選擇
+me.tab.setting.label.field.logout,登出
+me.tabs.eHealthCard.button.viewQRCode,檢視二維碼
+me.tabs.eHealthCard.QRCodeModal.message,向診所職員展示此二維碼以提供醫療卡資料。
+me.tabs.benefits.label.service,服務
+me.tabs.benefits.label.panelDoctor,網絡醫生 100%保障
+me.tabs.benefits.label.nonPanelDoctor,非網絡醫生 80%賠償
+me.tabs.benefits.label.checkpointVisit,
+me.tabs.benefits.label.checkpointVisitValues,上限{checkpointVisitsLimit}次，尚餘{checkpointVisitsBalance}次
+me.tabs.benefits.label.description,說明
+me.tabs.usefulDocuments.title,有用文件
+me.tabs.help.title,需要幫助?
+me.tabs.help.companyDetails.header,聯絡資料
+me.tabs.help.companyDetails.supportHours.header,客戶支援服務時間
+me.tabs.help.faqs.header,常見問題
+login.resetPassword.onBoarding.header.title,設立您{productName}的帳號
+login.resetPassword.onBoarding.button.submit,設立
+login.resetPassword.onBoarding.success.header,一切準備就緒!
+login.resetPassword.onBoarding.success.description,於{productName} 應用程式或網站瀏覽您的僱員福利和健康計劃
+login.resetPassword.onBoarding.success.button.view.website,瀏覽我們的網站
+error.component.heading,系統出現問題。
+error.component.subHeading,請重新整理版面或稍後再試
+me.tabs.myDetails.invite.btn,邀請去HSBC Benefits
+me.tabs.myDetails.invite.dependent.button.submit,發送邀請
+me.tabs.myDetails.invite.dependent.confirm.email,確認電郵地址
+me.tabs.myDetails.invite.dependent.email,家屬電郵地址
+me.tabs.myDetails.invite.dependent.header.title,邀請 {dependentName}
+me.tabs.myDetails.invite.dependent.header.title.sm,我的資料
+me.tabs.myDetails.invite.dependent.instructionsFirst,邀請家屬去HSBC Benefits ，以便他們可以瀏覽家屬應用程式和網站。
+me.tabs.myDetails.invite.dependent.instructionsSecond,提供{dependentName}的電子郵件地址，他/她將收到創建附屬帳戶的指示。
+me.tabs.myDetails.invite.dependent.invalidEmail,輸入有效的電郵地址
+me.tabs.myDetails.invite.dependent.isEmailNotMatched,電郵地址不符
+me.tabs.myDetails.invite.dependent.isRequired,必須
+me.tabs.myDetails.invite.dependent.header.success.title,已發送邀請
+me.tabs.myDetails.invite.dependent.header.success.message,已發送邀請給{dependentName}於 {dependentEmail}
+me.tabs.myDetails.invite.dependent.submitLoaderMessage,正在發送邀請… <br> 請不要關閉或重新整理版面
+me.tabs.myDetails.invite.dependent.button.success,返回我的資料
+me.tabs.benefits.label.wellness.nonPanelDoctorValue,上限{maxWalletBalance}，尚餘{availableWalletBalance}
+me.tabs.myDetails.title,我的資料
+me.tabs.benefits.policyDetails.insurer,保險公司
+me.tabs.benefits.policyDetails.policyNumber,保單號碼
+me.tabs.benefits.policyDetails.effectivePeriod,生效日期
+login.resetPassword.label.dateOfBirth,出生日期
+dateofBirth.validations.required,輸入出生日期
+dateofBirth.validations.dateOfBirthNoMatch,輸入不正確的出生日期
+lifestyle.lifestyleScore.header,我的生活模式結果
+lifestyle.lifestyleScore.description,分數越高，與較佳的生活模式有關，患上慢性疾病風險較低。
+lifestyle.lifestyleScore.maximumScore,滿分{maxScore}
+lifestyle.lifestyleScore.header,我的生活模式結果
+lifestyle.lifestyleScore.description,分數越高，與較佳的生活模式有關，患上慢性疾病風險較低。
+lifestyle.lifestyleScore.maximumScore,滿分{maxScore}
+lifestyle.lifestyleResults.header,我的生活模式結果
+lifestyle.lifestyleResults.bmiCard.title,體重指標
+lifestyle.lifestyleResults.bmiCard.subTitle.Healthy,健康
+lifestyle.lifestyleResults.bmiCard.subTitle.Overweight,超重
+lifestyle.lifestyleResults.bmiCard.subTitle.Obese,肥胖
+lifestyle.lifestyleResults.bmiCard.subTitle.Underweight,過輕
+lifestyle.lifestyleResults.bmiCard.description.Healthy,非常好! 你的體重指標處於適中水平。保持均衡飲食及經常運動是健康生活之本。
+lifestyle.lifestyleResults.bmiCard.description.Obese,肥胖是多種疾病的主要風險因素，更會引發肥胖相關的健康問題。改善您的飲食習慣和生活模式以保持健康。
+lifestyle.lifestyleResults.bmiCard.description.Overweight,你的體重指標現時超過了最適中的水平，而引發肥胖相關健康問題的風險亦相對增加。改善您的飲食習慣和生活模式以保持健康。但切記，如果您繼續食用加工食品，無論您上多少次健身房都會變得徒勞無功!
+lifestyle.lifestyleResults.bmiCard.description.Underweight,您應請教醫生增加體重的最佳方法。
+lifestyle.lifestyleResults.diabetesCard.title,糖尿病
+lifestyle.lifestyleResults.diabetesCard.subTitle.Low,低風險
+lifestyle.lifestyleResults.diabetesCard.subTitle.High,高風險
+lifestyle.lifestyleResults.diabetesCard.subTitle.VeryHigh,非常高風險
+lifestyle.lifestyleResults.diabetesCard.description.Low,非常好! 請繼續保持健康的生活習慣，以保持較低的糖尿風險。糖尿風險會隨年齡及生活習慣而改變。每年於網上測試一下糖尿風險評分，有助管理糖尿風險。
+lifestyle.lifestyleResults.diabetesCard.description.High,即使您自認屬於健康一族，您應考慮進行糖尿病健康評估檢測。及早發現、適時治療能達致更佳的結果。點擊這裡了解更多。
+lifestyle.lifestyleResults.diabetesCard.description.VeryHigh,您可能患上前期糖尿病，及早發現可改善您的生活模式。建議安排前期糖尿病測試，按此了解更多。
+lifestyle.lifestyleResults.alcoholRiskCard.title,飲酒
+lifestyle.lifestyleResults.alcoholRiskCard.subTitle.None,沒有
+lifestyle.lifestyleResults.alcoholRiskCard.subTitle.RegularDrinker,您有慣性飲酒的傾向
+lifestyle.lifestyleResults.alcoholRiskCard.subTitle.HeavyDrinker,您有暴飲的傾向
+lifestyle.lifestyleResults.alcoholRiskCard.description.None,請繼續保持滴酒不沾或少飲為妙的生活模式，雖然在特別的場合裡飲酒或很普遍，但選擇不飲酒或只飲少量可減少與酒精相關的影響。您亦可以鼓勵身邊的朋友作出最佳選擇!
+lifestyle.lifestyleResults.alcoholRiskCard.description.RegularDrinker,您樂在其中但要有數得計，切記限制酒量，每日不要飲超過兩個酒精單位。為健康着想，保持了解依賴酒精和酒精帶來的減低患癌風險，遠離酒精。
+lifestyle.lifestyleResults.alcoholRiskCard.description.HeavyDrinker,您大量飲酒，可能對您的身體造成傷害。減少飲酒會減輕酒精相關的健康風險。
+lifestyle.lifestyleResults.tobaccoRiskCard.title,吸煙
+lifestyle.lifestyleResults.tobaccoRiskCard.subTitle.NonSmoker,非吸煙人士
+lifestyle.lifestyleResults.tobaccoRiskCard.subTitle.ExSmoker,以前習慣吸煙的人士
+lifestyle.lifestyleResults.tobaccoRiskCard.subTitle.Smoker,吸煙人士
+lifestyle.lifestyleResults.tobaccoRiskCard.description.NonSmoker,做得好! 注意健康，提防二手煙。鼓勵身邊的朋友立即戒煙吧!
+lifestyle.lifestyleResults.tobaccoRiskCard.description.ExSmoker,真好! 戒煙是顯著的進展。注意健康，提防二手煙。鼓勵身邊的朋友立即戒煙吧!
+lifestyle.lifestyleResults.tobaccoRiskCard.description.Smoker,好好考慮戒煙以減輕吸煙的禍害吧! 戒煙後，您的肺部將會在一個月內慢慢復原，您的味覺，嗅覺，免疫力，能量水平等都得以改善。
+lifestyle.lifestyleResults.exerciseRiskCard.title,運動
+lifestyle.lifestyleResults.exerciseRiskCard.subTitle.High,高活動量
+lifestyle.lifestyleResults.exerciseRiskCard.subTitle.LowToModerate,中等程度活動量
+lifestyle.lifestyleResults.exerciseRiskCard.subTitle.VeryLow,較低活動量
+lifestyle.lifestyleResults.exerciseRiskCard.description.High,非常好! 您的堅持一致非常重要。 嘗試7次輕度有氧運動，每次燃燒200卡路里，比燃燒700卡路里的2次有氧運動。或者學習新的鍛煉程序，作出改變。
+lifestyle.lifestyleResults.exerciseRiskCard.description.LowToModerate,定期進行體能活動對您的健康帶來很多益處。當您做運動時，不妨試試融入多些密集式運動於每日常規練習和活動中。
+lifestyle.lifestyleResults.exerciseRiskCard.description.VeryLow,投入動感生活對健康有莫大益處! 萬事起頭難，不妨善用日常機會如每周步行至少3天，每次約30分鐘。或者嘗試一些您可以在家進行的活動。
+lifestyle.lifestyleResults.nutritionRiskCard.title,營養
+lifestyle.lifestyleResults.nutritionRiskCard.subTitle.High,自制力偏低
+lifestyle.lifestyleResults.nutritionRiskCard.subTitle.Moderate,中度自制力
+lifestyle.lifestyleResults.nutritionRiskCard.subTitle.Low,良好自制力
+lifestyle.lifestyleResults.nutritionRiskCard.description.High,誘惑和我們的食物選擇可以在很多方面影響我們的身體。了解您的飲食如何影響您的健康風險，以及如何控制您的飲食可以帶來更好的效果。
+lifestyle.lifestyleResults.nutritionRiskCard.description.Moderate,在您的文化中，控制和抵制某些食物的誘惑可能很困難。 了解健康的替代品，幫助您專注於保持健康的飲食。
+lifestyle.lifestyleResults.nutritionRiskCard.description.Low,您知道保持健康飲食，節制及飲食營養是最為重要的。時刻了解有關健康飲食，幫助您和您的家人繼續您的健康營養之旅。
+lifestyle.lifestyleResults.sleepRiskCard.title,睡眠
+lifestyle.lifestyleResults.sleepRiskCard.subTitle.GoodSleeper,良好
+lifestyle.lifestyleResults.sleepRiskCard.subTitle.AverageSleeper,中規中矩
+lifestyle.lifestyleResults.sleepRiskCard.subTitle.PoorSleeper,較差
+lifestyle.lifestyleResults.sleepRiskCard.description.GoodSleeper,很好! 保持每晚睡至少8小時，睡眠有助維持專注力及預防睡眠不足帶來的健康風險。
+lifestyle.lifestyleResults.sleepRiskCard.description.AverageSleeper,優質睡眠可以讓您的身體有足夠休息，以恢復體力迎接新的一天。把睡眠視作優先考慮的事，嘗試提高您的睡眠質素吧!
+lifestyle.lifestyleResults.sleepRiskCard.description.PoorSleeper,睡眠不足容易引發心臟病，糖尿病和認知障礙。考慮尋求專業幫助，以找出影響因素並改善睡眠質量。
+lifestyle.lifestyleResults.mindAndStressRiskCard.title,心靈與壓力
+lifestyle.lifestyleResults.mindAndStressRiskCard.subTitle.Normal,正常
+lifestyle.lifestyleResults.mindAndStressRiskCard.subTitle.BeCareful,留心
+lifestyle.lifestyleResults.mindAndStressRiskCard.subTitle.AtRisk,有風險
+lifestyle.lifestyleResults.mindAndStressRiskCard.description.Normal,請繼續保持! 把焦點放在目前。不要只顧著回憶舊事或為將來擔憂太多。精神健康與身體健康同樣重要，定期進行評估瞭解自⼰現時的精神健康狀態!
+lifestyle.lifestyleResults.mindAndStressRiskCard.description.BeCareful,除了身體健康，心理健康同樣重要。如您經常感到憂鬱沮喪，您的健康亦都受影響。花點時間確定和掌管負面情緒的根源。
+lifestyle.lifestyleResults.mindAndStressRiskCard.description.AtRisk,請預留時間讓自己放鬆，否則您的身心都會受損。確定和掌管您負面情緒的根源。單獨行動並不是易事，如有需要可以尋求幫忙。
+lifestyle.questionnaire.myChoices.header,我的選擇
+lifestyle.questionnaire.myHealth.header,我的健康
+lifestyle.questionnaire.question.error,請選擇答案
+lifestyle.questionnaire.futureMe.deletePhotoButton.label,删除相片
+lifestyle.questionnaire.futureMe.header,日後的我
+lifestyle.questionnaire.futureMe.description,上傳自拍照，我們將分析和預測您的未來。
+lifestyle.questionnaire.futureMe.optional,選擇性
+lifestyle.lifestyleHistory.header,我的生活模式紀錄
+lifestyle.tip.by,參考資料: {source}
+lifestyle.faceAging.header,在 {age} 的我
+lifestyle.faceAging.description,當您生活於健康的生活模式時，移動滑桿以查看未來的您。
+lifestyle.faceAging.currentLifeStyle,目前的生活模式
+lifestyle.faceAging.healthyLifeStyle,健康的生活模式
+me.tabs.myDetails.dependentAlreadyInvited,您已成功邀請他/她
+unauthorized.title,您未獲授權查看
+unauthorized.button.home,前往主頁
+unauthorized.button.goback,返回
+lifestyle.landingPage.header,成為更好的您！
+lifestyle.landingPage.description-first,發現有關您健康狀況的建議。 享受個性化的建議，以改善您的日常健康。
+lifestyle.landingPage.description-second,無須擔心，您的資料並不會傳送給僱主。
+lifestyle.lifestyleOverview.header,我的生活模式概況
+lifestyle.lifestyleOverview.description,切記，您健康與否主要是源於您的生活模式。
+lifestyle.buttons.add,添加我生活模式的資料
+lifestyle.buttons.update,更新我生活模式的資料
+lifestyle.buttons.clinicSearch,搜尋網絡診所
+lifestyle.questionnaire.header,生活習慣問卷
+lifestyle.questionnaire.description,結合最新科技，透過問題對您的生活模式作出風險評估
+lifestyle.questionnaire.submitButton.label,顯示結果
+lifestyle.questionnaire.aboutMe.header,關於我
+lifestyle.questionnaire.aboutMe.height.label,身高
+lifestyle.questionnaire.aboutMe.height.error,輸入身高
+lifestyle.questionnaire.aboutMe.weight.label,體重
+lifestyle.questionnaire.aboutMe.weight.error,輸入身高
+lifestyle.questionnaire.aboutMe.waistCircumference.label,腰圍
+lifestyle.questionnaire.aboutMe.waistCircumference.error,輸入腰圍
+lifestyle.questionnaire.aboutMe.ethnicity.label,我是亞洲人
+lifestyle.questionnaire.aboutMe.ethnicity.hint.header,您知道嗎?
+lifestyle.questionnaire.aboutMe.ethnicity.hint.description,亞裔人士與非亞裔人士在體重指標的分類是不同的。研究指出，亞裔人士比白種人士患上2型糖尿病的風險高出兩倍以上。
+lifestyle.questionnaire.aboutMe.unit.cm,厘米
+lifestyle.questionnaire.aboutMe.unit.kg,公斤
+lifestyle.tip.learnMore,更多
+lifestyle.recommendation.header,根據我的生活模式建議
+lifestyle.recommendation.button.viewProduct,查看產品
+lifestyle.recommendation.error.image,未能載入圖像
+lifestyle.questionnaire.futureMe.reuploadPhotoButton.label,重新上載相片
+lifestyle.questionnaire.futureMe.imageDescription,"只支援 .JPEG, .PNG or TIFF 之檔案，檔案大小不得多於 2MB"
+me.tabs.myDetails.spouseDependentInvalidAgeRange,您的配偶須年滿 {minSpouseAge}- 歲才可瀏覽HSBC Benefits之家屬應用程式和網站
+me.tabs.myDetails.childDependentInvalidAgeRange,您的子女須年滿 {minChildAge}-{maxChildAge} 歲才可瀏覽HSBC Benefits之家屬應用程式和網站
+me.tabs.myDetails.invite.dependent.invalidSpouseAge,您的配偶須年滿 {minSpouseAge}- 歲才可瀏覽HSBC Benefits之家屬應用程式和網站
+me.tabs.myDetails.invite.dependent.invalidChildAge,您的子女須年滿 {minChildAge}-{maxChildAge} 歲才可瀏覽HSBC Benefits之家屬應用程式和網站
+me.tabs.myDetails.invite.dependent.validations.accountAlreadyInUse,帳戶已使用
+me.tabs.myDetails.invite.dependent.label.dateOfBirth,出生日期

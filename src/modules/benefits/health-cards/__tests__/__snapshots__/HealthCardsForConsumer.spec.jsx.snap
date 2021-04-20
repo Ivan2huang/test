@@ -1,0 +1,1020 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HealthCardsForConsumer Component should match the snapshot when client is GMM 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-450 MuiPaper-rounded"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-514"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-515 PrivateHiddenCss-mdUp-523"
+      >
+        <div>
+          Typography Component
+          Brown William
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-531 makeStyles-healthCard-451 makeStyles-healthCard-459"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-532 makeStyles-row-452"
+        >
+          <img
+            alt="HSBC"
+            src="/static/health_card_header_consumer.svg"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-533"
+          >
+            <div>
+              Typography Component
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-534"
+        >
+          <div>
+            Typography Component
+            HSBC Life Benefits+ Medical Insurance Plan
+          </div>
+          <div>
+            Typography Component
+            滙豐保險全方位僱員福利醫療保險計劃
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-535"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-536"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-537"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-538"
+              >
+                <div>
+                  Typography Component
+                  PN123 - 333
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-539"
+              >
+                <div>
+                  Typography Component
+                  Brown William
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-540"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-541"
+                >
+                  <div>
+                    Typography Component
+                    Valid thru
+                  </div>
+                </div>
+                <div>
+                  Typography Component
+                  09/09/2020
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-542"
+            >
+              <div>
+                Typography Component
+                W8
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-543 makeStyles-copaymentContainer-453"
+          >
+            <img
+              alt="Medpass Logo"
+              src="/static/medpass-logo.svg"
+            />
+            <div
+              class="MuiBox-root MuiBox-root-544"
+            >
+              <div>
+                Typography Component
+                Copayment
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-545"
+              >
+                <div>
+                  Typography Component
+                  GP: 20
+                </div>
+                <div>
+                  Typography Component
+                  XR: 0
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-546"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-547 PrivateHiddenCss-smDown-521"
+        >
+          <div>
+            Typography Component
+            Brown William
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-450 MuiPaper-rounded"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-548"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-549 PrivateHiddenCss-mdUp-523"
+      >
+        <div>
+          Typography Component
+          Black William
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-550 makeStyles-healthCard-451 makeStyles-healthCard-459"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-551 makeStyles-row-452"
+        >
+          <img
+            alt="HSBC"
+            src="/static/health_card_header_consumer.svg"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-552"
+          >
+            <div>
+              Typography Component
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-553"
+        >
+          <div>
+            Typography Component
+            HSBC Life Benefits+ Medical Insurance Plan
+          </div>
+          <div>
+            Typography Component
+            滙豐保險全方位僱員福利醫療保險計劃
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-554"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-555"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-556"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-557"
+              >
+                <div>
+                  Typography Component
+                  PN123 - 444
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-558"
+              >
+                <div>
+                  Typography Component
+                  Black William
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-559"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-560"
+                >
+                  <div>
+                    Typography Component
+                    Valid thru
+                  </div>
+                </div>
+                <div>
+                  Typography Component
+                  09/09/2020
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-561"
+            >
+              <div>
+                Typography Component
+                
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-562 makeStyles-copaymentContainer-453"
+          >
+            <img
+              alt="Medpass Logo"
+              src="/static/medpass-logo.svg"
+            />
+            <div
+              class="MuiBox-root MuiBox-root-563"
+            >
+              <div>
+                Typography Component
+                Copayment
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-564"
+              >
+                <div>
+                  Typography Component
+                  GP: 30
+                </div>
+                <div>
+                  Typography Component
+                  XR: 10
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-565"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-566 PrivateHiddenCss-smDown-521"
+        >
+          <div>
+            Typography Component
+            Black William
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`HealthCardsForConsumer Component should match the snapshot with default card type 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-1 MuiPaper-rounded"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-65"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-66 PrivateHiddenCss-mdUp-74"
+      >
+        <div>
+          Typography Component
+          Brown William
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-82 makeStyles-healthCard-2 makeStyles-healthCard-10"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-83 makeStyles-row-3"
+        >
+          <img
+            alt="HSBC"
+            src="/static/health_card_header_consumer.svg"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-84"
+          >
+            <div>
+              Typography Component
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-85"
+        >
+          <div>
+            Typography Component
+            HSBC Life Benefits+ Medical Insurance Plan
+          </div>
+          <div>
+            Typography Component
+            滙豐保險全方位僱員福利醫療保險計劃
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-86"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-87"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-88"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-89"
+              >
+                <div>
+                  Typography Component
+                  PN123 - 333
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-90"
+              >
+                <div>
+                  Typography Component
+                  Brown William
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-91"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-92"
+                >
+                  <div>
+                    Typography Component
+                    Valid thru
+                  </div>
+                </div>
+                <div>
+                  Typography Component
+                  09/09/2020
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-93"
+            >
+              <div>
+                Typography Component
+                W8
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-94 makeStyles-copaymentContainer-4"
+          >
+            <img
+              alt="Medpass Logo"
+              src="/static/medpass-logo.svg"
+            />
+            <div
+              class="MuiBox-root MuiBox-root-95"
+            >
+              <div>
+                Typography Component
+                Copayment
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-96"
+              >
+                <div>
+                  Typography Component
+                  GP: 20
+                </div>
+                <div>
+                  Typography Component
+                  XR: 0
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-97"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-98 PrivateHiddenCss-smDown-72"
+        >
+          <div>
+            Typography Component
+            Brown William
+          </div>
+        </div>
+        <button
+          aria-label="View QR code for Brown William"
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+          data-testid="btn-view-qr-333"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            View QR code
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-1 MuiPaper-rounded"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-130"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-131 PrivateHiddenCss-mdUp-74"
+      >
+        <div>
+          Typography Component
+          Black William
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-132 makeStyles-healthCard-2 makeStyles-healthCard-10"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-133 makeStyles-row-3"
+        >
+          <img
+            alt="HSBC"
+            src="/static/health_card_header_consumer.svg"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-134"
+          >
+            <div>
+              Typography Component
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-135"
+        >
+          <div>
+            Typography Component
+            HSBC Life Benefits+ Medical Insurance Plan
+          </div>
+          <div>
+            Typography Component
+            滙豐保險全方位僱員福利醫療保險計劃
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-136"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-137"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-138"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-139"
+              >
+                <div>
+                  Typography Component
+                  PN123 - 444
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-140"
+              >
+                <div>
+                  Typography Component
+                  Black William
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-141"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-142"
+                >
+                  <div>
+                    Typography Component
+                    Valid thru
+                  </div>
+                </div>
+                <div>
+                  Typography Component
+                  09/09/2020
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-143"
+            >
+              <div>
+                Typography Component
+                
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-144 makeStyles-copaymentContainer-4"
+          >
+            <img
+              alt="Medpass Logo"
+              src="/static/medpass-logo.svg"
+            />
+            <div
+              class="MuiBox-root MuiBox-root-145"
+            >
+              <div>
+                Typography Component
+                Copayment
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-146"
+              >
+                <div>
+                  Typography Component
+                  GP: 30
+                </div>
+                <div>
+                  Typography Component
+                  XR: 10
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-147"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-148 PrivateHiddenCss-smDown-72"
+        >
+          <div>
+            Typography Component
+            Black William
+          </div>
+        </div>
+        <button
+          aria-label="View QR code for Black William"
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+          data-testid="btn-view-qr-444"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            View QR code
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`HealthCardsForConsumer Component should match the snapshot with default card type and role is not employee 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-159 MuiPaper-rounded"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-223"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-224 PrivateHiddenCss-mdUp-232"
+      >
+        <div>
+          Typography Component
+          Brown William
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-240 makeStyles-healthCard-160 makeStyles-healthCard-168"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-241 makeStyles-row-161"
+        >
+          <img
+            alt="HSBC"
+            src="/static/health_card_header_consumer.svg"
+          />
+          <div
+            class="MuiBox-root MuiBox-root-242"
+          >
+            <div>
+              Typography Component
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-243"
+        >
+          <div>
+            Typography Component
+            HSBC Life Benefits+ Medical Insurance Plan
+          </div>
+          <div>
+            Typography Component
+            滙豐保險全方位僱員福利醫療保險計劃
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-244"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-245"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-246"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-247"
+              >
+                <div>
+                  Typography Component
+                  PN123 - 333
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-248"
+              >
+                <div>
+                  Typography Component
+                  Brown William
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-249"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-250"
+                >
+                  <div>
+                    Typography Component
+                    Valid thru
+                  </div>
+                </div>
+                <div>
+                  Typography Component
+                  09/09/2020
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-251"
+            >
+              <div>
+                Typography Component
+                W8
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-252 makeStyles-copaymentContainer-162"
+          >
+            <img
+              alt="Medpass Logo"
+              src="/static/medpass-logo.svg"
+            />
+            <div
+              class="MuiBox-root MuiBox-root-253"
+            >
+              <div>
+                Typography Component
+                Copayment
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-254"
+              >
+                <div>
+                  Typography Component
+                  GP: 20
+                </div>
+                <div>
+                  Typography Component
+                  XR: 0
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-255"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-256 PrivateHiddenCss-smDown-230"
+        >
+          <div>
+            Typography Component
+            Brown William
+          </div>
+        </div>
+        <button
+          aria-label="View QR code for Brown William"
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+          data-testid="btn-view-qr-333"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            View QR code
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`HealthCardsForConsumer Component should match the snapshot with hase card type 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-298 MuiPaper-rounded"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-362"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-363 PrivateHiddenCss-mdUp-371"
+      >
+        <div>
+          Typography Component
+          Brown William
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-379 makeStyles-healthCard-299 makeStyles-healthCard-307"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-380 makeStyles-row-300"
+        >
+          <img
+            alt="HSBC"
+            src="/static/health_card_header_consumer_hase.svg"
+          />
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-381"
+        >
+          <div>
+            Typography Component
+            Hang Seng Staff Medical Scheme
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-382"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-383"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-384"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-385"
+              >
+                <div>
+                  Typography Component
+                  PN123 - 333
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-386"
+              >
+                <div>
+                  Typography Component
+                  Brown William
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-387"
+            >
+              <div>
+                Typography Component
+                W8
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-388 makeStyles-copaymentContainer-301"
+          >
+            <img
+              alt="Medpass Logo"
+              src="/static/medpass-logo-hase.svg"
+            />
+            <div
+              class="MuiBox-root MuiBox-root-389"
+            >
+              <div>
+                Typography Component
+                Copayment
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-390"
+              >
+                <div>
+                  Typography Component
+                  GP: 20
+                </div>
+                <div>
+                  Typography Component
+                  XR: 0
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-391"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-392 PrivateHiddenCss-smDown-369"
+        >
+          <div>
+            Typography Component
+            Brown William
+          </div>
+        </div>
+        <button
+          aria-label="View QR code for Brown William"
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+          data-testid="btn-view-qr-333"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            View QR code
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-298 MuiPaper-rounded"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-424"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-425 PrivateHiddenCss-mdUp-371"
+      >
+        <div>
+          Typography Component
+          Black William
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-426 makeStyles-healthCard-299 makeStyles-healthCard-307"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-427 makeStyles-row-300"
+        >
+          <img
+            alt="HSBC"
+            src="/static/health_card_header_consumer_hase.svg"
+          />
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-428"
+        >
+          <div>
+            Typography Component
+            Hang Seng Staff Medical Scheme
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-429"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-430"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-431"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-432"
+              >
+                <div>
+                  Typography Component
+                  PN123 - 444
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-433"
+              >
+                <div>
+                  Typography Component
+                  Black William
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-434"
+            >
+              <div>
+                Typography Component
+                
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-435 makeStyles-copaymentContainer-301"
+          >
+            <img
+              alt="Medpass Logo"
+              src="/static/medpass-logo-hase.svg"
+            />
+            <div
+              class="MuiBox-root MuiBox-root-436"
+            >
+              <div>
+                Typography Component
+                Copayment
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-437"
+              >
+                <div>
+                  Typography Component
+                  GP: 30
+                </div>
+                <div>
+                  Typography Component
+                  XR: 10
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-438"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-439 PrivateHiddenCss-smDown-369"
+        >
+          <div>
+            Typography Component
+            Black William
+          </div>
+        </div>
+        <button
+          aria-label="View QR code for Black William"
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+          data-testid="btn-view-qr-444"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            View QR code
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

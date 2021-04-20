@@ -1,0 +1,38 @@
+version: '3.5'
+
+services:
+  employeefrontend:
+    container_name: employeefrontend
+    build:
+      context: .
+      target: final
+    ports:
+      - 8080:8080
+    volumes:
+      - ./:/src
+    entrypoint:
+      - node
+      - server.js
+    environment:
+      - CLIENT_ID=twclient3
+      - CLIENT_ID=cxadevclient1
+      - DEFAULT_LANGUAGE=en
+      - AUTH_SERVICE=https://distribution-platform.cxapalawan.com/auth/
+      - PANEL_SERVICE=https://distribution-platform.cxapalawan.com/panel/
+      - MEMBER_SERVICE=https://distribution-platform.cxapalawan.com/member/
+      - BENEFIT_SERVICE=https://distribution-platform.cxapalawan.com/benefit/
+      - WALLET_SERVICE=https://distribution-platform.cxapalawan.com/wallet/
+      - GOOGLE_MAP_API_KEY=
+      - PORT=8080
+
+      - AUTH0_AUTHORIZE_URL=https://stagingcxapalawan.au.auth0.com/authorize?scope=openid ALL profile profile.ecommerce.read&response_type=code&client_id={client_id}&redirect_uri={redirect_uri}&protocol=oauth2&connection={connection}&prompt=login&audience={audience}
+      - AUTH0_SSO_CLIENT_ID=
+
+      - AUTH0_REDIRECT_URL=http://localhost:8080
+      - AUTH0_CONNECTION=
+      - AUTH0_AUDIENCE=
+      - AUTH0_OAUTH_TOKEN_URL=https://stagingcxapalawan.au.auth0.com/oauth/token
+      - AUTH0_SSO_CLIENT_SECRET=
+networks:
+  default:
+    name: 'palawan-dev'

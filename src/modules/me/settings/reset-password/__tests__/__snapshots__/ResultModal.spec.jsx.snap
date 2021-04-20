@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ResultModal Component should match the snapshot when open is false 1`] = `
+<div>
+  <div>
+    Modal Component
+    <div>
+      <div
+        class="MuiTypography-root makeStyles-root-35 makeStyles-root-36 MuiTypography-body1"
+      >
+        Check your email
+      </div>
+    </div>
+    <span>
+      open = false
+      handleClose = function handleClose
+    </span>
+    <div>
+      <div
+        class="MuiTypography-root makeStyles-root-67 makeStyles-root-68 MuiTypography-body1"
+      >
+        We've sent the reset password link to dummy@email.com. If you don't see the email, please check your junk or spam folders.
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ResultModal Component should match the snapshot when open is true 1`] = `
+<div>
+  <div>
+    Modal Component
+    <div>
+      <div
+        class="MuiTypography-root makeStyles-root-1 makeStyles-root-2 MuiTypography-body1"
+      >
+        Check your email
+      </div>
+    </div>
+    <span>
+      open = false
+      handleClose = function handleClose
+    </span>
+    <div>
+      <div
+        class="MuiTypography-root makeStyles-root-33 makeStyles-root-34 MuiTypography-body1"
+      >
+        We've sent the reset password link to dummy@email.com. If you don't see the email, please check your junk or spam folders.
+      </div>
+    </div>
+  </div>
+</div>
+`;

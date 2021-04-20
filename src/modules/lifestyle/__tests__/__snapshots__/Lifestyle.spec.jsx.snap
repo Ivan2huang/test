@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Lifestyle Component should match snapshot when lifestyle details are present 1`] = `
+<div>
+  <div>
+    No Lifestyle Component
+  </div>
+</div>
+`;
+
+exports[`Lifestyle Component should match snapshot when loading data  1`] = `
+<div>
+  <div>
+    <header>
+      Layout Header
+    </header>
+    <div
+      class="MuiBox-root MuiBox-root-2"
+    />
+  </div>
+</div>
+`;
+
+exports[`Lifestyle Component should match snapshot when there is no lifestyle details  1`] = `
+<div>
+  <div>
+    Lifestyle Landing Component
+  </div>
+</div>
+`;

@@ -1,0 +1,515 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FileItems Component should match snapshot with close icon 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-43"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-44"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-45 FileItems-fileWrapper-34 "
+      >
+        <div
+          class="MuiBox-root MuiBox-root-46 FileItems-content-37"
+          classes="[object Object]"
+          data-testid="file-0"
+          tabindex="-1"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-47 FileItems-thumbnail-39 "
+          >
+            <img
+              alt="file1.jpg"
+              src="/file1.jpg"
+            />
+          </div>
+          <div
+            class=""
+            type="style-8"
+          >
+            file1.jpg
+          </div>
+        </div>
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root FileItems-closeIcon-41"
+          data-testid="close-icon-0"
+          focusable="false"
+          role="presentation"
+          style="width: 1.125rem; height: 1.125rem;"
+          tabindex="0"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M18 1.02802L16.972 0L9 7.97198L1.02802 0L0 1.02802L7.97198 9L0 16.972L1.02802 18L9 10.028L16.972 18L18 16.972L10.028 9L18 1.02802Z"
+            fill="#666"
+          />
+        </svg>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-57 FileItems-fileWrapper-34 "
+      >
+        <div
+          class="MuiBox-root MuiBox-root-58 FileItems-content-37"
+          classes="[object Object]"
+          data-testid="file-1"
+          tabindex="-1"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-59 FileItems-thumbnail-39 "
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              style="width: 1.125rem; height: 1.125rem;"
+              viewBox="0 0 18 18"
+            >
+              <path
+                d="M3.90094 9.378H3.58394V10.176H3.85094C4.39794 10.176 4.47194 9.967 4.47194 9.763C4.47194 9.489 4.30594 9.378 3.90094 9.378ZM13.1999 0H2.99994V5.8H4.19994V1.2H11.9999V5H15.7999V16.8H4.19994V15.2H2.99994V18H16.9999V3.8L13.1999 0ZM13.1999 3.8V1.697L15.3029 3.8H13.1999ZM12.9999 13.99V7.01C12.9999 7.004 12.9959 7 12.9899 7H1.00994C1.00394 7 0.999939 7.004 0.999939 7.01V13.99C0.999939 13.995 1.00394 14 1.00994 14H12.9899C12.9959 14 12.9999 13.995 12.9999 13.99ZM4.75994 10.77L4.75894 10.771C4.58794 10.84 4.35394 10.877 4.10094 10.877H3.58394V12.15H2.67194V8.676H3.98694C4.30894 8.676 4.64694 8.692 4.93094 8.883C5.23294 9.088 5.39194 9.404 5.39194 9.795C5.39294 10.239 5.15594 10.604 4.75994 10.77ZM6.81294 12.151H5.68494V8.676H6.92294C8.19794 8.676 8.84494 9.255 8.84494 10.398C8.84394 11.952 7.75894 12.151 6.81294 12.151ZM11.5799 9.383H10.1169V10.058H11.4939V10.76H10.1169V12.152H9.21794V8.676H11.5799V9.383ZM6.85894 9.378H6.59594V11.449H6.83094C7.58994 11.449 7.91394 11.137 7.91394 10.406C7.91394 9.675 7.60894 9.378 6.85894 9.378Z"
+                fill="#333333"
+              />
+            </svg>
+          </div>
+          <div
+            class=""
+            type="style-8"
+          >
+            file2.pdf
+          </div>
+        </div>
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root FileItems-closeIcon-41"
+          data-testid="close-icon-1"
+          focusable="false"
+          role="presentation"
+          style="width: 1.125rem; height: 1.125rem;"
+          tabindex="0"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M18 1.02802L16.972 0L9 7.97198L1.02802 0L0 1.02802L7.97198 9L0 16.972L1.02802 18L9 10.028L16.972 18L18 16.972L10.028 9L18 1.02802Z"
+            fill="#666"
+          />
+        </svg>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-60 FileItems-fileWrapper-34 "
+      >
+        <div
+          class="MuiBox-root MuiBox-root-61 FileItems-content-37"
+          classes="[object Object]"
+          data-testid="file-2"
+          tabindex="-1"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-62 FileItems-thumbnail-39 "
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              style="width: 1.125rem; height: 1.125rem;"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M24.4 9H10.1666V31H28.8333V13.6444L24.4 9ZM26.8535 13.6444H24.4V11.0741L26.8535 13.6444ZM27.4333 29.5333H11.5666V10.4667H23V15.1111H27.4333V29.5333Z"
+                fill="#333333"
+              />
+            </svg>
+          </div>
+          <div
+            class=""
+            type="style-8"
+          >
+            file3.heic
+          </div>
+        </div>
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root FileItems-closeIcon-41"
+          data-testid="close-icon-2"
+          focusable="false"
+          role="presentation"
+          style="width: 1.125rem; height: 1.125rem;"
+          tabindex="0"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M18 1.02802L16.972 0L9 7.97198L1.02802 0L0 1.02802L7.97198 9L0 16.972L1.02802 18L9 10.028L16.972 18L18 16.972L10.028 9L18 1.02802Z"
+            fill="#666"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`FileItems Component should match snapshot with onClick 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-105"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-106"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-107 FileItems-fileWrapper-96 "
+      >
+        <div
+          class="MuiBox-root MuiBox-root-108 FileItems-content-99 FileItems-cursor-100"
+          classes="[object Object]"
+          data-testid="file-0"
+          tabindex="0"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-109 FileItems-thumbnail-101 "
+          >
+            <img
+              alt="file1.jpg"
+              src="/file1.jpg"
+            />
+          </div>
+          <div
+            class=""
+            type="style-8"
+          >
+            file1.jpg
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-110 FileItems-fileWrapper-96 "
+      >
+        <div
+          class="MuiBox-root MuiBox-root-111 FileItems-content-99 FileItems-cursor-100"
+          classes="[object Object]"
+          data-testid="file-1"
+          tabindex="0"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-112 FileItems-thumbnail-101 "
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              style="width: 1.125rem; height: 1.125rem;"
+              viewBox="0 0 18 18"
+            >
+              <path
+                d="M3.90094 9.378H3.58394V10.176H3.85094C4.39794 10.176 4.47194 9.967 4.47194 9.763C4.47194 9.489 4.30594 9.378 3.90094 9.378ZM13.1999 0H2.99994V5.8H4.19994V1.2H11.9999V5H15.7999V16.8H4.19994V15.2H2.99994V18H16.9999V3.8L13.1999 0ZM13.1999 3.8V1.697L15.3029 3.8H13.1999ZM12.9999 13.99V7.01C12.9999 7.004 12.9959 7 12.9899 7H1.00994C1.00394 7 0.999939 7.004 0.999939 7.01V13.99C0.999939 13.995 1.00394 14 1.00994 14H12.9899C12.9959 14 12.9999 13.995 12.9999 13.99ZM4.75994 10.77L4.75894 10.771C4.58794 10.84 4.35394 10.877 4.10094 10.877H3.58394V12.15H2.67194V8.676H3.98694C4.30894 8.676 4.64694 8.692 4.93094 8.883C5.23294 9.088 5.39194 9.404 5.39194 9.795C5.39294 10.239 5.15594 10.604 4.75994 10.77ZM6.81294 12.151H5.68494V8.676H6.92294C8.19794 8.676 8.84494 9.255 8.84494 10.398C8.84394 11.952 7.75894 12.151 6.81294 12.151ZM11.5799 9.383H10.1169V10.058H11.4939V10.76H10.1169V12.152H9.21794V8.676H11.5799V9.383ZM6.85894 9.378H6.59594V11.449H6.83094C7.58994 11.449 7.91394 11.137 7.91394 10.406C7.91394 9.675 7.60894 9.378 6.85894 9.378Z"
+                fill="#333333"
+              />
+            </svg>
+          </div>
+          <div
+            class=""
+            type="style-8"
+          >
+            file2.pdf
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-122 FileItems-fileWrapper-96 "
+      >
+        <div
+          class="MuiBox-root MuiBox-root-123 FileItems-content-99 FileItems-cursor-100"
+          classes="[object Object]"
+          data-testid="file-2"
+          tabindex="0"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-124 FileItems-thumbnail-101 "
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              style="width: 1.125rem; height: 1.125rem;"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M24.4 9H10.1666V31H28.8333V13.6444L24.4 9ZM26.8535 13.6444H24.4V11.0741L26.8535 13.6444ZM27.4333 29.5333H11.5666V10.4667H23V15.1111H27.4333V29.5333Z"
+                fill="#333333"
+              />
+            </svg>
+          </div>
+          <div
+            class=""
+            type="style-8"
+          >
+            file3.heic
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`FileItems Component should match snapshot with responsive mode 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-74 FileItems-containerMobile-63"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-75 FileItems-containerInnerMobile-64"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-76 FileItems-fileWrapper-65 FileItems-fileWrapperMobile-66"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-77 FileItems-content-68"
+          classes="[object Object]"
+          data-testid="file-0"
+          tabindex="-1"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-78 FileItems-thumbnail-70 FileItems-thumbnailMobile-71"
+          >
+            <img
+              alt="file1.jpg"
+              src="/file1.jpg"
+            />
+          </div>
+          <div
+            class="FileItems-fileNameMobile-67"
+            type="style-8"
+          >
+            file1.jpg
+          </div>
+        </div>
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root FileItems-closeIcon-72"
+          data-testid="close-icon-0"
+          focusable="false"
+          role="presentation"
+          style="width: 1.125rem; height: 1.125rem;"
+          tabindex="0"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M18 1.02802L16.972 0L9 7.97198L1.02802 0L0 1.02802L7.97198 9L0 16.972L1.02802 18L9 10.028L16.972 18L18 16.972L10.028 9L18 1.02802Z"
+            fill="#666"
+          />
+        </svg>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-88 FileItems-fileWrapper-65 FileItems-fileWrapperMobile-66"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-89 FileItems-content-68"
+          classes="[object Object]"
+          data-testid="file-1"
+          tabindex="-1"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-90 FileItems-thumbnail-70 FileItems-thumbnailMobile-71"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              style="width: 1.125rem; height: 1.125rem;"
+              viewBox="0 0 18 18"
+            >
+              <path
+                d="M3.90094 9.378H3.58394V10.176H3.85094C4.39794 10.176 4.47194 9.967 4.47194 9.763C4.47194 9.489 4.30594 9.378 3.90094 9.378ZM13.1999 0H2.99994V5.8H4.19994V1.2H11.9999V5H15.7999V16.8H4.19994V15.2H2.99994V18H16.9999V3.8L13.1999 0ZM13.1999 3.8V1.697L15.3029 3.8H13.1999ZM12.9999 13.99V7.01C12.9999 7.004 12.9959 7 12.9899 7H1.00994C1.00394 7 0.999939 7.004 0.999939 7.01V13.99C0.999939 13.995 1.00394 14 1.00994 14H12.9899C12.9959 14 12.9999 13.995 12.9999 13.99ZM4.75994 10.77L4.75894 10.771C4.58794 10.84 4.35394 10.877 4.10094 10.877H3.58394V12.15H2.67194V8.676H3.98694C4.30894 8.676 4.64694 8.692 4.93094 8.883C5.23294 9.088 5.39194 9.404 5.39194 9.795C5.39294 10.239 5.15594 10.604 4.75994 10.77ZM6.81294 12.151H5.68494V8.676H6.92294C8.19794 8.676 8.84494 9.255 8.84494 10.398C8.84394 11.952 7.75894 12.151 6.81294 12.151ZM11.5799 9.383H10.1169V10.058H11.4939V10.76H10.1169V12.152H9.21794V8.676H11.5799V9.383ZM6.85894 9.378H6.59594V11.449H6.83094C7.58994 11.449 7.91394 11.137 7.91394 10.406C7.91394 9.675 7.60894 9.378 6.85894 9.378Z"
+                fill="#333333"
+              />
+            </svg>
+          </div>
+          <div
+            class="FileItems-fileNameMobile-67"
+            type="style-8"
+          >
+            file2.pdf
+          </div>
+        </div>
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root FileItems-closeIcon-72"
+          data-testid="close-icon-1"
+          focusable="false"
+          role="presentation"
+          style="width: 1.125rem; height: 1.125rem;"
+          tabindex="0"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M18 1.02802L16.972 0L9 7.97198L1.02802 0L0 1.02802L7.97198 9L0 16.972L1.02802 18L9 10.028L16.972 18L18 16.972L10.028 9L18 1.02802Z"
+            fill="#666"
+          />
+        </svg>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-91 FileItems-fileWrapper-65 FileItems-fileWrapperMobile-66"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-92 FileItems-content-68"
+          classes="[object Object]"
+          data-testid="file-2"
+          tabindex="-1"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-93 FileItems-thumbnail-70 FileItems-thumbnailMobile-71"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              style="width: 1.125rem; height: 1.125rem;"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M24.4 9H10.1666V31H28.8333V13.6444L24.4 9ZM26.8535 13.6444H24.4V11.0741L26.8535 13.6444ZM27.4333 29.5333H11.5666V10.4667H23V15.1111H27.4333V29.5333Z"
+                fill="#333333"
+              />
+            </svg>
+          </div>
+          <div
+            class="FileItems-fileNameMobile-67"
+            type="style-8"
+          >
+            file3.heic
+          </div>
+        </div>
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root FileItems-closeIcon-72"
+          data-testid="close-icon-2"
+          focusable="false"
+          role="presentation"
+          style="width: 1.125rem; height: 1.125rem;"
+          tabindex="0"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M18 1.02802L16.972 0L9 7.97198L1.02802 0L0 1.02802L7.97198 9L0 16.972L1.02802 18L9 10.028L16.972 18L18 16.972L10.028 9L18 1.02802Z"
+            fill="#666"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`FileItems Component should match snapshot without close icon 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-12"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-13"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-14 FileItems-fileWrapper-3 "
+      >
+        <div
+          class="MuiBox-root MuiBox-root-15 FileItems-content-6"
+          classes="[object Object]"
+          data-testid="file-0"
+          tabindex="-1"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-16 FileItems-thumbnail-8 "
+          >
+            <img
+              alt="file1.jpg"
+              src="/file1.jpg"
+            />
+          </div>
+          <div
+            class=""
+            type="style-8"
+          >
+            file1.jpg
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-17 FileItems-fileWrapper-3 "
+      >
+        <div
+          class="MuiBox-root MuiBox-root-18 FileItems-content-6"
+          classes="[object Object]"
+          data-testid="file-1"
+          tabindex="-1"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-19 FileItems-thumbnail-8 "
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              style="width: 1.125rem; height: 1.125rem;"
+              viewBox="0 0 18 18"
+            >
+              <path
+                d="M3.90094 9.378H3.58394V10.176H3.85094C4.39794 10.176 4.47194 9.967 4.47194 9.763C4.47194 9.489 4.30594 9.378 3.90094 9.378ZM13.1999 0H2.99994V5.8H4.19994V1.2H11.9999V5H15.7999V16.8H4.19994V15.2H2.99994V18H16.9999V3.8L13.1999 0ZM13.1999 3.8V1.697L15.3029 3.8H13.1999ZM12.9999 13.99V7.01C12.9999 7.004 12.9959 7 12.9899 7H1.00994C1.00394 7 0.999939 7.004 0.999939 7.01V13.99C0.999939 13.995 1.00394 14 1.00994 14H12.9899C12.9959 14 12.9999 13.995 12.9999 13.99ZM4.75994 10.77L4.75894 10.771C4.58794 10.84 4.35394 10.877 4.10094 10.877H3.58394V12.15H2.67194V8.676H3.98694C4.30894 8.676 4.64694 8.692 4.93094 8.883C5.23294 9.088 5.39194 9.404 5.39194 9.795C5.39294 10.239 5.15594 10.604 4.75994 10.77ZM6.81294 12.151H5.68494V8.676H6.92294C8.19794 8.676 8.84494 9.255 8.84494 10.398C8.84394 11.952 7.75894 12.151 6.81294 12.151ZM11.5799 9.383H10.1169V10.058H11.4939V10.76H10.1169V12.152H9.21794V8.676H11.5799V9.383ZM6.85894 9.378H6.59594V11.449H6.83094C7.58994 11.449 7.91394 11.137 7.91394 10.406C7.91394 9.675 7.60894 9.378 6.85894 9.378Z"
+                fill="#333333"
+              />
+            </svg>
+          </div>
+          <div
+            class=""
+            type="style-8"
+          >
+            file2.pdf
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-29 FileItems-fileWrapper-3 "
+      >
+        <div
+          class="MuiBox-root MuiBox-root-30 FileItems-content-6"
+          classes="[object Object]"
+          data-testid="file-2"
+          tabindex="-1"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-31 FileItems-thumbnail-8 "
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              style="width: 1.125rem; height: 1.125rem;"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M24.4 9H10.1666V31H28.8333V13.6444L24.4 9ZM26.8535 13.6444H24.4V11.0741L26.8535 13.6444ZM27.4333 29.5333H11.5666V10.4667H23V15.1111H27.4333V29.5333Z"
+                fill="#333333"
+              />
+            </svg>
+          </div>
+          <div
+            class=""
+            type="style-8"
+          >
+            file3.heic
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

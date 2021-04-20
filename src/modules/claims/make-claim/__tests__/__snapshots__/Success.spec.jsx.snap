@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Success component should match the Snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-3"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <div
+        class="MuiCardContent-root"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-33"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-123"
+              >
+                <div
+                  type="style-1"
+                >
+                  Claim submitted
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-124"
+              >
+                <div
+                  type="style-6"
+                >
+                  Thank you. Please keep your original documents for at least 6 months. Your claim will be settled in 14 days.
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-125"
+              >
+                <div
+                  type="style-6"
+                >
+                  Your claim might take 2-3 days before it shows up in the claims list.
+                </div>
+              </div>
+              <div>
+                <button
+                  class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                  data-testid="btn-back-to-claims"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiButton-label"
+                  >
+                    Back to claims
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+                <button
+                  class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+                  data-testid="btn-make-another-claim"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiButton-label"
+                  >
+                    Make another claim
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

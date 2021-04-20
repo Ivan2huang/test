@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Item Container Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-4 makeStyles-root-1 makeStyles-root-2"
+  >
+    <span>
+      test
+    </span>
+    <span>
+      test
+    </span>
+    <span>
+      test
+    </span>
+  </div>
+</div>
+`;

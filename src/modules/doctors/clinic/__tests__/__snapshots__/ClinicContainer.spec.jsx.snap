@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Clinic container should match snapshot when user is not terminated 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container"
+    />
+  </div>
+</div>
+`;
+
+exports[`Clinic container should match snapshot when user is terminated 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-107"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container"
+    />
+  </div>
+</div>
+`;

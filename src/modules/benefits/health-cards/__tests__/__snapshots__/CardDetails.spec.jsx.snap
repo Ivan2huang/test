@@ -1,0 +1,158 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardDetails Component should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-items-xs-flex-end"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-106"
+      >
+        <div>
+          Typography Component
+          HSBC HealthPlus
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-107"
+      >
+        <div>
+          Typography Component
+          Name:
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-108 CardDetails-lastBox-1"
+        classes="[object Object]"
+      >
+        <div>
+          Typography Component
+          William Brown
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-109"
+      >
+        <div>
+          Typography Component
+          Membership No:
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-110 CardDetails-lastBox-1"
+        classes="[object Object]"
+      >
+        <div>
+          Typography Component
+          123
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-111"
+      >
+        <div>
+          Typography Component
+          Copayment
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-112 CardDetails-lastBox-1"
+        classes="[object Object]"
+      >
+        <div>
+          Typography Component
+          GP: HK$10
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-113 CardDetails-lastBox-1"
+        classes="[object Object]"
+      >
+        <div>
+          Typography Component
+          SP: HK$10
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-114 CardDetails-lastBox-1"
+        classes="[object Object]"
+      >
+        <div>
+          Typography Component
+          PHY: HK$10
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CardDetails Component should match the snapshot when not render coPayment 1`] = `
+<div>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-items-xs-flex-end"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-220"
+      >
+        <div>
+          Typography Component
+          HSBC HealthPlus
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-221"
+      >
+        <div>
+          Typography Component
+          Name:
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-222 CardDetails-lastBox-115"
+        classes="[object Object]"
+      >
+        <div>
+          Typography Component
+          William Brown
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-223"
+      >
+        <div>
+          Typography Component
+          Membership No:
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-224 CardDetails-lastBox-115"
+        classes="[object Object]"
+      >
+        <div>
+          Typography Component
+          123
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

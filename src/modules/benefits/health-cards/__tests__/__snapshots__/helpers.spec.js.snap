@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HealthCards Helpers should get QR code xml 1`] = `"<?xml version=\\"1.0\\"?><medical_card><Card_type>HSBC</Card_type><insurance_company_code>12</insurance_company_code><insurance_company_name>ABC insurer</insurance_company_name><insured_name>Markus Tan</insured_name><policy_no>PN1234</policy_no><certificate_no>CERT3456</certificate_no><membership_no>MEM100023</membership_no><expiry_date>12-3-2020</expiry_date></medical_card>"`;

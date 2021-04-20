@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MakeClaim Component should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-3"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <div
+        class="MuiCardContent-root"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-33"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+            >
+              <div>
+                <span>
+                  Make Claim Header
+                </span>
+                <span
+                  data-id="props"
+                />
+              </div>
+              <div>
+                <span>
+                  Make Claim Form
+                </span>
+                <span
+                  data-id="props"
+                >
+                  patients = [object Object],[object Object]
+                  consultationTypes = [object Object]
+                  diagnosisTypes = [object Object],[object Object]
+                  initialValues = [object Object]
+                  selectedClaimId = undefined
+                  selectedDiagnosisKey = undefined
+                  insuranceClaim = true
+                  anotherInsurerEnabled = false
+                  maxReceiptAmount = 800
+                  referralRequired = true
+                  loader = [object Object]
+                  selectedPatientId = 12
+                  walletBalance = [object Object]
+                  getMemberProfile = function mockConstructor() {
+        return fn.apply(this, arguments);
+      }
+                  getClaimTypes = function mockConstructor() {
+        return fn.apply(this, arguments);
+      }
+                  getWalletBalance = function mockConstructor() {
+        return fn.apply(this, arguments);
+      }
+                  getTermAndCondition = function mockConstructor() {
+        return fn.apply(this, arguments);
+      }
+                  isChineseHerbalist = false
+                  maxAdditionalDocumentAllowed = 1
+                  isTerminatedPatient = false
+                  terminatedDate = undefined
+                  consultationCategoryName = [object Object]
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

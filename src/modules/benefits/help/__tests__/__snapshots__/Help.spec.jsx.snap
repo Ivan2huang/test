@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Help Component should match snapshot 1`] = `
+<div>
+  <div>
+    Typography Component
+    Help
+  </div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root Help-wrapper-2 MuiPaper-rounded"
+  >
+    <div>
+      CompanyDetails
+      <span>
+        email
+        phone
+        customerSupportHours
+      </span>
+    </div>
+  </div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root Help-wrapper-2 MuiPaper-rounded"
+  >
+    <div>
+      FAQs
+      <span>
+        Coverage
+      </span>
+      <span>
+        Claims Status
+      </span>
+    </div>
+  </div>
+</div>
+`;

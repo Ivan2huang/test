@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "code": "outpatient",
+    "claimCategory": "Outpatient",
+    "isInsuranceClaim": true,
+    "displayOrder": 1,
+    "claimTypes": [
+      {
+        "id": 10,
+        "code": "MO-GP",
+        "maxAmountPerClaim": 800.0,
+        "referralRequired": false,
+        "claimType": "General practitioner",
+        "claimCategoryId": 1,
+        "isActive": true,
+        "claimReasons": [
+          {
+            "id": 100,
+            "code": "COLIC",
+            "claimReason": "Abdominal Colic"
+          }
+        ]
+      }
+    ]
+  }
+]

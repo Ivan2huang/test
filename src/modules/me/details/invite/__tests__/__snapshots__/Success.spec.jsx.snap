@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InviteDependentSuccess Component should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-5"
+    >
+      <button
+        class="makeStyles-backBtn-3 makeStyles-backBtn-4"
+        data-testid="back-btn-navigate-details-page"
+        type="button"
+      >
+        &lt; My details
+      </button>
+    </div>
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <div
+        class="MuiCardContent-root"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-35"
+        >
+          <div>
+            <span>
+              Grid Component
+            </span>
+            <div>
+              <div
+                data-md="3"
+              >
+                <span>
+                  GridItem Component
+                </span>
+                <div>
+                  <img
+                    alt="background"
+                    src="/static/invite_dependent_success.svg"
+                  />
+                </div>
+              </div>
+              <div
+                data-md="5"
+                data-sm="10"
+                data-xs="12"
+              >
+                <span>
+                  GridItem Component
+                </span>
+                <div>
+                  <div
+                    class="MuiBox-root MuiBox-root-36"
+                  >
+                    <div
+                      type="style-1"
+                    >
+                      Typography Component
+                    </div>
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-37"
+                  >
+                    <div
+                      type="style-6"
+                    >
+                      Typography Component
+                    </div>
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-38"
+                  >
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                      data-testid="btn-navigate-details-page"
+                      tabindex="0"
+                      type="submit"
+                    >
+                      <span
+                        class="MuiButton-label"
+                      >
+                        Back to my details
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

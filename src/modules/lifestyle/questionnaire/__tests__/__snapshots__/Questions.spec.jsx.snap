@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Questions Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-3"
+    data-id="alcoholConsumptionFrequency"
+  >
+    <fieldset
+      class="Questions-fieldset-1"
+    >
+      <legend>
+        <div
+          type="style-6"
+        >
+          How often you have a drink containing alcohol? 12.5 grams of alcohol per drink - Beer - 12oz (355ml), Wine - 5 oz (148ml), Spirits - 1.5 oz (44ml).
+          (Typography)
+        </div>
+      </legend>
+      <div>
+        RenderRadioGroup Component
+        <span>
+          meta = [object Object]
+          items = [object Object],[object Object],[object Object],[object Object],[object Object]
+          displayProperty = label
+          valueProperty = value
+          errorMessage = Select an answer
+        </span>
+        <input
+          type="radio"
+        />
+      </div>
+    </fieldset>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-4"
+    data-id="exerciseFrequency"
+  >
+    <fieldset
+      class="Questions-fieldset-1"
+    >
+      <legend>
+        <div
+          type="style-6"
+        >
+          During the last 7 days, how many days did you walk 10 minutes or more at a time or do at least moderate physical activities that made you breathe somewhat harder than normal?
+          (Typography)
+        </div>
+      </legend>
+      <div>
+        RenderDropdown Component
+        <span>
+          meta = [object Object]
+          label = Frequency
+          items = [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+          displayProperty = label
+          valueProperty = value
+          errorMessage = Select an answer
+        </span>
+        <input
+          type="select"
+        />
+      </div>
+    </fieldset>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-5"
+    data-id="temptingFoodItems"
+  >
+    <fieldset
+      class="Questions-fieldset-1"
+    >
+      <legend>
+        <div
+          type="style-6"
+        >
+          Do you find any of these foods tempting (that is, do you want to eat more of them than you think you should)?
+          (Typography)
+        </div>
+      </legend>
+      <div>
+        RenderCustomCheckboxGroup Component
+        <span>
+          meta = [object Object]
+          items = [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+          displayProperty = label
+          valueProperty = value
+          errorMessage = Select an answer
+        </span>
+        <input
+          type="checkbox"
+        />
+      </div>
+    </fieldset>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-6"
+    data-id="testSingle"
+  >
+    <fieldset
+      class="Questions-fieldset-1"
+    >
+      <legend>
+        <div
+          type="style-6"
+        >
+          Do you find any of these foods tempting (that is, do you want to eat more of them than you think you should)?
+          (Typography)
+        </div>
+      </legend>
+      <div>
+        RenderDropdown Component
+        <span>
+          meta = [object Object]
+          label = Select Food
+          items = [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+          displayProperty = label
+          valueProperty = value
+          errorMessage = Select an answer
+        </span>
+        <input
+          type="select"
+        />
+      </div>
+    </fieldset>
+  </div>
+</div>
+`;

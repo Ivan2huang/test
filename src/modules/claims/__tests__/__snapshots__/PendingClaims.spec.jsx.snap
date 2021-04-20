@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PendingClaims Component should match snapshot 1`] = `
+<div>
+  <div
+    claims="[object Object],[object Object]"
+    header="Processing"
+    members="[object Object]"
+  >
+    ClaimsList component
+  </div>
+</div>
+`;
+
+exports[`PendingClaims Component should match snapshot with no claims 1`] = `<div />`;

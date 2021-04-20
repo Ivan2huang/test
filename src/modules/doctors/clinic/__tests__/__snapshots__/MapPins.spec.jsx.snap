@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MapPins component should match the snapshot 1`] = `
+<div>
+  <div>
+    Dummy ClinicMarker Container with clinics:
+    123
+  </div>
+  <div>
+    Dummy ClinicMarker Container with clinics:
+    124
+  </div>
+</div>
+`;

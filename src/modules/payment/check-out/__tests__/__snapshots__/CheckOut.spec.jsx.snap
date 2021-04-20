@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CheckOut Component should match the snapshot with dummy checkout form 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-125"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root CheckOut-card-123 MuiPaper-rounded"
+      data-testid="checkout-wrapper"
+    >
+      <div
+        class="MuiCardContent-root"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-155"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CheckOut Component should match the snapshot with loading circle 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-3"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root CheckOut-card-1 MuiPaper-rounded"
+      data-testid="checkout-wrapper"
+    >
+      <div
+        class="MuiCardContent-root"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-33"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

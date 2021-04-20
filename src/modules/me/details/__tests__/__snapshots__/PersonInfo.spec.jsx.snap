@@ -1,0 +1,140 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Person Info Component should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-321"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root PersonInfo-container-318 MuiPaper-rounded"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-350"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-445"
+            >
+              <div
+                type="style-6"
+              >
+                Name
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-446"
+                >
+                  <div
+                    color="highEmphasis"
+                    type="style-5"
+                  >
+                    Bob Tan
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-447"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary Mui-disabled Mui-disabled"
+                disabled=""
+                tabindex="-1"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  You have successfully invited him/her.
+                </span>
+              </button>
+              <div
+                class="MuiBox-root MuiBox-root-479"
+              >
+                <div
+                  type="style-8"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Person Info Component should match the snapshot for dependent 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-483"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root PersonInfo-container-480 MuiPaper-rounded"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-512"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-607"
+            >
+              <div
+                type="style-6"
+              >
+                Name
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-608"
+                >
+                  <div
+                    color="highEmphasis"
+                    type="style-5"
+                  >
+                    Bob Tan
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

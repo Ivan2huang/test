@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Typography UI Component Functionality should provide the style when no screen size is define 1`] = `
+Object {
+  "&": Object {
+    "@media (min-width:769px)": Object {
+      "color": "#A8000B",
+      "fontWeight": 600,
+      "textDecoration": "underline",
+    },
+  },
+  "@media (min-width:769px)": Object {
+    "fontSize": "30px",
+    "fontWeight": 300,
+    "lineHeight": "36px",
+  },
+  "color": "#A8000B",
+  "fontSize": "32px",
+  "fontStyle": "normal",
+  "fontWeight": 600,
+  "letterSpacing": "-1.5px",
+  "lineHeight": "37px",
+  "textDecoration": "underline",
+}
+`;
+
+exports[`Typography UI Component Functionality should provide the style when screen size is define 1`] = `
+Object {
+  "@media (min-width:769px)": Object {
+    "@media (min-width:769px)": Object {
+      "fontSize": "14px",
+      "letterSpacing": "unset",
+      "lineHeight": "20px",
+    },
+    "color": "#A8000B",
+    "fontSize": "16px",
+    "fontStyle": "normal",
+    "fontWeight": 600,
+    "letterSpacing": "0.3px",
+    "lineHeight": "22px",
+    "textDecoration": undefined,
+  },
+  "color": "#A8000B",
+  "fontSize": "12px",
+  "fontStyle": "normal",
+  "fontWeight": 600,
+  "letterSpacing": "0.4px",
+  "lineHeight": "16px",
+  "textDecoration": undefined,
+}
+`;
+
+exports[`Typography UI Component should match snapshot for custom props 1`] = `
+<div>
+  <div
+    class="MuiTypography-root makeStyles-root-33 makeStyles-root-34 MuiTypography-body1"
+  >
+    Typography
+  </div>
+</div>
+`;
+
+exports[`Typography UI Component should match snapshot for custom props for responsiveness 1`] = `
+<div>
+  <div
+    class="MuiTypography-root makeStyles-root-65 makeStyles-root-66 MuiTypography-body1"
+  >
+    Typography
+  </div>
+</div>
+`;
+
+exports[`Typography UI Component should match snapshot for default props 1`] = `
+<div>
+  <div
+    class="MuiTypography-root makeStyles-root-1 makeStyles-root-2 MuiTypography-body1"
+  >
+    Typography
+  </div>
+</div>
+`;

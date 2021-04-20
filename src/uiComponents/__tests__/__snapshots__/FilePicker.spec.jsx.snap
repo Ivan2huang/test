@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilePicker UI Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-5 FilePicker-wrapper-1 FilePicker-wrapper-3"
+  >
+    <input
+      class="FilePicker-inputFile-2"
+      data-testid="testInputFile"
+      multiple=""
+      title=""
+      type="file"
+    />
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-text"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Test
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`FilePicker UI Component should match snapshot for fullWidth 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-52 FilePicker-wrapper-48 FilePicker-wrapper-50"
+  >
+    <input
+      class="FilePicker-inputFile-49"
+      data-testid="testInputFile"
+      multiple=""
+      title=""
+      type="file"
+    />
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-text"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Test
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;

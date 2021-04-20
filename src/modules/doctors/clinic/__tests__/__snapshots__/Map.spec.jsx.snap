@@ -1,0 +1,661 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Map Component with clustered map view feature toggale off should match snapshot 1`] = `
+<div>
+  <div>
+    <div>
+      With Script JS
+      <div>
+        With Google Map
+        testing-map-url
+        <div>
+          Loading
+        </div>
+        <div>
+          Container
+        </div>
+        <div>
+          Map
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-240"
+        >
+          <div>
+            defaultCenter = [object Object]
+            defaultZoom = 10
+            defaultOptions = [object Object]
+            onZoomChanged = onZoomChanged
+            Google Map
+            Center (lat: 12, lng: 30)
+            <div>
+              Dummy NonClusterMapMarkerContainer with clinics :
+              2
+            </div>
+            <div>
+              Custom Map Control
+              position = function myLocationIcon() {
+        return 3;
+      }
+              <img
+                alt="My Location"
+                data-testid="img-my-location"
+                src="/static/my_location.svg"
+              />
+            </div>
+            <div
+              data-testid="dummyTestButton"
+            />
+          </div>
+          <div
+            data-open="false"
+            data-testid="no-location-access-toast"
+          >
+            Google Maps does not have permission to use your location. Enable location services on your browser.
+            <div
+              data-testid="no-location-access-toast-close"
+            >
+              Close
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Map Component with clustered map view feature toggale on should center to current Location on my location click 1`] = `
+<div>
+  <div>
+    <div>
+      With Script JS
+      <div>
+        With Google Map
+        testing-map-url
+        <div>
+          Loading
+        </div>
+        <div>
+          Container
+        </div>
+        <div>
+          Map
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-104"
+        >
+          <div>
+            defaultCenter = [object Object]
+            defaultZoom = 10
+            defaultOptions = [object Object]
+            onZoomChanged = onZoomChanged
+            Google Map
+            Center (lat: 12, lng: 23)
+            <div
+              icon="[object Object]"
+              lat="12"
+              lng="23"
+            >
+              Marker
+              /static/location.png
+              <div
+                data-testid="map-pin-current-location"
+              />
+            </div>
+            <div>
+              Dummy ClusterMapComponent
+              clinics = [object Object],[object Object]
+              showClusterMarker = true
+            </div>
+            <div>
+              Custom Map Control
+              position = function myLocationIcon() {
+        return 3;
+      }
+              <img
+                alt="My Location"
+                data-testid="img-my-location"
+                src="/static/my_location.svg"
+              />
+            </div>
+            <div
+              data-testid="dummyTestButton"
+            />
+          </div>
+          <div
+            data-open="false"
+            data-testid="no-location-access-toast"
+          >
+            Google Maps does not have permission to use your location. Enable location services on your browser.
+            <div
+              data-testid="no-location-access-toast-close"
+            >
+              Close
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Map Component with clustered map view feature toggale on should close snackbar when it is closed by clickin on cross 1`] = `
+<div>
+  <div>
+    <div>
+      With Script JS
+      <div>
+        With Google Map
+        testing-map-url
+        <div>
+          Loading
+        </div>
+        <div>
+          Container
+        </div>
+        <div>
+          Map
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-155"
+        >
+          <div>
+            defaultCenter = [object Object]
+            defaultZoom = 10
+            defaultOptions = [object Object]
+            onZoomChanged = onZoomChanged
+            Google Map
+            Center (lat: 12, lng: 30)
+            <div>
+              Dummy ClusterMapComponent
+              clinics = [object Object],[object Object]
+              showClusterMarker = true
+            </div>
+            <div>
+              Custom Map Control
+              position = function myLocationIcon() {
+        return 3;
+      }
+              <img
+                alt="My Location"
+                data-testid="img-my-location"
+                src="/static/my_location.svg"
+              />
+            </div>
+            <div
+              data-testid="dummyTestButton"
+            />
+          </div>
+          <div
+            data-open="false"
+            data-testid="no-location-access-toast"
+          >
+            Google Maps does not have permission to use your location. Enable location services on your browser.
+            <div
+              data-testid="no-location-access-toast-close"
+            >
+              Close
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Map Component with clustered map view feature toggale on should display the snack bar with message with location service denied 1`] = `
+<div>
+  <div>
+    <div>
+      With Script JS
+      <div>
+        With Google Map
+        testing-map-url
+        <div>
+          Loading
+        </div>
+        <div>
+          Container
+        </div>
+        <div>
+          Map
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-138"
+        >
+          <div>
+            defaultCenter = [object Object]
+            defaultZoom = 10
+            defaultOptions = [object Object]
+            onZoomChanged = onZoomChanged
+            Google Map
+            Center (lat: 12, lng: 30)
+            <div>
+              Dummy ClusterMapComponent
+              clinics = [object Object],[object Object]
+              showClusterMarker = true
+            </div>
+            <div>
+              Custom Map Control
+              position = function myLocationIcon() {
+        return 3;
+      }
+              <img
+                alt="My Location"
+                data-testid="img-my-location"
+                src="/static/my_location.svg"
+              />
+            </div>
+            <div
+              data-testid="dummyTestButton"
+            />
+          </div>
+          <div
+            data-open="true"
+            data-testid="no-location-access-toast"
+          >
+            Google Maps does not have permission to use your location. Enable location services on your browser.
+            <div
+              data-testid="no-location-access-toast-close"
+            >
+              Close
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Map Component with clustered map view feature toggale on should match snapshot 1`] = `
+<div>
+  <div>
+    <div>
+      With Script JS
+      <div>
+        With Google Map
+        testing-map-url
+        <div>
+          Loading
+        </div>
+        <div>
+          Container
+        </div>
+        <div>
+          Map
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-87"
+        >
+          <div>
+            defaultCenter = [object Object]
+            defaultZoom = 10
+            defaultOptions = [object Object]
+            onZoomChanged = onZoomChanged
+            Google Map
+            Center (lat: 12, lng: 30)
+            <div>
+              Dummy ClusterMapComponent
+              clinics = [object Object],[object Object]
+              showClusterMarker = true
+            </div>
+            <div>
+              Custom Map Control
+              position = function myLocationIcon() {
+        return 3;
+      }
+              <img
+                alt="My Location"
+                data-testid="img-my-location"
+                src="/static/my_location.svg"
+              />
+            </div>
+            <div
+              data-testid="dummyTestButton"
+            />
+          </div>
+          <div
+            data-open="false"
+            data-testid="no-location-access-toast"
+          >
+            Google Maps does not have permission to use your location. Enable location services on your browser.
+            <div
+              data-testid="no-location-access-toast-close"
+            >
+              Close
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Map Component with clustered map view feature toggale on should match snapshot when a clinic is selected 1`] = `
+<div>
+  <div>
+    <div>
+      With Script JS
+      <div>
+        With Google Map
+        testing-map-url
+        <div>
+          Loading
+        </div>
+        <div>
+          Container
+        </div>
+        <div>
+          Map
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-206"
+        >
+          <div>
+            defaultCenter = [object Object]
+            defaultZoom = 10
+            defaultOptions = [object Object]
+            onZoomChanged = onZoomChanged
+            Google Map
+            Center (lat: 1.3006643, lng: 103.8001065)
+            <div>
+              Dummy ClusterMapComponent
+              clinics = [object Object],[object Object]
+              showClusterMarker = true
+            </div>
+            <div>
+              Custom Map Control
+              position = function myLocationIcon() {
+        return 3;
+      }
+              <img
+                alt="My Location"
+                data-testid="img-my-location"
+                src="/static/my_location.svg"
+              />
+            </div>
+            <div
+              data-testid="dummyTestButton"
+            />
+          </div>
+          <div
+            data-open="false"
+            data-testid="no-location-access-toast"
+          >
+            Google Maps does not have permission to use your location. Enable location services on your browser.
+            <div
+              data-testid="no-location-access-toast-close"
+            >
+              Close
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Map Component with clustered map view feature toggale on should match snapshot when a clinic is selected and selected clinic is not present in all clinics 1`] = `
+<div>
+  <div>
+    <div>
+      With Script JS
+      <div>
+        With Google Map
+        testing-map-url
+        <div>
+          Loading
+        </div>
+        <div>
+          Container
+        </div>
+        <div>
+          Map
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-223"
+        >
+          <div>
+            defaultCenter = [object Object]
+            defaultZoom = 10
+            defaultOptions = [object Object]
+            onZoomChanged = onZoomChanged
+            Google Map
+            Center (lat: 12, lng: 30)
+            <div>
+              Dummy ClusterMapComponent
+              clinics = [object Object],[object Object]
+              showClusterMarker = true
+            </div>
+            <div>
+              Custom Map Control
+              position = function myLocationIcon() {
+        return 3;
+      }
+              <img
+                alt="My Location"
+                data-testid="img-my-location"
+                src="/static/my_location.svg"
+              />
+            </div>
+            <div
+              data-testid="dummyTestButton"
+            />
+          </div>
+          <div
+            data-open="false"
+            data-testid="no-location-access-toast"
+          >
+            Google Maps does not have permission to use your location. Enable location services on your browser.
+            <div
+              data-testid="no-location-access-toast-close"
+            >
+              Close
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Map Component with clustered map view feature toggale on should not center to current location when location is undefined 1`] = `
+<div>
+  <div>
+    <div>
+      With Script JS
+      <div>
+        With Google Map
+        testing-map-url
+        <div>
+          Loading
+        </div>
+        <div>
+          Container
+        </div>
+        <div>
+          Map
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-189"
+        >
+          <div>
+            defaultCenter = [object Object]
+            defaultZoom = 10
+            defaultOptions = [object Object]
+            onZoomChanged = onZoomChanged
+            Google Map
+            Center (lat: 12, lng: 30)
+            <div>
+              Dummy ClusterMapComponent
+              clinics = [object Object],[object Object]
+              showClusterMarker = true
+            </div>
+            <div>
+              Custom Map Control
+              position = function myLocationIcon() {
+        return 3;
+      }
+              <img
+                alt="My Location"
+                data-testid="img-my-location"
+                src="/static/my_location.svg"
+              />
+            </div>
+            <div
+              data-testid="dummyTestButton"
+            />
+          </div>
+          <div
+            data-open="true"
+            data-testid="no-location-access-toast"
+          >
+            Google Maps does not have permission to use your location. Enable location services on your browser.
+            <div
+              data-testid="no-location-access-toast-close"
+            >
+              Close
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Map Component with clustered map view feature toggale on should not show current location when clinic is selected 1`] = `
+<div>
+  <div>
+    <div>
+      With Script JS
+      <div>
+        With Google Map
+        testing-map-url
+        <div>
+          Loading
+        </div>
+        <div>
+          Container
+        </div>
+        <div>
+          Map
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-172"
+        >
+          <div>
+            defaultCenter = [object Object]
+            defaultZoom = 10
+            defaultOptions = [object Object]
+            onZoomChanged = onZoomChanged
+            Google Map
+            Center (lat: 12, lng: 23)
+            <div>
+              Dummy ClusterMapComponent
+              clinics = [object Object],[object Object]
+              showClusterMarker = true
+            </div>
+            <div>
+              Custom Map Control
+              position = function myLocationIcon() {
+        return 3;
+      }
+              <img
+                alt="My Location"
+                data-testid="img-my-location"
+                src="/static/my_location.svg"
+              />
+            </div>
+            <div
+              data-testid="dummyTestButton"
+            />
+          </div>
+          <div
+            data-open="false"
+            data-testid="no-location-access-toast"
+          >
+            Google Maps does not have permission to use your location. Enable location services on your browser.
+            <div
+              data-testid="no-location-access-toast-close"
+            >
+              Close
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Map Component with clustered map view feature toggale on should not show current location when clinics are updated 1`] = `
+<div>
+  <div>
+    <div>
+      With Script JS
+      <div>
+        With Google Map
+        testing-map-url
+        <div>
+          Loading
+        </div>
+        <div>
+          Container
+        </div>
+        <div>
+          Map
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-121"
+        >
+          <div>
+            defaultCenter = [object Object]
+            defaultZoom = 10
+            defaultOptions = [object Object]
+            onZoomChanged = onZoomChanged
+            Google Map
+            Center (lat: 12, lng: 23)
+            <div>
+              Dummy ClusterMapComponent
+              clinics = [object Object],[object Object]
+              showClusterMarker = true
+            </div>
+            <div>
+              Custom Map Control
+              position = function myLocationIcon() {
+        return 3;
+      }
+              <img
+                alt="My Location"
+                data-testid="img-my-location"
+                src="/static/my_location.svg"
+              />
+            </div>
+            <div
+              data-testid="dummyTestButton"
+            />
+          </div>
+          <div
+            data-open="false"
+            data-testid="no-location-access-toast"
+          >
+            Google Maps does not have permission to use your location. Enable location services on your browser.
+            <div
+              data-testid="no-location-access-toast-close"
+            >
+              Close
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

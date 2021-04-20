@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`No Claims dependent component should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-5 NoClaimsDependent-noClaimsWrapper-1"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-6"
+    />
+    <div
+      class="MuiBox-root MuiBox-root-7 PrivateHiddenCss-mdUp-15"
+    >
+      <div
+        type="style-2"
+      >
+        Dummy Typography
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-23 NoClaimsDependent-hintEmployee-2"
+    >
+      <div
+        type="style-6"
+      >
+        Dummy Typography
+      </div>
+    </div>
+  </div>
+</div>
+`;

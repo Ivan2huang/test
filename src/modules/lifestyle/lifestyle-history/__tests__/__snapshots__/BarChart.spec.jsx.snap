@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BarChart Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-3"
+  >
+    <canvas
+      class="chartjs-render-monitor"
+      height="0"
+      style="display: block;"
+      width="0"
+    />
+    <table
+      class="injectIntl(BarChart)-srOnly-1"
+      id="myHistoryScore"
+    >
+      <tbody>
+        <tr>
+          <td>
+            14 Oct
+          </td>
+          <td>
+            28
+          </td>
+        </tr>
+        <tr>
+          <td>
+            14 Oct
+          </td>
+          <td>
+            36
+          </td>
+        </tr>
+        <tr>
+          <td>
+            11 Oct
+          </td>
+          <td>
+            36
+          </td>
+        </tr>
+        <tr>
+          <td>
+            11 Oct
+          </td>
+          <td>
+            41
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;

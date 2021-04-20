@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PaymentResultPage Page should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-8 makeStyles-container-1 makeStyles-container-4"
+  >
+    <main
+      class="makeStyles-main-2 makeStyles-main-5"
+    >
+      <div>
+        Dummy PaymentResult Container
+      </div>
+    </main>
+  </div>
+</div>
+`;

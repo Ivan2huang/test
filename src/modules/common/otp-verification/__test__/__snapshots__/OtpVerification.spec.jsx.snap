@@ -1,0 +1,941 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OTP verification component should match snapshot 1`] = `
+<div>
+  <form
+    autocomplete="off"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-5"
+    >
+      <div>
+        <span>
+          Grid Component
+        </span>
+        <div>
+          <div
+            data-md="5"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div
+                class="MuiBox-root MuiBox-root-6"
+              >
+                <img
+                  alt=""
+                  src="/static/invite_dependent.svg"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            data-md="5"
+            data-xs="12"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div>
+                <span>
+                  Grid Component
+                </span>
+                <div>
+                  <div
+                    data-md="10"
+                    data-xs="12"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div>
+                      <div
+                        class="MuiBox-root MuiBox-root-7"
+                      >
+                        <div
+                          class="MuiTypography-root makeStyles-root-149 makeStyles-root-150 MuiTypography-body1"
+                        >
+                          Text
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-40"
+                      >
+                        <div
+                          class="MuiTypography-root makeStyles-root-151 makeStyles-root-152 MuiTypography-body1"
+                        >
+                          Text
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-43"
+                      >
+                        <div
+                          class="MuiFormControl-root MuiFormControl-fullWidth"
+                          data-testid="input-token"
+                        >
+                          <label
+                            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                            data-shrink="false"
+                            for="input-token"
+                          >
+                            Enter OTP
+                          </label>
+                          <div
+                            class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+                            label="Enter OTP"
+                          >
+                            <input
+                              aria-describedby="helptext-token"
+                              aria-invalid="false"
+                              class="MuiInputBase-input MuiOutlinedInput-input"
+                              id="input-token"
+                              type="text"
+                              value=""
+                            />
+                            <fieldset
+                              aria-hidden="true"
+                              class="PrivateNotchedOutline-root-102 MuiOutlinedInput-notchedOutline"
+                              style="padding-left: 8px;"
+                            >
+                              <legend
+                                class="PrivateNotchedOutline-legend-103"
+                                style="width: 0.01px;"
+                              >
+                                <span>
+                                  ​
+                                </span>
+                              </legend>
+                            </fieldset>
+                          </div>
+                          <div
+                            aria-live="polite"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    data-md="12"
+                    data-xs="12"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div>
+                      <div
+                        class="MuiBox-root MuiBox-root-104"
+                      >
+                        <div
+                          class="MuiBox-root MuiBox-root-105"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-153 makeStyles-root-154 MuiTypography-body1"
+                          >
+                            Didn’t receive anything? Request for new OTP in: 0
+                          </div>
+                        </div>
+                        <div
+                          class="MuiBox-root MuiBox-root-108"
+                        >
+                          <a
+                            class="MuiTypography-root MuiLink-root MuiLink-underlineHover ReduxForm-resendBtn-1 MuiTypography-colorPrimary"
+                            data-testid="resend-otp"
+                            href="#"
+                          >
+                            <div
+                              class="MuiTypography-root makeStyles-root-155 makeStyles-root-156 ReduxForm-resendText-3 MuiTypography-body1"
+                            >
+                              Resend
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-117"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                          data-testid="btn-submit-verify-otp"
+                          tabindex="0"
+                          type="submit"
+                        >
+                          <span
+                            class="MuiButton-label"
+                          >
+                            Verify
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`OTP verification component should match snapshot when loading 1`] = `
+<div>
+  <form
+    autocomplete="off"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-171"
+    >
+      <div>
+        <span>
+          Grid Component
+        </span>
+        <div>
+          <div
+            data-md="5"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div
+                class="MuiBox-root MuiBox-root-172"
+              >
+                <img
+                  alt=""
+                  src="/static/invite_dependent.svg"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            data-md="5"
+            data-xs="12"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div>
+                <span>
+                  Grid Component
+                </span>
+                <div>
+                  <div
+                    data-md="10"
+                    data-xs="12"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div>
+                      <div
+                        class="MuiBox-root MuiBox-root-173"
+                      >
+                        <div
+                          class="MuiTypography-root makeStyles-root-315 makeStyles-root-316 MuiTypography-body1"
+                        >
+                          Text
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-206"
+                      >
+                        <div
+                          class="MuiTypography-root makeStyles-root-317 makeStyles-root-318 MuiTypography-body1"
+                        >
+                          Text
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-209"
+                      >
+                        <div
+                          class="MuiFormControl-root MuiFormControl-fullWidth"
+                          data-testid="input-token"
+                        >
+                          <label
+                            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined Mui-disabled Mui-disabled"
+                            data-shrink="false"
+                            for="input-token"
+                          >
+                            Enter OTP
+                          </label>
+                          <div
+                            class="MuiInputBase-root MuiOutlinedInput-root Mui-disabled Mui-disabled MuiInputBase-formControl"
+                            label="Enter OTP"
+                          >
+                            <input
+                              aria-describedby="helptext-token"
+                              aria-invalid="false"
+                              class="MuiInputBase-input MuiOutlinedInput-input Mui-disabled Mui-disabled"
+                              disabled=""
+                              id="input-token"
+                              type="text"
+                              value=""
+                            />
+                            <fieldset
+                              aria-hidden="true"
+                              class="PrivateNotchedOutline-root-268 MuiOutlinedInput-notchedOutline"
+                              style="padding-left: 8px;"
+                            >
+                              <legend
+                                class="PrivateNotchedOutline-legend-269"
+                                style="width: 0.01px;"
+                              >
+                                <span>
+                                  ​
+                                </span>
+                              </legend>
+                            </fieldset>
+                          </div>
+                          <div
+                            aria-live="polite"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    data-md="12"
+                    data-xs="12"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div>
+                      <div
+                        class="MuiBox-root MuiBox-root-270"
+                      >
+                        <div
+                          class="MuiBox-root MuiBox-root-271"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-319 makeStyles-root-320 MuiTypography-body1"
+                          >
+                            Didn’t receive anything? Request for new OTP in: 0
+                          </div>
+                        </div>
+                        <div
+                          class="MuiBox-root MuiBox-root-274"
+                        >
+                          <a
+                            class="MuiTypography-root MuiLink-root MuiLink-underlineHover ReduxForm-resendBtn-167 MuiTypography-colorPrimary"
+                            data-testid="resend-otp"
+                            href="#"
+                          >
+                            <div
+                              class="MuiTypography-root makeStyles-root-321 makeStyles-root-322 ReduxForm-resendText-169 MuiTypography-body1"
+                            >
+                              Resend
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-283"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                          data-testid="btn-submit-verify-otp"
+                          tabindex="0"
+                          type="submit"
+                        >
+                          <span
+                            class="MuiButton-label"
+                          >
+                            Verify
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`OTP verification component should match snapshot when waiting resend status enabled 1`] = `
+<div>
+  <form
+    autocomplete="off"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-337"
+    >
+      <div>
+        <span>
+          Grid Component
+        </span>
+        <div>
+          <div
+            data-md="5"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div
+                class="MuiBox-root MuiBox-root-338"
+              >
+                <img
+                  alt=""
+                  src="/static/invite_dependent.svg"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            data-md="5"
+            data-xs="12"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div>
+                <span>
+                  Grid Component
+                </span>
+                <div>
+                  <div
+                    data-md="10"
+                    data-xs="12"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div>
+                      <div
+                        class="MuiBox-root MuiBox-root-339"
+                      >
+                        <div
+                          class="MuiTypography-root makeStyles-root-481 makeStyles-root-482 MuiTypography-body1"
+                        >
+                          Text
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-372"
+                      >
+                        <div
+                          class="MuiTypography-root makeStyles-root-483 makeStyles-root-484 MuiTypography-body1"
+                        >
+                          Text
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-375"
+                      >
+                        <div
+                          class="MuiFormControl-root MuiFormControl-fullWidth"
+                          data-testid="input-token"
+                        >
+                          <label
+                            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                            data-shrink="false"
+                            for="input-token"
+                          >
+                            Enter OTP
+                          </label>
+                          <div
+                            class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+                            label="Enter OTP"
+                          >
+                            <input
+                              aria-describedby="helptext-token"
+                              aria-invalid="false"
+                              class="MuiInputBase-input MuiOutlinedInput-input"
+                              id="input-token"
+                              type="text"
+                              value=""
+                            />
+                            <fieldset
+                              aria-hidden="true"
+                              class="PrivateNotchedOutline-root-434 MuiOutlinedInput-notchedOutline"
+                              style="padding-left: 8px;"
+                            >
+                              <legend
+                                class="PrivateNotchedOutline-legend-435"
+                                style="width: 0.01px;"
+                              >
+                                <span>
+                                  ​
+                                </span>
+                              </legend>
+                            </fieldset>
+                          </div>
+                          <div
+                            aria-live="polite"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    data-md="12"
+                    data-xs="12"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div>
+                      <div
+                        class="MuiBox-root MuiBox-root-436"
+                      >
+                        <div
+                          class="MuiBox-root MuiBox-root-437"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-485 makeStyles-root-486 MuiTypography-body1"
+                          >
+                            Didn’t receive anything? Request for new OTP in: 3
+                          </div>
+                        </div>
+                        <div
+                          class="MuiBox-root MuiBox-root-440"
+                        >
+                          <a
+                            class="MuiTypography-root MuiLink-root MuiLink-underlineHover ReduxForm-disableResendBtn-334 MuiTypography-colorPrimary"
+                            data-testid="resend-otp"
+                            href="#"
+                          >
+                            <div
+                              class="MuiTypography-root makeStyles-root-487 makeStyles-root-488 ReduxForm-resendText-335 MuiTypography-body1"
+                            >
+                              Resend
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-449"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                          data-testid="btn-submit-verify-otp"
+                          tabindex="0"
+                          type="submit"
+                        >
+                          <span
+                            class="MuiButton-label"
+                          >
+                            Verify
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`OTP verification component should show invalid otp error message 1`] = `
+<div>
+  <form
+    autocomplete="off"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-685"
+    >
+      <div>
+        <span>
+          Grid Component
+        </span>
+        <div>
+          <div
+            data-md="5"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div
+                class="MuiBox-root MuiBox-root-686"
+              >
+                <img
+                  alt=""
+                  src="/static/invite_dependent.svg"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            data-md="5"
+            data-xs="12"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div>
+                <span>
+                  Grid Component
+                </span>
+                <div>
+                  <div
+                    data-md="10"
+                    data-xs="12"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div>
+                      <div
+                        class="MuiBox-root MuiBox-root-687"
+                      >
+                        <div
+                          class="MuiTypography-root makeStyles-root-855 makeStyles-root-856 MuiTypography-body1"
+                        >
+                          Text
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-720"
+                      >
+                        <div
+                          class="MuiTypography-root makeStyles-root-857 makeStyles-root-858 MuiTypography-body1"
+                        >
+                          Text
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-723"
+                      >
+                        <div
+                          class="MuiFormControl-root MuiFormControl-fullWidth"
+                          data-testid="input-token"
+                        >
+                          <label
+                            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined Mui-error Mui-error MuiFormLabel-filled"
+                            data-shrink="true"
+                            for="input-token"
+                          >
+                            Enter OTP
+                          </label>
+                          <div
+                            class="MuiInputBase-root MuiOutlinedInput-root Mui-error Mui-error MuiInputBase-formControl"
+                            label="Enter OTP"
+                          >
+                            <input
+                              aria-describedby="helptext-token"
+                              aria-invalid="true"
+                              class="MuiInputBase-input MuiOutlinedInput-input"
+                              id="input-token"
+                              type="text"
+                              value="invalid otp"
+                            />
+                            <fieldset
+                              aria-hidden="true"
+                              class="PrivateNotchedOutline-root-782 MuiOutlinedInput-notchedOutline"
+                              style="padding-left: 8px;"
+                            >
+                              <legend
+                                class="PrivateNotchedOutline-legend-783"
+                                style="width: 0px;"
+                              >
+                                <span>
+                                  ​
+                                </span>
+                              </legend>
+                            </fieldset>
+                          </div>
+                          <div
+                            aria-live="polite"
+                          >
+                            <p
+                              class="MuiFormHelperText-root MuiFormHelperText-contained Mui-error MuiFormHelperText-filled"
+                              id="helptext-token"
+                            >
+                              Invalid OTP
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    data-md="12"
+                    data-xs="12"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div>
+                      <div
+                        class="MuiBox-root MuiBox-root-792"
+                      >
+                        <div
+                          class="MuiBox-root MuiBox-root-793"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-859 makeStyles-root-860 MuiTypography-body1"
+                          >
+                            Didn’t receive anything? Request for new OTP in: 0
+                          </div>
+                        </div>
+                        <div
+                          class="MuiBox-root MuiBox-root-796"
+                        >
+                          <a
+                            class="MuiTypography-root MuiLink-root MuiLink-underlineHover ReduxForm-resendBtn-681 MuiTypography-colorPrimary"
+                            data-testid="resend-otp"
+                            href="#"
+                          >
+                            <div
+                              class="MuiTypography-root makeStyles-root-861 makeStyles-root-862 ReduxForm-resendText-683 MuiTypography-body1"
+                            >
+                              Resend
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-805"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                          data-testid="btn-submit-verify-otp"
+                          tabindex="0"
+                          type="submit"
+                        >
+                          <span
+                            class="MuiButton-label"
+                          >
+                            Verify
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`OTP verification component should show required otp error message 1`] = `
+<div>
+  <form
+    autocomplete="off"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-503"
+    >
+      <div>
+        <span>
+          Grid Component
+        </span>
+        <div>
+          <div
+            data-md="5"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div
+                class="MuiBox-root MuiBox-root-504"
+              >
+                <img
+                  alt=""
+                  src="/static/invite_dependent.svg"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            data-md="5"
+            data-xs="12"
+          >
+            <span>
+              GridItem Component
+            </span>
+            <div>
+              <div>
+                <span>
+                  Grid Component
+                </span>
+                <div>
+                  <div
+                    data-md="10"
+                    data-xs="12"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div>
+                      <div
+                        class="MuiBox-root MuiBox-root-505"
+                      >
+                        <div
+                          class="MuiTypography-root makeStyles-root-665 makeStyles-root-666 MuiTypography-body1"
+                        >
+                          Text
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-538"
+                      >
+                        <div
+                          class="MuiTypography-root makeStyles-root-667 makeStyles-root-668 MuiTypography-body1"
+                        >
+                          Text
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-541"
+                      >
+                        <div
+                          class="MuiFormControl-root MuiFormControl-fullWidth"
+                          data-testid="input-token"
+                        >
+                          <label
+                            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined Mui-error Mui-error"
+                            data-shrink="false"
+                            for="input-token"
+                          >
+                            Enter OTP
+                          </label>
+                          <div
+                            class="MuiInputBase-root MuiOutlinedInput-root Mui-error Mui-error MuiInputBase-formControl"
+                            label="Enter OTP"
+                          >
+                            <input
+                              aria-describedby="helptext-token"
+                              aria-invalid="true"
+                              class="MuiInputBase-input MuiOutlinedInput-input"
+                              id="input-token"
+                              type="text"
+                              value=""
+                            />
+                            <fieldset
+                              aria-hidden="true"
+                              class="PrivateNotchedOutline-root-600 MuiOutlinedInput-notchedOutline"
+                              style="padding-left: 8px;"
+                            >
+                              <legend
+                                class="PrivateNotchedOutline-legend-601"
+                                style="width: 0.01px;"
+                              >
+                                <span>
+                                  ​
+                                </span>
+                              </legend>
+                            </fieldset>
+                          </div>
+                          <div
+                            aria-live="polite"
+                          >
+                            <p
+                              class="MuiFormHelperText-root MuiFormHelperText-contained Mui-error"
+                              id="helptext-token"
+                            >
+                              Enter OTP
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    data-md="12"
+                    data-xs="12"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div>
+                      <div
+                        class="MuiBox-root MuiBox-root-602"
+                      >
+                        <div
+                          class="MuiBox-root MuiBox-root-603"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-677 makeStyles-root-678 MuiTypography-body1"
+                          >
+                            Didn’t receive anything? Request for new OTP in: 0
+                          </div>
+                        </div>
+                        <div
+                          class="MuiBox-root MuiBox-root-606"
+                        >
+                          <a
+                            class="MuiTypography-root MuiLink-root MuiLink-underlineHover ReduxForm-resendBtn-499 MuiTypography-colorPrimary"
+                            data-testid="resend-otp"
+                            href="#"
+                          >
+                            <div
+                              class="MuiTypography-root makeStyles-root-679 makeStyles-root-680 ReduxForm-resendText-501 MuiTypography-body1"
+                            >
+                              Resend
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-615"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                          data-testid="btn-submit-verify-otp"
+                          tabindex="0"
+                          type="submit"
+                        >
+                          <span
+                            class="MuiButton-label"
+                          >
+                            Verify
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;

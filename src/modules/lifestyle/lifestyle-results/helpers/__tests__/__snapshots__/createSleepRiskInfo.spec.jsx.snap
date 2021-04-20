@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Create Sleep Risk Info should match snapshot 1`] = `
+Object {
+  "CardIcon": <Sleep
+    color="green"
+    height="1.125rem"
+    width="1.125rem"
+  />,
+  "color": "green",
+  "description": "GoodSleeper",
+  "id": "sleep",
+  "subTitle": "GoodSleeper",
+  "title": "Sleep",
+}
+`;

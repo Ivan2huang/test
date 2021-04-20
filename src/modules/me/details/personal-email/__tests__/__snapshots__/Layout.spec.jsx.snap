@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-4 injectIntl(Layout)-backContainer-1"
+  >
+    <button
+      data-testid="btn-BackToDetails"
+      type="button"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root injectIntl(Layout)-backIcon-2"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M11.67 3.87L9.9 2.1 0 12l9.9 9.9 1.77-1.77L3.54 12z"
+        />
+      </svg>
+      <div
+        type="style-10"
+      >
+        My details
+      </div>
+    </button>
+  </div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+  >
+    Form Detail
+  </div>
+</div>
+`;
+
+exports[`Layout Component should match snapshot with no background 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-45 injectIntl(Layout)-backContainer-42"
+  >
+    <button
+      data-testid="btn-BackToDetails"
+      type="button"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root injectIntl(Layout)-backIcon-43"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M11.67 3.87L9.9 2.1 0 12l9.9 9.9 1.77-1.77L3.54 12z"
+        />
+      </svg>
+      <div
+        type="style-10"
+      >
+        My details
+      </div>
+    </button>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-55"
+  >
+    Form Detail
+  </div>
+</div>
+`;

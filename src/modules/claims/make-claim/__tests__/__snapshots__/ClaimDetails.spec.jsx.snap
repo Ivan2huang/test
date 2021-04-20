@@ -1,0 +1,1693 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ClaimDetails Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-3"
+  >
+    <div
+      type="style-3"
+    >
+      Typography Component
+    </div>
+  </div>
+  <span>
+    <div
+      class="MuiFormControl-root MuiFormControl-fullWidth"
+      data-testid="date-consultation"
+    >
+      <label
+        class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+        data-shrink="false"
+        for="input-consultationDate"
+      >
+        Consultation date
+      </label>
+      <div
+        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+        label="Consultation date"
+      >
+        <input
+          aria-describedby="helptext-consultationDate"
+          aria-invalid="false"
+          class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+          disabled="disabled"
+          id="input-consultationDate"
+          name="consultationDate"
+          type="text"
+          value=""
+        />
+        <div
+          class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+        >
+          <button
+            aria-describedby="helptext-consultationDate"
+            class="MuiButtonBase-root MuiIconButton-root"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                style="width: 1.125rem; height: 1.125rem;"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M20 1.33333V0H18.4V1.33333H5.6V0H4V1.33333H0V24H18.9333L24 18.9333V1.33333H20ZM18.9333 21.7373V18.9333H21.7373L18.9333 21.7373ZM22.4 17.3333H17.3333V22.4H1.6V8H22.4V17.3333ZM22.4 6.4H1.6V2.93333H4V4.66667H5.6V2.93333H18.4V4.66667H20V2.93333H22.4V6.4ZM11.7333 13.372V20H13.3333V10.628L9.33733 12.8893L10.1253 14.2827L11.7333 13.372Z"
+                  fill="#333333"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <fieldset
+          aria-hidden="true"
+          class="PrivateNotchedOutline-root-90 MuiOutlinedInput-notchedOutline"
+          style="padding-left: 8px;"
+        >
+          <legend
+            class="PrivateNotchedOutline-legend-91"
+            style="width: 0.01px;"
+          >
+            <span>
+              ​
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+      <div
+        aria-live="polite"
+      >
+        <p
+          class="MuiFormHelperText-root MuiFormHelperText-contained"
+          id="helptext-consultationDate"
+        >
+          Must be less than 90 days ago
+        </p>
+      </div>
+    </div>
+  </span>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+      data-shrink="false"
+      for="outlined-select-consultation-type"
+    >
+      Consultation type
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+      data-testid="select-consultation-type"
+    >
+      <div
+        aria-haspopup="listbox"
+        class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+        id="select-select-consultation-type"
+        role="button"
+        tabindex="0"
+      >
+        <span>
+          ​
+        </span>
+      </div>
+      <input
+        aria-describedby="helptext-claimId"
+        id="outlined-select-consultation-type"
+        name="select-consultation-type"
+        type="hidden"
+        value=""
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 18 18"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+        <mask
+          height="12"
+          id="mask0"
+          mask-type="alpha"
+          maskUnits="userSpaceOnUse"
+          width="18"
+          x="0"
+          y="4"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+            fill="white"
+            fill-rule="evenodd"
+          />
+        </mask>
+        <g
+          mask="url(#mask0)"
+        />
+      </svg>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-90 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-91"
+          style="width: 0.01px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    />
+  </div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+      data-shrink="false"
+      for="outlined-select-diagnosis"
+    >
+      Diagnosis
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+      data-testid="select-diagnosis"
+    >
+      <div
+        aria-haspopup="listbox"
+        class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+        id="select-select-diagnosis"
+        role="button"
+        tabindex="0"
+      >
+        <span>
+          ​
+        </span>
+      </div>
+      <input
+        aria-describedby="helptext-diagnosis"
+        id="outlined-select-diagnosis"
+        name="select-diagnosis"
+        type="hidden"
+        value=""
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 18 18"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+        <mask
+          height="12"
+          id="mask0"
+          mask-type="alpha"
+          maskUnits="userSpaceOnUse"
+          width="18"
+          x="0"
+          y="4"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+            fill="white"
+            fill-rule="evenodd"
+          />
+        </mask>
+        <g
+          mask="url(#mask0)"
+        />
+      </svg>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-90 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-91"
+          style="width: 0.01px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    />
+  </div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+    data-testid="input-receipt-amount"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined"
+      data-shrink="true"
+      for="input-receiptAmount"
+    >
+      Receipt amount
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedStart MuiOutlinedInput-adornedStart"
+      label="Receipt amount"
+    >
+      <div
+        class="CurrencyInput-typography-132"
+      >
+        Typography Component
+      </div>
+      <input
+        aria-describedby="helptext-receiptAmount"
+        aria-invalid="false"
+        class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedStart MuiOutlinedInput-inputAdornedStart"
+        id="input-receiptAmount"
+        maxlength="20"
+        name="receiptAmount"
+        type="text"
+        value=""
+      />
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-90 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-91"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    >
+      <p
+        class="MuiFormHelperText-root MuiFormHelperText-contained"
+        id="helptext-receiptAmount"
+      >
+        Max receipt amount HK$1000
+      </p>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-133"
+  >
+    <label
+      class="MuiFormControlLabel-root"
+    >
+      <span
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-146 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+        data-testid="checkbox-maternity-claim-type"
+        error="false"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <input
+            class="PrivateSwitchBase-input-149"
+            data-indeterminate="false"
+            name="isMaternity"
+            type="checkbox"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        <div
+          color="mediumEmphasis"
+          font-weight="normal"
+        >
+          Typography Component
+        </div>
+      </span>
+    </label>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-180"
+  >
+    <label
+      class="MuiFormControlLabel-root"
+    >
+      <span
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-146 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+        data-testid="input-another-insurer"
+        error="false"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <input
+            class="PrivateSwitchBase-input-149"
+            data-indeterminate="false"
+            name="anotherInsurer"
+            type="checkbox"
+            value="false"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        <div
+          color="mediumEmphasis"
+          font-weight="normal"
+        >
+          Typography Component
+        </div>
+      </span>
+    </label>
+  </div>
+</div>
+`;
+
+exports[`ClaimDetails Component should match snapshot when employee terminated 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-6458"
+  >
+    <div
+      type="style-3"
+    >
+      Typography Component
+    </div>
+  </div>
+  <span>
+    <div
+      class="MuiFormControl-root MuiFormControl-fullWidth"
+      data-testid="date-consultation"
+    >
+      <label
+        class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+        data-shrink="true"
+        for="input-consultationDate"
+      >
+        Consultation date
+      </label>
+      <div
+        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+        label="Consultation date"
+      >
+        <input
+          aria-describedby="helptext-consultationDate"
+          aria-invalid="false"
+          class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+          disabled="disabled"
+          id="input-consultationDate"
+          name="consultationDate"
+          type="text"
+          value="1 Mar 2020"
+        />
+        <div
+          class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+        >
+          <button
+            aria-describedby="helptext-consultationDate"
+            class="MuiButtonBase-root MuiIconButton-root"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                style="width: 1.125rem; height: 1.125rem;"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M20 1.33333V0H18.4V1.33333H5.6V0H4V1.33333H0V24H18.9333L24 18.9333V1.33333H20ZM18.9333 21.7373V18.9333H21.7373L18.9333 21.7373ZM22.4 17.3333H17.3333V22.4H1.6V8H22.4V17.3333ZM22.4 6.4H1.6V2.93333H4V4.66667H5.6V2.93333H18.4V4.66667H20V2.93333H22.4V6.4ZM11.7333 13.372V20H13.3333V10.628L9.33733 12.8893L10.1253 14.2827L11.7333 13.372Z"
+                  fill="#333333"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <fieldset
+          aria-hidden="true"
+          class="PrivateNotchedOutline-root-6545 MuiOutlinedInput-notchedOutline"
+          style="padding-left: 8px;"
+        >
+          <legend
+            class="PrivateNotchedOutline-legend-6546"
+            style="width: 0px;"
+          >
+            <span>
+              ​
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+      <div
+        aria-live="polite"
+      >
+        <p
+          class="MuiFormHelperText-root MuiFormHelperText-contained MuiFormHelperText-filled"
+          id="helptext-consultationDate"
+        >
+          Must be less than 90 days ago
+        </p>
+      </div>
+    </div>
+  </span>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+      data-shrink="true"
+      for="outlined-select-consultation-type"
+    >
+      Consultation type
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+      data-testid="select-consultation-type"
+    >
+      <div
+        aria-haspopup="listbox"
+        class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+        id="select-select-consultation-type"
+        role="button"
+        tabindex="0"
+      >
+        Dental Care
+      </div>
+      <input
+        aria-describedby="helptext-claimId"
+        id="outlined-select-consultation-type"
+        name="select-consultation-type"
+        type="hidden"
+        value="3"
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 18 18"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+        <mask
+          height="12"
+          id="mask0"
+          mask-type="alpha"
+          maskUnits="userSpaceOnUse"
+          width="18"
+          x="0"
+          y="4"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+            fill="white"
+            fill-rule="evenodd"
+          />
+        </mask>
+        <g
+          mask="url(#mask0)"
+        />
+      </svg>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-6545 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-6546"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    />
+  </div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+      data-shrink="true"
+      for="outlined-select-diagnosis"
+    >
+      Diagnosis
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+      data-testid="select-diagnosis"
+    >
+      <div
+        aria-haspopup="listbox"
+        class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+        id="select-select-diagnosis"
+        role="button"
+        tabindex="0"
+      >
+        Others
+      </div>
+      <input
+        aria-describedby="helptext-diagnosis"
+        id="outlined-select-diagnosis"
+        name="select-diagnosis"
+        type="hidden"
+        value="25"
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 18 18"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+        <mask
+          height="12"
+          id="mask0"
+          mask-type="alpha"
+          maskUnits="userSpaceOnUse"
+          width="18"
+          x="0"
+          y="4"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+            fill="white"
+            fill-rule="evenodd"
+          />
+        </mask>
+        <g
+          mask="url(#mask0)"
+        />
+      </svg>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-6545 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-6546"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    />
+  </div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+    data-testid="input-receipt-amount"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined"
+      data-shrink="true"
+      for="input-receiptAmount"
+    >
+      Receipt amount
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedStart MuiOutlinedInput-adornedStart"
+      label="Receipt amount"
+    >
+      <div
+        class="CurrencyInput-typography-6587"
+      >
+        Typography Component
+      </div>
+      <input
+        aria-describedby="helptext-receiptAmount"
+        aria-invalid="false"
+        class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedStart MuiOutlinedInput-inputAdornedStart"
+        id="input-receiptAmount"
+        maxlength="20"
+        name="receiptAmount"
+        type="text"
+        value=""
+      />
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-6545 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-6546"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    >
+      <p
+        class="MuiFormHelperText-root MuiFormHelperText-contained"
+        id="helptext-receiptAmount"
+      >
+        Max receipt amount HK$1000
+      </p>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-6588"
+  >
+    <label
+      class="MuiFormControlLabel-root"
+    >
+      <span
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-6601 MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-checked-6602 Mui-checked MuiIconButton-colorPrimary"
+        data-testid="checkbox-maternity-claim-type"
+        error="false"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <input
+            checked=""
+            class="PrivateSwitchBase-input-6604"
+            data-indeterminate="false"
+            name="isMaternity"
+            type="checkbox"
+            value="true"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        <div
+          color="mediumEmphasis"
+          font-weight="normal"
+        >
+          Typography Component
+        </div>
+      </span>
+    </label>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-6635"
+  >
+    <label
+      class="MuiFormControlLabel-root"
+    >
+      <span
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-6601 MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-checked-6602 Mui-checked MuiIconButton-colorPrimary"
+        data-testid="input-another-insurer"
+        error="false"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <input
+            checked=""
+            class="PrivateSwitchBase-input-6604"
+            data-indeterminate="false"
+            name="anotherInsurer"
+            type="checkbox"
+            value="true"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        <div
+          color="mediumEmphasis"
+          font-weight="normal"
+        >
+          Typography Component
+        </div>
+      </span>
+    </label>
+  </div>
+</div>
+`;
+
+exports[`ClaimDetails Component should match snapshot when employee terminated and terminatedDate > today 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-6648"
+  >
+    <div
+      type="style-3"
+    >
+      Typography Component
+    </div>
+  </div>
+  <span>
+    <div
+      class="MuiFormControl-root MuiFormControl-fullWidth"
+      data-testid="date-consultation"
+    >
+      <label
+        class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+        data-shrink="true"
+        for="input-consultationDate"
+      >
+        Consultation date
+      </label>
+      <div
+        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+        label="Consultation date"
+      >
+        <input
+          aria-describedby="helptext-consultationDate"
+          aria-invalid="false"
+          class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+          disabled="disabled"
+          id="input-consultationDate"
+          name="consultationDate"
+          type="text"
+          value="1 Mar 2020"
+        />
+        <div
+          class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+        >
+          <button
+            aria-describedby="helptext-consultationDate"
+            class="MuiButtonBase-root MuiIconButton-root"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                style="width: 1.125rem; height: 1.125rem;"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M20 1.33333V0H18.4V1.33333H5.6V0H4V1.33333H0V24H18.9333L24 18.9333V1.33333H20ZM18.9333 21.7373V18.9333H21.7373L18.9333 21.7373ZM22.4 17.3333H17.3333V22.4H1.6V8H22.4V17.3333ZM22.4 6.4H1.6V2.93333H4V4.66667H5.6V2.93333H18.4V4.66667H20V2.93333H22.4V6.4ZM11.7333 13.372V20H13.3333V10.628L9.33733 12.8893L10.1253 14.2827L11.7333 13.372Z"
+                  fill="#333333"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <fieldset
+          aria-hidden="true"
+          class="PrivateNotchedOutline-root-6735 MuiOutlinedInput-notchedOutline"
+          style="padding-left: 8px;"
+        >
+          <legend
+            class="PrivateNotchedOutline-legend-6736"
+            style="width: 0px;"
+          >
+            <span>
+              ​
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+      <div
+        aria-live="polite"
+      >
+        <p
+          class="MuiFormHelperText-root MuiFormHelperText-contained MuiFormHelperText-filled"
+          id="helptext-consultationDate"
+        >
+          Must be less than 90 days ago
+        </p>
+      </div>
+    </div>
+  </span>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+      data-shrink="true"
+      for="outlined-select-consultation-type"
+    >
+      Consultation type
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+      data-testid="select-consultation-type"
+    >
+      <div
+        aria-haspopup="listbox"
+        class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+        id="select-select-consultation-type"
+        role="button"
+        tabindex="0"
+      >
+        Dental Care
+      </div>
+      <input
+        aria-describedby="helptext-claimId"
+        id="outlined-select-consultation-type"
+        name="select-consultation-type"
+        type="hidden"
+        value="3"
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 18 18"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+        <mask
+          height="12"
+          id="mask0"
+          mask-type="alpha"
+          maskUnits="userSpaceOnUse"
+          width="18"
+          x="0"
+          y="4"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+            fill="white"
+            fill-rule="evenodd"
+          />
+        </mask>
+        <g
+          mask="url(#mask0)"
+        />
+      </svg>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-6735 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-6736"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    />
+  </div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+      data-shrink="true"
+      for="outlined-select-diagnosis"
+    >
+      Diagnosis
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+      data-testid="select-diagnosis"
+    >
+      <div
+        aria-haspopup="listbox"
+        class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+        id="select-select-diagnosis"
+        role="button"
+        tabindex="0"
+      >
+        Others
+      </div>
+      <input
+        aria-describedby="helptext-diagnosis"
+        id="outlined-select-diagnosis"
+        name="select-diagnosis"
+        type="hidden"
+        value="25"
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 18 18"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+        <mask
+          height="12"
+          id="mask0"
+          mask-type="alpha"
+          maskUnits="userSpaceOnUse"
+          width="18"
+          x="0"
+          y="4"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+            fill="white"
+            fill-rule="evenodd"
+          />
+        </mask>
+        <g
+          mask="url(#mask0)"
+        />
+      </svg>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-6735 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-6736"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    />
+  </div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+    data-testid="input-receipt-amount"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined"
+      data-shrink="true"
+      for="input-receiptAmount"
+    >
+      Receipt amount
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedStart MuiOutlinedInput-adornedStart"
+      label="Receipt amount"
+    >
+      <div
+        class="CurrencyInput-typography-6777"
+      >
+        Typography Component
+      </div>
+      <input
+        aria-describedby="helptext-receiptAmount"
+        aria-invalid="false"
+        class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedStart MuiOutlinedInput-inputAdornedStart"
+        id="input-receiptAmount"
+        maxlength="20"
+        name="receiptAmount"
+        type="text"
+        value=""
+      />
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-6735 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-6736"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    >
+      <p
+        class="MuiFormHelperText-root MuiFormHelperText-contained"
+        id="helptext-receiptAmount"
+      >
+        Max receipt amount HK$1000
+      </p>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-6778"
+  >
+    <label
+      class="MuiFormControlLabel-root"
+    >
+      <span
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-6791 MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-checked-6792 Mui-checked MuiIconButton-colorPrimary"
+        data-testid="checkbox-maternity-claim-type"
+        error="false"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <input
+            checked=""
+            class="PrivateSwitchBase-input-6794"
+            data-indeterminate="false"
+            name="isMaternity"
+            type="checkbox"
+            value="true"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        <div
+          color="mediumEmphasis"
+          font-weight="normal"
+        >
+          Typography Component
+        </div>
+      </span>
+    </label>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-6825"
+  >
+    <label
+      class="MuiFormControlLabel-root"
+    >
+      <span
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-6791 MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-checked-6792 Mui-checked MuiIconButton-colorPrimary"
+        data-testid="input-another-insurer"
+        error="false"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <input
+            checked=""
+            class="PrivateSwitchBase-input-6794"
+            data-indeterminate="false"
+            name="anotherInsurer"
+            type="checkbox"
+            value="true"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        <div
+          color="mediumEmphasis"
+          font-weight="normal"
+        >
+          Typography Component
+        </div>
+      </span>
+    </label>
+  </div>
+</div>
+`;
+
+exports[`ClaimDetails Component should match snapshot with wellness consultation type selected  1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-383"
+  >
+    <div
+      type="style-3"
+    >
+      Typography Component
+    </div>
+  </div>
+  <span>
+    <div
+      class="MuiFormControl-root MuiFormControl-fullWidth"
+      data-testid="date-consultation"
+    >
+      <label
+        class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+        data-shrink="false"
+        for="input-consultationDate"
+      >
+        Consultation date
+      </label>
+      <div
+        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+        label="Consultation date"
+      >
+        <input
+          aria-describedby="helptext-consultationDate"
+          aria-invalid="false"
+          class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+          disabled="disabled"
+          id="input-consultationDate"
+          name="consultationDate"
+          type="text"
+          value=""
+        />
+        <div
+          class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+        >
+          <button
+            aria-describedby="helptext-consultationDate"
+            class="MuiButtonBase-root MuiIconButton-root"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                style="width: 1.125rem; height: 1.125rem;"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M20 1.33333V0H18.4V1.33333H5.6V0H4V1.33333H0V24H18.9333L24 18.9333V1.33333H20ZM18.9333 21.7373V18.9333H21.7373L18.9333 21.7373ZM22.4 17.3333H17.3333V22.4H1.6V8H22.4V17.3333ZM22.4 6.4H1.6V2.93333H4V4.66667H5.6V2.93333H18.4V4.66667H20V2.93333H22.4V6.4ZM11.7333 13.372V20H13.3333V10.628L9.33733 12.8893L10.1253 14.2827L11.7333 13.372Z"
+                  fill="#333333"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <fieldset
+          aria-hidden="true"
+          class="PrivateNotchedOutline-root-470 MuiOutlinedInput-notchedOutline"
+          style="padding-left: 8px;"
+        >
+          <legend
+            class="PrivateNotchedOutline-legend-471"
+            style="width: 0.01px;"
+          >
+            <span>
+              ​
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+      <div
+        aria-live="polite"
+      >
+        <p
+          class="MuiFormHelperText-root MuiFormHelperText-contained"
+          id="helptext-consultationDate"
+        >
+          Must be less than 90 days ago
+        </p>
+      </div>
+    </div>
+  </span>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+      data-shrink="false"
+      for="outlined-select-consultation-type"
+    >
+      Consultation type
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+      data-testid="select-consultation-type"
+    >
+      <div
+        aria-haspopup="listbox"
+        class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+        id="select-select-consultation-type"
+        role="button"
+        tabindex="0"
+      >
+        <span>
+          ​
+        </span>
+      </div>
+      <input
+        aria-describedby="helptext-claimId"
+        id="outlined-select-consultation-type"
+        name="select-consultation-type"
+        type="hidden"
+        value=""
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 18 18"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+        <mask
+          height="12"
+          id="mask0"
+          mask-type="alpha"
+          maskUnits="userSpaceOnUse"
+          width="18"
+          x="0"
+          y="4"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+            fill="white"
+            fill-rule="evenodd"
+          />
+        </mask>
+        <g
+          mask="url(#mask0)"
+        />
+      </svg>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-470 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-471"
+          style="width: 0.01px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    />
+  </div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+      data-shrink="false"
+      for="outlined-select-diagnosis"
+    >
+      Diagnosis
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+      data-testid="select-diagnosis"
+    >
+      <div
+        aria-haspopup="listbox"
+        class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+        id="select-select-diagnosis"
+        role="button"
+        tabindex="0"
+      >
+        <span>
+          ​
+        </span>
+      </div>
+      <input
+        aria-describedby="helptext-diagnosis"
+        id="outlined-select-diagnosis"
+        name="select-diagnosis"
+        type="hidden"
+        value=""
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 18 18"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+        <mask
+          height="12"
+          id="mask0"
+          mask-type="alpha"
+          maskUnits="userSpaceOnUse"
+          width="18"
+          x="0"
+          y="4"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+            fill="white"
+            fill-rule="evenodd"
+          />
+        </mask>
+        <g
+          mask="url(#mask0)"
+        />
+      </svg>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-470 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-471"
+          style="width: 0.01px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    />
+  </div>
+  <div
+    class="MuiFormControl-root MuiFormControl-fullWidth"
+    data-testid="input-receipt-amount"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined"
+      data-shrink="true"
+      for="input-receiptAmount"
+    >
+      Receipt amount
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedStart MuiOutlinedInput-adornedStart"
+      label="Receipt amount"
+    >
+      <div
+        class="CurrencyInput-typography-512"
+      >
+        Typography Component
+      </div>
+      <input
+        aria-describedby="helptext-receiptAmount"
+        aria-invalid="false"
+        class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedStart MuiOutlinedInput-inputAdornedStart"
+        id="input-receiptAmount"
+        maxlength="20"
+        name="receiptAmount"
+        type="text"
+        value=""
+      />
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-470 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-471"
+          style="width: 0px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+    <div
+      aria-live="polite"
+    >
+      <p
+        class="MuiFormHelperText-root MuiFormHelperText-contained"
+        id="helptext-receiptAmount"
+      >
+        Max receipt amount HK$1000
+      </p>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-513"
+  >
+    <label
+      class="MuiFormControlLabel-root"
+    >
+      <span
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-526 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+        data-testid="checkbox-maternity-claim-type"
+        error="false"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <input
+            class="PrivateSwitchBase-input-529"
+            data-indeterminate="false"
+            name="isMaternity"
+            type="checkbox"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        <div
+          color="mediumEmphasis"
+          font-weight="normal"
+        >
+          Typography Component
+        </div>
+      </span>
+    </label>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-560"
+  >
+    <label
+      class="MuiFormControlLabel-root"
+    >
+      <span
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-526 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+        data-testid="input-another-insurer"
+        error="false"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <input
+            class="PrivateSwitchBase-input-529"
+            data-indeterminate="false"
+            name="anotherInsurer"
+            type="checkbox"
+            value="false"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        <div
+          color="mediumEmphasis"
+          font-weight="normal"
+        >
+          Typography Component
+        </div>
+      </span>
+    </label>
+  </div>
+</div>
+`;

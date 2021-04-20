@@ -1,0 +1,407 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ResendForm Component should match snapshot 1`] = `
+<div>
+  <form
+    autocomplete="off"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-2"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container"
+      >
+        <div
+          data-md="5"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <img
+              alt=""
+              src="/static/invite_dependent.svg"
+            />
+          </div>
+        </div>
+        <div
+          data-md="6"
+          data-xs="12"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <div
+              class="MuiBox-root MuiBox-root-92"
+            >
+              <div
+                type="style-1"
+              >
+                Change mobile number
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-container"
+            >
+              <div
+                data-md="10"
+                data-xs="12"
+              >
+                <span>
+                  GridItem Component
+                </span>
+                <div>
+                  <div
+                    type="style-5"
+                  >
+                    New mobile number
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-93"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-94"
+                    >
+                      <div
+                        class="MuiFormControl-root MuiFormControl-fullWidth"
+                      >
+                        <label
+                          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                          data-shrink="false"
+                          for="outlined-select-new-mobile-number-country-code"
+                        >
+                          Country Code
+                        </label>
+                        <div
+                          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+                          data-testid="select-new-mobile-number-country-code"
+                        >
+                          <div
+                            aria-haspopup="listbox"
+                            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                            id="select-select-new-mobile-number-country-code"
+                            role="button"
+                            tabindex="0"
+                          >
+                            <span>
+                              ​
+                            </span>
+                          </div>
+                          <input
+                            aria-describedby="helptext-newMobileNumberCountryCode"
+                            id="outlined-select-new-mobile-number-country-code"
+                            name="select-new-mobile-number-country-code"
+                            type="hidden"
+                            value=""
+                          />
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                            focusable="false"
+                            role="presentation"
+                            style="width: 1.125rem; height: 1.125rem;"
+                            viewBox="0 0 18 18"
+                          >
+                            <path
+                              clip-rule="evenodd"
+                              d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                              fill="#333333"
+                              fill-rule="evenodd"
+                            />
+                            <mask
+                              height="12"
+                              id="mask0"
+                              mask-type="alpha"
+                              maskUnits="userSpaceOnUse"
+                              width="18"
+                              x="0"
+                              y="4"
+                            >
+                              <path
+                                clip-rule="evenodd"
+                                d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                fill="white"
+                                fill-rule="evenodd"
+                              />
+                            </mask>
+                            <g
+                              mask="url(#mask0)"
+                            />
+                          </svg>
+                          <fieldset
+                            aria-hidden="true"
+                            class="PrivateNotchedOutline-root-175 MuiOutlinedInput-notchedOutline"
+                            style="padding-left: 8px;"
+                          >
+                            <legend
+                              class="PrivateNotchedOutline-legend-176"
+                              style="width: 0.01px;"
+                            >
+                              <span>
+                                ​
+                              </span>
+                            </legend>
+                          </fieldset>
+                        </div>
+                        <div
+                          aria-live="polite"
+                        />
+                      </div>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-177"
+                    >
+                      <div
+                        class="MuiFormControl-root MuiFormControl-fullWidth"
+                        data-testid="input-new-mobile-number"
+                      >
+                        <label
+                          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                          data-shrink="false"
+                          for="input-newMobileNumber"
+                        >
+                          Mobile Number
+                        </label>
+                        <div
+                          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+                          label="Mobile Number"
+                        >
+                          <input
+                            aria-describedby="helptext-newMobileNumber"
+                            aria-invalid="false"
+                            class="MuiInputBase-input MuiOutlinedInput-input"
+                            id="input-newMobileNumber"
+                            maxlength="16"
+                            type="text"
+                            value=""
+                          />
+                          <fieldset
+                            aria-hidden="true"
+                            class="PrivateNotchedOutline-root-175 MuiOutlinedInput-notchedOutline"
+                            style="padding-left: 8px;"
+                          >
+                            <legend
+                              class="PrivateNotchedOutline-legend-176"
+                              style="width: 0.01px;"
+                            >
+                              <span>
+                                ​
+                              </span>
+                            </legend>
+                          </fieldset>
+                        </div>
+                        <div
+                          aria-live="polite"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                data-md="10"
+                data-xs="12"
+              >
+                <span>
+                  GridItem Component
+                </span>
+                <div>
+                  <div
+                    type="style-5"
+                  >
+                    Confirm mobile number
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-178"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-179"
+                    >
+                      <div
+                        class="MuiFormControl-root MuiFormControl-fullWidth"
+                      >
+                        <label
+                          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                          data-shrink="false"
+                          for="outlined-select-confirm-new-mobile-number-country-code"
+                        >
+                          Country Code
+                        </label>
+                        <div
+                          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+                          data-testid="select-confirm-new-mobile-number-country-code"
+                        >
+                          <div
+                            aria-haspopup="listbox"
+                            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                            id="select-select-confirm-new-mobile-number-country-code"
+                            role="button"
+                            tabindex="0"
+                          >
+                            <span>
+                              ​
+                            </span>
+                          </div>
+                          <input
+                            aria-describedby="helptext-confirmNewMobileNumberCountryCode"
+                            id="outlined-select-confirm-new-mobile-number-country-code"
+                            name="select-confirm-new-mobile-number-country-code"
+                            type="hidden"
+                            value=""
+                          />
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                            focusable="false"
+                            role="presentation"
+                            style="width: 1.125rem; height: 1.125rem;"
+                            viewBox="0 0 18 18"
+                          >
+                            <path
+                              clip-rule="evenodd"
+                              d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                              fill="#333333"
+                              fill-rule="evenodd"
+                            />
+                            <mask
+                              height="12"
+                              id="mask0"
+                              mask-type="alpha"
+                              maskUnits="userSpaceOnUse"
+                              width="18"
+                              x="0"
+                              y="4"
+                            >
+                              <path
+                                clip-rule="evenodd"
+                                d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                fill="white"
+                                fill-rule="evenodd"
+                              />
+                            </mask>
+                            <g
+                              mask="url(#mask0)"
+                            />
+                          </svg>
+                          <fieldset
+                            aria-hidden="true"
+                            class="PrivateNotchedOutline-root-175 MuiOutlinedInput-notchedOutline"
+                            style="padding-left: 8px;"
+                          >
+                            <legend
+                              class="PrivateNotchedOutline-legend-176"
+                              style="width: 0.01px;"
+                            >
+                              <span>
+                                ​
+                              </span>
+                            </legend>
+                          </fieldset>
+                        </div>
+                        <div
+                          aria-live="polite"
+                        />
+                      </div>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-180"
+                    >
+                      <div
+                        class="MuiFormControl-root MuiFormControl-fullWidth"
+                        data-testid="input-confirm-new-mobile-number"
+                      >
+                        <label
+                          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                          data-shrink="false"
+                          for="input-confirmNewMobileNumber"
+                        >
+                          Mobile Number
+                        </label>
+                        <div
+                          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+                          label="Mobile Number"
+                        >
+                          <input
+                            aria-describedby="helptext-confirmNewMobileNumber"
+                            aria-invalid="false"
+                            class="MuiInputBase-input MuiOutlinedInput-input"
+                            id="input-confirmNewMobileNumber"
+                            maxlength="16"
+                            type="text"
+                            value=""
+                          />
+                          <fieldset
+                            aria-hidden="true"
+                            class="PrivateNotchedOutline-root-175 MuiOutlinedInput-notchedOutline"
+                            style="padding-left: 8px;"
+                          >
+                            <legend
+                              class="PrivateNotchedOutline-legend-176"
+                              style="width: 0.01px;"
+                            >
+                              <span>
+                                ​
+                              </span>
+                            </legend>
+                          </fieldset>
+                        </div>
+                        <div
+                          aria-live="polite"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                data-md="10"
+                data-xs="12"
+              >
+                <span>
+                  GridItem Component
+                </span>
+                <div>
+                  <div
+                    class="MuiBox-root MuiBox-root-181"
+                  >
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                      data-testid="btn-submit-change-mobile-number"
+                      tabindex="0"
+                      type="submit"
+                    >
+                      <span
+                        class="MuiButton-label"
+                      >
+                        Submit
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-213"
+                  >
+                    <div
+                      type="style-11"
+                    >
+                      Note
+                    </div>
+                    <div
+                      type="style-10"
+                    >
+                      The app only supports countries in the dropdown. If your mobile number is not supported you may use email for login.
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;

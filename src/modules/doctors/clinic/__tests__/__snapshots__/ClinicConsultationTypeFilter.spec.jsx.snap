@@ -1,0 +1,518 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ClinicConsultationTypeFilter should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root ClinicConsultationTypeFilter-container-2 MuiPaper-rounded"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-48 ClinicConsultationTypeFilter-listContainer-3"
+    >
+      <ul
+        class="MuiList-root MuiList-padding"
+        role="menu"
+        tabindex="-1"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-53"
+          tabindex="0"
+        >
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+            role="menuitem"
+            tabindex="-1"
+          >
+            <label
+              class="MuiFormControlLabel-root ClinicConsultationTypeFilter-root-1"
+            >
+              <span
+                aria-disabled="false"
+                class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-84 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                data-testid="checkbox-filter-0"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <input
+                    class="PrivateSwitchBase-input-87"
+                    data-indeterminate="false"
+                    type="checkbox"
+                    value="consultation type1"
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                    />
+                  </svg>
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </span>
+              <span
+                class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+              >
+                <div
+                  class="MuiTypography-root makeStyles-root-136 makeStyles-root-137 MuiTypography-body1"
+                >
+                  consultation type1
+                </div>
+              </span>
+            </label>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </li>
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+            role="menuitem"
+            tabindex="-1"
+          >
+            <label
+              class="MuiFormControlLabel-root ClinicConsultationTypeFilter-root-1"
+            >
+              <span
+                aria-disabled="false"
+                class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-84 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                data-testid="checkbox-filter-1"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <input
+                    class="PrivateSwitchBase-input-87"
+                    data-indeterminate="false"
+                    type="checkbox"
+                    value="consultation type2"
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                    />
+                  </svg>
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </span>
+              <span
+                class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+              >
+                <div
+                  class="MuiTypography-root makeStyles-root-138 makeStyles-root-139 MuiTypography-body1"
+                >
+                  consultation type2
+                </div>
+              </span>
+            </label>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </li>
+        </div>
+      </ul>
+    </div>
+    <hr
+      class="MuiDivider-root"
+    />
+    <div
+      class="MuiBox-root MuiBox-root-146"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-149 makeStyles-root-147 makeStyles-root-148"
+        classes="[object Object]"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+          data-testid="btn-apply-filter"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Apply
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+          data-testid="btn-clear-all-filter"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Clear all
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ClinicConsultationTypeFilter should match snapshot when filter is already selected 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root ClinicConsultationTypeFilter-container-563 MuiPaper-rounded PrivateHiddenCss-xsUp-594"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-609 ClinicConsultationTypeFilter-listContainer-564"
+    >
+      <ul
+        class="MuiList-root MuiList-padding"
+        role="menu"
+        tabindex="-1"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-614"
+          tabindex="0"
+        >
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+            role="menuitem"
+            tabindex="-1"
+          >
+            <label
+              class="MuiFormControlLabel-root ClinicConsultationTypeFilter-root-562"
+            >
+              <span
+                aria-disabled="false"
+                class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-645 MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-checked-646 Mui-checked MuiIconButton-colorPrimary"
+                data-testid="checkbox-filter-0"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <input
+                    checked=""
+                    class="PrivateSwitchBase-input-648"
+                    data-indeterminate="false"
+                    type="checkbox"
+                    value="consultation type1"
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                    />
+                  </svg>
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </span>
+              <span
+                class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+              >
+                <div
+                  class="MuiTypography-root makeStyles-root-697 makeStyles-root-698 MuiTypography-body1"
+                >
+                  consultation type1
+                </div>
+              </span>
+            </label>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </li>
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+            role="menuitem"
+            tabindex="-1"
+          >
+            <label
+              class="MuiFormControlLabel-root ClinicConsultationTypeFilter-root-562"
+            >
+              <span
+                aria-disabled="false"
+                class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-645 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                data-testid="checkbox-filter-1"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <input
+                    class="PrivateSwitchBase-input-648"
+                    data-indeterminate="false"
+                    type="checkbox"
+                    value="consultation type2"
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                    />
+                  </svg>
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </span>
+              <span
+                class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+              >
+                <div
+                  class="MuiTypography-root makeStyles-root-699 makeStyles-root-700 MuiTypography-body1"
+                >
+                  consultation type2
+                </div>
+              </span>
+            </label>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </li>
+        </div>
+      </ul>
+    </div>
+    <hr
+      class="MuiDivider-root"
+    />
+    <div
+      class="MuiBox-root MuiBox-root-707"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-710 makeStyles-root-708 makeStyles-root-709"
+        classes="[object Object]"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+          data-testid="btn-apply-filter"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Apply
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+          data-testid="btn-clear-all-filter"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Clear all
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ClinicConsultationTypeFilter should match snapshot when filter popup is closed 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root ClinicConsultationTypeFilter-container-189 MuiPaper-rounded PrivateHiddenCss-xsUp-220"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-235 ClinicConsultationTypeFilter-listContainer-190"
+    >
+      <ul
+        class="MuiList-root MuiList-padding"
+        role="menu"
+        tabindex="-1"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-240"
+          tabindex="0"
+        >
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+            role="menuitem"
+            tabindex="-1"
+          >
+            <label
+              class="MuiFormControlLabel-root ClinicConsultationTypeFilter-root-188"
+            >
+              <span
+                aria-disabled="false"
+                class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-271 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                data-testid="checkbox-filter-0"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <input
+                    class="PrivateSwitchBase-input-274"
+                    data-indeterminate="false"
+                    type="checkbox"
+                    value="consultation type1"
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                    />
+                  </svg>
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </span>
+              <span
+                class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+              >
+                <div
+                  class="MuiTypography-root makeStyles-root-323 makeStyles-root-324 MuiTypography-body1"
+                >
+                  consultation type1
+                </div>
+              </span>
+            </label>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </li>
+          <li
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+            role="menuitem"
+            tabindex="-1"
+          >
+            <label
+              class="MuiFormControlLabel-root ClinicConsultationTypeFilter-root-188"
+            >
+              <span
+                aria-disabled="false"
+                class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-271 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                data-testid="checkbox-filter-1"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <input
+                    class="PrivateSwitchBase-input-274"
+                    data-indeterminate="false"
+                    type="checkbox"
+                    value="consultation type2"
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                    />
+                  </svg>
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </span>
+              <span
+                class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+              >
+                <div
+                  class="MuiTypography-root makeStyles-root-325 makeStyles-root-326 MuiTypography-body1"
+                >
+                  consultation type2
+                </div>
+              </span>
+            </label>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </li>
+        </div>
+      </ul>
+    </div>
+    <hr
+      class="MuiDivider-root"
+    />
+    <div
+      class="MuiBox-root MuiBox-root-333"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-336 makeStyles-root-334 makeStyles-root-335"
+        classes="[object Object]"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+          data-testid="btn-apply-filter"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Apply
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+          data-testid="btn-clear-all-filter"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Clear all
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

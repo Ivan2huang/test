@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ActivationResultMessage Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-4"
+  >
+    <div
+      class="MuiTypography-root makeStyles-text-1 makeStyles-text-2 MuiTypography-body1"
+    >
+      Success
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-37"
+  >
+    <div
+      class="MuiTypography-root makeStyles-text-1 makeStyles-text-2 MuiTypography-body1"
+    >
+      Congratulation
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details Component should match the snapshot with header 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-3"
+  >
+    <div>
+      Typography Component
+      Dummy Header
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-4"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-5 Details-row-1"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-109"
+            >
+              <div>
+                Typography Component
+                name
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-110"
+            >
+              <div>
+                Typography Component
+                William Brown
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Details Component should match the snapshot without header 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-113"
+  >
+    <div>
+      Typography Component
+      
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-114"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-115 Details-row-111"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-219"
+            >
+              <div>
+                Typography Component
+                name
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-220"
+            >
+              <div>
+                Typography Component
+                William Brown
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

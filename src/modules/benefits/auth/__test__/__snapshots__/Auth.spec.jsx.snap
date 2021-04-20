@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profile checker should redirect to benefits page for terminated employee 1`] = `<div />`;
+
+exports[`Profile checker should redirect to health-cards page for normal employee 1`] = `<div />`;

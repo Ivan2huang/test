@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NonClusterMapMarker component should be able to match the snapshot with selected clinic 1`] = `
+<div>
+  <div
+    icon="[object Object]"
+    lat="1.3006643"
+    lng="103.8001065"
+  >
+    Marker
+    /static/inactive_locations.png
+    <div
+      data-testid="map-pin-123"
+    />
+    <span
+      data-id="props"
+    >
+      noRedraw = true
+    </span>
+  </div>
+  <div
+    icon="[object Object]"
+    lat="3.3006643"
+    lng="109.8001065"
+  >
+    Marker
+    /static/active_locations.png
+    <div
+      data-testid="map-pin-124"
+    />
+    <span
+      data-id="props"
+    />
+  </div>
+</div>
+`;
+
+exports[`NonClusterMapMarker component should match the snapshot 1`] = `
+<div>
+  <div
+    icon="[object Object]"
+    lat="1.3006643"
+    lng="103.8001065"
+  >
+    Marker
+    /static/inactive_locations.png
+    <div
+      data-testid="map-pin-123"
+    />
+    <span
+      data-id="props"
+    >
+      noRedraw = true
+    </span>
+  </div>
+  <div
+    icon="[object Object]"
+    lat="3.3006643"
+    lng="109.8001065"
+  >
+    Marker
+    /static/inactive_locations.png
+    <div
+      data-testid="map-pin-124"
+    />
+    <span
+      data-id="props"
+    >
+      noRedraw = true
+    </span>
+  </div>
+</div>
+`;

@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Number Input Field utils should match snapshot 1`] = `
+<div>
+  <div>
+    <span>
+      NumberInput Component
+    </span>
+    <span>
+      label = test-label
+      name = test
+      value = 1234
+      testId = test-id
+      maxLength = 5
+      decimalScale = 0
+      helperText = optional
+      endAdornment = some unit
+      error = false
+      onChange = function onChange
+    </span>
+  </div>
+</div>
+`;
+
+exports[`render Number Input Field utils should match snapshot when error 1`] = `
+<div>
+  <div>
+    <span>
+      NumberInput Component
+    </span>
+    <span>
+      label = test-label
+      name = test
+      value = 1234
+      testId = test-id
+      maxLength = 5
+      decimalScale = 0
+      helperText = some error
+      endAdornment = some unit
+      error = true
+      onChange = function onChange
+    </span>
+  </div>
+</div>
+`;

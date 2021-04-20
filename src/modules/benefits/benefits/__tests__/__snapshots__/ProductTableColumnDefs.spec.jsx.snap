@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductTableColumnsDefinition should provide template text for description column when description is null 1`] = `""`;
+
+exports[`ProductTableColumnsDefinition should provide the template text for service column  1`] = `
+<div>
+  <div
+    color="highEmphasis"
+    type="style-5"
+  >
+    test name
+    (Typography)
+  </div>
+  <div
+    type="style-6"
+  >
+    meta text
+    (Typography)
+  </div>
+</div>
+`;

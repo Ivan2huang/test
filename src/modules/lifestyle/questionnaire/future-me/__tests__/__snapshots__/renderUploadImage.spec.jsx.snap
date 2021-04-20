@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renderUploadImage component should match snapshot 1`] = `
+<div>
+  <div>
+    FilePicker Component
+    <input
+      data-testid="btn-add-file"
+    />
+    <span>
+      fileTypes = png,jpeg,jpg,tiff,tif
+      fileSize = 2048000
+      fullWidth = true
+      inputProps = [object Object]
+    </span>
+    <div
+      class="MuiBox-root MuiBox-root-2"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 18 18"
+      >
+        <path
+          d="M15.8,12v3.8H2.2V12H1v5h16v-5H15.8z M8.4,13.849h1.2V3.297l4.4,4.4V6.001L9,1L4,6.001v1.697l4.4-4.4V13.849z"
+          fill="#333333"
+        />
+      </svg>
+    </div>
+  </div>
+</div>
+`;

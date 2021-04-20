@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Activation Page Component should render ActivationResultMessage Error if verificationStatus success 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-206 Error-main-201"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-207 Error-grid-204"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-208 Error-content-202"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-center"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Activation Page Component should render ActivationResultMessage Success if verificationStatus success 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-105 makeStyles-container-98 makeStyles-container-101"
+    classes="[object Object]"
+  >
+    <main
+      class="makeStyles-main-99 makeStyles-main-102"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container"
+      />
+    </main>
+  </div>
+</div>
+`;

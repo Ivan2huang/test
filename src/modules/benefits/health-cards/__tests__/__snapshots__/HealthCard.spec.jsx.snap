@@ -1,0 +1,349 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HealthCard Component should close QR code modal when clicked on close button 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-healthCardHolder-559 makeStyles-healthCardHolder-562 MuiPaper-rounded"
+  >
+    <div>
+      QRCode Component
+      <span>
+        title = William Brown
+        value = &lt;xml&gt;&lt;n&gt;William Brown&lt;/n&gt;&lt;m&gt;123&lt;/m&gt;&lt;c&gt;CERT3456&lt;/c&gt;&lt;ic&gt;12&lt;/ic&gt;&lt;in&gt;ABC insurer&lt;/in&gt;&lt;p&gt;PN1234&lt;/p&gt;&lt;e&gt;12 Aug 2019&lt;/e&gt;&lt;/xml&gt;
+        open = false
+      </span>
+      <button
+        data-testid="btn-close-qr"
+        type="button"
+      >
+        Close
+      </button>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-594"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-595 PrivateHiddenCss-mdUp-603"
+      >
+        <div>
+          Typography Component
+          William Brown
+        </div>
+      </div>
+      <div
+        class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-healthCard-561 makeStyles-healthCard-564 MuiPaper-rounded"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-611"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+          />
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-701 makeStyles-cardDetail-560 makeStyles-cardDetail-563"
+          classes="[object Object]"
+        >
+          <div>
+            Card Details Component
+            William Brown
+            123
+            10
+            10
+            10
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-702"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-703 PrivateHiddenCss-smDown-601"
+        >
+          <div>
+            Typography Component
+            William Brown
+          </div>
+        </div>
+        <button
+          aria-label="View QR code for William Brown"
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+          data-testid="btn-view-qr-123"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            View QR code
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`HealthCard Component should match the snapshot for dependant 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-healthCardHolder-187 makeStyles-healthCardHolder-190 MuiPaper-rounded"
+  >
+    <div>
+      QRCode Component
+      <span>
+        title = William Brown
+        value = &lt;xml&gt;&lt;n&gt;William Brown&lt;/n&gt;&lt;m&gt;123&lt;/m&gt;&lt;c&gt;CERT3456&lt;/c&gt;&lt;ic&gt;12&lt;/ic&gt;&lt;in&gt;ABC insurer&lt;/in&gt;&lt;p&gt;PN1234&lt;/p&gt;&lt;e&gt;12 Aug 2019&lt;/e&gt;&lt;/xml&gt;
+        open = false
+      </span>
+      <button
+        data-testid="btn-close-qr"
+        type="button"
+      >
+        Close
+      </button>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-222"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-223 PrivateHiddenCss-mdUp-231"
+      >
+        <div>
+          Typography Component
+          William Brown
+        </div>
+      </div>
+      <div
+        class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-healthCard-189 makeStyles-healthCard-192 MuiPaper-rounded"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-239"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+          />
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-329 makeStyles-cardDetail-188 makeStyles-cardDetail-191"
+          classes="[object Object]"
+        >
+          <div>
+            Card Details Component
+            William Brown
+            123
+            10
+            10
+            10
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-330"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-331 PrivateHiddenCss-smDown-229"
+        >
+          <div>
+            Typography Component
+            William Brown
+          </div>
+        </div>
+        <button
+          aria-label="View QR code for William Brown"
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+          data-testid="btn-view-qr-123"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            View QR code
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`HealthCard Component should match the snapshot for employee 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-healthCardHolder-1 makeStyles-healthCardHolder-4 MuiPaper-rounded"
+  >
+    <div>
+      QRCode Component
+      <span>
+        title = William Brown
+        value = &lt;xml&gt;&lt;n&gt;William Brown&lt;/n&gt;&lt;m&gt;123&lt;/m&gt;&lt;c&gt;CERT3456&lt;/c&gt;&lt;ic&gt;12&lt;/ic&gt;&lt;in&gt;ABC insurer&lt;/in&gt;&lt;p&gt;PN1234&lt;/p&gt;&lt;e&gt;12 Aug 2019&lt;/e&gt;&lt;/xml&gt;
+        open = false
+      </span>
+      <button
+        data-testid="btn-close-qr"
+        type="button"
+      >
+        Close
+      </button>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-36"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-37 PrivateHiddenCss-mdUp-45"
+      >
+        <div>
+          Typography Component
+          William Brown
+        </div>
+      </div>
+      <div
+        class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-healthCard-3 makeStyles-healthCard-6 MuiPaper-rounded"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-53"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+          />
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-143 makeStyles-cardDetail-2 makeStyles-cardDetail-5"
+          classes="[object Object]"
+        >
+          <div>
+            Card Details Component
+            William Brown
+            123
+            10
+            10
+            10
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-144"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-145 PrivateHiddenCss-smDown-43"
+        >
+          <div>
+            Typography Component
+            William Brown
+          </div>
+        </div>
+        <button
+          aria-label="View QR code for William Brown"
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+          data-testid="btn-view-qr-123"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            View QR code
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`HealthCard Component should open QR code modal when clicked on view QR code button 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-healthCardHolder-373 makeStyles-healthCardHolder-376 MuiPaper-rounded"
+  >
+    <div>
+      QRCode Component
+      <span>
+        title = William Brown
+        value = &lt;xml&gt;&lt;n&gt;William Brown&lt;/n&gt;&lt;m&gt;123&lt;/m&gt;&lt;c&gt;CERT3456&lt;/c&gt;&lt;ic&gt;12&lt;/ic&gt;&lt;in&gt;ABC insurer&lt;/in&gt;&lt;p&gt;PN1234&lt;/p&gt;&lt;e&gt;12 Aug 2019&lt;/e&gt;&lt;/xml&gt;
+        open = true
+      </span>
+      <button
+        data-testid="btn-close-qr"
+        type="button"
+      >
+        Close
+      </button>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-408"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-409 PrivateHiddenCss-mdUp-417"
+      >
+        <div>
+          Typography Component
+          William Brown
+        </div>
+      </div>
+      <div
+        class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-healthCard-375 makeStyles-healthCard-378 MuiPaper-rounded"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-425"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+          />
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-515 makeStyles-cardDetail-374 makeStyles-cardDetail-377"
+          classes="[object Object]"
+        >
+          <div>
+            Card Details Component
+            William Brown
+            123
+            10
+            10
+            10
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-516"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-517 PrivateHiddenCss-smDown-415"
+        >
+          <div>
+            Typography Component
+            William Brown
+          </div>
+        </div>
+        <button
+          aria-label="View QR code for William Brown"
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+          data-testid="btn-view-qr-123"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            View QR code
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

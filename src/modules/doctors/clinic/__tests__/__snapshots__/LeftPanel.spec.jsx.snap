@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LeftPanel Component should be able to toggle the view  when change view clicked 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-68 LeftPanel-sideBar-63"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-69 LeftPanel-searchField-64"
+    >
+      <div>
+        Clinic search Container
+      </div>
+      <div
+        class="LeftPanel-filterWrapper-66"
+      >
+        <div>
+          Clinic Filter Container
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-70 PrivateHiddenCss-mdUp-78"
+        >
+          <button
+            class="MuiTypography-root MuiLink-root MuiLink-underlineNone MuiLink-button MuiTypography-colorPrimary"
+            data-testid="btn-toggle-view"
+          >
+            <div
+              class="MuiTypography-root makeStyles-root-125 makeStyles-root-126 MuiTypography-body1"
+            >
+              View map
+            </div>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-124 LeftPanel-listViewContainer-65"
+    >
+      <div>
+        Clinic List View Container
+      </div>
+      <div>
+        Clinic Details View Container
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`LeftPanel Component should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-6 LeftPanel-sideBar-1"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-7 LeftPanel-searchField-2"
+    >
+      <div>
+        Clinic search Container
+      </div>
+      <div
+        class="LeftPanel-filterWrapper-4"
+      >
+        <div>
+          Clinic Filter Container
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-8 PrivateHiddenCss-mdUp-16"
+        >
+          <button
+            class="MuiTypography-root MuiLink-root MuiLink-underlineNone MuiLink-button MuiTypography-colorPrimary"
+            data-testid="btn-toggle-view"
+          >
+            <div
+              class="MuiTypography-root makeStyles-root-60 makeStyles-root-61 MuiTypography-body1"
+            >
+              View list
+            </div>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-62 LeftPanel-listViewContainer-3"
+    >
+      <div>
+        Clinic List View Container
+      </div>
+      <div>
+        Clinic Details View Container
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,1539 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ServiceList Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-3 ServiceList-itemBorder-1"
+  >
+    <div
+      type="style-5"
+    >
+      General medical practitioner
+      (Typography)
+    </div>
+    <div
+      type="style-6"
+    >
+      Consultation inclusive of medications
+      (Typography)
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-4"
+    >
+      <div
+        type="style-6"
+      >
+        
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-5"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M0 8.04133V0H24V8.04133C24 15.6147 18.9307 22 12 24C5.07067 22 0 17.236 0 9.66267V8.04133ZM11.996 22.3293C18.1453 20.3453 22.4 14.536 22.4 8.04133V1.6H1.6V8.04133V9.66267C1.6 17.7733 7.91333 21.056 11.996 22.3293ZM12.6667 4.66699V9.33301H17.3334V10.6663H12.6667V15.3337H11.3334V10.6663H6.66675V9.33301H11.3334V4.66699H12.6667Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-15"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-16"
+        >
+          <div
+            type="style-8"
+          >
+            Panel doctor 100% coverage
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          $20 co-payment per visit
+          (Typography)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-17"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9307 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133Z"
+          fill="#333333"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-18"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-19"
+        >
+          <div
+            type="style-8"
+          >
+            Non panel doctor 80% reimbursement
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          Up to $750 per visit
+          (Typography)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-20"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M18.5333 22.52V16.8533L20 15.2133V24H0V2.54667H4.93333L7.49333 0H12.5867L15.0667 2.54667H20V8.26667L18.5333 9.77333V4.08H15.1333V6.4H4.94667V4.08H1.53333V12.6V22.52H18.5333ZM8.12 1.53333L6.53333 3.17333L6.46667 4.88H13.6V3.17333L12 1.53333H8.12ZM16.5332 14.0398L22.7332 7.83984L23.9999 9.11984L16.5332 16.5732L12.6399 12.6798L13.9066 11.4132L16.5332 14.0398ZM4.2666 13.7467V8.08008H9.9466V13.7467H4.2666ZM5.53327 12.4801H8.6666V9.33341H5.53327V12.4801ZM4.2666 15.0664V20.7331H9.9466V15.0664H4.2666ZM8.6666 19.4664H5.53327V16.3331H8.6666V19.4664Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-21"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-22"
+        >
+          <div
+            type="style-8"
+          >
+            Checkpoint visits per year¹
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          29 out of 30 left
+          (Typography)
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-23 ServiceList-itemBorder-1"
+  >
+    <div
+      type="style-5"
+    >
+      Surgeon fees
+      (Typography)
+    </div>
+    <div
+      type="style-6"
+    >
+      
+      (Typography)
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-24"
+    >
+      <div
+        type="style-6"
+      >
+        Max limit per disability - Complex
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-25"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M0 8.04133V0H24V8.04133C24 15.6147 18.9307 22 12 24C5.07067 22 0 17.236 0 9.66267V8.04133ZM11.996 22.3293C18.1453 20.3453 22.4 14.536 22.4 8.04133V1.6H1.6V8.04133V9.66267C1.6 17.7733 7.91333 21.056 11.996 22.3293ZM12.6667 4.66699V9.33301H17.3334V10.6663H12.6667V15.3337H11.3334V10.6663H6.66675V9.33301H11.3334V4.66699H12.6667Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-26"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-27"
+        >
+          <div
+            type="style-8"
+          >
+            Panel doctor 100% coverage
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          N/A
+          (Typography)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-28"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9307 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133Z"
+          fill="#333333"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-29"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-30"
+        >
+          <div
+            type="style-8"
+          >
+            Non panel doctor 80% reimbursement
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          $240,000
+          (Typography)
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-31"
+  >
+    <div
+      type="style-6"
+    >
+      
+      (Typography)
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-32"
+    >
+      <div
+        type="style-6"
+      >
+        Max limit per disability - Major
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-33"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M0 8.04133V0H24V8.04133C24 15.6147 18.9307 22 12 24C5.07067 22 0 17.236 0 9.66267V8.04133ZM11.996 22.3293C18.1453 20.3453 22.4 14.536 22.4 8.04133V1.6H1.6V8.04133V9.66267C1.6 17.7733 7.91333 21.056 11.996 22.3293ZM12.6667 4.66699V9.33301H17.3334V10.6663H12.6667V15.3337H11.3334V10.6663H6.66675V9.33301H11.3334V4.66699H12.6667Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-34"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-35"
+        >
+          <div
+            type="style-8"
+          >
+            Panel doctor 100% coverage
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          N/A
+          (Typography)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-36"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9307 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133Z"
+          fill="#333333"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-37"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-38"
+        >
+          <div
+            type="style-8"
+          >
+            Non panel doctor 80% reimbursement
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          $96,000
+          (Typography)
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-39 ServiceList-itemBorder-1"
+  >
+    <div
+      type="style-5"
+    >
+      Max Limit
+      (Typography)
+    </div>
+    <div
+      type="style-6"
+    >
+      
+      (Typography)
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-40"
+    >
+      <div
+        type="style-6"
+      >
+        Consultation inclusive of medicine
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-41"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9307 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133Z"
+          fill="#333333"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-42"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-43"
+        >
+          <div
+            type="style-8"
+          >
+            Non panel doctor 80% reimbursement
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          Up to $1,200 per visit
+          (Typography)
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ServiceList Component should match snapshot for free choice doctor label 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-89 ServiceList-itemBorder-87"
+  >
+    <div
+      type="style-5"
+    >
+      General medical practitioner
+      (Typography)
+    </div>
+    <div
+      type="style-6"
+    >
+      Consultation inclusive of medications
+      (Typography)
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-90"
+    >
+      <div
+        type="style-6"
+      >
+        
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-91"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M0 8.04133V0H24V8.04133C24 15.6147 18.9307 22 12 24C5.07067 22 0 17.236 0 9.66267V8.04133ZM11.996 22.3293C18.1453 20.3453 22.4 14.536 22.4 8.04133V1.6H1.6V8.04133V9.66267C1.6 17.7733 7.91333 21.056 11.996 22.3293ZM12.6667 4.66699V9.33301H17.3334V10.6663H12.6667V15.3337H11.3334V10.6663H6.66675V9.33301H11.3334V4.66699H12.6667Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-101"
+      >
+        
+        <div
+          type="style-6"
+        >
+          $20 co-payment per visit
+          (Typography)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-102"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9307 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133Z"
+          fill="#333333"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-103"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-104"
+        >
+          <div
+            type="style-8"
+          >
+            Free choice doctor 80% reimbursement
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          Up to $750 per visit
+          (Typography)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-105"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M18.5333 22.52V16.8533L20 15.2133V24H0V2.54667H4.93333L7.49333 0H12.5867L15.0667 2.54667H20V8.26667L18.5333 9.77333V4.08H15.1333V6.4H4.94667V4.08H1.53333V12.6V22.52H18.5333ZM8.12 1.53333L6.53333 3.17333L6.46667 4.88H13.6V3.17333L12 1.53333H8.12ZM16.5332 14.0398L22.7332 7.83984L23.9999 9.11984L16.5332 16.5732L12.6399 12.6798L13.9066 11.4132L16.5332 14.0398ZM4.2666 13.7467V8.08008H9.9466V13.7467H4.2666ZM5.53327 12.4801H8.6666V9.33341H5.53327V12.4801ZM4.2666 15.0664V20.7331H9.9466V15.0664H4.2666ZM8.6666 19.4664H5.53327V16.3331H8.6666V19.4664Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-106"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-107"
+        >
+          <div
+            type="style-8"
+          >
+            Checkpoint visits per year¹
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          29 out of 30 left
+          (Typography)
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-108 ServiceList-itemBorder-87"
+  >
+    <div
+      type="style-5"
+    >
+      Surgeon fees
+      (Typography)
+    </div>
+    <div
+      type="style-6"
+    >
+      
+      (Typography)
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-109"
+    >
+      <div
+        type="style-6"
+      >
+        Max limit per disability - Complex
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-110"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M0 8.04133V0H24V8.04133C24 15.6147 18.9307 22 12 24C5.07067 22 0 17.236 0 9.66267V8.04133ZM11.996 22.3293C18.1453 20.3453 22.4 14.536 22.4 8.04133V1.6H1.6V8.04133V9.66267C1.6 17.7733 7.91333 21.056 11.996 22.3293ZM12.6667 4.66699V9.33301H17.3334V10.6663H12.6667V15.3337H11.3334V10.6663H6.66675V9.33301H11.3334V4.66699H12.6667Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-111"
+      >
+        
+        <div
+          type="style-6"
+        >
+          N/A
+          (Typography)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-112"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9307 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133Z"
+          fill="#333333"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-113"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-114"
+        >
+          <div
+            type="style-8"
+          >
+            Free choice doctor 80% reimbursement
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          $240,000
+          (Typography)
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-115"
+  >
+    <div
+      type="style-6"
+    >
+      
+      (Typography)
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-116"
+    >
+      <div
+        type="style-6"
+      >
+        Max limit per disability - Major
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-117"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M0 8.04133V0H24V8.04133C24 15.6147 18.9307 22 12 24C5.07067 22 0 17.236 0 9.66267V8.04133ZM11.996 22.3293C18.1453 20.3453 22.4 14.536 22.4 8.04133V1.6H1.6V8.04133V9.66267C1.6 17.7733 7.91333 21.056 11.996 22.3293ZM12.6667 4.66699V9.33301H17.3334V10.6663H12.6667V15.3337H11.3334V10.6663H6.66675V9.33301H11.3334V4.66699H12.6667Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-118"
+      >
+        
+        <div
+          type="style-6"
+        >
+          N/A
+          (Typography)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-119"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9307 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133Z"
+          fill="#333333"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-120"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-121"
+        >
+          <div
+            type="style-8"
+          >
+            Free choice doctor 80% reimbursement
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          $96,000
+          (Typography)
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-122 ServiceList-itemBorder-87"
+  >
+    <div
+      type="style-5"
+    >
+      Max Limit
+      (Typography)
+    </div>
+    <div
+      type="style-6"
+    >
+      
+      (Typography)
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-123"
+    >
+      <div
+        type="style-6"
+      >
+        Consultation inclusive of medicine
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-124"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9307 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133Z"
+          fill="#333333"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-125"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-126"
+        >
+          <div
+            type="style-8"
+          >
+            Free choice doctor 80% reimbursement
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          Up to $1,200 per visit
+          (Typography)
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ServiceList Component should match snapshot for unlimited checkpoints 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-46 ServiceList-itemBorder-44"
+  >
+    <div
+      type="style-5"
+    >
+      General medical practitioner
+      (Typography)
+    </div>
+    <div
+      type="style-6"
+    >
+      Consultation inclusive of medications
+      (Typography)
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-47"
+    >
+      <div
+        type="style-6"
+      >
+        
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-48"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M0 8.04133V0H24V8.04133C24 15.6147 18.9307 22 12 24C5.07067 22 0 17.236 0 9.66267V8.04133ZM11.996 22.3293C18.1453 20.3453 22.4 14.536 22.4 8.04133V1.6H1.6V8.04133V9.66267C1.6 17.7733 7.91333 21.056 11.996 22.3293ZM12.6667 4.66699V9.33301H17.3334V10.6663H12.6667V15.3337H11.3334V10.6663H6.66675V9.33301H11.3334V4.66699H12.6667Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-58"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-59"
+        >
+          <div
+            type="style-8"
+          >
+            Panel doctor 100% coverage
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          $20 co-payment per visit
+          (Typography)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-60"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9307 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133Z"
+          fill="#333333"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-61"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-62"
+        >
+          <div
+            type="style-8"
+          >
+            Non panel doctor 80% reimbursement
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          Up to $750 per visit
+          (Typography)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-63"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M18.5333 22.52V16.8533L20 15.2133V24H0V2.54667H4.93333L7.49333 0H12.5867L15.0667 2.54667H20V8.26667L18.5333 9.77333V4.08H15.1333V6.4H4.94667V4.08H1.53333V12.6V22.52H18.5333ZM8.12 1.53333L6.53333 3.17333L6.46667 4.88H13.6V3.17333L12 1.53333H8.12ZM16.5332 14.0398L22.7332 7.83984L23.9999 9.11984L16.5332 16.5732L12.6399 12.6798L13.9066 11.4132L16.5332 14.0398ZM4.2666 13.7467V8.08008H9.9466V13.7467H4.2666ZM5.53327 12.4801H8.6666V9.33341H5.53327V12.4801ZM4.2666 15.0664V20.7331H9.9466V15.0664H4.2666ZM8.6666 19.4664H5.53327V16.3331H8.6666V19.4664Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-64"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-65"
+        >
+          <div
+            type="style-8"
+          >
+            Checkpoint visits per year¹
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          Unlimited
+          (Typography)
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-66 ServiceList-itemBorder-44"
+  >
+    <div
+      type="style-5"
+    >
+      Surgeon fees
+      (Typography)
+    </div>
+    <div
+      type="style-6"
+    >
+      
+      (Typography)
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-67"
+    >
+      <div
+        type="style-6"
+      >
+        Max limit per disability - Complex
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-68"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M0 8.04133V0H24V8.04133C24 15.6147 18.9307 22 12 24C5.07067 22 0 17.236 0 9.66267V8.04133ZM11.996 22.3293C18.1453 20.3453 22.4 14.536 22.4 8.04133V1.6H1.6V8.04133V9.66267C1.6 17.7733 7.91333 21.056 11.996 22.3293ZM12.6667 4.66699V9.33301H17.3334V10.6663H12.6667V15.3337H11.3334V10.6663H6.66675V9.33301H11.3334V4.66699H12.6667Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-69"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-70"
+        >
+          <div
+            type="style-8"
+          >
+            Panel doctor 100% coverage
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          N/A
+          (Typography)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-71"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9307 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133Z"
+          fill="#333333"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-72"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-73"
+        >
+          <div
+            type="style-8"
+          >
+            Non panel doctor 80% reimbursement
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          $240,000
+          (Typography)
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-74"
+  >
+    <div
+      type="style-6"
+    >
+      
+      (Typography)
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-75"
+    >
+      <div
+        type="style-6"
+      >
+        Max limit per disability - Major
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-76"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M0 8.04133V0H24V8.04133C24 15.6147 18.9307 22 12 24C5.07067 22 0 17.236 0 9.66267V8.04133ZM11.996 22.3293C18.1453 20.3453 22.4 14.536 22.4 8.04133V1.6H1.6V8.04133V9.66267C1.6 17.7733 7.91333 21.056 11.996 22.3293ZM12.6667 4.66699V9.33301H17.3334V10.6663H12.6667V15.3337H11.3334V10.6663H6.66675V9.33301H11.3334V4.66699H12.6667Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-77"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-78"
+        >
+          <div
+            type="style-8"
+          >
+            Panel doctor 100% coverage
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          N/A
+          (Typography)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-79"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9307 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133Z"
+          fill="#333333"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-80"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-81"
+        >
+          <div
+            type="style-8"
+          >
+            Non panel doctor 80% reimbursement
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          $96,000
+          (Typography)
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-82 ServiceList-itemBorder-44"
+  >
+    <div
+      type="style-5"
+    >
+      Max Limit
+      (Typography)
+    </div>
+    <div
+      type="style-6"
+    >
+      
+      (Typography)
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-83"
+    >
+      <div
+        type="style-6"
+      >
+        Consultation inclusive of medicine
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-84"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9307 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133Z"
+          fill="#333333"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-85"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-86"
+        >
+          <div
+            type="style-8"
+          >
+            Non panel doctor 80% reimbursement
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          Up to $1,200 per visit
+          (Typography)
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ServiceList Component should match snapshot when have data but labels 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-129 ServiceList-itemBorder-127"
+  >
+    <div
+      type="style-5"
+    >
+      General medical practitioner
+      (Typography)
+    </div>
+    <div
+      type="style-6"
+    >
+      Consultation inclusive of medications
+      (Typography)
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-130"
+    >
+      <div
+        type="style-6"
+      >
+        
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-131"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M0 8.04133V0H24V8.04133C24 15.6147 18.9307 22 12 24C5.07067 22 0 17.236 0 9.66267V8.04133ZM11.996 22.3293C18.1453 20.3453 22.4 14.536 22.4 8.04133V1.6H1.6V8.04133V9.66267C1.6 17.7733 7.91333 21.056 11.996 22.3293ZM12.6667 4.66699V9.33301H17.3334V10.6663H12.6667V15.3337H11.3334V10.6663H6.66675V9.33301H11.3334V4.66699H12.6667Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-141"
+      >
+        
+        <div
+          type="style-6"
+        >
+          $20 co-payment per visit
+          (Typography)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-142"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9307 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133Z"
+          fill="#333333"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-143"
+      >
+        
+        <div
+          type="style-6"
+        >
+          Up to $750 per visit
+          (Typography)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-144"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M18.5333 22.52V16.8533L20 15.2133V24H0V2.54667H4.93333L7.49333 0H12.5867L15.0667 2.54667H20V8.26667L18.5333 9.77333V4.08H15.1333V6.4H4.94667V4.08H1.53333V12.6V22.52H18.5333ZM8.12 1.53333L6.53333 3.17333L6.46667 4.88H13.6V3.17333L12 1.53333H8.12ZM16.5332 14.0398L22.7332 7.83984L23.9999 9.11984L16.5332 16.5732L12.6399 12.6798L13.9066 11.4132L16.5332 14.0398ZM4.2666 13.7467V8.08008H9.9466V13.7467H4.2666ZM5.53327 12.4801H8.6666V9.33341H5.53327V12.4801ZM4.2666 15.0664V20.7331H9.9466V15.0664H4.2666ZM8.6666 19.4664H5.53327V16.3331H8.6666V19.4664Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-145"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-146"
+        >
+          <div
+            type="style-8"
+          >
+            Checkpoint visits per year¹
+            (Typography)
+          </div>
+        </div>
+        <div
+          type="style-6"
+        >
+          29 out of 30 left
+          (Typography)
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-147 ServiceList-itemBorder-127"
+  >
+    <div
+      type="style-5"
+    >
+      Surgeon fees
+      (Typography)
+    </div>
+    <div
+      type="style-6"
+    >
+      
+      (Typography)
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-148"
+    >
+      <div
+        type="style-6"
+      >
+        Max limit per disability - Complex
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-149"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M0 8.04133V0H24V8.04133C24 15.6147 18.9307 22 12 24C5.07067 22 0 17.236 0 9.66267V8.04133ZM11.996 22.3293C18.1453 20.3453 22.4 14.536 22.4 8.04133V1.6H1.6V8.04133V9.66267C1.6 17.7733 7.91333 21.056 11.996 22.3293ZM12.6667 4.66699V9.33301H17.3334V10.6663H12.6667V15.3337H11.3334V10.6663H6.66675V9.33301H11.3334V4.66699H12.6667Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-150"
+      >
+        
+        <div
+          type="style-6"
+        >
+          N/A
+          (Typography)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-151"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9307 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133Z"
+          fill="#333333"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-152"
+      >
+        
+        <div
+          type="style-6"
+        >
+          $240,000
+          (Typography)
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-153"
+  >
+    <div
+      type="style-6"
+    >
+      
+      (Typography)
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-154"
+    >
+      <div
+        type="style-6"
+      >
+        Max limit per disability - Major
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-155"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M0 8.04133V0H24V8.04133C24 15.6147 18.9307 22 12 24C5.07067 22 0 17.236 0 9.66267V8.04133ZM11.996 22.3293C18.1453 20.3453 22.4 14.536 22.4 8.04133V1.6H1.6V8.04133V9.66267C1.6 17.7733 7.91333 21.056 11.996 22.3293ZM12.6667 4.66699V9.33301H17.3334V10.6663H12.6667V15.3337H11.3334V10.6663H6.66675V9.33301H11.3334V4.66699H12.6667Z"
+          fill="#333333"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-156"
+      >
+        
+        <div
+          type="style-6"
+        >
+          N/A
+          (Typography)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-157"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9307 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133Z"
+          fill="#333333"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-158"
+      >
+        
+        <div
+          type="style-6"
+        >
+          $96,000
+          (Typography)
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-159 ServiceList-itemBorder-127"
+  >
+    <div
+      type="style-5"
+    >
+      Max Limit
+      (Typography)
+    </div>
+    <div
+      type="style-6"
+    >
+      
+      (Typography)
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-160"
+    >
+      <div
+        type="style-6"
+      >
+        Consultation inclusive of medicine
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-161"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root"
+        focusable="false"
+        role="presentation"
+        style="width: 1.125rem; height: 1.125rem;"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9307 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133Z"
+          fill="#333333"
+        />
+      </svg>
+      <div
+        class="MuiBox-root MuiBox-root-162"
+      >
+        
+        <div
+          type="style-6"
+        >
+          Up to $1,200 per visit
+          (Typography)
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

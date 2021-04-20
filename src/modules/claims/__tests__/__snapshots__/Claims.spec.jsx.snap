@@ -1,0 +1,1580 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Claims Component should match snapshot when approved and rejected claims in not present 1`] = `<div />`;
+
+exports[`Claims Component should match snapshot when member Map in not present 1`] = `<div />`;
+
+exports[`Claims Component should match snapshot when pending claims in not present 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-453"
+  >
+    <div>
+      Claims Header Component
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-454"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation1 MuiCard-root Claims-cardRoot-449 MuiPaper-rounded"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-483"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-489 Filter-root-484"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-490 Filter-filterField-487"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-outlined Filter-filterButton-485 "
+                data-testid="field-filter"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  <span
+                    class="MuiButton-startIcon MuiButton-iconSizeMedium"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root"
+                      focusable="false"
+                      role="presentation"
+                      style="width: 1.125rem; height: 1.125rem;"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M6.97333 17.2002C5.40933 17.2002 4.10667 18.2815 3.74667 19.7335H0V21.3335H3.74667C4.10667 22.7855 5.40933 23.8669 6.97333 23.8669C8.53733 23.8669 9.84 22.7855 10.1987 21.3335H24V19.7335H10.1987C9.84 18.2815 8.53733 17.2002 6.97333 17.2002ZM6.97333 22.2669C6.01733 22.2669 5.24 21.4895 5.24 20.5335C5.24 19.5775 6.01733 18.8002 6.97333 18.8002C7.92933 18.8002 8.70667 19.5775 8.70667 20.5335C8.70667 21.4895 7.92933 22.2669 6.97333 22.2669ZM17.0267 9.20019C15.4627 9.20019 14.16 10.2815 13.8013 11.7335H0V13.3335H13.8013C14.1613 14.7855 15.464 15.8669 17.0267 15.8669C18.5907 15.8669 19.8933 14.7855 20.2533 13.3335H24V11.7335H20.2533C19.8933 10.2815 18.5907 9.20019 17.0267 9.20019ZM17.0267 14.2669C16.0707 14.2669 15.2933 13.4895 15.2933 12.5335C15.2933 11.5775 16.0707 10.8002 17.0267 10.8002C17.9827 10.8002 18.76 11.5775 18.76 12.5335C18.76 13.4895 17.9827 14.2669 17.0267 14.2669ZM10.1987 3.73353C9.84 2.28153 8.53733 1.2002 6.97333 1.2002C5.40933 1.2002 4.10667 2.28153 3.74667 3.73353H0V5.33353H3.74667C4.10667 6.78553 5.40933 7.86686 6.97333 7.86686C8.53733 7.86686 9.84 6.78553 10.1987 5.33353H24V3.73353H10.1987ZM6.97333 6.26686C6.01733 6.26686 5.24 5.48953 5.24 4.53353C5.24 3.57753 6.01733 2.8002 6.97333 2.8002C7.92933 2.8002 8.70667 3.57753 8.70667 4.53353C8.70667 5.48953 7.92933 6.26686 6.97333 6.26686Z"
+                        fill="#333333"
+                      />
+                    </svg>
+                  </span>
+                  <div
+                    class="MuiTypography-root makeStyles-root-531 makeStyles-root-532 MuiTypography-body1"
+                  >
+                    Filter
+                  </div>
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-563 Filter-filterOptions-486"
+              data-testid="filter-options"
+            >
+              <div
+                class="MuiPaper-root MuiPaper-elevation1 MuiCard-root FilterOptions-container-565 MuiPaper-rounded PrivateHiddenCss-xsUp-570"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-584 FilterOptions-listContainer-566"
+                >
+                  <ul
+                    class="MuiList-root MuiList-padding"
+                    role="menu"
+                    tabindex="-1"
+                  >
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="0"
+                    >
+                      <div
+                        class="MuiTypography-root makeStyles-root-604 makeStyles-root-605 FilterOptions-optionTitle-567 MuiTypography-body1"
+                      >
+                        key
+                      </div>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-564"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-618 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-statuses-APPROVED"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-621"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="APPROVED"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-631 makeStyles-root-632 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-564"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-618 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-statuses-REJECTED"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-621"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="REJECTED"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-633 makeStyles-root-634 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-564"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-618 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-statuses-PROCESSING,REQUEST FOR INFORMATION"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-621"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="PROCESSING,REQUEST FOR INFORMATION"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-635 makeStyles-root-636 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <hr
+                      class="MuiDivider-root FilterOptions-sectionDivider-568"
+                    />
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <div
+                        class="MuiTypography-root makeStyles-root-643 makeStyles-root-644 FilterOptions-optionTitle-567 MuiTypography-body1"
+                      >
+                        key
+                      </div>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-564"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-618 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-categoryCodes-Outpatient"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-621"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="Outpatient"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-645 makeStyles-root-646 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-564"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-618 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-categoryCodes-Inpatient"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-621"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="Inpatient"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-647 makeStyles-root-648 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-564"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-618 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-categoryCodes-Dental"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-621"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="Dental"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-649 makeStyles-root-650 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <hr
+                      class="MuiDivider-root FilterOptions-sectionDivider-568"
+                    />
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <div
+                        class="MuiTypography-root makeStyles-root-651 makeStyles-root-652 FilterOptions-optionTitle-567 MuiTypography-body1"
+                      >
+                        key
+                      </div>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <hr
+                      class="MuiDivider-root FilterOptions-sectionDivider-568"
+                    />
+                  </ul>
+                </div>
+                <hr
+                  class="MuiDivider-root"
+                />
+                <div
+                  class="MuiBox-root MuiBox-root-653"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-656 makeStyles-root-654 makeStyles-root-655"
+                    classes="[object Object]"
+                  >
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                      data-testid="btn-apply-filter"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label"
+                      >
+                        Apply
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+                      data-testid="btn-clear-all-filter"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label"
+                      >
+                        Clear all
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            claims=""
+            members="[object Object]"
+          >
+            Pending Claims component
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-657 Claims-approvedClaims-450 Claims-approvedClaims-451"
+          >
+            <div
+              claims="[object Object]"
+              members="[object Object]"
+            >
+              Approved and Rejected Claims component
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Claims Component should match the snapshot on empty claims 1`] = `
+<div>
+  <div>
+    <span>
+      No Claims
+    </span>
+    <span
+      data-id="props"
+    />
+  </div>
+</div>
+`;
+
+exports[`Claims Component should match the snapshot on empty claims when filtered 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-8"
+  >
+    <div>
+      Claims Header Component
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-9"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation1 MuiCard-root Claims-cardRoot-4 MuiPaper-rounded"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-38"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-44 Filter-root-39"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-45 Filter-filterField-42"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-outlined Filter-filterButton-40 "
+                data-testid="field-filter"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  <span
+                    class="MuiButton-startIcon MuiButton-iconSizeMedium"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root"
+                      focusable="false"
+                      role="presentation"
+                      style="width: 1.125rem; height: 1.125rem;"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M6.97333 17.2002C5.40933 17.2002 4.10667 18.2815 3.74667 19.7335H0V21.3335H3.74667C4.10667 22.7855 5.40933 23.8669 6.97333 23.8669C8.53733 23.8669 9.84 22.7855 10.1987 21.3335H24V19.7335H10.1987C9.84 18.2815 8.53733 17.2002 6.97333 17.2002ZM6.97333 22.2669C6.01733 22.2669 5.24 21.4895 5.24 20.5335C5.24 19.5775 6.01733 18.8002 6.97333 18.8002C7.92933 18.8002 8.70667 19.5775 8.70667 20.5335C8.70667 21.4895 7.92933 22.2669 6.97333 22.2669ZM17.0267 9.20019C15.4627 9.20019 14.16 10.2815 13.8013 11.7335H0V13.3335H13.8013C14.1613 14.7855 15.464 15.8669 17.0267 15.8669C18.5907 15.8669 19.8933 14.7855 20.2533 13.3335H24V11.7335H20.2533C19.8933 10.2815 18.5907 9.20019 17.0267 9.20019ZM17.0267 14.2669C16.0707 14.2669 15.2933 13.4895 15.2933 12.5335C15.2933 11.5775 16.0707 10.8002 17.0267 10.8002C17.9827 10.8002 18.76 11.5775 18.76 12.5335C18.76 13.4895 17.9827 14.2669 17.0267 14.2669ZM10.1987 3.73353C9.84 2.28153 8.53733 1.2002 6.97333 1.2002C5.40933 1.2002 4.10667 2.28153 3.74667 3.73353H0V5.33353H3.74667C4.10667 6.78553 5.40933 7.86686 6.97333 7.86686C8.53733 7.86686 9.84 6.78553 10.1987 5.33353H24V3.73353H10.1987ZM6.97333 6.26686C6.01733 6.26686 5.24 5.48953 5.24 4.53353C5.24 3.57753 6.01733 2.8002 6.97333 2.8002C7.92933 2.8002 8.70667 3.57753 8.70667 4.53353C8.70667 5.48953 7.92933 6.26686 6.97333 6.26686Z"
+                        fill="#333333"
+                      />
+                    </svg>
+                  </span>
+                  <div
+                    class="MuiTypography-root makeStyles-root-86 makeStyles-root-87 MuiTypography-body1"
+                  >
+                    Filter
+                  </div>
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-118 Filter-filterOptions-41"
+              data-testid="filter-options"
+            >
+              <div
+                class="MuiPaper-root MuiPaper-elevation1 MuiCard-root FilterOptions-container-120 MuiPaper-rounded PrivateHiddenCss-xsUp-125"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-139 FilterOptions-listContainer-121"
+                >
+                  <ul
+                    class="MuiList-root MuiList-padding"
+                    role="menu"
+                    tabindex="-1"
+                  >
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="0"
+                    >
+                      <div
+                        class="MuiTypography-root makeStyles-root-159 makeStyles-root-160 FilterOptions-optionTitle-122 MuiTypography-body1"
+                      >
+                        key
+                      </div>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-119"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-173 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-statuses-APPROVED"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-176"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="APPROVED"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-186 makeStyles-root-187 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-119"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-173 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-statuses-REJECTED"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-176"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="REJECTED"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-188 makeStyles-root-189 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-119"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-173 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-statuses-PROCESSING,REQUEST FOR INFORMATION"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-176"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="PROCESSING,REQUEST FOR INFORMATION"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-190 makeStyles-root-191 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <hr
+                      class="MuiDivider-root FilterOptions-sectionDivider-123"
+                    />
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <div
+                        class="MuiTypography-root makeStyles-root-198 makeStyles-root-199 FilterOptions-optionTitle-122 MuiTypography-body1"
+                      >
+                        key
+                      </div>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-119"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-173 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-categoryCodes-Outpatient"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-176"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="Outpatient"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-200 makeStyles-root-201 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-119"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-173 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-categoryCodes-Inpatient"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-176"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="Inpatient"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-202 makeStyles-root-203 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-119"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-173 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-categoryCodes-Dental"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-176"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="Dental"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-204 makeStyles-root-205 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <hr
+                      class="MuiDivider-root FilterOptions-sectionDivider-123"
+                    />
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <div
+                        class="MuiTypography-root makeStyles-root-206 makeStyles-root-207 FilterOptions-optionTitle-122 MuiTypography-body1"
+                      >
+                        key
+                      </div>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <hr
+                      class="MuiDivider-root FilterOptions-sectionDivider-123"
+                    />
+                  </ul>
+                </div>
+                <hr
+                  class="MuiDivider-root"
+                />
+                <div
+                  class="MuiBox-root MuiBox-root-208"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-211 makeStyles-root-209 makeStyles-root-210"
+                    classes="[object Object]"
+                  >
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                      data-testid="btn-apply-filter"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label"
+                      >
+                        Apply
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+                      data-testid="btn-clear-all-filter"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label"
+                      >
+                        Clear all
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-213"
+          >
+            <img
+              alt="error background"
+              class="NoFilteredClaims-image-212"
+              src="/static/error.svg"
+            />
+            <div
+              class="MuiBox-root MuiBox-root-214"
+            >
+              <div
+                class="MuiTypography-root makeStyles-root-215 makeStyles-root-216 MuiTypography-body1"
+              >
+                No results available
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-217"
+              >
+                <div
+                  class="MuiTypography-root makeStyles-root-218 makeStyles-root-219 MuiTypography-body1"
+                >
+                  There are no claims matching your filter criteria. Try adjusting the filters.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Claims Component should match the snapshot with pending, approved, rejected claims and memberMaps 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-234"
+  >
+    <div>
+      Claims Header Component
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-235"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation1 MuiCard-root Claims-cardRoot-230 MuiPaper-rounded"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-264"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-270 Filter-root-265"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-271 Filter-filterField-268"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-outlined Filter-filterButton-266 "
+                data-testid="field-filter"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  <span
+                    class="MuiButton-startIcon MuiButton-iconSizeMedium"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root"
+                      focusable="false"
+                      role="presentation"
+                      style="width: 1.125rem; height: 1.125rem;"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M6.97333 17.2002C5.40933 17.2002 4.10667 18.2815 3.74667 19.7335H0V21.3335H3.74667C4.10667 22.7855 5.40933 23.8669 6.97333 23.8669C8.53733 23.8669 9.84 22.7855 10.1987 21.3335H24V19.7335H10.1987C9.84 18.2815 8.53733 17.2002 6.97333 17.2002ZM6.97333 22.2669C6.01733 22.2669 5.24 21.4895 5.24 20.5335C5.24 19.5775 6.01733 18.8002 6.97333 18.8002C7.92933 18.8002 8.70667 19.5775 8.70667 20.5335C8.70667 21.4895 7.92933 22.2669 6.97333 22.2669ZM17.0267 9.20019C15.4627 9.20019 14.16 10.2815 13.8013 11.7335H0V13.3335H13.8013C14.1613 14.7855 15.464 15.8669 17.0267 15.8669C18.5907 15.8669 19.8933 14.7855 20.2533 13.3335H24V11.7335H20.2533C19.8933 10.2815 18.5907 9.20019 17.0267 9.20019ZM17.0267 14.2669C16.0707 14.2669 15.2933 13.4895 15.2933 12.5335C15.2933 11.5775 16.0707 10.8002 17.0267 10.8002C17.9827 10.8002 18.76 11.5775 18.76 12.5335C18.76 13.4895 17.9827 14.2669 17.0267 14.2669ZM10.1987 3.73353C9.84 2.28153 8.53733 1.2002 6.97333 1.2002C5.40933 1.2002 4.10667 2.28153 3.74667 3.73353H0V5.33353H3.74667C4.10667 6.78553 5.40933 7.86686 6.97333 7.86686C8.53733 7.86686 9.84 6.78553 10.1987 5.33353H24V3.73353H10.1987ZM6.97333 6.26686C6.01733 6.26686 5.24 5.48953 5.24 4.53353C5.24 3.57753 6.01733 2.8002 6.97333 2.8002C7.92933 2.8002 8.70667 3.57753 8.70667 4.53353C8.70667 5.48953 7.92933 6.26686 6.97333 6.26686Z"
+                        fill="#333333"
+                      />
+                    </svg>
+                  </span>
+                  <div
+                    class="MuiTypography-root makeStyles-root-312 makeStyles-root-313 MuiTypography-body1"
+                  >
+                    Filter
+                  </div>
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-344 Filter-filterOptions-267"
+              data-testid="filter-options"
+            >
+              <div
+                class="MuiPaper-root MuiPaper-elevation1 MuiCard-root FilterOptions-container-346 MuiPaper-rounded PrivateHiddenCss-xsUp-351"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-365 FilterOptions-listContainer-347"
+                >
+                  <ul
+                    class="MuiList-root MuiList-padding"
+                    role="menu"
+                    tabindex="-1"
+                  >
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="0"
+                    >
+                      <div
+                        class="MuiTypography-root makeStyles-root-385 makeStyles-root-386 FilterOptions-optionTitle-348 MuiTypography-body1"
+                      >
+                        key
+                      </div>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-345"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-399 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-statuses-APPROVED"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-402"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="APPROVED"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-412 makeStyles-root-413 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-345"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-399 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-statuses-REJECTED"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-402"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="REJECTED"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-414 makeStyles-root-415 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-345"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-399 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-statuses-PROCESSING,REQUEST FOR INFORMATION"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-402"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="PROCESSING,REQUEST FOR INFORMATION"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-416 makeStyles-root-417 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <hr
+                      class="MuiDivider-root FilterOptions-sectionDivider-349"
+                    />
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <div
+                        class="MuiTypography-root makeStyles-root-424 makeStyles-root-425 FilterOptions-optionTitle-348 MuiTypography-body1"
+                      >
+                        key
+                      </div>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-345"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-399 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-categoryCodes-Outpatient"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-402"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="Outpatient"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-426 makeStyles-root-427 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-345"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-399 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-categoryCodes-Inpatient"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-402"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="Inpatient"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-428 makeStyles-root-429 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <label
+                        class="MuiFormControlLabel-root FilterOptions-root-345"
+                      >
+                        <span
+                          aria-disabled="false"
+                          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-399 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                          data-testid="checkbox-filter-categoryCodes-Dental"
+                        >
+                          <span
+                            class="MuiIconButton-label"
+                          >
+                            <input
+                              class="PrivateSwitchBase-input-402"
+                              data-indeterminate="false"
+                              type="checkbox"
+                              value="Dental"
+                            />
+                            <svg
+                              aria-hidden="true"
+                              class="MuiSvgIcon-root"
+                              focusable="false"
+                              role="presentation"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                          </span>
+                          <span
+                            class="MuiTouchRipple-root"
+                          />
+                        </span>
+                        <span
+                          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                        >
+                          <div
+                            class="MuiTypography-root makeStyles-root-430 makeStyles-root-431 MuiTypography-body1"
+                          >
+                            key
+                          </div>
+                        </span>
+                      </label>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <hr
+                      class="MuiDivider-root FilterOptions-sectionDivider-349"
+                    />
+                    <li
+                      aria-disabled="false"
+                      class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiListItem-button"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      <div
+                        class="MuiTypography-root makeStyles-root-432 makeStyles-root-433 FilterOptions-optionTitle-348 MuiTypography-body1"
+                      >
+                        key
+                      </div>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </li>
+                    <hr
+                      class="MuiDivider-root FilterOptions-sectionDivider-349"
+                    />
+                  </ul>
+                </div>
+                <hr
+                  class="MuiDivider-root"
+                />
+                <div
+                  class="MuiBox-root MuiBox-root-434"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-437 makeStyles-root-435 makeStyles-root-436"
+                    classes="[object Object]"
+                  >
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                      data-testid="btn-apply-filter"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label"
+                      >
+                        Apply
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary"
+                      data-testid="btn-clear-all-filter"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label"
+                      >
+                        Clear all
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            claims="[object Object]"
+            members="[object Object]"
+          >
+            Pending Claims component
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-438 Claims-approvedClaims-231 Claims-approvedClaims-232"
+          >
+            <div
+              claims="[object Object]"
+              members="[object Object]"
+            >
+              Approved and Rejected Claims component
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

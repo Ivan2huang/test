@@ -1,0 +1,235 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-8 makeStyles-footerContainer-1 makeStyles-footerContainer-4"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-9"
+    >
+      <div>
+        Typography component
+        <span>
+          type = style-8
+          color = highEmphasis
+        </span>
+        <span>
+          Ⓒ 
+          2021 undefined group. All Rights Reserved.
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-10"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-11 makeStyles-linksContainer-2 makeStyles-linksContainer-5"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-12 makeStyles-link-3 makeStyles-link-6"
+          classes="[object Object]"
+        >
+          <button
+            data-testid="link-contact"
+            type="button"
+          >
+            <div>
+              Typography component
+              <span>
+                type = style-8
+              </span>
+              <span>
+                Contact Us
+              </span>
+            </div>
+          </button>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-13 makeStyles-link-3 makeStyles-link-6"
+          classes="[object Object]"
+        >
+          <div>
+            LanguageSelection component
+            <span />
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-14 makeStyles-link-3 makeStyles-link-6"
+          classes="[object Object]"
+        >
+          <button
+            data-testid="link-terms"
+            type="button"
+          >
+            <div>
+              Typography component
+              <span>
+                type = style-8
+              </span>
+              <span>
+                Terms
+              </span>
+            </div>
+          </button>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-15 makeStyles-link-3 makeStyles-link-6"
+          classes="[object Object]"
+        >
+          <button
+            data-testid="link-privacy"
+            type="button"
+          >
+            <div>
+              Typography component
+              <span>
+                type = style-8
+              </span>
+              <span>
+                Privacy
+              </span>
+            </div>
+          </button>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-16"
+      >
+        <div>
+          Typography component
+          <span>
+            type = style-8
+            color = grey2
+          </span>
+          <span>
+            Powered by
+          </span>
+        </div>
+         
+        <img
+          alt=""
+          src="/static/powered-logo.svg"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Footer component should match snapshot 2`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-24 makeStyles-footerContainer-17 makeStyles-footerContainer-20"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-25"
+    >
+      <div>
+        Typography component
+        <span>
+          type = style-8
+          color = highEmphasis
+        </span>
+        <span>
+          Ⓒ 
+          2021 undefined group. All Rights Reserved.
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-26"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-27 makeStyles-linksContainer-18 makeStyles-linksContainer-21"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-28 makeStyles-link-19 makeStyles-link-22"
+          classes="[object Object]"
+        >
+          <button
+            data-testid="link-contact"
+            type="button"
+          >
+            <div>
+              Typography component
+              <span>
+                type = style-8
+              </span>
+              <span>
+                Contact Us
+              </span>
+            </div>
+          </button>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-29 makeStyles-link-19 makeStyles-link-22"
+          classes="[object Object]"
+        >
+          <div>
+            LanguageSelection component
+            <span />
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-30 makeStyles-link-19 makeStyles-link-22"
+          classes="[object Object]"
+        >
+          <button
+            data-testid="link-terms"
+            type="button"
+          >
+            <div>
+              Typography component
+              <span>
+                type = style-8
+              </span>
+              <span>
+                Terms
+              </span>
+            </div>
+          </button>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-31 makeStyles-link-19 makeStyles-link-22"
+          classes="[object Object]"
+        >
+          <button
+            data-testid="link-privacy"
+            type="button"
+          >
+            <div>
+              Typography component
+              <span>
+                type = style-8
+              </span>
+              <span>
+                Privacy
+              </span>
+            </div>
+          </button>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-32"
+      >
+        <div>
+          Typography component
+          <span>
+            type = style-8
+            color = grey2
+          </span>
+          <span>
+            Powered by
+          </span>
+        </div>
+         
+        <img
+          alt=""
+          src="/static/powered-logo.svg"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

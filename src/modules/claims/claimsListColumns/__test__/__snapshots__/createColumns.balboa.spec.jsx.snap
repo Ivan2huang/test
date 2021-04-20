@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Balboa Claims List Column Def should provide the template text for service column  1`] = `
+<div>
+  <div>
+    Dummy Table
+  </div>
+  <table>
+    <tbody>
+      <tr
+        data-testid="row-0"
+      >
+        <td>
+          <div
+            class="MuiBox-root MuiBox-root-2"
+          >
+            <div>
+              status
+            </div>
+            <div>
+              information required
+            </div>
+          </div>
+        </td>
+        <td>
+          01 Jan 2020
+        </td>
+        <td>
+          Clinical
+        </td>
+        <td>
+          Test Member 1
+        </td>
+      </tr>
+      <tr
+        data-testid="row-1"
+      >
+        <td>
+          <div
+            class="MuiBox-root MuiBox-root-3"
+          >
+            <div>
+              status
+            </div>
+            <div>
+              information required
+            </div>
+          </div>
+        </td>
+        <td>
+          01 Jan 2020
+        </td>
+        <td>
+          Clinical
+        </td>
+        <td>
+          Test Member 2
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

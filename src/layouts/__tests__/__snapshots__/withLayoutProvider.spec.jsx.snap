@@ -1,0 +1,117 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout Component Should update height when resize fullwidth 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-24 makeStyles-container-17 makeStyles-container-20"
+    style="height: auto;"
+  >
+    <div>
+      Header Component
+    </div>
+    <div>
+      Wallet Component
+    </div>
+    <main
+      class="makeStyles-fullWidth-19 makeStyles-fullWidth-22"
+    >
+      <div>
+        Layout Content
+      </div>
+    </main>
+    <div>
+      Footer Component
+    </div>
+    <div>
+      Bottom NavBar Component
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Layout Component Should update height when resize fullwidth 2`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-24 makeStyles-container-17 makeStyles-container-20"
+    style="height: 800px;"
+  >
+    <div>
+      Header Component
+    </div>
+    <div>
+      Wallet Component
+    </div>
+    <main
+      class="makeStyles-fullWidth-19 makeStyles-fullWidth-22"
+    >
+      <div>
+        Layout Content
+      </div>
+    </main>
+    <div>
+      Footer Component
+    </div>
+    <div>
+      Bottom NavBar Component
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Layout Component should match snapshot with options 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-16 makeStyles-container-9 makeStyles-container-12"
+    style="height: auto;"
+  >
+    <div>
+      Header Component
+    </div>
+    <div>
+      Wallet Component
+    </div>
+    <main
+      class="makeStyles-fullWidth-11 makeStyles-fullWidth-14"
+    >
+      <div>
+        Layout Content
+      </div>
+    </main>
+    <div>
+      Footer Component
+    </div>
+    <div>
+      Bottom NavBar Component
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Layout Component should match snapshot without options 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-8 makeStyles-container-1 makeStyles-container-4"
+    style="height: auto;"
+  >
+    <div>
+      Header Component
+    </div>
+    <div>
+      Wallet Component
+    </div>
+    <main
+      class="makeStyles-main-2 makeStyles-main-5"
+    >
+      <div>
+        Layout Content
+      </div>
+    </main>
+    <div>
+      Footer Component
+    </div>
+    <div>
+      Bottom NavBar Component
+    </div>
+  </div>
+</div>
+`;

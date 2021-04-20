@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LifestyleResults Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div>
+      Typography Component
+      <span>
+        type = style-2
+      </span>
+      My results
+    </div>
+  </div>
+  <div>
+    ComponentLoaderAndError Component
+    <span>
+      loading = false
+      errorState = false
+    </span>
+    <div>
+      <span>
+        Item Container Component
+      </span>
+      <div>
+        <div>
+          <span>
+            Results Card Component
+          </span>
+          <span>
+            tips = bmi tips
+            tipCategory = bmi
+            lifestyleTipsErrorState = false
+            color = warning
+            description = Underweight
+            subTitle = Underweight
+            title = BMI
+            id = bmi
+          </span>
+          Card Icon BMI
+        </div>
+        <div>
+          <span>
+            Results Card Component
+          </span>
+          <span>
+            tips = diabetes tips
+            tipCategory = diabetes
+            lifestyleTipsErrorState = false
+            color = success
+            description = Low
+            subTitle = Low
+            title = Diabetes
+            id = diabetes
+          </span>
+          Card Icon Diabetes
+        </div>
+      </div>
+      <span>
+        itemLength = 2
+        numberOfColumns = 4
+      </span>
+    </div>
+  </div>
+</div>
+`;

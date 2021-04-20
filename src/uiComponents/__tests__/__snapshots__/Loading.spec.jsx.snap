@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loading Component should match snapshot when message is present 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-5 Loading-root-1"
+    classes="[object Object]"
+  >
+    <div
+      class="MuiCircularProgress-root MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+      role="progressbar"
+      style="width: 40px; height: 40px;"
+    >
+      <svg
+        class="MuiCircularProgress-svg"
+        viewBox="22 22 44 44"
+      >
+        <circle
+          class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+          cx="44"
+          cy="44"
+          fill="none"
+          r="20.2"
+          stroke-width="3.6"
+        />
+      </svg>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-18"
+    >
+      <div
+        class="MuiTypography-root makeStyles-root-19 makeStyles-root-20 Loading-message-3 MuiTypography-body1"
+      >
+        test message
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Loading Component should match snapshot when there is no message 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-55 Loading-root-51"
+    classes="[object Object]"
+  >
+    <div
+      class="MuiCircularProgress-root MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+      role="progressbar"
+      style="width: 40px; height: 40px;"
+    >
+      <svg
+        class="MuiCircularProgress-svg"
+        viewBox="22 22 44 44"
+      >
+        <circle
+          class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+          cx="44"
+          cy="44"
+          fill="none"
+          r="20.2"
+          stroke-width="3.6"
+        />
+      </svg>
+    </div>
+    
+  </div>
+</div>
+`;

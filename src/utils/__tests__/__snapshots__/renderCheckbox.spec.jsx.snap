@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Checkbox utils should match Snapshot 1`] = `
+<div>
+  <label
+    class="MuiFormControlLabel-root"
+  >
+    <span
+      aria-disabled="false"
+      class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-13 MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-checked-14 Mui-checked MuiIconButton-colorPrimary"
+      data-testid="testID"
+      error="false"
+    >
+      <span
+        class="MuiIconButton-label"
+      >
+        <input
+          checked=""
+          class="PrivateSwitchBase-input-16"
+          data-indeterminate="false"
+          type="checkbox"
+          value="true"
+        />
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+          />
+        </svg>
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </span>
+    <span
+      class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+    >
+      <div
+        color="mediumEmphasis"
+        font-weight="normal"
+      >
+        test-label
+        (Typography)
+      </div>
+    </span>
+  </label>
+</div>
+`;
+
+exports[`render Checkbox utils should match Snapshot when error 1`] = `
+<div>
+  <label
+    class="MuiFormControlLabel-root"
+  >
+    <span
+      aria-disabled="false"
+      class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-90 MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-checked-91 Mui-checked MuiIconButton-colorPrimary"
+      data-testid="testID"
+      error="true"
+    >
+      <span
+        class="MuiIconButton-label"
+      >
+        <input
+          checked=""
+          class="PrivateSwitchBase-input-93"
+          data-indeterminate="false"
+          type="checkbox"
+          value="true"
+        />
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+          />
+        </svg>
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </span>
+    <span
+      class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+    >
+      <div
+        color="mediumEmphasis"
+        font-weight="normal"
+      >
+        test-label
+        (Typography)
+      </div>
+    </span>
+  </label>
+</div>
+`;

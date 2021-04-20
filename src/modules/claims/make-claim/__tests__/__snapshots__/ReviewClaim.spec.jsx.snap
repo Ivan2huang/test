@@ -1,0 +1,1505 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Review Claim Component should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-4"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <div
+        class="MuiCardContent-root"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-34"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container"
+          >
+            <div
+              data-md="3"
+            >
+              <span>
+                GridItem Component
+              </span>
+              <div>
+                <img
+                  alt="make claim background"
+                  class="ReviewClaim-image-1"
+                  src="/static/claim_form.svg"
+                />
+              </div>
+            </div>
+            <div
+              data-md="5"
+              data-sm="10"
+              data-xs="12"
+            >
+              <span>
+                GridItem Component
+              </span>
+              <div>
+                <div
+                  class="MuiBox-root MuiBox-root-124"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-125"
+                  >
+                    <div
+                      type="style-1"
+                    >
+                      Typography Component
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-127"
+                >
+                  <div
+                    type="style-3"
+                  >
+                    Typography Component
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-128"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-129 Details-row-126"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-130"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-131"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-132 Details-row-126"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-133"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-134"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-135"
+                >
+                  <div
+                    type="style-3"
+                  >
+                    Typography Component
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-136"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-137 Details-row-126"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-138"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-139"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-140 Details-row-126"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-141"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-142"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-143 Details-row-126"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-144"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-145"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-146 Details-row-126"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-147"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-148"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-149 Details-row-126"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-150"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-151"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-152 ReviewClaim-actions-2"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                    data-testid="btn-submit-claim"
+                    tabindex="0"
+                    type="submit"
+                  >
+                    <span
+                      class="MuiButton-label"
+                    >
+                      Submit claim
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </button>
+                  <div
+                    class="MuiBox-root MuiBox-root-184"
+                  >
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                      data-testid="btn-go-back"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label"
+                      >
+                        Back
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Review Claim Component should match the snapshot with files 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-223"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <div
+        class="MuiCardContent-root"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-253"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container"
+          >
+            <div
+              data-md="3"
+            >
+              <span>
+                GridItem Component
+              </span>
+              <div>
+                <img
+                  alt="make claim background"
+                  class="ReviewClaim-image-220"
+                  src="/static/claim_form.svg"
+                />
+              </div>
+            </div>
+            <div
+              data-md="5"
+              data-sm="10"
+              data-xs="12"
+            >
+              <span>
+                GridItem Component
+              </span>
+              <div>
+                <div
+                  class="MuiBox-root MuiBox-root-343"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-344"
+                  >
+                    <div
+                      type="style-1"
+                    >
+                      Typography Component
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-346"
+                >
+                  <div
+                    type="style-3"
+                  >
+                    Typography Component
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-347"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-348 Details-row-345"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-349"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-350"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-351 Details-row-345"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-352"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-353"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-354"
+                >
+                  <div
+                    type="style-3"
+                  >
+                    Typography Component
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-355"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-356 Details-row-345"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-357"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-358"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-359 Details-row-345"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-360"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-361"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-362 Details-row-345"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-363"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-364"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-365 Details-row-345"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-366"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-367"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-368 Details-row-345"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-369"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-370"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-371"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-372"
+                  >
+                    <div
+                      type="style-3"
+                    >
+                      Typography Component
+                    </div>
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-373"
+                  >
+                    <div
+                      data-testid="file-items"
+                      files="[object Object]"
+                    >
+                      Dummy FileComponent
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-374"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-375"
+                  >
+                    <div
+                      type="style-3"
+                    >
+                      Typography Component
+                    </div>
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-376"
+                  >
+                    <div
+                      data-testid="file-items"
+                      files="[object Object]"
+                    >
+                      Dummy FileComponent
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-377"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-378"
+                  >
+                    <div
+                      type="style-3"
+                    >
+                      Typography Component
+                    </div>
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-379"
+                  >
+                    <div
+                      data-testid="file-items"
+                      files="[object Object]"
+                    >
+                      Dummy FileComponent
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-380"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-381"
+                  >
+                    <div
+                      type="style-3"
+                    >
+                      Typography Component
+                    </div>
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-382"
+                  >
+                    <div
+                      data-testid="file-items"
+                      files="[object Object]"
+                    >
+                      Dummy FileComponent
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-383 ReviewClaim-actions-221"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                    data-testid="btn-submit-claim"
+                    tabindex="0"
+                    type="submit"
+                  >
+                    <span
+                      class="MuiButton-label"
+                    >
+                      Submit claim
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </button>
+                  <div
+                    class="MuiBox-root MuiBox-root-415"
+                  >
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                      data-testid="btn-go-back"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label"
+                      >
+                        Back
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Review Claim Component should open file item 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-454"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+    >
+      <div
+        class="MuiCardContent-root"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-484"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container"
+          >
+            <div
+              data-md="3"
+            >
+              <span>
+                GridItem Component
+              </span>
+              <div>
+                <img
+                  alt="make claim background"
+                  class="ReviewClaim-image-451"
+                  src="/static/claim_form.svg"
+                />
+              </div>
+            </div>
+            <div
+              data-md="5"
+              data-sm="10"
+              data-xs="12"
+            >
+              <span>
+                GridItem Component
+              </span>
+              <div>
+                <div
+                  class="MuiBox-root MuiBox-root-574"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-575"
+                  >
+                    <div
+                      type="style-1"
+                    >
+                      Typography Component
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-577"
+                >
+                  <div
+                    type="style-3"
+                  >
+                    Typography Component
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-578"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-579 Details-row-576"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-580"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-581"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-582 Details-row-576"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-583"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-584"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-585"
+                >
+                  <div
+                    type="style-3"
+                  >
+                    Typography Component
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-586"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-587 Details-row-576"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-588"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-589"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-590 Details-row-576"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-591"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-592"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-593 Details-row-576"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-594"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-595"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-596 Details-row-576"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-597"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-598"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="MuiBox-root MuiBox-root-599 Details-row-576"
+                    >
+                      <div
+                        class="MuiGrid-root MuiGrid-container"
+                      >
+                        <div
+                          data-md="5"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-600"
+                            >
+                              <div
+                                type="style-6"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-sm="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiBox-root MuiBox-root-601"
+                            >
+                              <div
+                                type="style-5"
+                              >
+                                Typography Component
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-602"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-603"
+                  >
+                    <div
+                      type="style-3"
+                    >
+                      Typography Component
+                    </div>
+                  </div>
+                  <div
+                    class="MuiBox-root MuiBox-root-604"
+                  >
+                    <div
+                      data-testid="file-items"
+                      files="[object Object]"
+                    >
+                      Dummy FileComponent
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-605 ReviewClaim-actions-452"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                    data-testid="btn-submit-claim"
+                    tabindex="0"
+                    type="submit"
+                  >
+                    <span
+                      class="MuiButton-label"
+                    >
+                      Submit claim
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </button>
+                  <div
+                    class="MuiBox-root MuiBox-root-637"
+                  >
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                      data-testid="btn-go-back"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label"
+                      >
+                        Back
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

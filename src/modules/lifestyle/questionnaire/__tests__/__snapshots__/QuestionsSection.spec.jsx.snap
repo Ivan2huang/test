@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QuestionSection Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div>
+      <span>
+        Grid Component
+      </span>
+      <div>
+        <div
+          data-md="3"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <img
+              alt=""
+              src="test/image.png"
+            />
+          </div>
+        </div>
+        <div
+          data-md="6"
+          data-xs="12"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <div
+              class="MuiBox-root MuiBox-root-3"
+            >
+              <div
+                type="style-1"
+              >
+                Questions Section Title
+                (Typography)
+              </div>
+            </div>
+            <div>
+              Questions Component
+              <span>
+                questions = [object Object],[object Object]
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

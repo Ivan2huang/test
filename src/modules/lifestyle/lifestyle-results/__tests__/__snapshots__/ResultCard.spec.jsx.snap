@@ -1,0 +1,425 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ResultCard component should close the modal on click of close of modal 1`] = `
+<div>
+  <div
+    aria-label="Learn more about BMI"
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root ResultCard-container-111 ResultCard-container-114 MuiPaper-rounded"
+    data-testid="card-BMI"
+    tabindex="0"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-144"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-145"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-146"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-147"
+          >
+            <div>
+              Card icon
+            </div>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-148"
+          >
+            <div
+              type="style-5"
+            >
+              BMI
+              (Typography)
+            </div>
+            <div
+              type="style-7"
+            >
+              Overweight
+              (Typography)
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-149"
+        >
+          <div
+            type="style-6"
+          >
+            description of card
+            (Typography)
+          </div>
+        </div>
+      </div>
+      <hr
+        class="MuiDivider-root"
+      />
+      <div
+        class="MuiBox-root MuiBox-root-156 ResultCard-learnMore-112"
+        tabindex="0"
+      >
+        <div
+          color="hyperlink"
+          type="style-6"
+        >
+          Learn more
+          (Typography)
+        </div>
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root ResultCard-icon-113"
+          focusable="false"
+          role="presentation"
+          style="width: 1.125rem; height: 1.125rem;"
+          viewBox="0 0 18 18"
+        >
+          <path
+            d="M16.65 16.65H1.35V1.35H9V0H0V18H18V9H16.65V16.65ZM10.6425 8.3115L16.65 2.304V7.713L18 6.363V0H11.6359L10.287 1.34887H15.6971L9.6885 7.3575L10.6425 8.3115Z"
+            fill="#333333"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div>
+    <span>
+      modal open:false
+    </span>
+    <button
+      data-testid="btn-close"
+      type="button"
+    >
+      close
+    </button>
+    <span>
+      tipCategory = bmi
+      status = red
+      description = description of card
+      subtitle = Overweight
+      title = BMI
+      tips = [object Object]
+      color = red
+      errorState = false
+    </span>
+  </div>
+</div>
+`;
+
+exports[`ResultCard component should match snapshot 1`] = `
+<div>
+  <div
+    aria-label="Learn more about BMI"
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root ResultCard-container-1 ResultCard-container-4 MuiPaper-rounded"
+    data-testid="card-BMI"
+    tabindex="0"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-34"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-35"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-36"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-37"
+          >
+            <div>
+              Card icon
+            </div>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-38"
+          >
+            <div
+              type="style-5"
+            >
+              BMI
+              (Typography)
+            </div>
+            <div
+              type="style-7"
+            >
+              Overweight
+              (Typography)
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-39"
+        >
+          <div
+            type="style-6"
+          >
+            description of card
+            (Typography)
+          </div>
+        </div>
+      </div>
+      <hr
+        class="MuiDivider-root"
+      />
+      <div
+        class="MuiBox-root MuiBox-root-46 ResultCard-learnMore-2"
+        tabindex="0"
+      >
+        <div
+          color="hyperlink"
+          type="style-6"
+        >
+          Learn more
+          (Typography)
+        </div>
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root ResultCard-icon-3"
+          focusable="false"
+          role="presentation"
+          style="width: 1.125rem; height: 1.125rem;"
+          viewBox="0 0 18 18"
+        >
+          <path
+            d="M16.65 16.65H1.35V1.35H9V0H0V18H18V9H16.65V16.65ZM10.6425 8.3115L16.65 2.304V7.713L18 6.363V0H11.6359L10.287 1.34887H15.6971L9.6885 7.3575L10.6425 8.3115Z"
+            fill="#333333"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div>
+    <span>
+      modal open:false
+    </span>
+    <button
+      data-testid="btn-close"
+      type="button"
+    >
+      close
+    </button>
+    <span>
+      tipCategory = bmi
+      status = red
+      description = description of card
+      subtitle = Overweight
+      title = BMI
+      tips = [object Object]
+      color = red
+      errorState = false
+    </span>
+  </div>
+</div>
+`;
+
+exports[`ResultCard component should open the modal on click of card 1`] = `
+<div>
+  <div
+    aria-label="Learn more about BMI"
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root ResultCard-container-56 ResultCard-container-59 MuiPaper-rounded"
+    data-testid="card-BMI"
+    tabindex="0"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-89"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-90"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-91"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-92"
+          >
+            <div>
+              Card icon
+            </div>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-93"
+          >
+            <div
+              type="style-5"
+            >
+              BMI
+              (Typography)
+            </div>
+            <div
+              type="style-7"
+            >
+              Overweight
+              (Typography)
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-94"
+        >
+          <div
+            type="style-6"
+          >
+            description of card
+            (Typography)
+          </div>
+        </div>
+      </div>
+      <hr
+        class="MuiDivider-root"
+      />
+      <div
+        class="MuiBox-root MuiBox-root-101 ResultCard-learnMore-57"
+        tabindex="0"
+      >
+        <div
+          color="hyperlink"
+          type="style-6"
+        >
+          Learn more
+          (Typography)
+        </div>
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root ResultCard-icon-58"
+          focusable="false"
+          role="presentation"
+          style="width: 1.125rem; height: 1.125rem;"
+          viewBox="0 0 18 18"
+        >
+          <path
+            d="M16.65 16.65H1.35V1.35H9V0H0V18H18V9H16.65V16.65ZM10.6425 8.3115L16.65 2.304V7.713L18 6.363V0H11.6359L10.287 1.34887H15.6971L9.6885 7.3575L10.6425 8.3115Z"
+            fill="#333333"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div>
+    <span>
+      modal open:true
+    </span>
+    <button
+      data-testid="btn-close"
+      type="button"
+    >
+      close
+    </button>
+    <span>
+      tipCategory = bmi
+      status = red
+      description = description of card
+      subtitle = Overweight
+      title = BMI
+      tips = [object Object]
+      color = red
+      errorState = false
+    </span>
+  </div>
+</div>
+`;
+
+exports[`ResultCard component should open the modal on enter key press 1`] = `
+<div>
+  <div
+    aria-label="Learn more about BMI"
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root ResultCard-container-166 ResultCard-container-169 MuiPaper-rounded"
+    data-testid="card-BMI"
+    tabindex="0"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-199"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-200"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-201"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-202"
+          >
+            <div>
+              Card icon
+            </div>
+          </div>
+          <div
+            class="MuiBox-root MuiBox-root-203"
+          >
+            <div
+              type="style-5"
+            >
+              BMI
+              (Typography)
+            </div>
+            <div
+              type="style-7"
+            >
+              Overweight
+              (Typography)
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root MuiBox-root-204"
+        >
+          <div
+            type="style-6"
+          >
+            description of card
+            (Typography)
+          </div>
+        </div>
+      </div>
+      <hr
+        class="MuiDivider-root"
+      />
+      <div
+        class="MuiBox-root MuiBox-root-211 ResultCard-learnMore-167"
+        tabindex="0"
+      >
+        <div
+          color="hyperlink"
+          type="style-6"
+        >
+          Learn more
+          (Typography)
+        </div>
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root ResultCard-icon-168"
+          focusable="false"
+          role="presentation"
+          style="width: 1.125rem; height: 1.125rem;"
+          viewBox="0 0 18 18"
+        >
+          <path
+            d="M16.65 16.65H1.35V1.35H9V0H0V18H18V9H16.65V16.65ZM10.6425 8.3115L16.65 2.304V7.713L18 6.363V0H11.6359L10.287 1.34887H15.6971L9.6885 7.3575L10.6425 8.3115Z"
+            fill="#333333"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div>
+    <span>
+      modal open:true
+    </span>
+    <button
+      data-testid="btn-close"
+      type="button"
+    >
+      close
+    </button>
+    <span>
+      tipCategory = bmi
+      status = red
+      description = description of card
+      subtitle = Overweight
+      title = BMI
+      tips = [object Object]
+      color = red
+      errorState = false
+    </span>
+  </div>
+</div>
+`;

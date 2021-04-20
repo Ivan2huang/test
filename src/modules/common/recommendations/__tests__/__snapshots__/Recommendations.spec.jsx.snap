@@ -1,0 +1,557 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Recommendations Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-8"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-9"
+    >
+      <div>
+        Typography Component
+        <span>
+          type = style-2
+        </span>
+        Title
+      </div>
+    </div>
+    <div>
+      ComponentLoaderAndError Component
+      <span>
+        loading = true
+        errorState = false
+      </span>
+      <div>
+        <span>
+          Item Container Component
+        </span>
+        <div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-38"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-39 Recommendations-imageError-2"
+                classes="[object Object]"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-5
+                  </span>
+                  Unable to load image
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-40"
+            >
+              <div>
+                Typography Component
+                <span>
+                  type = style-7
+                  noWrap = true
+                </span>
+                Yaw Tennis Racquet Stress Mental 3
+              </div>
+              <div>
+                Typography Component
+                <span>
+                  type = style-6
+                  noWrap = true
+                </span>
+                Yawtennis
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-41"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-6
+                    className = Recommendations-price-6
+                  </span>
+                  HK$  100
+                </div>
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-7
+                  </span>
+                  HK$  1
+                </div>
+              </div>
+              <button
+                aria-label="View product information about Yaw Tennis Racquet Stress Mental 3"
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                data-testid="btn-recommendation-18"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  View product
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-73"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-74 Recommendations-image-1"
+                data-testid="img-recommendation-14"
+              >
+                <img
+                  alt=""
+                  class="Recommendations-image-1"
+                  src="image/14"
+                />
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-75"
+            >
+              <div>
+                Typography Component
+                <span>
+                  type = style-7
+                  noWrap = true
+                </span>
+                Yaw Tennis Racquet Activity 2
+              </div>
+              <div>
+                Typography Component
+                <span>
+                  type = style-6
+                  noWrap = true
+                </span>
+                Yawtennis
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-76"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-6
+                  </span>
+                   
+                </div>
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-7
+                  </span>
+                  HK$  50
+                </div>
+              </div>
+              <button
+                aria-label="View product information about Yaw Tennis Racquet Activity 2"
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                data-testid="btn-recommendation-14"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  View product
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-77"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-78 Recommendations-image-1"
+                data-testid="img-recommendation-12"
+              >
+                <img
+                  alt=""
+                  class="Recommendations-image-1"
+                  src="image/12"
+                />
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-79 Recommendations-discount-3"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    className = Recommendations-discountText-4
+                    fontWeight = semiBold
+                  </span>
+                  50%
+                </div>
+                <div>
+                  Typography Component
+                  <span>
+                    className = Recommendations-discountTextOff-5
+                  </span>
+                  off
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-80"
+            >
+              <div>
+                Typography Component
+                <span>
+                  type = style-7
+                  noWrap = true
+                </span>
+                Yaw Tennis Racquet Activity 1
+              </div>
+              <div>
+                Typography Component
+                <span>
+                  type = style-6
+                  noWrap = true
+                </span>
+                Yawtennis
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-81"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-6
+                    className = Recommendations-price-6
+                  </span>
+                  HK$  50
+                </div>
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-7
+                  </span>
+                  HK$  25
+                </div>
+              </div>
+              <button
+                aria-label="View product information about Yaw Tennis Racquet Activity 1"
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                data-testid="btn-recommendation-12"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  View product
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+        <span>
+          numberOfColumns = 4
+          itemLength = 3
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Recommendations Component should match snapshot for empty recommendations 1`] = `<div />`;
+
+exports[`Recommendations Component should match snapshot for specific recommendations 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-99"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-100"
+    >
+      <div>
+        Typography Component
+        <span>
+          type = style-2
+        </span>
+        Title
+      </div>
+    </div>
+    <div>
+      ComponentLoaderAndError Component
+      <span>
+        loading = true
+        errorState = false
+      </span>
+      <div>
+        <span>
+          Item Container Component
+        </span>
+        <div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-129"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-130 Recommendations-imageError-93"
+                classes="[object Object]"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-5
+                  </span>
+                  Unable to load image
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-131"
+            >
+              <div>
+                Typography Component
+                <span>
+                  type = style-7
+                  noWrap = true
+                </span>
+                Yaw Tennis Racquet Stress Mental 3
+              </div>
+              <div>
+                Typography Component
+                <span>
+                  type = style-6
+                  noWrap = true
+                </span>
+                Yawtennis
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-132"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-6
+                    className = Recommendations-price-97
+                  </span>
+                  HK$  100
+                </div>
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-7
+                  </span>
+                  HK$  1
+                </div>
+              </div>
+              <button
+                aria-label="View product information about Yaw Tennis Racquet Stress Mental 3"
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                data-testid="btn-recommendation-18"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  View product
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-164"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-165 Recommendations-image-92"
+                data-testid="img-recommendation-14"
+              >
+                <img
+                  alt=""
+                  class="Recommendations-image-92"
+                  src="image/14"
+                />
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-166"
+            >
+              <div>
+                Typography Component
+                <span>
+                  type = style-7
+                  noWrap = true
+                </span>
+                Yaw Tennis Racquet Activity 2
+              </div>
+              <div>
+                Typography Component
+                <span>
+                  type = style-6
+                  noWrap = true
+                </span>
+                Yawtennis
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-167"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-6
+                  </span>
+                   
+                </div>
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-7
+                  </span>
+                  HK$  50
+                </div>
+              </div>
+              <button
+                aria-label="View product information about Yaw Tennis Racquet Activity 2"
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                data-testid="btn-recommendation-14"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  View product
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation1 MuiCard-root MuiPaper-rounded"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-168"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-169 Recommendations-image-92"
+                data-testid="img-recommendation-12"
+              >
+                <img
+                  alt=""
+                  class="Recommendations-image-92"
+                  src="image/12"
+                />
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-170 Recommendations-discount-94"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    className = Recommendations-discountText-95
+                    fontWeight = semiBold
+                  </span>
+                  50%
+                </div>
+                <div>
+                  Typography Component
+                  <span>
+                    className = Recommendations-discountTextOff-96
+                  </span>
+                  off
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-171"
+            >
+              <div>
+                Typography Component
+                <span>
+                  type = style-7
+                  noWrap = true
+                </span>
+                Yaw Tennis Racquet Activity 1
+              </div>
+              <div>
+                Typography Component
+                <span>
+                  type = style-6
+                  noWrap = true
+                </span>
+                Yawtennis
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-172"
+              >
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-6
+                    className = Recommendations-price-97
+                  </span>
+                  HK$  50
+                </div>
+                <div>
+                  Typography Component
+                  <span>
+                    type = style-7
+                  </span>
+                  HK$  25
+                </div>
+              </div>
+              <button
+                aria-label="View product information about Yaw Tennis Racquet Activity 1"
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                data-testid="btn-recommendation-12"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  View product
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+        <span>
+          numberOfColumns = 4
+          itemLength = 3
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;

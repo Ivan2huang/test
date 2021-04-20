@@ -1,0 +1,37 @@
+{
+  "claimId": "9a3f99e3-7062-4fa7-9a5a-108f60fe4192",
+  "clientId": "cxadevclient1",
+  "memberId": "3",
+  "claimantId": "3",
+  "receiptDate": "2019-09-11T04:31:26",
+  "amount": 1,
+  "reason": "Abdominal Colic",
+  "reasonCode": "COLIC",
+  "type": "General practitioner",
+  "typeCode": "MO-GP",
+  "category": "Outpatient",
+  "categoryCode": "outpatient",
+  "status": "Pending",
+  "statusCode": "PENDING",
+  "approvedAmount": 0,
+  "acceptTermsAndConditions": true,
+  "contactNumber": "123456",
+  "otherInsurerAmount": 0,
+  "documents": {
+    "referrals": [
+      {
+        "id": "26332ece-f811-4126-9c36-60d26a6d328c",
+        "contentType": "image/jpeg"
+      }
+    ],
+    "receipts": [
+      {
+        "id": "26332ece-f811-4126-9c36-60d26a6d328c",
+        "contentType": "application/pdf"
+      }
+    ]
+  },
+  "processingStatus": "SUBMITTEDTOINSURER",
+  "lastUpdatedOn": "2019-09-11T05:00:31.68479",
+  "createdOn": "2019-09-11T04:34:18.065384"
+}

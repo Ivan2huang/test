@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table component should match the snapshot 1`] = `
+<div>
+  <table
+    style="border-top: 1px solid #D7D8D6; border-left: 1px solid #D7D8D6; border-right: 1px solid #D7D8D6; border-bottom: 1px solid #D7D8D6;"
+  />
+</div>
+`;

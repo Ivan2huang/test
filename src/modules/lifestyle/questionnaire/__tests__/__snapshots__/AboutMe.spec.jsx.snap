@@ -1,0 +1,2919 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AboutMe Component should clear BMI data when unit changed 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-308"
+  >
+    <div>
+      <span>
+        Grid Component
+      </span>
+      <div>
+        <div
+          data-md="3"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <img
+              alt=""
+              src="/static/questionnaire_about_me.svg"
+            />
+          </div>
+        </div>
+        <div
+          data-md="8"
+          data-xs="12"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <div
+              class="MuiBox-root MuiBox-root-309"
+            >
+              <div
+                type="style-1"
+              >
+                About me
+                (Typography)
+              </div>
+            </div>
+            <div>
+              <span>
+                Grid Component
+              </span>
+              <div>
+                <div
+                  data-md="6"
+                  data-xs="12"
+                >
+                  <span>
+                    GridItem Component
+                  </span>
+                  <div>
+                    <span
+                      data-id="heightOne"
+                    />
+                    <span
+                      data-id="heightTwo"
+                    />
+                    <div>
+                      <span>
+                        Grid Component
+                      </span>
+                      <div>
+                        <div
+                          data-md="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              type="style-6"
+                            >
+                              Height
+                              (Typography)
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div>
+                              <span>
+                                Grid Component
+                              </span>
+                              <div>
+                                <div
+                                  data-md="12"
+                                  data-xs="12"
+                                >
+                                  <span>
+                                    GridItem Component
+                                  </span>
+                                  <div>
+                                    <div>
+                                      RenderNumberInput Component
+                                      <span>
+                                        input = [object Object]
+                                        meta = [object Object]
+                                        testId = input-height-one
+                                        maxLength = 3
+                                        decimalScale = 0
+                                        label = CM
+                                        errorMessage = Enter a valid height
+                                      </span>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="4"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiFormControl-root MuiFormControl-fullWidth"
+                            >
+                              <label
+                                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled Mui-focused Mui-focused"
+                                data-shrink="true"
+                                for="outlined-dropdown-height-unit"
+                              >
+                                
+                              </label>
+                              <div
+                                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth Mui-focused Mui-focused MuiInputBase-formControl"
+                                data-testid="dropdown-height-unit"
+                              >
+                                <div
+                                  aria-haspopup="listbox"
+                                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                                  id="select-dropdown-height-unit"
+                                  role="button"
+                                  tabindex="0"
+                                >
+                                  FT, IN
+                                </div>
+                                <input
+                                  aria-describedby="helptext-heightUnit"
+                                  id="outlined-dropdown-height-unit"
+                                  name="dropdown-height-unit"
+                                  type="hidden"
+                                  value="FtIn"
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                                  focusable="false"
+                                  role="presentation"
+                                  style="width: 1.125rem; height: 1.125rem;"
+                                  viewBox="0 0 18 18"
+                                >
+                                  <path
+                                    clip-rule="evenodd"
+                                    d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                    fill="#333333"
+                                    fill-rule="evenodd"
+                                  />
+                                  <mask
+                                    height="12"
+                                    id="mask0"
+                                    mask-type="alpha"
+                                    maskUnits="userSpaceOnUse"
+                                    width="18"
+                                    x="0"
+                                    y="4"
+                                  >
+                                    <path
+                                      clip-rule="evenodd"
+                                      d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                      fill="white"
+                                      fill-rule="evenodd"
+                                    />
+                                  </mask>
+                                  <g
+                                    mask="url(#mask0)"
+                                  />
+                                </svg>
+                                <fieldset
+                                  aria-hidden="true"
+                                  class="PrivateNotchedOutline-root-390 MuiOutlinedInput-notchedOutline"
+                                  style="padding-left: 8px;"
+                                >
+                                  <legend
+                                    class="PrivateNotchedOutline-legend-391"
+                                    style="width: 0px;"
+                                  >
+                                    <span>
+                                      ​
+                                    </span>
+                                  </legend>
+                                </fieldset>
+                              </div>
+                              <div
+                                aria-live="polite"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <span
+                      data-id="weight"
+                    />
+                    <div>
+                      <span>
+                        Grid Component
+                      </span>
+                      <div>
+                        <div
+                          data-md="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              type="style-6"
+                            >
+                              Weight
+                              (Typography)
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div>
+                              RenderNumberInput Component
+                              <span>
+                                input = [object Object]
+                                meta = [object Object]
+                                testId = input-weight
+                                maxLength = 3
+                                decimalScale = 0
+                                label = KG
+                                errorMessage = Enter a valid weight
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="4"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiFormControl-root MuiFormControl-fullWidth"
+                            >
+                              <label
+                                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                                data-shrink="false"
+                                for="outlined-dropdown-weight-unit"
+                              >
+                                
+                              </label>
+                              <div
+                                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+                                data-testid="dropdown-weight-unit"
+                              >
+                                <div
+                                  aria-haspopup="listbox"
+                                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                                  id="select-dropdown-weight-unit"
+                                  role="button"
+                                  tabindex="0"
+                                >
+                                  <span>
+                                    ​
+                                  </span>
+                                </div>
+                                <input
+                                  aria-describedby="helptext-weightUnit"
+                                  id="outlined-dropdown-weight-unit"
+                                  name="dropdown-weight-unit"
+                                  type="hidden"
+                                  value=""
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                                  focusable="false"
+                                  role="presentation"
+                                  style="width: 1.125rem; height: 1.125rem;"
+                                  viewBox="0 0 18 18"
+                                >
+                                  <path
+                                    clip-rule="evenodd"
+                                    d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                    fill="#333333"
+                                    fill-rule="evenodd"
+                                  />
+                                  <mask
+                                    height="12"
+                                    id="mask0"
+                                    mask-type="alpha"
+                                    maskUnits="userSpaceOnUse"
+                                    width="18"
+                                    x="0"
+                                    y="4"
+                                  >
+                                    <path
+                                      clip-rule="evenodd"
+                                      d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                      fill="white"
+                                      fill-rule="evenodd"
+                                    />
+                                  </mask>
+                                  <g
+                                    mask="url(#mask0)"
+                                  />
+                                </svg>
+                                <fieldset
+                                  aria-hidden="true"
+                                  class="PrivateNotchedOutline-root-390 MuiOutlinedInput-notchedOutline"
+                                  style="padding-left: 8px;"
+                                >
+                                  <legend
+                                    class="PrivateNotchedOutline-legend-391"
+                                    style="width: 0.01px;"
+                                  >
+                                    <span>
+                                      ​
+                                    </span>
+                                  </legend>
+                                </fieldset>
+                              </div>
+                              <div
+                                aria-live="polite"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  data-md="6"
+                  data-xs="12"
+                >
+                  <span>
+                    GridItem Component
+                  </span>
+                  <div>
+                    <span
+                      data-id="waistCircumference"
+                    />
+                    <div>
+                      <span>
+                        Grid Component
+                      </span>
+                      <div>
+                        <div
+                          data-md="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              type="style-6"
+                            >
+                              Waist circumference
+                              (Typography)
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div>
+                              RenderNumberInput Component
+                              <span>
+                                input = [object Object]
+                                meta = [object Object]
+                                testId = input-waist-circumference
+                                helperText = Optional
+                                maxLength = 3
+                                decimalScale = 0
+                                label = CM
+                                errorMessage = Enter a valid waist circumference
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="4"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiFormControl-root MuiFormControl-fullWidth"
+                            >
+                              <label
+                                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                                data-shrink="false"
+                                for="outlined-dropdown-waist-circumfercence-unit"
+                              >
+                                
+                              </label>
+                              <div
+                                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+                                data-testid="dropdown-waist-circumfercence-unit"
+                              >
+                                <div
+                                  aria-haspopup="listbox"
+                                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                                  id="select-dropdown-waist-circumfercence-unit"
+                                  role="button"
+                                  tabindex="0"
+                                >
+                                  <span>
+                                    ​
+                                  </span>
+                                </div>
+                                <input
+                                  aria-describedby="helptext-waistUnit"
+                                  id="outlined-dropdown-waist-circumfercence-unit"
+                                  name="dropdown-waist-circumfercence-unit"
+                                  type="hidden"
+                                  value=""
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                                  focusable="false"
+                                  role="presentation"
+                                  style="width: 1.125rem; height: 1.125rem;"
+                                  viewBox="0 0 18 18"
+                                >
+                                  <path
+                                    clip-rule="evenodd"
+                                    d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                    fill="#333333"
+                                    fill-rule="evenodd"
+                                  />
+                                  <mask
+                                    height="12"
+                                    id="mask0"
+                                    mask-type="alpha"
+                                    maskUnits="userSpaceOnUse"
+                                    width="18"
+                                    x="0"
+                                    y="4"
+                                  >
+                                    <path
+                                      clip-rule="evenodd"
+                                      d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                      fill="white"
+                                      fill-rule="evenodd"
+                                    />
+                                  </mask>
+                                  <g
+                                    mask="url(#mask0)"
+                                  />
+                                </svg>
+                                <fieldset
+                                  aria-hidden="true"
+                                  class="PrivateNotchedOutline-root-390 MuiOutlinedInput-notchedOutline"
+                                  style="padding-left: 8px;"
+                                >
+                                  <legend
+                                    class="PrivateNotchedOutline-legend-391"
+                                    style="width: 0.01px;"
+                                  >
+                                    <span>
+                                      ​
+                                    </span>
+                                  </legend>
+                                </fieldset>
+                              </div>
+                              <div
+                                aria-live="polite"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <label
+                      class="MuiFormControlLabel-root"
+                    >
+                      <span
+                        aria-disabled="false"
+                        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-404 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                        data-testid="input-asian"
+                        error="false"
+                      >
+                        <span
+                          class="MuiIconButton-label"
+                        >
+                          <input
+                            class="PrivateSwitchBase-input-407"
+                            data-indeterminate="false"
+                            name="isAsian"
+                            type="checkbox"
+                            value=""
+                          />
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root"
+                            focusable="false"
+                            role="presentation"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                            />
+                          </svg>
+                        </span>
+                        <span
+                          class="MuiTouchRipple-root"
+                        />
+                      </span>
+                      <span
+                        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                      >
+                        <div
+                          color="mediumEmphasis"
+                          font-weight="normal"
+                        >
+                          I am Asian
+                          (Typography)
+                        </div>
+                      </span>
+                    </label>
+                    <div
+                      color="highEmphasis"
+                      type="style-8"
+                    >
+                      Did you know?
+                      (Typography)
+                    </div>
+                    <div
+                      type="style-8"
+                    >
+                      The classification based on BMI would be different for Asian and non-Asian races. Research shows that Asians have more than double the risk of developing type 2 diabetes than Caucasians.
+                      (Typography)
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`AboutMe Component should clear BMI data when unit changed 2`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-308"
+  >
+    <div>
+      <span>
+        Grid Component
+      </span>
+      <div>
+        <div
+          data-md="3"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <img
+              alt=""
+              src="/static/questionnaire_about_me.svg"
+            />
+          </div>
+        </div>
+        <div
+          data-md="8"
+          data-xs="12"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <div
+              class="MuiBox-root MuiBox-root-309"
+            >
+              <div
+                type="style-1"
+              >
+                About me
+                (Typography)
+              </div>
+            </div>
+            <div>
+              <span>
+                Grid Component
+              </span>
+              <div>
+                <div
+                  data-md="6"
+                  data-xs="12"
+                >
+                  <span>
+                    GridItem Component
+                  </span>
+                  <div>
+                    <span
+                      data-id="heightOne"
+                    />
+                    <span
+                      data-id="heightTwo"
+                    />
+                    <div>
+                      <span>
+                        Grid Component
+                      </span>
+                      <div>
+                        <div
+                          data-md="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              type="style-6"
+                            >
+                              Height
+                              (Typography)
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div>
+                              <span>
+                                Grid Component
+                              </span>
+                              <div>
+                                <div
+                                  data-md="12"
+                                  data-xs="12"
+                                >
+                                  <span>
+                                    GridItem Component
+                                  </span>
+                                  <div>
+                                    <div>
+                                      RenderNumberInput Component
+                                      <span>
+                                        input = [object Object]
+                                        meta = [object Object]
+                                        testId = input-height-one
+                                        maxLength = 3
+                                        decimalScale = 0
+                                        label = CM
+                                        errorMessage = Enter a valid height
+                                      </span>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="4"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiFormControl-root MuiFormControl-fullWidth"
+                            >
+                              <label
+                                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled Mui-focused Mui-focused"
+                                data-shrink="true"
+                                for="outlined-dropdown-height-unit"
+                              >
+                                
+                              </label>
+                              <div
+                                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth Mui-focused Mui-focused MuiInputBase-formControl"
+                                data-testid="dropdown-height-unit"
+                              >
+                                <div
+                                  aria-haspopup="listbox"
+                                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                                  id="select-dropdown-height-unit"
+                                  role="button"
+                                  tabindex="0"
+                                >
+                                  FT, IN
+                                </div>
+                                <input
+                                  aria-describedby="helptext-heightUnit"
+                                  id="outlined-dropdown-height-unit"
+                                  name="dropdown-height-unit"
+                                  type="hidden"
+                                  value="FtIn"
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                                  focusable="false"
+                                  role="presentation"
+                                  style="width: 1.125rem; height: 1.125rem;"
+                                  viewBox="0 0 18 18"
+                                >
+                                  <path
+                                    clip-rule="evenodd"
+                                    d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                    fill="#333333"
+                                    fill-rule="evenodd"
+                                  />
+                                  <mask
+                                    height="12"
+                                    id="mask0"
+                                    mask-type="alpha"
+                                    maskUnits="userSpaceOnUse"
+                                    width="18"
+                                    x="0"
+                                    y="4"
+                                  >
+                                    <path
+                                      clip-rule="evenodd"
+                                      d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                      fill="white"
+                                      fill-rule="evenodd"
+                                    />
+                                  </mask>
+                                  <g
+                                    mask="url(#mask0)"
+                                  />
+                                </svg>
+                                <fieldset
+                                  aria-hidden="true"
+                                  class="PrivateNotchedOutline-root-390 MuiOutlinedInput-notchedOutline"
+                                  style="padding-left: 8px;"
+                                >
+                                  <legend
+                                    class="PrivateNotchedOutline-legend-391"
+                                    style="width: 0px;"
+                                  >
+                                    <span>
+                                      ​
+                                    </span>
+                                  </legend>
+                                </fieldset>
+                              </div>
+                              <div
+                                aria-live="polite"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <span
+                      data-id="weight"
+                    />
+                    <div>
+                      <span>
+                        Grid Component
+                      </span>
+                      <div>
+                        <div
+                          data-md="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              type="style-6"
+                            >
+                              Weight
+                              (Typography)
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div>
+                              RenderNumberInput Component
+                              <span>
+                                input = [object Object]
+                                meta = [object Object]
+                                testId = input-weight
+                                maxLength = 3
+                                decimalScale = 0
+                                label = KG
+                                errorMessage = Enter a valid weight
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="4"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiFormControl-root MuiFormControl-fullWidth"
+                            >
+                              <label
+                                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled Mui-focused Mui-focused"
+                                data-shrink="true"
+                                for="outlined-dropdown-weight-unit"
+                              >
+                                
+                              </label>
+                              <div
+                                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth Mui-focused Mui-focused MuiInputBase-formControl"
+                                data-testid="dropdown-weight-unit"
+                              >
+                                <div
+                                  aria-haspopup="listbox"
+                                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                                  id="select-dropdown-weight-unit"
+                                  role="button"
+                                  tabindex="0"
+                                >
+                                  LB
+                                </div>
+                                <input
+                                  aria-describedby="helptext-weightUnit"
+                                  id="outlined-dropdown-weight-unit"
+                                  name="dropdown-weight-unit"
+                                  type="hidden"
+                                  value="Lb"
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                                  focusable="false"
+                                  role="presentation"
+                                  style="width: 1.125rem; height: 1.125rem;"
+                                  viewBox="0 0 18 18"
+                                >
+                                  <path
+                                    clip-rule="evenodd"
+                                    d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                    fill="#333333"
+                                    fill-rule="evenodd"
+                                  />
+                                  <mask
+                                    height="12"
+                                    id="mask0"
+                                    mask-type="alpha"
+                                    maskUnits="userSpaceOnUse"
+                                    width="18"
+                                    x="0"
+                                    y="4"
+                                  >
+                                    <path
+                                      clip-rule="evenodd"
+                                      d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                      fill="white"
+                                      fill-rule="evenodd"
+                                    />
+                                  </mask>
+                                  <g
+                                    mask="url(#mask0)"
+                                  />
+                                </svg>
+                                <fieldset
+                                  aria-hidden="true"
+                                  class="PrivateNotchedOutline-root-390 MuiOutlinedInput-notchedOutline"
+                                  style="padding-left: 8px;"
+                                >
+                                  <legend
+                                    class="PrivateNotchedOutline-legend-391"
+                                    style="width: 0px;"
+                                  >
+                                    <span>
+                                      ​
+                                    </span>
+                                  </legend>
+                                </fieldset>
+                              </div>
+                              <div
+                                aria-live="polite"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  data-md="6"
+                  data-xs="12"
+                >
+                  <span>
+                    GridItem Component
+                  </span>
+                  <div>
+                    <span
+                      data-id="waistCircumference"
+                    />
+                    <div>
+                      <span>
+                        Grid Component
+                      </span>
+                      <div>
+                        <div
+                          data-md="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              type="style-6"
+                            >
+                              Waist circumference
+                              (Typography)
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div>
+                              RenderNumberInput Component
+                              <span>
+                                input = [object Object]
+                                meta = [object Object]
+                                testId = input-waist-circumference
+                                helperText = Optional
+                                maxLength = 3
+                                decimalScale = 0
+                                label = CM
+                                errorMessage = Enter a valid waist circumference
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="4"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiFormControl-root MuiFormControl-fullWidth"
+                            >
+                              <label
+                                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                                data-shrink="false"
+                                for="outlined-dropdown-waist-circumfercence-unit"
+                              >
+                                
+                              </label>
+                              <div
+                                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+                                data-testid="dropdown-waist-circumfercence-unit"
+                              >
+                                <div
+                                  aria-haspopup="listbox"
+                                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                                  id="select-dropdown-waist-circumfercence-unit"
+                                  role="button"
+                                  tabindex="0"
+                                >
+                                  <span>
+                                    ​
+                                  </span>
+                                </div>
+                                <input
+                                  aria-describedby="helptext-waistUnit"
+                                  id="outlined-dropdown-waist-circumfercence-unit"
+                                  name="dropdown-waist-circumfercence-unit"
+                                  type="hidden"
+                                  value=""
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                                  focusable="false"
+                                  role="presentation"
+                                  style="width: 1.125rem; height: 1.125rem;"
+                                  viewBox="0 0 18 18"
+                                >
+                                  <path
+                                    clip-rule="evenodd"
+                                    d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                    fill="#333333"
+                                    fill-rule="evenodd"
+                                  />
+                                  <mask
+                                    height="12"
+                                    id="mask0"
+                                    mask-type="alpha"
+                                    maskUnits="userSpaceOnUse"
+                                    width="18"
+                                    x="0"
+                                    y="4"
+                                  >
+                                    <path
+                                      clip-rule="evenodd"
+                                      d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                      fill="white"
+                                      fill-rule="evenodd"
+                                    />
+                                  </mask>
+                                  <g
+                                    mask="url(#mask0)"
+                                  />
+                                </svg>
+                                <fieldset
+                                  aria-hidden="true"
+                                  class="PrivateNotchedOutline-root-390 MuiOutlinedInput-notchedOutline"
+                                  style="padding-left: 8px;"
+                                >
+                                  <legend
+                                    class="PrivateNotchedOutline-legend-391"
+                                    style="width: 0.01px;"
+                                  >
+                                    <span>
+                                      ​
+                                    </span>
+                                  </legend>
+                                </fieldset>
+                              </div>
+                              <div
+                                aria-live="polite"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <label
+                      class="MuiFormControlLabel-root"
+                    >
+                      <span
+                        aria-disabled="false"
+                        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-404 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                        data-testid="input-asian"
+                        error="false"
+                      >
+                        <span
+                          class="MuiIconButton-label"
+                        >
+                          <input
+                            class="PrivateSwitchBase-input-407"
+                            data-indeterminate="false"
+                            name="isAsian"
+                            type="checkbox"
+                            value=""
+                          />
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root"
+                            focusable="false"
+                            role="presentation"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                            />
+                          </svg>
+                        </span>
+                        <span
+                          class="MuiTouchRipple-root"
+                        />
+                      </span>
+                      <span
+                        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                      >
+                        <div
+                          color="mediumEmphasis"
+                          font-weight="normal"
+                        >
+                          I am Asian
+                          (Typography)
+                        </div>
+                      </span>
+                    </label>
+                    <div
+                      color="highEmphasis"
+                      type="style-8"
+                    >
+                      Did you know?
+                      (Typography)
+                    </div>
+                    <div
+                      type="style-8"
+                    >
+                      The classification based on BMI would be different for Asian and non-Asian races. Research shows that Asians have more than double the risk of developing type 2 diabetes than Caucasians.
+                      (Typography)
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`AboutMe Component should clear BMI data when unit changed 3`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-308"
+  >
+    <div>
+      <span>
+        Grid Component
+      </span>
+      <div>
+        <div
+          data-md="3"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <img
+              alt=""
+              src="/static/questionnaire_about_me.svg"
+            />
+          </div>
+        </div>
+        <div
+          data-md="8"
+          data-xs="12"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <div
+              class="MuiBox-root MuiBox-root-309"
+            >
+              <div
+                type="style-1"
+              >
+                About me
+                (Typography)
+              </div>
+            </div>
+            <div>
+              <span>
+                Grid Component
+              </span>
+              <div>
+                <div
+                  data-md="6"
+                  data-xs="12"
+                >
+                  <span>
+                    GridItem Component
+                  </span>
+                  <div>
+                    <span
+                      data-id="heightOne"
+                    />
+                    <span
+                      data-id="heightTwo"
+                    />
+                    <div>
+                      <span>
+                        Grid Component
+                      </span>
+                      <div>
+                        <div
+                          data-md="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              type="style-6"
+                            >
+                              Height
+                              (Typography)
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div>
+                              <span>
+                                Grid Component
+                              </span>
+                              <div>
+                                <div
+                                  data-md="12"
+                                  data-xs="12"
+                                >
+                                  <span>
+                                    GridItem Component
+                                  </span>
+                                  <div>
+                                    <div>
+                                      RenderNumberInput Component
+                                      <span>
+                                        input = [object Object]
+                                        meta = [object Object]
+                                        testId = input-height-one
+                                        maxLength = 3
+                                        decimalScale = 0
+                                        label = CM
+                                        errorMessage = Enter a valid height
+                                      </span>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="4"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiFormControl-root MuiFormControl-fullWidth"
+                            >
+                              <label
+                                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled Mui-focused Mui-focused"
+                                data-shrink="true"
+                                for="outlined-dropdown-height-unit"
+                              >
+                                
+                              </label>
+                              <div
+                                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth Mui-focused Mui-focused MuiInputBase-formControl"
+                                data-testid="dropdown-height-unit"
+                              >
+                                <div
+                                  aria-haspopup="listbox"
+                                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                                  id="select-dropdown-height-unit"
+                                  role="button"
+                                  tabindex="0"
+                                >
+                                  FT, IN
+                                </div>
+                                <input
+                                  aria-describedby="helptext-heightUnit"
+                                  id="outlined-dropdown-height-unit"
+                                  name="dropdown-height-unit"
+                                  type="hidden"
+                                  value="FtIn"
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                                  focusable="false"
+                                  role="presentation"
+                                  style="width: 1.125rem; height: 1.125rem;"
+                                  viewBox="0 0 18 18"
+                                >
+                                  <path
+                                    clip-rule="evenodd"
+                                    d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                    fill="#333333"
+                                    fill-rule="evenodd"
+                                  />
+                                  <mask
+                                    height="12"
+                                    id="mask0"
+                                    mask-type="alpha"
+                                    maskUnits="userSpaceOnUse"
+                                    width="18"
+                                    x="0"
+                                    y="4"
+                                  >
+                                    <path
+                                      clip-rule="evenodd"
+                                      d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                      fill="white"
+                                      fill-rule="evenodd"
+                                    />
+                                  </mask>
+                                  <g
+                                    mask="url(#mask0)"
+                                  />
+                                </svg>
+                                <fieldset
+                                  aria-hidden="true"
+                                  class="PrivateNotchedOutline-root-390 MuiOutlinedInput-notchedOutline"
+                                  style="padding-left: 8px;"
+                                >
+                                  <legend
+                                    class="PrivateNotchedOutline-legend-391"
+                                    style="width: 0px;"
+                                  >
+                                    <span>
+                                      ​
+                                    </span>
+                                  </legend>
+                                </fieldset>
+                              </div>
+                              <div
+                                aria-live="polite"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <span
+                      data-id="weight"
+                    />
+                    <div>
+                      <span>
+                        Grid Component
+                      </span>
+                      <div>
+                        <div
+                          data-md="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              type="style-6"
+                            >
+                              Weight
+                              (Typography)
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div>
+                              RenderNumberInput Component
+                              <span>
+                                input = [object Object]
+                                meta = [object Object]
+                                testId = input-weight
+                                maxLength = 3
+                                decimalScale = 0
+                                label = KG
+                                errorMessage = Enter a valid weight
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="4"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiFormControl-root MuiFormControl-fullWidth"
+                            >
+                              <label
+                                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled Mui-focused Mui-focused"
+                                data-shrink="true"
+                                for="outlined-dropdown-weight-unit"
+                              >
+                                
+                              </label>
+                              <div
+                                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth Mui-focused Mui-focused MuiInputBase-formControl"
+                                data-testid="dropdown-weight-unit"
+                              >
+                                <div
+                                  aria-haspopup="listbox"
+                                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                                  id="select-dropdown-weight-unit"
+                                  role="button"
+                                  tabindex="0"
+                                >
+                                  LB
+                                </div>
+                                <input
+                                  aria-describedby="helptext-weightUnit"
+                                  id="outlined-dropdown-weight-unit"
+                                  name="dropdown-weight-unit"
+                                  type="hidden"
+                                  value="Lb"
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                                  focusable="false"
+                                  role="presentation"
+                                  style="width: 1.125rem; height: 1.125rem;"
+                                  viewBox="0 0 18 18"
+                                >
+                                  <path
+                                    clip-rule="evenodd"
+                                    d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                    fill="#333333"
+                                    fill-rule="evenodd"
+                                  />
+                                  <mask
+                                    height="12"
+                                    id="mask0"
+                                    mask-type="alpha"
+                                    maskUnits="userSpaceOnUse"
+                                    width="18"
+                                    x="0"
+                                    y="4"
+                                  >
+                                    <path
+                                      clip-rule="evenodd"
+                                      d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                      fill="white"
+                                      fill-rule="evenodd"
+                                    />
+                                  </mask>
+                                  <g
+                                    mask="url(#mask0)"
+                                  />
+                                </svg>
+                                <fieldset
+                                  aria-hidden="true"
+                                  class="PrivateNotchedOutline-root-390 MuiOutlinedInput-notchedOutline"
+                                  style="padding-left: 8px;"
+                                >
+                                  <legend
+                                    class="PrivateNotchedOutline-legend-391"
+                                    style="width: 0px;"
+                                  >
+                                    <span>
+                                      ​
+                                    </span>
+                                  </legend>
+                                </fieldset>
+                              </div>
+                              <div
+                                aria-live="polite"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  data-md="6"
+                  data-xs="12"
+                >
+                  <span>
+                    GridItem Component
+                  </span>
+                  <div>
+                    <span
+                      data-id="waistCircumference"
+                    />
+                    <div>
+                      <span>
+                        Grid Component
+                      </span>
+                      <div>
+                        <div
+                          data-md="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              type="style-6"
+                            >
+                              Waist circumference
+                              (Typography)
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div>
+                              RenderNumberInput Component
+                              <span>
+                                input = [object Object]
+                                meta = [object Object]
+                                testId = input-waist-circumference
+                                helperText = Optional
+                                maxLength = 3
+                                decimalScale = 0
+                                label = CM
+                                errorMessage = Enter a valid waist circumference
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="4"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiFormControl-root MuiFormControl-fullWidth"
+                            >
+                              <label
+                                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled Mui-focused Mui-focused"
+                                data-shrink="true"
+                                for="outlined-dropdown-waist-circumfercence-unit"
+                              >
+                                
+                              </label>
+                              <div
+                                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth Mui-focused Mui-focused MuiInputBase-formControl"
+                                data-testid="dropdown-waist-circumfercence-unit"
+                              >
+                                <div
+                                  aria-haspopup="listbox"
+                                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                                  id="select-dropdown-waist-circumfercence-unit"
+                                  role="button"
+                                  tabindex="0"
+                                >
+                                  IN
+                                </div>
+                                <input
+                                  aria-describedby="helptext-waistUnit"
+                                  id="outlined-dropdown-waist-circumfercence-unit"
+                                  name="dropdown-waist-circumfercence-unit"
+                                  type="hidden"
+                                  value="In"
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                                  focusable="false"
+                                  role="presentation"
+                                  style="width: 1.125rem; height: 1.125rem;"
+                                  viewBox="0 0 18 18"
+                                >
+                                  <path
+                                    clip-rule="evenodd"
+                                    d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                    fill="#333333"
+                                    fill-rule="evenodd"
+                                  />
+                                  <mask
+                                    height="12"
+                                    id="mask0"
+                                    mask-type="alpha"
+                                    maskUnits="userSpaceOnUse"
+                                    width="18"
+                                    x="0"
+                                    y="4"
+                                  >
+                                    <path
+                                      clip-rule="evenodd"
+                                      d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                      fill="white"
+                                      fill-rule="evenodd"
+                                    />
+                                  </mask>
+                                  <g
+                                    mask="url(#mask0)"
+                                  />
+                                </svg>
+                                <fieldset
+                                  aria-hidden="true"
+                                  class="PrivateNotchedOutline-root-390 MuiOutlinedInput-notchedOutline"
+                                  style="padding-left: 8px;"
+                                >
+                                  <legend
+                                    class="PrivateNotchedOutline-legend-391"
+                                    style="width: 0px;"
+                                  >
+                                    <span>
+                                      ​
+                                    </span>
+                                  </legend>
+                                </fieldset>
+                              </div>
+                              <div
+                                aria-live="polite"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <label
+                      class="MuiFormControlLabel-root"
+                    >
+                      <span
+                        aria-disabled="false"
+                        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-404 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                        data-testid="input-asian"
+                        error="false"
+                      >
+                        <span
+                          class="MuiIconButton-label"
+                        >
+                          <input
+                            class="PrivateSwitchBase-input-407"
+                            data-indeterminate="false"
+                            name="isAsian"
+                            type="checkbox"
+                            value=""
+                          />
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root"
+                            focusable="false"
+                            role="presentation"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                            />
+                          </svg>
+                        </span>
+                        <span
+                          class="MuiTouchRipple-root"
+                        />
+                      </span>
+                      <span
+                        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                      >
+                        <div
+                          color="mediumEmphasis"
+                          font-weight="normal"
+                        >
+                          I am Asian
+                          (Typography)
+                        </div>
+                      </span>
+                    </label>
+                    <div
+                      color="highEmphasis"
+                      type="style-8"
+                    >
+                      Did you know?
+                      (Typography)
+                    </div>
+                    <div
+                      type="style-8"
+                    >
+                      The classification based on BMI would be different for Asian and non-Asian races. Research shows that Asians have more than double the risk of developing type 2 diabetes than Caucasians.
+                      (Typography)
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`AboutMe Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div>
+      <span>
+        Grid Component
+      </span>
+      <div>
+        <div
+          data-md="3"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <img
+              alt=""
+              src="/static/questionnaire_about_me.svg"
+            />
+          </div>
+        </div>
+        <div
+          data-md="8"
+          data-xs="12"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <div
+              class="MuiBox-root MuiBox-root-3"
+            >
+              <div
+                type="style-1"
+              >
+                About me
+                (Typography)
+              </div>
+            </div>
+            <div>
+              <span>
+                Grid Component
+              </span>
+              <div>
+                <div
+                  data-md="6"
+                  data-xs="12"
+                >
+                  <span>
+                    GridItem Component
+                  </span>
+                  <div>
+                    <span
+                      data-id="heightOne"
+                    />
+                    <span
+                      data-id="heightTwo"
+                    />
+                    <div>
+                      <span>
+                        Grid Component
+                      </span>
+                      <div>
+                        <div
+                          data-md="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              type="style-6"
+                            >
+                              Height
+                              (Typography)
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div>
+                              <span>
+                                Grid Component
+                              </span>
+                              <div>
+                                <div
+                                  data-md="12"
+                                  data-xs="12"
+                                >
+                                  <span>
+                                    GridItem Component
+                                  </span>
+                                  <div>
+                                    <div>
+                                      RenderNumberInput Component
+                                      <span>
+                                        input = [object Object]
+                                        meta = [object Object]
+                                        testId = input-height-one
+                                        maxLength = 3
+                                        decimalScale = 0
+                                        label = CM
+                                        errorMessage = Enter a valid height
+                                      </span>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="4"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiFormControl-root MuiFormControl-fullWidth"
+                            >
+                              <label
+                                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                                data-shrink="false"
+                                for="outlined-dropdown-height-unit"
+                              >
+                                
+                              </label>
+                              <div
+                                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+                                data-testid="dropdown-height-unit"
+                              >
+                                <div
+                                  aria-haspopup="listbox"
+                                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                                  id="select-dropdown-height-unit"
+                                  role="button"
+                                  tabindex="0"
+                                >
+                                  <span>
+                                    ​
+                                  </span>
+                                </div>
+                                <input
+                                  aria-describedby="helptext-heightUnit"
+                                  id="outlined-dropdown-height-unit"
+                                  name="dropdown-height-unit"
+                                  type="hidden"
+                                  value=""
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                                  focusable="false"
+                                  role="presentation"
+                                  style="width: 1.125rem; height: 1.125rem;"
+                                  viewBox="0 0 18 18"
+                                >
+                                  <path
+                                    clip-rule="evenodd"
+                                    d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                    fill="#333333"
+                                    fill-rule="evenodd"
+                                  />
+                                  <mask
+                                    height="12"
+                                    id="mask0"
+                                    mask-type="alpha"
+                                    maskUnits="userSpaceOnUse"
+                                    width="18"
+                                    x="0"
+                                    y="4"
+                                  >
+                                    <path
+                                      clip-rule="evenodd"
+                                      d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                      fill="white"
+                                      fill-rule="evenodd"
+                                    />
+                                  </mask>
+                                  <g
+                                    mask="url(#mask0)"
+                                  />
+                                </svg>
+                                <fieldset
+                                  aria-hidden="true"
+                                  class="PrivateNotchedOutline-root-84 MuiOutlinedInput-notchedOutline"
+                                  style="padding-left: 8px;"
+                                >
+                                  <legend
+                                    class="PrivateNotchedOutline-legend-85"
+                                    style="width: 0.01px;"
+                                  >
+                                    <span>
+                                      ​
+                                    </span>
+                                  </legend>
+                                </fieldset>
+                              </div>
+                              <div
+                                aria-live="polite"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <span
+                      data-id="weight"
+                    />
+                    <div>
+                      <span>
+                        Grid Component
+                      </span>
+                      <div>
+                        <div
+                          data-md="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              type="style-6"
+                            >
+                              Weight
+                              (Typography)
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div>
+                              RenderNumberInput Component
+                              <span>
+                                input = [object Object]
+                                meta = [object Object]
+                                testId = input-weight
+                                maxLength = 3
+                                decimalScale = 0
+                                label = KG
+                                errorMessage = Enter a valid weight
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="4"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiFormControl-root MuiFormControl-fullWidth"
+                            >
+                              <label
+                                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                                data-shrink="false"
+                                for="outlined-dropdown-weight-unit"
+                              >
+                                
+                              </label>
+                              <div
+                                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+                                data-testid="dropdown-weight-unit"
+                              >
+                                <div
+                                  aria-haspopup="listbox"
+                                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                                  id="select-dropdown-weight-unit"
+                                  role="button"
+                                  tabindex="0"
+                                >
+                                  <span>
+                                    ​
+                                  </span>
+                                </div>
+                                <input
+                                  aria-describedby="helptext-weightUnit"
+                                  id="outlined-dropdown-weight-unit"
+                                  name="dropdown-weight-unit"
+                                  type="hidden"
+                                  value=""
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                                  focusable="false"
+                                  role="presentation"
+                                  style="width: 1.125rem; height: 1.125rem;"
+                                  viewBox="0 0 18 18"
+                                >
+                                  <path
+                                    clip-rule="evenodd"
+                                    d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                    fill="#333333"
+                                    fill-rule="evenodd"
+                                  />
+                                  <mask
+                                    height="12"
+                                    id="mask0"
+                                    mask-type="alpha"
+                                    maskUnits="userSpaceOnUse"
+                                    width="18"
+                                    x="0"
+                                    y="4"
+                                  >
+                                    <path
+                                      clip-rule="evenodd"
+                                      d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                      fill="white"
+                                      fill-rule="evenodd"
+                                    />
+                                  </mask>
+                                  <g
+                                    mask="url(#mask0)"
+                                  />
+                                </svg>
+                                <fieldset
+                                  aria-hidden="true"
+                                  class="PrivateNotchedOutline-root-84 MuiOutlinedInput-notchedOutline"
+                                  style="padding-left: 8px;"
+                                >
+                                  <legend
+                                    class="PrivateNotchedOutline-legend-85"
+                                    style="width: 0.01px;"
+                                  >
+                                    <span>
+                                      ​
+                                    </span>
+                                  </legend>
+                                </fieldset>
+                              </div>
+                              <div
+                                aria-live="polite"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  data-md="6"
+                  data-xs="12"
+                >
+                  <span>
+                    GridItem Component
+                  </span>
+                  <div>
+                    <span
+                      data-id="waistCircumference"
+                    />
+                    <div>
+                      <span>
+                        Grid Component
+                      </span>
+                      <div>
+                        <div
+                          data-md="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              type="style-6"
+                            >
+                              Waist circumference
+                              (Typography)
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div>
+                              RenderNumberInput Component
+                              <span>
+                                input = [object Object]
+                                meta = [object Object]
+                                testId = input-waist-circumference
+                                helperText = Optional
+                                maxLength = 3
+                                decimalScale = 0
+                                label = CM
+                                errorMessage = Enter a valid waist circumference
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="4"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiFormControl-root MuiFormControl-fullWidth"
+                            >
+                              <label
+                                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                                data-shrink="false"
+                                for="outlined-dropdown-waist-circumfercence-unit"
+                              >
+                                
+                              </label>
+                              <div
+                                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+                                data-testid="dropdown-waist-circumfercence-unit"
+                              >
+                                <div
+                                  aria-haspopup="listbox"
+                                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                                  id="select-dropdown-waist-circumfercence-unit"
+                                  role="button"
+                                  tabindex="0"
+                                >
+                                  <span>
+                                    ​
+                                  </span>
+                                </div>
+                                <input
+                                  aria-describedby="helptext-waistUnit"
+                                  id="outlined-dropdown-waist-circumfercence-unit"
+                                  name="dropdown-waist-circumfercence-unit"
+                                  type="hidden"
+                                  value=""
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                                  focusable="false"
+                                  role="presentation"
+                                  style="width: 1.125rem; height: 1.125rem;"
+                                  viewBox="0 0 18 18"
+                                >
+                                  <path
+                                    clip-rule="evenodd"
+                                    d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                    fill="#333333"
+                                    fill-rule="evenodd"
+                                  />
+                                  <mask
+                                    height="12"
+                                    id="mask0"
+                                    mask-type="alpha"
+                                    maskUnits="userSpaceOnUse"
+                                    width="18"
+                                    x="0"
+                                    y="4"
+                                  >
+                                    <path
+                                      clip-rule="evenodd"
+                                      d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                      fill="white"
+                                      fill-rule="evenodd"
+                                    />
+                                  </mask>
+                                  <g
+                                    mask="url(#mask0)"
+                                  />
+                                </svg>
+                                <fieldset
+                                  aria-hidden="true"
+                                  class="PrivateNotchedOutline-root-84 MuiOutlinedInput-notchedOutline"
+                                  style="padding-left: 8px;"
+                                >
+                                  <legend
+                                    class="PrivateNotchedOutline-legend-85"
+                                    style="width: 0.01px;"
+                                  >
+                                    <span>
+                                      ​
+                                    </span>
+                                  </legend>
+                                </fieldset>
+                              </div>
+                              <div
+                                aria-live="polite"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <label
+                      class="MuiFormControlLabel-root"
+                    >
+                      <span
+                        aria-disabled="false"
+                        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-98 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                        data-testid="input-asian"
+                        error="false"
+                      >
+                        <span
+                          class="MuiIconButton-label"
+                        >
+                          <input
+                            class="PrivateSwitchBase-input-101"
+                            data-indeterminate="false"
+                            name="isAsian"
+                            type="checkbox"
+                            value=""
+                          />
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root"
+                            focusable="false"
+                            role="presentation"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                            />
+                          </svg>
+                        </span>
+                        <span
+                          class="MuiTouchRipple-root"
+                        />
+                      </span>
+                      <span
+                        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                      >
+                        <div
+                          color="mediumEmphasis"
+                          font-weight="normal"
+                        >
+                          I am Asian
+                          (Typography)
+                        </div>
+                      </span>
+                    </label>
+                    <div
+                      color="highEmphasis"
+                      type="style-8"
+                    >
+                      Did you know?
+                      (Typography)
+                    </div>
+                    <div
+                      type="style-8"
+                    >
+                      The classification based on BMI would be different for Asian and non-Asian races. Research shows that Asians have more than double the risk of developing type 2 diabetes than Caucasians.
+                      (Typography)
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`AboutMe Component should match snapshot with specific units 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-155"
+  >
+    <div>
+      <span>
+        Grid Component
+      </span>
+      <div>
+        <div
+          data-md="3"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <img
+              alt=""
+              src="/static/questionnaire_about_me.svg"
+            />
+          </div>
+        </div>
+        <div
+          data-md="8"
+          data-xs="12"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <div
+              class="MuiBox-root MuiBox-root-156"
+            >
+              <div
+                type="style-1"
+              >
+                About me
+                (Typography)
+              </div>
+            </div>
+            <div>
+              <span>
+                Grid Component
+              </span>
+              <div>
+                <div
+                  data-md="6"
+                  data-xs="12"
+                >
+                  <span>
+                    GridItem Component
+                  </span>
+                  <div>
+                    <span
+                      data-id="heightOne"
+                    />
+                    <span
+                      data-id="heightTwo"
+                    />
+                    <div>
+                      <span>
+                        Grid Component
+                      </span>
+                      <div>
+                        <div
+                          data-md="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              type="style-6"
+                            >
+                              Height
+                              (Typography)
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div>
+                              <span>
+                                Grid Component
+                              </span>
+                              <div>
+                                <div
+                                  data-md="12"
+                                  data-xs="12"
+                                >
+                                  <span>
+                                    GridItem Component
+                                  </span>
+                                  <div>
+                                    <div>
+                                      RenderNumberInput Component
+                                      <span>
+                                        input = [object Object]
+                                        meta = [object Object]
+                                        testId = input-height-one
+                                        maxLength = 3
+                                        decimalScale = 0
+                                        label = CM
+                                        errorMessage = Enter a valid height
+                                      </span>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="4"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiFormControl-root MuiFormControl-fullWidth"
+                            >
+                              <label
+                                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                                data-shrink="false"
+                                for="outlined-dropdown-height-unit"
+                              >
+                                
+                              </label>
+                              <div
+                                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+                                data-testid="dropdown-height-unit"
+                              >
+                                <div
+                                  aria-haspopup="listbox"
+                                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                                  id="select-dropdown-height-unit"
+                                  role="button"
+                                  tabindex="0"
+                                >
+                                  <span>
+                                    ​
+                                  </span>
+                                </div>
+                                <input
+                                  aria-describedby="helptext-heightUnit"
+                                  id="outlined-dropdown-height-unit"
+                                  name="dropdown-height-unit"
+                                  type="hidden"
+                                  value=""
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                                  focusable="false"
+                                  role="presentation"
+                                  style="width: 1.125rem; height: 1.125rem;"
+                                  viewBox="0 0 18 18"
+                                >
+                                  <path
+                                    clip-rule="evenodd"
+                                    d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                    fill="#333333"
+                                    fill-rule="evenodd"
+                                  />
+                                  <mask
+                                    height="12"
+                                    id="mask0"
+                                    mask-type="alpha"
+                                    maskUnits="userSpaceOnUse"
+                                    width="18"
+                                    x="0"
+                                    y="4"
+                                  >
+                                    <path
+                                      clip-rule="evenodd"
+                                      d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                      fill="white"
+                                      fill-rule="evenodd"
+                                    />
+                                  </mask>
+                                  <g
+                                    mask="url(#mask0)"
+                                  />
+                                </svg>
+                                <fieldset
+                                  aria-hidden="true"
+                                  class="PrivateNotchedOutline-root-237 MuiOutlinedInput-notchedOutline"
+                                  style="padding-left: 8px;"
+                                >
+                                  <legend
+                                    class="PrivateNotchedOutline-legend-238"
+                                    style="width: 0.01px;"
+                                  >
+                                    <span>
+                                      ​
+                                    </span>
+                                  </legend>
+                                </fieldset>
+                              </div>
+                              <div
+                                aria-live="polite"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <span
+                      data-id="weight"
+                    />
+                    <div>
+                      <span>
+                        Grid Component
+                      </span>
+                      <div>
+                        <div
+                          data-md="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              type="style-6"
+                            >
+                              Weight
+                              (Typography)
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div>
+                              RenderNumberInput Component
+                              <span>
+                                input = [object Object]
+                                meta = [object Object]
+                                testId = input-weight
+                                maxLength = 3
+                                decimalScale = 0
+                                label = KG
+                                errorMessage = Enter a valid weight
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="4"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiFormControl-root MuiFormControl-fullWidth"
+                            >
+                              <label
+                                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                                data-shrink="false"
+                                for="outlined-dropdown-weight-unit"
+                              >
+                                
+                              </label>
+                              <div
+                                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+                                data-testid="dropdown-weight-unit"
+                              >
+                                <div
+                                  aria-haspopup="listbox"
+                                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                                  id="select-dropdown-weight-unit"
+                                  role="button"
+                                  tabindex="0"
+                                >
+                                  <span>
+                                    ​
+                                  </span>
+                                </div>
+                                <input
+                                  aria-describedby="helptext-weightUnit"
+                                  id="outlined-dropdown-weight-unit"
+                                  name="dropdown-weight-unit"
+                                  type="hidden"
+                                  value=""
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                                  focusable="false"
+                                  role="presentation"
+                                  style="width: 1.125rem; height: 1.125rem;"
+                                  viewBox="0 0 18 18"
+                                >
+                                  <path
+                                    clip-rule="evenodd"
+                                    d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                    fill="#333333"
+                                    fill-rule="evenodd"
+                                  />
+                                  <mask
+                                    height="12"
+                                    id="mask0"
+                                    mask-type="alpha"
+                                    maskUnits="userSpaceOnUse"
+                                    width="18"
+                                    x="0"
+                                    y="4"
+                                  >
+                                    <path
+                                      clip-rule="evenodd"
+                                      d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                      fill="white"
+                                      fill-rule="evenodd"
+                                    />
+                                  </mask>
+                                  <g
+                                    mask="url(#mask0)"
+                                  />
+                                </svg>
+                                <fieldset
+                                  aria-hidden="true"
+                                  class="PrivateNotchedOutline-root-237 MuiOutlinedInput-notchedOutline"
+                                  style="padding-left: 8px;"
+                                >
+                                  <legend
+                                    class="PrivateNotchedOutline-legend-238"
+                                    style="width: 0.01px;"
+                                  >
+                                    <span>
+                                      ​
+                                    </span>
+                                  </legend>
+                                </fieldset>
+                              </div>
+                              <div
+                                aria-live="polite"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  data-md="6"
+                  data-xs="12"
+                >
+                  <span>
+                    GridItem Component
+                  </span>
+                  <div>
+                    <span
+                      data-id="waistCircumference"
+                    />
+                    <div>
+                      <span>
+                        Grid Component
+                      </span>
+                      <div>
+                        <div
+                          data-md="12"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              type="style-6"
+                            >
+                              Waist circumference
+                              (Typography)
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="7"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div>
+                              RenderNumberInput Component
+                              <span>
+                                input = [object Object]
+                                meta = [object Object]
+                                testId = input-waist-circumference
+                                helperText = Optional
+                                maxLength = 20
+                                decimalScale = 2
+                                label = IN
+                                errorMessage = Enter a valid waist circumference
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          data-md="4"
+                          data-xs="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              class="MuiFormControl-root MuiFormControl-fullWidth"
+                            >
+                              <label
+                                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                                data-shrink="false"
+                                for="outlined-dropdown-waist-circumfercence-unit"
+                              >
+                                
+                              </label>
+                              <div
+                                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+                                data-testid="dropdown-waist-circumfercence-unit"
+                              >
+                                <div
+                                  aria-haspopup="listbox"
+                                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                                  id="select-dropdown-waist-circumfercence-unit"
+                                  role="button"
+                                  tabindex="0"
+                                >
+                                  <span>
+                                    ​
+                                  </span>
+                                </div>
+                                <input
+                                  aria-describedby="helptext-waistUnit"
+                                  id="outlined-dropdown-waist-circumfercence-unit"
+                                  name="dropdown-waist-circumfercence-unit"
+                                  type="hidden"
+                                  value=""
+                                />
+                                <svg
+                                  aria-hidden="true"
+                                  class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                                  focusable="false"
+                                  role="presentation"
+                                  style="width: 1.125rem; height: 1.125rem;"
+                                  viewBox="0 0 18 18"
+                                >
+                                  <path
+                                    clip-rule="evenodd"
+                                    d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                    fill="#333333"
+                                    fill-rule="evenodd"
+                                  />
+                                  <mask
+                                    height="12"
+                                    id="mask0"
+                                    mask-type="alpha"
+                                    maskUnits="userSpaceOnUse"
+                                    width="18"
+                                    x="0"
+                                    y="4"
+                                  >
+                                    <path
+                                      clip-rule="evenodd"
+                                      d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                                      fill="white"
+                                      fill-rule="evenodd"
+                                    />
+                                  </mask>
+                                  <g
+                                    mask="url(#mask0)"
+                                  />
+                                </svg>
+                                <fieldset
+                                  aria-hidden="true"
+                                  class="PrivateNotchedOutline-root-237 MuiOutlinedInput-notchedOutline"
+                                  style="padding-left: 8px;"
+                                >
+                                  <legend
+                                    class="PrivateNotchedOutline-legend-238"
+                                    style="width: 0.01px;"
+                                  >
+                                    <span>
+                                      ​
+                                    </span>
+                                  </legend>
+                                </fieldset>
+                              </div>
+                              <div
+                                aria-live="polite"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <label
+                      class="MuiFormControlLabel-root"
+                    >
+                      <span
+                        aria-disabled="false"
+                        class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-251 MuiCheckbox-root MuiCheckbox-colorPrimary MuiIconButton-colorPrimary"
+                        data-testid="input-asian"
+                        error="false"
+                      >
+                        <span
+                          class="MuiIconButton-label"
+                        >
+                          <input
+                            class="PrivateSwitchBase-input-254"
+                            data-indeterminate="false"
+                            name="isAsian"
+                            type="checkbox"
+                            value=""
+                          />
+                          <svg
+                            aria-hidden="true"
+                            class="MuiSvgIcon-root"
+                            focusable="false"
+                            role="presentation"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                            />
+                          </svg>
+                        </span>
+                        <span
+                          class="MuiTouchRipple-root"
+                        />
+                      </span>
+                      <span
+                        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+                      >
+                        <div
+                          color="mediumEmphasis"
+                          font-weight="normal"
+                        >
+                          I am Asian
+                          (Typography)
+                        </div>
+                      </span>
+                    </label>
+                    <div
+                      color="highEmphasis"
+                      type="style-8"
+                    >
+                      Did you know?
+                      (Typography)
+                    </div>
+                    <div
+                      type="style-8"
+                    >
+                      The classification based on BMI would be different for Asian and non-Asian races. Research shows that Asians have more than double the risk of developing type 2 diabetes than Caucasians.
+                      (Typography)
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

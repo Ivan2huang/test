@@ -1,0 +1,389 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Me Component should match the snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiTabs-root SideBar-tabsRoot-93"
+        >
+          <div
+            class="MuiTabs-scrollable"
+            style="width: 99px; height: 99px; position: absolute; top: -9999px; overflow: scroll;"
+          />
+          <div
+            class="MuiTabs-scroller MuiTabs-scrollable"
+            style="margin-bottom: 0px;"
+          >
+            <div
+              class="MuiTabs-flexContainer SideBar-tabsFlexContainer-94"
+              role="tablist"
+            >
+              <button
+                aria-selected="true"
+                class="MuiButtonBase-root MuiTab-root SideBar-tabRoot-96 MuiTab-textColorInherit Mui-selected SideBar-selected-95 MuiTab-labelIcon"
+                data-testid="icon1"
+                role="tab"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiTab-wrapper SideBar-tabWrapper-98"
+                >
+                  <div>
+                    ActiveIcon1
+                  </div>
+                  <div
+                    class="PrivateHiddenCss-smDown-129"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-147 SideBar-tabTextStyle-97"
+                      classes="[object Object]"
+                      title="Icon1"
+                    >
+                      <div
+                        classes="[object Object]"
+                        type="style-8"
+                      >
+                        Icon1
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="PrivateHiddenCss-mdUp-131"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-148 SideBar-tabTextStyle-97"
+                      classes="[object Object]"
+                      title="Icon1"
+                    >
+                      <div
+                        classes="[object Object]"
+                        type="style-8"
+                      >
+                        Icon1
+                      </div>
+                    </div>
+                  </div>
+                </span>
+              </button>
+              <button
+                aria-selected="false"
+                class="MuiButtonBase-root MuiTab-root SideBar-tabRoot-96 MuiTab-textColorInherit MuiTab-labelIcon"
+                data-testid="icon2"
+                role="tab"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiTab-wrapper SideBar-tabWrapper-98"
+                >
+                  <div>
+                    Icon2
+                  </div>
+                  <div
+                    class="PrivateHiddenCss-smDown-129"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-153 SideBar-tabTextStyle-97"
+                      classes="[object Object]"
+                      title="Icon2"
+                    >
+                      <div
+                        classes="[object Object]"
+                        type="style-8"
+                      >
+                        Icon2
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="PrivateHiddenCss-mdUp-131"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-154 SideBar-tabTextStyle-97"
+                      classes="[object Object]"
+                      title="Icon2"
+                    >
+                      <div
+                        classes="[object Object]"
+                        type="style-8"
+                      >
+                        Icon2
+                      </div>
+                    </div>
+                  </div>
+                </span>
+              </button>
+              <button
+                aria-selected="false"
+                class="MuiButtonBase-root MuiTab-root SideBar-tabRoot-96 MuiTab-textColorInherit MuiTab-labelIcon"
+                data-testid="icon3"
+                role="tab"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiTab-wrapper SideBar-tabWrapper-98"
+                >
+                  <div>
+                    Icon3
+                  </div>
+                  <div
+                    class="PrivateHiddenCss-smDown-129"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-155 SideBar-tabTextStyle-97"
+                      classes="[object Object]"
+                      title="Icon3"
+                    >
+                      <div
+                        classes="[object Object]"
+                        type="style-8"
+                      >
+                        Icon3
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="PrivateHiddenCss-mdUp-131"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-156 SideBar-tabTextStyle-97"
+                      classes="[object Object]"
+                      title="Icon3"
+                    >
+                      <div
+                        classes="[object Object]"
+                        type="style-8"
+                      >
+                        Icon3
+                      </div>
+                    </div>
+                  </div>
+                </span>
+              </button>
+            </div>
+            <span
+              class="PrivateTabIndicator-root-149 PrivateTabIndicator-colorSecondary-151 MuiTabs-indicator"
+              style="left: 0px; width: 0px;"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-157"
+        >
+          <div>
+            Component
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Me Component should match the snapshot when fillRight 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-159"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiTabs-root SideBar-tabsRoot-250"
+        >
+          <div
+            class="MuiTabs-scrollable"
+            style="width: 99px; height: 99px; position: absolute; top: -9999px; overflow: scroll;"
+          />
+          <div
+            class="MuiTabs-scroller MuiTabs-scrollable"
+            style="margin-bottom: 0px;"
+          >
+            <div
+              class="MuiTabs-flexContainer SideBar-tabsFlexContainer-251"
+              role="tablist"
+            >
+              <button
+                aria-selected="true"
+                class="MuiButtonBase-root MuiTab-root SideBar-tabRoot-253 MuiTab-textColorInherit Mui-selected SideBar-selected-252 MuiTab-labelIcon"
+                data-testid="icon1"
+                role="tab"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiTab-wrapper SideBar-tabWrapper-255"
+                >
+                  <div>
+                    ActiveIcon1
+                  </div>
+                  <div
+                    class="PrivateHiddenCss-smDown-286"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-304 SideBar-tabTextStyle-254"
+                      classes="[object Object]"
+                      title="Icon1"
+                    >
+                      <div
+                        classes="[object Object]"
+                        type="style-8"
+                      >
+                        Icon1
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="PrivateHiddenCss-mdUp-288"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-305 SideBar-tabTextStyle-254"
+                      classes="[object Object]"
+                      title="Icon1"
+                    >
+                      <div
+                        classes="[object Object]"
+                        type="style-8"
+                      >
+                        Icon1
+                      </div>
+                    </div>
+                  </div>
+                </span>
+              </button>
+              <button
+                aria-selected="false"
+                class="MuiButtonBase-root MuiTab-root SideBar-tabRoot-253 MuiTab-textColorInherit MuiTab-labelIcon"
+                data-testid="icon2"
+                role="tab"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiTab-wrapper SideBar-tabWrapper-255"
+                >
+                  <div>
+                    Icon2
+                  </div>
+                  <div
+                    class="PrivateHiddenCss-smDown-286"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-310 SideBar-tabTextStyle-254"
+                      classes="[object Object]"
+                      title="Icon2"
+                    >
+                      <div
+                        classes="[object Object]"
+                        type="style-8"
+                      >
+                        Icon2
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="PrivateHiddenCss-mdUp-288"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-311 SideBar-tabTextStyle-254"
+                      classes="[object Object]"
+                      title="Icon2"
+                    >
+                      <div
+                        classes="[object Object]"
+                        type="style-8"
+                      >
+                        Icon2
+                      </div>
+                    </div>
+                  </div>
+                </span>
+              </button>
+              <button
+                aria-selected="false"
+                class="MuiButtonBase-root MuiTab-root SideBar-tabRoot-253 MuiTab-textColorInherit MuiTab-labelIcon"
+                data-testid="icon3"
+                role="tab"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiTab-wrapper SideBar-tabWrapper-255"
+                >
+                  <div>
+                    Icon3
+                  </div>
+                  <div
+                    class="PrivateHiddenCss-smDown-286"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-312 SideBar-tabTextStyle-254"
+                      classes="[object Object]"
+                      title="Icon3"
+                    >
+                      <div
+                        classes="[object Object]"
+                        type="style-8"
+                      >
+                        Icon3
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="PrivateHiddenCss-mdUp-288"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-313 SideBar-tabTextStyle-254"
+                      classes="[object Object]"
+                      title="Icon3"
+                    >
+                      <div
+                        classes="[object Object]"
+                        type="style-8"
+                      >
+                        Icon3
+                      </div>
+                    </div>
+                  </div>
+                </span>
+              </button>
+            </div>
+            <span
+              class="PrivateTabIndicator-root-306 PrivateTabIndicator-colorSecondary-308 MuiTabs-indicator"
+              style="left: 0px; width: 0px;"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-314"
+        >
+          <div>
+            Component
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

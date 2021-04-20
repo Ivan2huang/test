@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MaxAttemptsOTP Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-4 injectIntl(Layout)-backContainer-1"
+  >
+    <button
+      data-testid="btn-BackToDetails"
+      type="button"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root injectIntl(Layout)-backIcon-2"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M11.67 3.87L9.9 2.1 0 12l9.9 9.9 1.77-1.77L3.54 12z"
+        />
+      </svg>
+      <div
+        type="style-10"
+      >
+        My details
+      </div>
+    </button>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-14"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-18"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container"
+      >
+        <div
+          data-md="5"
+          data-xs="12"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <div
+              class="MuiBox-root MuiBox-root-108 MaxAttempsError-bgImageContainer-15"
+            >
+              <img
+                alt=""
+                src="/static/error.svg"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          data-md="6"
+          data-xs="12"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <div
+              class="MuiBox-root MuiBox-root-109 MaxAttempsError-headContainer-16"
+            >
+              <div
+                type="style-1"
+              >
+                Unable to send OTP
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-110 MaxAttempsError-contentContainer-17"
+            >
+              <div
+                type="style-6"
+              >
+                Maximum OTP verification reached. For security purposes, you can request new OTP only after 24 hours from your earlier OTP request.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

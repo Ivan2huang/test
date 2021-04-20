@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FootNotes component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-6"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-md-12"
+    >
+      <div
+        type="style-8"
+      >
+        Notes:
+        (Typography)
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-md-6"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-105"
+      >
+        <div
+          type="style-8"
+        >
+          <sup>
+            1
+          </sup>
+          Dummy Data 2
+          (Typography)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-md-6"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-106"
+      >
+        <div
+          type="style-8"
+        >
+          <sup>
+            2
+          </sup>
+          Dummy Data 3
+          (Typography)
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

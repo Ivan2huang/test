@@ -1,0 +1,254 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SideBar Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiTabs-root SideBar-tabsRoot-2"
+  >
+    <div
+      class="MuiTabs-scrollable"
+      style="width: 99px; height: 99px; position: absolute; top: -9999px; overflow: scroll;"
+    />
+    <div
+      class="MuiTabs-scroller MuiTabs-scrollable"
+      style="margin-bottom: 0px;"
+    >
+      <div
+        class="MuiTabs-flexContainer SideBar-tabsFlexContainer-3"
+        role="tablist"
+      >
+        <button
+          aria-selected="false"
+          class="MuiButtonBase-root MuiTab-root SideBar-tabRoot-5 MuiTab-textColorInherit MuiTab-labelIcon"
+          data-testid="wallet"
+          role="tab"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiTab-wrapper SideBar-tabWrapper-7"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              style="width: 1.125rem; height: 1.125rem;"
+              viewBox="0 0 18 14"
+            >
+              <path
+                d="M0 0.499756V13.4998H18V0.499756H0ZM1.249 1.74876H8.4V3.21576C7.207 3.43076 6.44 4.22576 6.44 5.33676C6.44 6.83076 7.782 7.24676 8.499 7.46976L9.136 7.67276L9.14 7.67476C10.097 7.97176 10.359 8.18476 10.359 8.66276C10.359 9.57676 9.27 9.64775 8.936 9.64775C7.653 9.64775 7.644 8.99675 7.641 8.78175L6.44 8.79976C6.456 9.90776 7.193 10.6468 8.399 10.8118V12.2508H1.249V1.74876ZM16.751 12.2508H9.6V10.7838C10.793 10.5688 11.559 9.77376 11.559 8.66276C11.559 7.16876 10.217 6.75276 9.496 6.52776L8.859 6.32476C7.902 6.02776 7.64 5.81476 7.64 5.33676C7.64 4.42276 8.729 4.35176 9.063 4.35176C10.346 4.35176 10.355 5.00276 10.358 5.21776L11.558 5.19976C11.544 4.09176 10.807 3.35376 9.6 3.18776V1.74876H16.751V12.2508Z"
+                fill="#333333"
+              />
+            </svg>
+            <div
+              class="PrivateHiddenCss-smDown-47"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-66 SideBar-tabTextStyle-6"
+                classes="[object Object]"
+                title="Wallet"
+              >
+                <div
+                  class="MuiTypography-root SideBar-tabLabelText-8 MuiTypography-body1"
+                >
+                  Wallet
+                </div>
+              </div>
+            </div>
+            <div
+              class="PrivateHiddenCss-mdUp-49"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-99 SideBar-tabTextStyle-6"
+                classes="[object Object]"
+                title="Wallet"
+              >
+                <div
+                  class="MuiTypography-root SideBar-tabLabelText-8 MuiTypography-body1"
+                >
+                  Wallet
+                </div>
+              </div>
+            </div>
+          </span>
+        </button>
+        <button
+          aria-selected="false"
+          class="MuiButtonBase-root MuiTab-root SideBar-tabRoot-5 MuiTab-textColorInherit MuiTab-labelIcon"
+          data-testid="myBenefits"
+          role="tab"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiTab-wrapper SideBar-tabWrapper-7"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              style="width: 1.125rem; height: 1.125rem;"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9293 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133ZM18.48 6.508L17.348 5.37733L9.792 12.932L6.652 9.79333L5.52 10.9253L9.792 15.1947L18.48 6.508Z"
+                fill="#333333"
+              />
+            </svg>
+            <div
+              class="PrivateHiddenCss-smDown-47"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-102 SideBar-tabTextStyle-6"
+                classes="[object Object]"
+                title="Benefits"
+              >
+                <div
+                  class="MuiTypography-root SideBar-tabLabelText-8 MuiTypography-body1"
+                >
+                  Benefits
+                </div>
+              </div>
+            </div>
+            <div
+              class="PrivateHiddenCss-mdUp-49"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-105 SideBar-tabTextStyle-6"
+                classes="[object Object]"
+                title="Benefits"
+              >
+                <div
+                  class="MuiTypography-root SideBar-tabLabelText-8 MuiTypography-body1"
+                >
+                  Benefits
+                </div>
+              </div>
+            </div>
+          </span>
+        </button>
+        <button
+          aria-selected="false"
+          class="MuiButtonBase-root MuiTab-root SideBar-tabRoot-5 MuiTab-textColorInherit MuiTab-labelIcon"
+          data-testid="formAndDocuments"
+          role="tab"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiTab-wrapper SideBar-tabWrapper-7"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              style="width: 1.125rem; height: 1.125rem;"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M17.5997 0H1.33301V24H22.6663V5.06667L17.5997 0ZM20.4037 5.06667H17.5997V2.26267L20.4037 5.06667ZM21.0663 22.4H2.93301V1.6H15.9997V6.66667H21.0663V22.4Z"
+                fill="#333333"
+              />
+            </svg>
+            <div
+              class="PrivateHiddenCss-smDown-47"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-108 SideBar-tabTextStyle-6"
+                classes="[object Object]"
+                title="Forms and Documents"
+              >
+                <div
+                  class="MuiTypography-root SideBar-tabLabelText-8 MuiTypography-body1"
+                >
+                  Forms and Documents
+                </div>
+              </div>
+            </div>
+            <div
+              class="PrivateHiddenCss-mdUp-49"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-111 SideBar-tabTextStyle-6"
+                classes="[object Object]"
+                title="Forms and Documents"
+              >
+                <div
+                  class="MuiTypography-root SideBar-tabLabelText-8 MuiTypography-body1"
+                >
+                  Forms and Documents
+                </div>
+              </div>
+            </div>
+          </span>
+        </button>
+        <button
+          aria-selected="true"
+          class="MuiButtonBase-root MuiTab-root SideBar-tabRoot-5 MuiTab-textColorInherit Mui-selected SideBar-selected-4 MuiTab-labelIcon"
+          data-testid="faq"
+          role="tab"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiTab-wrapper SideBar-tabWrapper-7"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              style="width: 1.125rem; height: 1.125rem;"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 0C5.372 0 0 5.372 0 12C0 18.628 5.372 24 12 24C18.628 24 24 18.628 24 12C24 5.372 18.628 0 12 0ZM11.9987 19.3333C11.0787 19.3333 10.332 18.5867 10.332 17.6667C10.332 16.7467 11.0787 16 11.9987 16C12.9187 16 13.6653 16.7467 13.6653 17.6667C13.6653 18.5867 12.92 19.3333 11.9987 19.3333ZM14.9627 11.3893L13.432 12.9187C13.2 13.152 13.2 13.2387 13.2 13.348V14.6667H10.8V13.348C10.8 12.284 11.3333 11.6253 11.7333 11.2227L13.2667 9.692C13.6813 9.27867 13.8627 8.704 13.7653 8.11333C13.6507 7.412 13.088 6.82133 12.3987 6.67733C11.84 6.56133 11.3 6.688 10.872 7.03733C10.4507 7.37867 10.2093 7.88533 10.2093 8.42533H7.80933C7.80933 7.15867 8.37333 5.97333 9.35733 5.17467C10.3413 4.37333 11.632 4.06933 12.888 4.328C14.552 4.676 15.856 6.04 16.1333 7.724C16.3573 9.08667 15.9307 10.4227 14.9627 11.3893Z"
+                fill="#DB0011"
+              />
+            </svg>
+            <div
+              class="PrivateHiddenCss-smDown-47"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-114 SideBar-tabTextStyle-6"
+                classes="[object Object]"
+                title="Help FAQ"
+              >
+                <div
+                  class="MuiTypography-root SideBar-tabLabelText-8 MuiTypography-body1"
+                >
+                  Help FAQ
+                </div>
+              </div>
+            </div>
+            <div
+              class="PrivateHiddenCss-mdUp-49"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-117 SideBar-tabTextStyle-6"
+                classes="[object Object]"
+                title="Help FAQ"
+              >
+                <div
+                  class="MuiTypography-root SideBar-tabLabelText-8 MuiTypography-body1"
+                >
+                  Help FAQ
+                </div>
+              </div>
+            </div>
+          </span>
+        </button>
+      </div>
+      <span
+        class="PrivateTabIndicator-root-120 PrivateTabIndicator-colorSecondary-122 MuiTabs-indicator"
+        style="left: 0px; width: 0px;"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`SideBar Component should match snapshot when support mobile only 1`] = `<div />`;

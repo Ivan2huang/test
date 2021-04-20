@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ClaimDetails component should match the snapshot 1`] = `
+<div>
+  <div>
+    <header>
+      WithAuth HOC
+    </header>
+    <div>
+      <header>
+        Layout Header
+      </header>
+      <div>
+        Claim Details Container
+      </div>
+    </div>
+  </div>
+</div>
+`;

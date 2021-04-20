@@ -1,0 +1,117 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LifestyleScore Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root LifestyleScore-scoreCard-1 MuiBox-root MuiBox-root-4 LifestyleScore-scoreCard-1 MuiPaper-rounded"
+  >
+    <div
+      class="PrivateHiddenCss-smDown-38"
+    >
+      <div>
+        (Typography)
+        <span>
+          type = style-7
+        </span>
+        My lifestyle score
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-48"
+    >
+      <div>
+        ComponentLoaderAndError Component
+        <span>
+          loading = true
+          errorState = true
+        </span>
+        <div>
+          Grid Component
+          <span />
+          <div>
+            GridItem Component
+            <span>
+              columns = [object Object]
+            </span>
+            <div
+              class="MuiBox-root MuiBox-root-49"
+            >
+              <div>
+                (Typography)
+                <span>
+                  type = style-6
+                </span>
+                Higher scores are associated with better lifestyle choices and lower risks of chronic disease.
+              </div>
+            </div>
+          </div>
+          <div>
+            GridItem Component
+            <span>
+              columns = [object Object]
+            </span>
+            <div
+              class="MuiBox-root MuiBox-root-50"
+            >
+              <div>
+                LifestyleScoreChart component
+                <span>
+                  healthScore = 42
+                </span>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-51 LifestyleScore-scoreContainer-2"
+                classes="[object Object]"
+              >
+                <div>
+                  (Typography)
+                  <span>
+                    type = style-1
+                    fontWeight = semiBold
+                  </span>
+                  42
+                </div>
+                <div>
+                  (Typography)
+                  <span>
+                    type = style-8
+                  </span>
+                  OUT OF 100
+                </div>
+              </div>
+            </div>
+          </div>
+          <div>
+            GridItem Component
+            <span>
+              columns = [object Object]
+            </span>
+            <div
+              class="MuiBox-root MuiBox-root-52"
+            >
+              <div>
+                (Typography)
+                <span>
+                  type = style-7
+                </span>
+                My lifestyle score
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-53"
+            >
+              <div>
+                (Typography)
+                <span>
+                  type = style-6
+                </span>
+                Higher scores are associated with better lifestyle choices and lower risks of chronic disease.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

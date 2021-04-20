@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InformLayout Component Should update height when resize fullwidth 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-32 makeStyles-container-23 makeStyles-container-27"
+    style="height: auto;"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-33 makeStyles-headerContainer-26 makeStyles-headerContainer-30"
+    >
+      <div>
+        Header Brand
+      </div>
+    </div>
+    <main
+      class="makeStyles-fullWidth-25 makeStyles-fullWidth-29"
+    >
+      <div>
+        Layout Content
+      </div>
+    </main>
+    <div>
+      Footer
+    </div>
+  </div>
+</div>
+`;
+
+exports[`InformLayout Component Should update height when resize fullwidth 2`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-32 makeStyles-container-23 makeStyles-container-27"
+    style="height: 800px;"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-33 makeStyles-headerContainer-26 makeStyles-headerContainer-30"
+    >
+      <div>
+        Header Brand
+      </div>
+    </div>
+    <main
+      class="makeStyles-fullWidth-25 makeStyles-fullWidth-29"
+    >
+      <div>
+        Layout Content
+      </div>
+    </main>
+    <div>
+      Footer
+    </div>
+  </div>
+</div>
+`;
+
+exports[`InformLayout Component should match snapshot with options 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-21 makeStyles-container-12 makeStyles-container-16"
+    style="height: auto;"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-22 makeStyles-headerContainer-15 makeStyles-headerContainer-19"
+    >
+      <div>
+        Header Brand
+      </div>
+    </div>
+    <main
+      class="makeStyles-fullWidth-14 makeStyles-fullWidth-18"
+    >
+      <div>
+        Layout Content
+      </div>
+    </main>
+    <div>
+      Footer
+    </div>
+  </div>
+</div>
+`;
+
+exports[`InformLayout Component should match snapshot without options 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-10 makeStyles-container-1 makeStyles-container-5"
+    style="height: auto;"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-11 makeStyles-headerContainer-4 makeStyles-headerContainer-8"
+    >
+      <div>
+        Header Brand
+      </div>
+    </div>
+    <main
+      class="makeStyles-main-2 makeStyles-main-6"
+    >
+      <div>
+        Layout Content
+      </div>
+    </main>
+    <div>
+      Footer
+    </div>
+  </div>
+</div>
+`;

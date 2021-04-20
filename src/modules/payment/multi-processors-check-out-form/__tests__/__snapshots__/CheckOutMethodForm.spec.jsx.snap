@@ -1,0 +1,474 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CheckOutMehodForm Component should match to snapshot when there is no payment methods 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-3"
+  >
+    <div>
+      Checkout
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-4"
+  >
+    <div>
+      Order total
+    </div>
+    <div>
+      SGD 1.00
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-5"
+  >
+    <hr
+      class="MuiDivider-root MuiDivider-light"
+    />
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-13"
+  >
+    <div>
+      Payment method
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-15"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-16 makeStyles-infoText-14"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-17"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root"
+          focusable="false"
+          role="presentation"
+          size="24"
+          style="width: 1.125rem; height: 1.125rem;"
+          viewBox="0 0 18 18"
+        >
+          <path
+            d="M9 18C13.9706 18 18 13.9706 18 9C18 4.02944 13.9706 0 9 0C4.02944 0 0 4.02944 0 9C0 13.9706 4.02944 18 9 18Z"
+            fill="#FFBB33"
+          />
+          <path
+            d="M9.00098 6.25C9.69133 6.25 10.251 5.69036 10.251 5C10.251 4.30964 9.69133 3.75 9.00098 3.75C8.31062 3.75 7.75098 4.30964 7.75098 5C7.75098 5.69036 8.31062 6.25 9.00098 6.25Z"
+            fill="#333333"
+          />
+          <path
+            d="M9.89997 8.25H8.09998V14.25H9.89997V8.25Z"
+            fill="#333333"
+          />
+        </svg>
+      </div>
+      <div />
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-27"
+    >
+      <div>
+        Use my wallet
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-28"
+    >
+      <div>
+        Available balance
+        <div>
+           
+          SGD 500.00
+        </div>
+      </div>
+      <div>
+        SGD 0.00
+      </div>
+    </div>
+  </div>
+  <hr
+    class="MuiDivider-root MuiDivider-light"
+  />
+  <div
+    class="MuiBox-root MuiBox-root-29 makeStyles-footNote-1"
+  >
+    <div />
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-30"
+  >
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-fullWidth"
+      data-testid="btn-submit-checkout"
+      tabindex="0"
+      type="submit"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Confirm
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`CheckOutMehodForm Component should match to snapshot with dummy payment methods 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-74"
+  >
+    <div>
+      Checkout
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-75"
+  >
+    <div>
+      Order total
+    </div>
+    <div>
+      SGD 1.00
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-76"
+  >
+    <hr
+      class="MuiDivider-root MuiDivider-light"
+    />
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-84"
+  >
+    <div>
+      Payment method
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-86"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-87 makeStyles-infoText-85"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-88"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root"
+          focusable="false"
+          role="presentation"
+          size="24"
+          style="width: 1.125rem; height: 1.125rem;"
+          viewBox="0 0 18 18"
+        >
+          <path
+            d="M9 18C13.9706 18 18 13.9706 18 9C18 4.02944 13.9706 0 9 0C4.02944 0 0 4.02944 0 9C0 13.9706 4.02944 18 9 18Z"
+            fill="#FFBB33"
+          />
+          <path
+            d="M9.00098 6.25C9.69133 6.25 10.251 5.69036 10.251 5C10.251 4.30964 9.69133 3.75 9.00098 3.75C8.31062 3.75 7.75098 4.30964 7.75098 5C7.75098 5.69036 8.31062 6.25 9.00098 6.25Z"
+            fill="#333333"
+          />
+          <path
+            d="M9.89997 8.25H8.09998V14.25H9.89997V8.25Z"
+            fill="#333333"
+          />
+        </svg>
+      </div>
+      <div />
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-98"
+    >
+      <div>
+        Use my wallet
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-99"
+    >
+      <div>
+        Available balance
+        <div>
+           
+          SGD 500.00
+        </div>
+      </div>
+      <div>
+        SGD 100.00
+      </div>
+    </div>
+  </div>
+  <hr
+    class="MuiDivider-root MuiDivider-light"
+  />
+  <div
+    class="MuiBox-root MuiBox-root-206"
+  >
+    <div>
+      Remaining to be paid
+    </div>
+    <div>
+      SGD 100.00
+    </div>
+  </div>
+  <fieldset
+    class="MuiFormControl-root makeStyles-processor-83"
+  >
+    <div
+      class="MuiFormGroup-root"
+      data-testid="payment-method"
+      role="radiogroup"
+    >
+      <label
+        class="MuiFormControlLabel-root"
+        data-testid="card_15"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-150 MuiRadio-root MuiRadio-colorSecondary PrivateSwitchBase-checked-151 Mui-checked MuiIconButton-colorSecondary"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              class="PrivateSwitchBase-input-153"
+              name="payment-method"
+              type="radio"
+              value="MIX_CC_WALLET_15"
+            />
+            <div
+              class="PrivateRadioButtonIcon-root-163 PrivateRadioButtonIcon-checked-165"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                />
+              </svg>
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root PrivateRadioButtonIcon-layer-164"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                />
+              </svg>
+            </div>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+        <span
+          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          <div>
+            Pay by MIX_CC_WALLET
+          </div>
+          <div>
+            **** **** ****  0008
+          </div>
+        </span>
+      </label>
+      <label
+        class="MuiFormControlLabel-root"
+        data-testid="card_14"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-150 MuiRadio-root MuiRadio-colorSecondary MuiIconButton-colorSecondary"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              class="PrivateSwitchBase-input-153"
+              name="payment-method"
+              type="radio"
+              value="MIX_CC_WALLET_14"
+            />
+            <div
+              class="PrivateRadioButtonIcon-root-163"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                />
+              </svg>
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root PrivateRadioButtonIcon-layer-164"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                />
+              </svg>
+            </div>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+        <span
+          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          <div>
+            Pay by MIX_CC_WALLET
+          </div>
+          <div>
+            **** **** ****  0008
+          </div>
+        </span>
+      </label>
+      <label
+        class="MuiFormControlLabel-root"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-150 MuiRadio-root MuiRadio-colorSecondary MuiIconButton-colorSecondary"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              class="PrivateSwitchBase-input-153"
+              name="payment-method"
+              type="radio"
+              value="MIX_CC_WALLET_ADD_NEW_CARD"
+            />
+            <div
+              class="PrivateRadioButtonIcon-root-163"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                />
+              </svg>
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root PrivateRadioButtonIcon-layer-164"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                />
+              </svg>
+            </div>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+        <span
+          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          <div>
+            Pay by ADD_NEW_CARD
+          </div>
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            style="width: 20px; height: 16px; padding-right: 3px;"
+            viewBox="0 0 20 16"
+          >
+            <path
+              d="M2 0C0.895 0 0 0.895 0 2V14C0 15.105 0.895 16 2 16H18C19.105 16 20 15.105 20 14V2C20 0.895 19.105 0 18 0H2ZM8 4C8.733 4 9.41195 4.21069 10.002 4.55469C10.593 4.21169 11.269 4 12 4C14.206 4 16 5.794 16 8C16 10.206 14.206 12 12 12C11.269 12 10.593 11.7893 10.002 11.4453C9.41195 11.7893 8.733 12 8 12C5.791 12 4 10.209 4 8C4 5.791 5.791 4 8 4ZM12 6C11.821 6 11.6513 6.03022 11.4863 6.07422C11.8043 6.64822 12 7.298 12 8C12 8.702 11.8043 9.35178 11.4863 9.92578C11.6513 9.96978 11.821 10 12 10C13.103 10 14 9.103 14 8C14 6.897 13.103 6 12 6Z"
+              fill="#666666"
+            />
+          </svg>
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            style="width: 20px; height: 16px; padding-right: 3px;"
+            viewBox="0 0 20 16"
+          >
+            <path
+              d="M2 0C0.895 0 0 0.895 0 2V14C0 15.105 0.895 16 2 16H18C19.105 16 20 15.105 20 14V2C20 0.895 19.105 0 18 0H2ZM2.6875 6H3.92578L5.5 9.80078V6H7.07422L8.19922 8.69922L9.32422 6H10.7871V10H9.88672V7.09961L8.65039 10H7.75L6.51367 7V10H4.59961L4.26367 9.09961H2.34961L2.01367 10H1L2.6875 6ZM12.0254 6H15.7363L16.6367 7.19922L17.7617 6H19L17.3125 8L19 10H17.875L16.75 8.69922L15.625 10H12.0254V6ZM3.25 6.80078L2.6875 8.19922H3.8125L3.25 6.80078ZM12.9258 6.90039V7.59961H14.9492V8.40039H12.9258V9.19922H15.0625L16.0742 8L15.1758 6.90039H12.9258Z"
+              fill="#666666"
+            />
+          </svg>
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            style="width: 20px; height: 16px; padding-right: 3px;"
+            viewBox="0 0 20 16"
+          >
+            <path
+              d="M2 0C0.895 0 0 0.895 0 2V14C0 15.105 0.895 16 2 16H18C19.105 16 20 15.105 20 14V2C20 0.895 19.105 0 18 0H2ZM12.3887 5C13.0087 5 13.7324 5.31055 13.7324 5.31055L13.4219 6.55078C13.4219 6.55078 12.9047 6.13672 12.3887 6.13672C11.6657 6.13672 11.459 6.44781 11.459 6.75781C11.459 7.48081 13.5254 7.5823 13.5254 9.0293C13.5244 10.2673 12.0784 11.0942 11.1484 10.9902C10.1154 10.9902 9.59961 10.6816 9.59961 10.6816L9.80664 9.44141C9.80664 9.44141 10.426 9.75195 11.252 9.75195C12.078 9.75195 12.1816 9.44038 12.1816 9.23438C12.1816 8.30437 10.1152 8.61486 10.1152 6.75586C10.1152 5.82586 10.8387 5 12.3887 5ZM5.88086 5.10352H7.32617L5.15625 10.8887H3.60742L2.4707 6.24023C2.4707 6.24023 3.71059 6.96275 4.43359 8.71875C4.43359 8.92575 4.53711 9.23633 4.53711 9.23633L5.88086 5.10352ZM15.9004 5.10352H17.4492L18.5859 10.8887H17.3457L17.1387 10.0625H15.2793L14.9707 10.8887H13.5234L15.9004 5.10352ZM7.94531 5.20508H9.49414L8.56445 10.9902H7.11914L7.94531 5.20508ZM0.714844 5.20703H2.98828C3.60828 5.20703 3.81445 5.72266 3.81445 5.72266L4.33008 8.30469C3.71008 6.13569 0.714844 5.20703 0.714844 5.20703ZM16.416 6.85938L15.5898 9.0293H16.8281L16.416 6.85938Z"
+              fill="#666666"
+            />
+          </svg>
+        </span>
+      </label>
+    </div>
+  </fieldset>
+  <button
+    data-testid="mock-submit-newcard"
+  />
+  <div
+    class="MuiBox-root MuiBox-root-100 makeStyles-footNote-72"
+  >
+    <div />
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-101"
+  >
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-fullWidth"
+      data-testid="btn-submit-checkout"
+      tabindex="0"
+      type="submit"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Confirm
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;

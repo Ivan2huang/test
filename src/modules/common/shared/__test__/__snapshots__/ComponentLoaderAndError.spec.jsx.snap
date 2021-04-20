@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component loader and error should match snapshot when loading 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-4 ComponentLoaderAndError-container-1"
+  >
+    <div>
+      Loader Component
+      <span>
+        loading = true
+        className = ComponentLoaderAndError-loader-2
+      </span>
+      <div
+        class="MuiBox-root MuiBox-root-5 ComponentLoaderAndError-container-1"
+      >
+        <div>
+          Error Component
+          <span>
+            errorState = true
+          </span>
+          <span>
+            Children
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

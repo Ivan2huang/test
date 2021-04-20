@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Disclaimer Component should match to snapshot 1`] = `
+<div>
+  <div
+    class="makeStyles-header-1"
+    font-weight="bold"
+    type="style-8"
+  >
+    Disclaimer
+  </div>
+  <div
+    type="style-8"
+  >
+    <span>
+      By purchasing, using or obtaining any products, services or consultations made available through HealthPass (a) you acknowledge and understand that HealthPass is developed, operated and maintained jointly by various third party providers; and (b) you agree that you have read and agree to the 
+      <div
+        class="makeStyles-link-2"
+        color="outline"
+        component="span"
+        data-testid="open-term-of-use"
+        type="style-8"
+      >
+        Term of Use
+      </div>
+       of HealthPass ("Terms of Use") governing your usage of HealthPass, which provide amongst other matters, that all products, services and consultations made available through HealthPass are not provided by OCBC but by Third Party Providers (as defined under the Terms of Use) under an independent contract entered between you and the Third Party Provider, for which OCBC has no responsibility.
+    </span>
+  </div>
+</div>
+`;

@@ -1,0 +1,677 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Mui Theme should match snapshot 1`] = `
+Object {
+  "activatedIcon": "#DB0011",
+  "background": "#f9f9f9",
+  "black": "#000000",
+  "borderRadiusX": [Function],
+  "breakpoints": Object {
+    "between": [Function],
+    "down": [Function],
+    "keys": Array [
+      "xs",
+      "sm",
+      "md",
+      "lg",
+      "xl",
+    ],
+    "only": [Function],
+    "up": [Function],
+    "values": Object {
+      "lg": 993,
+      "md": 769,
+      "sm": 769,
+      "xs": 0,
+    },
+    "width": [Function],
+  },
+  "cardSecondaryBackground": "#3A98C9",
+  "darkLogo": Object {
+    "en-HK": "/static/logo.en.png",
+    "zh-HK": "/static/logo.zh.png",
+  },
+  "defaultHyperlink": "#0275D8",
+  "direction": "ltr",
+  "disabled": "#D7D8D6",
+  "error": "#A8000B",
+  "grey1": "#EDEDED",
+  "grey2": "#646464",
+  "grey3": "#333333",
+  "highEmphasis": "#212121",
+  "hover": "#AD0012",
+  "hyperlink": "#333333",
+  "icon": "#333333",
+  "info": "#305A85",
+  "lifeStyleResultAlarm": "#DB0011",
+  "lifeStyleResultOK": "#00847F",
+  "lifeStyleResultWarning": "#E9A115",
+  "loader": "#333333",
+  "logo": Object {
+    "en-HK": "/static/logo.en.svg",
+    "zh-HK": "/static/logo.zh.svg",
+  },
+  "lowEmphasis": "#757575",
+  "mediumEmphasis": "#666666",
+  "mixins": Object {
+    "gutters": [Function],
+    "toolbar": Object {
+      "@media (min-width:0px) and (orientation: landscape)": Object {
+        "minHeight": 48,
+      },
+      "@media (min-width:769px)": Object {
+        "minHeight": 64,
+      },
+      "minHeight": 56,
+    },
+  },
+  "notifyBackgroundError": "#F9F2F3",
+  "notifyBackgroundWarning": "#FFF8EA",
+  "notifyBorderError": "#E5B2B5",
+  "notifyBorderWarning": "#FFCF70",
+  "outline": "#0275D8",
+  "overrides": Object {
+    "MuiButton": Object {
+      "contained": Object {
+        "boxShadow": "none",
+      },
+      "containedPrimary": Object {
+        "&:hover": Object {
+          "backgroundColor": "#AD0012",
+        },
+      },
+      "outlined": Object {
+        "paddingLeft": "20px",
+        "paddingRight": "20px",
+      },
+      "root": Object {
+        "@media (max-width:768.95px)": Object {
+          "width": "100%",
+        },
+        "@media (min-width:769px)": Object {
+          "height": "auto",
+          "minHeight": "40px",
+        },
+        "borderRadius": "0px",
+        "color": "#666666",
+        "fontSize": "14px",
+        "fontStyle": "normal",
+        "fontWeight": 400,
+        "height": "48px",
+        "letterSpacing": "0.3px",
+        "lineHeight": "22px",
+        "paddingLeft": "20px",
+        "paddingRight": "20px",
+        "textTransform": "initial",
+      },
+    },
+    "MuiCard": Object {
+      "root": Object {
+        "&:last-child": Object {
+          "paddingBottom": 0,
+        },
+        "@media (min-width:769px)": Object {
+          "background": "#ffffff",
+          "boxShadow": "0px 2px 6px rgba(0, 0, 0, 0.05)",
+        },
+        "background": "#f9f9f9",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "padding": 0,
+      },
+    },
+    "MuiCardContent": Object {
+      "root": Object {
+        "&:last-child": Object {
+          "paddingBottom": 0,
+        },
+        "padding": 0,
+      },
+    },
+    "MuiCheckbox": Object {
+      "colorPrimary": Object {
+        "&$checked": Object {
+          "color": "#00847F",
+        },
+        "color": "#757575",
+      },
+    },
+    "MuiDivider": Object {
+      "root": Object {
+        "backgroundColor": "#EDEDED",
+      },
+    },
+    "MuiFormControl": Object {
+      "root": Object {
+        "marginBottom": "20px",
+        "marginTop": "12px",
+      },
+    },
+    "MuiFormHelperText": Object {
+      "root": Object {
+        "&$error": Object {
+          "color": "#A8000B",
+        },
+      },
+    },
+    "MuiFormLabel": Object {
+      "root": Object {
+        "&$error": Object {
+          "color": "#A8000B",
+        },
+        "&$focused": Object {
+          "color": "#0275D8",
+        },
+      },
+    },
+    "MuiGrid": Object {
+      "item": Object {
+        "&&&": Object {
+          "paddingBottom": 0,
+          "paddingTop": 0,
+        },
+      },
+      "root": Object {
+        "&&": Object {
+          "marginBottom": 0,
+          "marginTop": 0,
+        },
+      },
+    },
+    "MuiInputAdornment": Object {
+      "positionEnd": Object {
+        "& > button": Object {
+          "padding": "16px",
+        },
+      },
+    },
+    "MuiListItem": Object {
+      "button": Object {
+        "&$selected": Object {
+          "backgroundColor": "#EDEDED",
+        },
+        "&:hover:not($selected), &:focus:not($selected)": Object {
+          "backgroundColor": "#f9f9f9",
+        },
+      },
+    },
+    "MuiMenuItem": Object {
+      "root": Object {
+        "whiteSpace": "pre-wrap",
+        "wordBreak": "break-word",
+      },
+    },
+    "MuiOutlinedInput": Object {
+      "adornedEnd": Object {
+        "paddingRight": 0,
+      },
+      "input": Object {
+        "paddingLeft": "16px",
+      },
+      "notchedOutline": Object {
+        "borderColor": "#757575",
+        "borderRadius": "0px",
+      },
+      "root": Object {
+        "&$focused $notchedOutline": Object {
+          "borderColor": "#0275D8",
+        },
+        "&&$error $notchedOutline": Object {
+          "borderColor": "#A8000B",
+        },
+        "&:hover:not($focused):not($error):not($disabled) $notchedOutline": Object {
+          "borderColor": "#212121",
+        },
+      },
+    },
+    "MuiPaper": Object {
+      "rounded": Object {
+        "borderRadius": "0px",
+      },
+    },
+    "MuiRadio": Object {
+      "colorPrimary": Object {
+        "&$checked": Object {
+          "color": "#00847F",
+        },
+        "color": "#757575",
+      },
+      "colorSecondary": Object {
+        "&$checked": Object {
+          "color": "#00847F",
+        },
+        "color": "#757575",
+      },
+    },
+    "MuiSelect": Object {
+      "icon": Object {
+        "right": "16px",
+        "top": "inherit",
+      },
+      "select": Object {
+        "&:focus": Object {
+          "backgroundColor": "transparent",
+        },
+      },
+    },
+    "MuiTab": Object {
+      "root": Object {
+        "&": Object {
+          "minWidth": "auto",
+        },
+        "&$selected": Object {
+          "borderBottom": "4px solid #DB0011",
+          "fontWeight": 700,
+        },
+        "&:focus": Object {
+          "borderBottom": "4px solid #A8000B",
+          "outline": "1px solid #646464",
+          "outlineOffset": "-1px",
+        },
+        "&:hover": Object {
+          "borderBottom": "4px solid #A8000B",
+        },
+        "borderBottom": "4px solid transparent",
+        "color": "#212121",
+        "padding": 0,
+        "textTransform": "capitalize",
+      },
+    },
+    "MuiTabs": Object {
+      "indicator": Object {
+        "height": 0,
+      },
+    },
+    "MuiTooltip": Object {
+      "tooltip": Object {
+        "borderRadius": "0px",
+      },
+    },
+  },
+  "palette": Object {
+    "action": Object {
+      "active": "rgba(0, 0, 0, 0.54)",
+      "disabled": "rgba(0, 0, 0, 0.26)",
+      "disabledBackground": "rgba(0, 0, 0, 0.12)",
+      "hover": "rgba(0, 0, 0, 0.08)",
+      "hoverOpacity": 0.08,
+      "selected": "rgba(0, 0, 0, 0.14)",
+    },
+    "augmentColor": [Function],
+    "background": Object {
+      "default": "#fafafa",
+      "paper": "#fff",
+    },
+    "common": Object {
+      "black": "#000",
+      "white": "#fff",
+    },
+    "contrastThreshold": 3,
+    "divider": "rgba(0, 0, 0, 0.12)",
+    "error": Object {
+      "contrastText": "#fff",
+      "dark": "#d32f2f",
+      "light": "#e57373",
+      "main": "#f44336",
+    },
+    "getContrastText": [Function],
+    "grey": Object {
+      "100": "#f5f5f5",
+      "200": "#eeeeee",
+      "300": "#e0e0e0",
+      "400": "#bdbdbd",
+      "50": "#fafafa",
+      "500": "#9e9e9e",
+      "600": "#757575",
+      "700": "#616161",
+      "800": "#424242",
+      "900": "#212121",
+      "A100": "#d5d5d5",
+      "A200": "#aaaaaa",
+      "A400": "#303030",
+      "A700": "#616161",
+    },
+    "primary": Object {
+      "contrastText": "#fff",
+      "dark": "#DB0011",
+      "light": "#DB0011",
+      "main": "#DB0011",
+    },
+    "secondary": Object {
+      "contrastText": "#fff",
+      "dark": "#212121",
+      "light": "#212121",
+      "main": "#212121",
+    },
+    "text": Object {
+      "disabled": "rgba(0, 0, 0, 0.38)",
+      "hint": "rgba(0, 0, 0, 0.38)",
+      "primary": "rgba(0, 0, 0, 0.87)",
+      "secondary": "rgba(0, 0, 0, 0.54)",
+    },
+    "tonalOffset": 0.2,
+    "type": "light",
+  },
+  "primary": "#DB0011",
+  "props": Object {},
+  "shadows": Array [
+    "none",
+    "0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12)",
+    "0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12)",
+    "0px 3px 3px -2px rgba(0,0,0,0.2),0px 3px 4px 0px rgba(0,0,0,0.14),0px 1px 8px 0px rgba(0,0,0,0.12)",
+    "0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12)",
+    "0px 3px 5px -1px rgba(0,0,0,0.2),0px 5px 8px 0px rgba(0,0,0,0.14),0px 1px 14px 0px rgba(0,0,0,0.12)",
+    "0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12)",
+    "0px 4px 5px -2px rgba(0,0,0,0.2),0px 7px 10px 1px rgba(0,0,0,0.14),0px 2px 16px 1px rgba(0,0,0,0.12)",
+    "0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12)",
+    "0px 5px 6px -3px rgba(0,0,0,0.2),0px 9px 12px 1px rgba(0,0,0,0.14),0px 3px 16px 2px rgba(0,0,0,0.12)",
+    "0px 6px 6px -3px rgba(0,0,0,0.2),0px 10px 14px 1px rgba(0,0,0,0.14),0px 4px 18px 3px rgba(0,0,0,0.12)",
+    "0px 6px 7px -4px rgba(0,0,0,0.2),0px 11px 15px 1px rgba(0,0,0,0.14),0px 4px 20px 3px rgba(0,0,0,0.12)",
+    "0px 7px 8px -4px rgba(0,0,0,0.2),0px 12px 17px 2px rgba(0,0,0,0.14),0px 5px 22px 4px rgba(0,0,0,0.12)",
+    "0px 7px 8px -4px rgba(0,0,0,0.2),0px 13px 19px 2px rgba(0,0,0,0.14),0px 5px 24px 4px rgba(0,0,0,0.12)",
+    "0px 7px 9px -4px rgba(0,0,0,0.2),0px 14px 21px 2px rgba(0,0,0,0.14),0px 5px 26px 4px rgba(0,0,0,0.12)",
+    "0px 8px 9px -5px rgba(0,0,0,0.2),0px 15px 22px 2px rgba(0,0,0,0.14),0px 6px 28px 5px rgba(0,0,0,0.12)",
+    "0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12)",
+    "0px 8px 11px -5px rgba(0,0,0,0.2),0px 17px 26px 2px rgba(0,0,0,0.14),0px 6px 32px 5px rgba(0,0,0,0.12)",
+    "0px 9px 11px -5px rgba(0,0,0,0.2),0px 18px 28px 2px rgba(0,0,0,0.14),0px 7px 34px 6px rgba(0,0,0,0.12)",
+    "0px 9px 12px -6px rgba(0,0,0,0.2),0px 19px 29px 2px rgba(0,0,0,0.14),0px 7px 36px 6px rgba(0,0,0,0.12)",
+    "0px 10px 13px -6px rgba(0,0,0,0.2),0px 20px 31px 3px rgba(0,0,0,0.14),0px 8px 38px 7px rgba(0,0,0,0.12)",
+    "0px 10px 13px -6px rgba(0,0,0,0.2),0px 21px 33px 3px rgba(0,0,0,0.14),0px 8px 40px 7px rgba(0,0,0,0.12)",
+    "0px 10px 14px -6px rgba(0,0,0,0.2),0px 22px 35px 3px rgba(0,0,0,0.14),0px 8px 42px 7px rgba(0,0,0,0.12)",
+    "0px 11px 14px -7px rgba(0,0,0,0.2),0px 23px 36px 3px rgba(0,0,0,0.14),0px 9px 44px 8px rgba(0,0,0,0.12)",
+    "0px 11px 15px -7px rgba(0,0,0,0.2),0px 24px 38px 3px rgba(0,0,0,0.14),0px 9px 46px 8px rgba(0,0,0,0.12)",
+  ],
+  "shape": Object {
+    "borderRadius": 4,
+  },
+  "spacing": [Function],
+  "spacingX": [Function],
+  "success": "#00847F",
+  "transitions": Object {
+    "create": [Function],
+    "duration": Object {
+      "complex": 375,
+      "enteringScreen": 225,
+      "leavingScreen": 195,
+      "short": 250,
+      "shorter": 200,
+      "shortest": 150,
+      "standard": 300,
+    },
+    "easing": Object {
+      "easeIn": "cubic-bezier(0.4, 0, 1, 1)",
+      "easeInOut": "cubic-bezier(0.4, 0, 0.2, 1)",
+      "easeOut": "cubic-bezier(0.0, 0, 0.2, 1)",
+      "sharp": "cubic-bezier(0.4, 0, 0.6, 1)",
+    },
+    "getAutoHeightDuration": [Function],
+  },
+  "transparent": "transparent",
+  "typography": Object {
+    "body1": Object {
+      "fontFamily": "Arial",
+      "fontSize": "1rem",
+      "fontWeight": 400,
+      "lineHeight": 1.5,
+    },
+    "body2": Object {
+      "fontFamily": "Arial",
+      "fontSize": "0.875rem",
+      "fontWeight": 400,
+      "lineHeight": 1.43,
+    },
+    "button": Object {
+      "fontFamily": "Arial",
+      "fontSize": "0.875rem",
+      "fontWeight": 600,
+      "lineHeight": 1.75,
+      "textTransform": "uppercase",
+    },
+    "caption": Object {
+      "fontFamily": "Arial",
+      "fontSize": "0.75rem",
+      "fontWeight": 400,
+      "lineHeight": 1.66,
+    },
+    "fontFamily": "Arial",
+    "fontSize": 14,
+    "fontWeightBold": 700,
+    "fontWeightLight": 300,
+    "fontWeightMedium": 600,
+    "fontWeightRegular": 400,
+    "fontWeights": Object {
+      "bold": 700,
+      "light": 300,
+      "normal": 400,
+      "semiBold": 600,
+    },
+    "h1": Object {
+      "fontFamily": "Arial",
+      "fontSize": "6rem",
+      "fontWeight": 300,
+      "lineHeight": 1,
+    },
+    "h2": Object {
+      "fontFamily": "Arial",
+      "fontSize": "3.75rem",
+      "fontWeight": 300,
+      "lineHeight": 1,
+    },
+    "h3": Object {
+      "fontFamily": "Arial",
+      "fontSize": "3rem",
+      "fontWeight": 400,
+      "lineHeight": 1.04,
+    },
+    "h4": Object {
+      "fontFamily": "Arial",
+      "fontSize": "2.125rem",
+      "fontWeight": 400,
+      "lineHeight": 1.17,
+    },
+    "h5": Object {
+      "fontFamily": "Arial",
+      "fontSize": "1.5rem",
+      "fontWeight": 400,
+      "lineHeight": 1.33,
+    },
+    "h6": Object {
+      "fontFamily": "Arial",
+      "fontSize": "1.25rem",
+      "fontWeight": 600,
+      "lineHeight": 1.6,
+    },
+    "htmlFontSize": 16,
+    "overline": Object {
+      "fontFamily": "Arial",
+      "fontSize": "0.75rem",
+      "fontWeight": 400,
+      "lineHeight": 2.66,
+      "textTransform": "uppercase",
+    },
+    "pxToRem": [Function],
+    "round": [Function],
+    "style-1": Object {
+      "@media (min-width:769px)": Object {
+        "fontSize": "30px",
+        "fontWeight": 300,
+        "lineHeight": "36px",
+      },
+      "color": "#212121",
+      "fontSize": "32px",
+      "fontStyle": "normal",
+      "fontWeight": 300,
+      "letterSpacing": "-1.5px",
+      "lineHeight": "37px",
+    },
+    "style-10": Object {
+      "@media (min-width:769px)": Object {
+        "fontSize": "12px",
+        "lineHeight": "20px",
+      },
+      "color": "#666666",
+      "fontSize": "14px",
+      "fontStyle": "normal",
+      "fontWeight": 400,
+      "letterSpacing": "0.25px",
+      "lineHeight": "20px",
+    },
+    "style-11": Object {
+      "@media (min-width:769px)": Object {
+        "fontSize": "12px",
+        "lineHeight": "20px",
+      },
+      "color": "#212121",
+      "fontSize": "14px",
+      "fontStyle": "normal",
+      "fontWeight": 400,
+      "letterSpacing": "0.25px",
+      "lineHeight": "20px",
+    },
+    "style-12": Object {
+      "color": "#212121",
+      "fontSize": "16px",
+      "fontStyle": "normal",
+      "fontWeight": 400,
+      "lineHeight": "24px",
+    },
+    "style-13": Object {
+      "color": "#212121",
+      "fontSize": "8px",
+      "fontStyle": "normal",
+      "fontWeight": 400,
+      "lineHeight": "8px",
+    },
+    "style-2": Object {
+      "@media (min-width:769px)": Object {
+        "color": "#212121",
+        "fontSize": "30px",
+        "fontWeight": 300,
+        "lineHeight": "36px",
+      },
+      "color": "#666666",
+      "fontSize": "20px",
+      "fontStyle": "normal",
+      "fontWeight": 600,
+      "letterSpacing": "0.25px",
+      "lineHeight": "24px",
+    },
+    "style-3": Object {
+      "@media (min-width:769px)": Object {
+        "fontSize": "21px",
+        "fontWeight": 300,
+        "lineHeight": "25px",
+      },
+      "color": "#212121",
+      "fontSize": "16px",
+      "fontStyle": "normal",
+      "fontWeight": 700,
+      "letterSpacing": "0.3px",
+      "lineHeight": "22px",
+    },
+    "style-4": Object {
+      "@media (min-width:769px)": Object {
+        "color": "#212121",
+        "fontSize": "14px",
+        "letterSpacing": "unset",
+        "lineHeight": "20px",
+      },
+      "color": "#666666",
+      "fontSize": "16px",
+      "fontStyle": "normal",
+      "fontWeight": 600,
+      "letterSpacing": "0.3px",
+      "lineHeight": "22px",
+    },
+    "style-5": Object {
+      "@media (min-width:769px)": Object {
+        "fontSize": "14px",
+        "letterSpacing": "unset",
+        "lineHeight": "20px",
+      },
+      "color": "#212121",
+      "fontSize": "16px",
+      "fontStyle": "normal",
+      "fontWeight": 400,
+      "letterSpacing": "0.3px",
+      "lineHeight": "22px",
+    },
+    "style-6": Object {
+      "@media (min-width:769px)": Object {
+        "fontSize": "14px",
+        "letterSpacing": "unset",
+        "lineHeight": "20px",
+      },
+      "color": "#666666",
+      "fontSize": "16px",
+      "fontStyle": "normal",
+      "fontWeight": 400,
+      "letterSpacing": "0.3px",
+      "lineHeight": "22px",
+    },
+    "style-7": Object {
+      "@media (min-width:769px)": Object {
+        "fontSize": "14px",
+        "fontWeight": 700,
+        "letterSpacing": "unset",
+        "lineHeight": "20px",
+      },
+      "color": "#212121",
+      "fontSize": "14px",
+      "fontStyle": "normal",
+      "fontWeight": 600,
+      "letterSpacing": "0.3px",
+      "lineHeight": "16px",
+    },
+    "style-8": Object {
+      "@media (min-width:769px)": Object {
+        "fontSize": "11px",
+        "letterSpacing": "unset",
+        "lineHeight": "15px",
+      },
+      "color": "#666666",
+      "fontSize": "12px",
+      "fontStyle": "normal",
+      "fontWeight": 400,
+      "letterSpacing": "0.4px",
+      "lineHeight": "16px",
+    },
+    "style-9": Object {
+      "@media (min-width:769px)": Object {
+        "fontSize": "21px",
+        "lineHeight": "25px",
+      },
+      "color": "#000000",
+      "fontSize": "20px",
+      "fontStyle": "normal",
+      "fontWeight": 400,
+      "letterSpacing": "0.3px",
+      "lineHeight": "22px",
+    },
+    "subtitle1": Object {
+      "fontFamily": "Arial",
+      "fontSize": "1rem",
+      "fontWeight": 400,
+      "lineHeight": 1.75,
+    },
+    "subtitle2": Object {
+      "fontFamily": "Arial",
+      "fontSize": "0.875rem",
+      "fontWeight": 600,
+      "lineHeight": 1.57,
+    },
+  },
+  "unitSpacing": 4,
+  "warning": "#E9A115",
+  "white": "#ffffff",
+  "zIndex": Object {
+    "appBar": 1100,
+    "drawer": 1200,
+    "mobileStepper": 1000,
+    "modal": 1300,
+    "snackbar": 1400,
+    "speedDial": 1050,
+    "tooltip": 1500,
+  },
+}
+`;

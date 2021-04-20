@@ -1,0 +1,868 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BenefitsSummary Component should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiCard-root makeStyles-root-1 MuiPaper-rounded"
+  >
+    <div>
+      <span>
+        Grid Component
+      </span>
+      <div>
+        <div
+          data-md="12"
+          data-sm="12"
+          data-xs="12"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <div
+              class="makeStyles-contentHeader-5"
+              type="style-3"
+            >
+              Benefits Summary
+              (Typography)
+            </div>
+          </div>
+        </div>
+        <div
+          data-md="12"
+          data-sm="12"
+          data-xs="12"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <div
+              class="MuiFormControl-root MuiFormControl-fullWidth"
+            >
+              <label
+                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+                data-shrink="true"
+                for="outlined-select-benefit-plan"
+              >
+                View for
+              </label>
+              <div
+                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+                data-testid="select-benefit-plan"
+              >
+                <div
+                  aria-haspopup="listbox"
+                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSelect MuiOutlinedInput-inputSelect"
+                  id="select-select-benefit-plan"
+                  role="button"
+                  tabindex="0"
+                >
+                  member1
+                </div>
+                <input
+                  aria-describedby="helptext-viewFor"
+                  id="outlined-select-benefit-plan"
+                  name="select-benefit-plan"
+                  type="hidden"
+                  value="1"
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+                  focusable="false"
+                  role="presentation"
+                  style="width: 1.125rem; height: 1.125rem;"
+                  viewBox="0 0 18 18"
+                >
+                  <path
+                    clip-rule="evenodd"
+                    d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                    fill="#333333"
+                    fill-rule="evenodd"
+                  />
+                  <mask
+                    height="12"
+                    id="mask0"
+                    mask-type="alpha"
+                    maskUnits="userSpaceOnUse"
+                    width="18"
+                    x="0"
+                    y="4"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M18 4.1521L9 13.1498L0 4.1521V6.0601L9 15.0601L18 6.0601V4.1521Z"
+                      fill="white"
+                      fill-rule="evenodd"
+                    />
+                  </mask>
+                  <g
+                    mask="url(#mask0)"
+                  />
+                </svg>
+                <fieldset
+                  aria-hidden="true"
+                  class="PrivateNotchedOutline-root-120 MuiOutlinedInput-notchedOutline"
+                  style="padding-left: 8px;"
+                >
+                  <legend
+                    class="PrivateNotchedOutline-legend-121"
+                    style="width: 0px;"
+                  >
+                    <span>
+                      ​
+                    </span>
+                  </legend>
+                </fieldset>
+              </div>
+              <div
+                aria-live="polite"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          data-md="12"
+          data-sm="12"
+          data-xs="12"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <div
+              class="makeStyles-linkContainer-2"
+            >
+              <div
+                class="makeStyles-productLink-122"
+                color="hyperlink"
+                component="a"
+                data-testid="product-link-TermLife"
+                href="#TermLife"
+                type="style-4"
+              >
+                Term Life
+                (Typography)
+              </div>
+              <div
+                class="makeStyles-productLink-122"
+                color="hyperlink"
+                component="a"
+                data-testid="product-link-HospitalCash"
+                href="#HospitalCash"
+                type="style-4"
+              >
+                Hospital Cash
+                (Typography)
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          data-md="12"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <div
+              class="makeStyles-anchor-4 makeStyles-anchor-11"
+              id="TermLife"
+            >
+              <div
+                type="style-3"
+              >
+                Term Life
+                (Typography)
+              </div>
+              <div>
+                <span>
+                  Grid Component
+                </span>
+                <div>
+                  <div
+                    data-md="12"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div>
+                      <div
+                        class="MuiBox-root MuiBox-root-124 makeStyles-headerCell-7"
+                      >
+                        <div>
+                          <span>
+                            Grid Component
+                          </span>
+                          <div>
+                            <div
+                              data-md="4"
+                            >
+                              <span>
+                                GridItem Component
+                              </span>
+                              <div>
+                                <div
+                                  type="style-8"
+                                >
+                                  Benefit
+                                  (Typography)
+                                </div>
+                              </div>
+                            </div>
+                            <div
+                              data-md="4"
+                            >
+                              <span>
+                                GridItem Component
+                              </span>
+                              <div>
+                                <div
+                                  type="style-8"
+                                >
+                                  Description
+                                  (Typography)
+                                </div>
+                              </div>
+                            </div>
+                            <div
+                              data-md="4"
+                            >
+                              <span>
+                                GridItem Component
+                              </span>
+                              <div>
+                                <div
+                                  type="style-8"
+                                >
+                                  Sum assured
+                                  (Typography)
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    data-md="0"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div />
+                  </div>
+                  <div
+                    data-md="12"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div>
+                      <div>
+                        <span>
+                          Grid Component
+                        </span>
+                        <div>
+                          <div
+                            data-md="4"
+                          >
+                            <span>
+                              GridItem Component
+                            </span>
+                            <div>
+                              <div
+                                class="MuiBox-root MuiBox-root-126"
+                              >
+                                <div
+                                  type="style-5"
+                                >
+                                  Plan 5¹
+                                  (Typography)
+                                </div>
+                                
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            data-md="4"
+                          >
+                            <span>
+                              GridItem Component
+                            </span>
+                            <div>
+                              <div
+                                class="MuiBox-root MuiBox-root-127"
+                              >
+                                
+                                <div
+                                  type="style-6"
+                                >
+                                  Monthly Based Salary x 12
+                                  (Typography)
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            data-md="4"
+                          >
+                            <span>
+                              GridItem Component
+                            </span>
+                            <div>
+                              <div
+                                class="MuiBox-root MuiBox-root-128"
+                              >
+                                
+                                <div
+                                  type="style-6"
+                                >
+                                  HKD 600,000
+                                  (Typography)
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    data-md="0"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="makeStyles-anchor-4 makeStyles-anchor-11"
+              id="HospitalCash"
+            >
+              <div
+                type="style-3"
+              >
+                Hospital Cash
+                (Typography)
+              </div>
+              <div>
+                <span>
+                  Grid Component
+                </span>
+                <div>
+                  <div
+                    data-md="6"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div>
+                      <div
+                        class="MuiBox-root MuiBox-root-129 makeStyles-headerCell-7"
+                      >
+                        <div>
+                          <span>
+                            Grid Component
+                          </span>
+                          <div>
+                            <div
+                              data-md="8"
+                            >
+                              <span>
+                                GridItem Component
+                              </span>
+                              <div>
+                                <div
+                                  type="style-8"
+                                >
+                                  Benefit
+                                  (Typography)
+                                </div>
+                              </div>
+                            </div>
+                            <div
+                              data-md="4"
+                            >
+                              <span>
+                                GridItem Component
+                              </span>
+                              <div>
+                                <div
+                                  type="style-8"
+                                >
+                                  Non panel doctor 100% coverage
+                                  (Typography)
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    data-md="2"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div>
+                      <div
+                        class="MuiBox-root MuiBox-root-130 makeStyles-headerCell-7"
+                      >
+                        <div
+                          data-md="12"
+                        >
+                          <span>
+                            GridItem Component
+                          </span>
+                          <div>
+                            <div
+                              type="style-8"
+                            >
+                              Annual limit
+                              (Typography)
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    data-md="8"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div />
+                  </div>
+                  <div
+                    data-md="6"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div>
+                      <div>
+                        <span>
+                          Grid Component
+                        </span>
+                        <div>
+                          <div
+                            data-md="8"
+                          >
+                            <span>
+                              GridItem Component
+                            </span>
+                            <div>
+                              <div
+                                class="MuiBox-root MuiBox-root-131"
+                              >
+                                <div
+                                  type="style-5"
+                                >
+                                  Plan 1
+                                  (Typography)
+                                </div>
+                                
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            data-md="4"
+                          >
+                            <span>
+                              GridItem Component
+                            </span>
+                            <div>
+                              <div
+                                class="MuiBox-root MuiBox-root-132"
+                              >
+                                
+                                <div
+                                  type="style-6"
+                                >
+                                  Max limit HKD 350 per day
+                                  (Typography)
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    data-md="2"
+                  >
+                    <span>
+                      GridItem Component
+                    </span>
+                    <div>
+                      <div
+                        type="style-6"
+                      >
+                        90 days per disability per year²
+                        (Typography)
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          data-sm="12"
+          data-xs="12"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <div
+              class="makeStyles-anchor-4 makeStyles-anchor-11"
+              id="TermLife"
+            >
+              <div
+                type="style-3"
+              >
+                Term Life
+                (Typography)
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-134 ServiceListForConsumber-benefitItem-133"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-135"
+                >
+                  <div
+                    type="style-5"
+                  >
+                    Plan 5¹
+                    (Typography)
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-136"
+                >
+                  <div
+                    type="style-6"
+                  >
+                    Monthly Based Salary x 12
+                    (Typography)
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-137"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root"
+                    focusable="false"
+                    role="presentation"
+                    style="width: 1.125rem; height: 1.125rem;"
+                    viewBox="0 0 24 24"
+                  >
+                    <rect
+                      fill="white"
+                      height="24"
+                      opacity="0.01"
+                      width="24"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M12 0C5.372 0 0 5.372 0 12C0 18.628 5.372 24 12 24C18.628 24 24 18.628 24 12C24 5.372 18.628 0 12 0ZM12 22.4C6.26532 22.4 1.59998 17.7347 1.59998 12C1.59998 6.26532 6.26532 1.59998 12 1.59998C17.7347 1.59998 22.4 6.26532 22.4 12C22.4 17.7347 17.7347 22.4 12 22.4ZM12.0853 8.46933C13.796 8.46933 13.808 9.33733 13.812 9.624L15.412 9.6C15.392 8.12267 14.4093 7.13733 12.8 6.91733V5.33333H11.2V6.95467C9.60931 7.24133 8.58665 8.30133 8.58665 9.78267C8.58665 11.7747 10.376 12.3293 11.332 12.6267L12.1866 12.9C13.4626 13.296 13.812 13.58 13.812 14.2173C13.812 15.436 12.36 15.5307 11.9146 15.5307C10.204 15.5307 10.192 14.6627 10.188 14.376L8.58665 14.4C8.60798 15.8773 9.59065 16.8627 11.1986 17.0827V18.6667H12.7986V17.0453C14.3893 16.7587 15.4106 15.6987 15.4106 14.2173C15.4106 12.2253 13.6213 11.6707 12.66 11.3707L11.812 11.1C10.536 10.704 10.1866 10.42 10.1866 9.78267C10.188 8.564 11.64 8.46933 12.0853 8.46933Z"
+                      fill="#333333"
+                      fill-rule="evenodd"
+                    />
+                    <mask
+                      height="24"
+                      id="mask0"
+                      mask-type="alpha"
+                      maskUnits="userSpaceOnUse"
+                      width="24"
+                      x="0"
+                      y="0"
+                    >
+                      <path
+                        clip-rule="evenodd"
+                        d="M12 0C5.372 0 0 5.372 0 12C0 18.628 5.372 24 12 24C18.628 24 24 18.628 24 12C24 5.372 18.628 0 12 0ZM12 22.4C6.26532 22.4 1.59998 17.7347 1.59998 12C1.59998 6.26532 6.26532 1.59998 12 1.59998C17.7347 1.59998 22.4 6.26532 22.4 12C22.4 17.7347 17.7347 22.4 12 22.4ZM12.0853 8.46933C13.796 8.46933 13.808 9.33733 13.812 9.624L15.412 9.6C15.392 8.12267 14.4093 7.13733 12.8 6.91733V5.33333H11.2V6.95467C9.60931 7.24133 8.58665 8.30133 8.58665 9.78267C8.58665 11.7747 10.376 12.3293 11.332 12.6267L12.1866 12.9C13.4626 13.296 13.812 13.58 13.812 14.2173C13.812 15.436 12.36 15.5307 11.9146 15.5307C10.204 15.5307 10.192 14.6627 10.188 14.376L8.58665 14.4C8.60798 15.8773 9.59065 16.8627 11.1986 17.0827V18.6667H12.7986V17.0453C14.3893 16.7587 15.4106 15.6987 15.4106 14.2173C15.4106 12.2253 13.6213 11.6707 12.66 11.3707L11.812 11.1C10.536 10.704 10.1866 10.42 10.1866 9.78267C10.188 8.564 11.64 8.46933 12.0853 8.46933Z"
+                        fill="white"
+                        fill-rule="evenodd"
+                      />
+                    </mask>
+                    <g
+                      mask="url(#mask0)"
+                    />
+                  </svg>
+                  <div
+                    class="MuiBox-root MuiBox-root-138"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-139"
+                    >
+                      <div
+                        type="style-8"
+                      >
+                        Sum assured
+                        (Typography)
+                      </div>
+                    </div>
+                    <div
+                      type="style-6"
+                    >
+                      HKD 600,000
+                      (Typography)
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="makeStyles-anchor-4 makeStyles-anchor-11"
+              id="HospitalCash"
+            >
+              <div
+                type="style-3"
+              >
+                Hospital Cash
+                (Typography)
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-140"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root"
+                  focusable="false"
+                  role="presentation"
+                  style="width: 1.125rem; height: 1.125rem;"
+                  viewBox="0 0 24 24"
+                >
+                  <rect
+                    fill="white"
+                    height="24"
+                    opacity="0.01"
+                    width="24"
+                  />
+                  <path
+                    clip-rule="evenodd"
+                    d="M12 0C5.372 0 0 5.372 0 12C0 18.628 5.372 24 12 24C18.628 24 24 18.628 24 12C24 5.372 18.628 0 12 0ZM12 22.4C6.26532 22.4 1.59998 17.7347 1.59998 12C1.59998 6.26532 6.26532 1.59998 12 1.59998C17.7347 1.59998 22.4 6.26532 22.4 12C22.4 17.7347 17.7347 22.4 12 22.4ZM12.0853 8.46933C13.796 8.46933 13.808 9.33733 13.812 9.624L15.412 9.6C15.392 8.12267 14.4093 7.13733 12.8 6.91733V5.33333H11.2V6.95467C9.60931 7.24133 8.58665 8.30133 8.58665 9.78267C8.58665 11.7747 10.376 12.3293 11.332 12.6267L12.1866 12.9C13.4626 13.296 13.812 13.58 13.812 14.2173C13.812 15.436 12.36 15.5307 11.9146 15.5307C10.204 15.5307 10.192 14.6627 10.188 14.376L8.58665 14.4C8.60798 15.8773 9.59065 16.8627 11.1986 17.0827V18.6667H12.7986V17.0453C14.3893 16.7587 15.4106 15.6987 15.4106 14.2173C15.4106 12.2253 13.6213 11.6707 12.66 11.3707L11.812 11.1C10.536 10.704 10.1866 10.42 10.1866 9.78267C10.188 8.564 11.64 8.46933 12.0853 8.46933Z"
+                    fill="#333333"
+                    fill-rule="evenodd"
+                  />
+                  <mask
+                    height="24"
+                    id="mask0"
+                    mask-type="alpha"
+                    maskUnits="userSpaceOnUse"
+                    width="24"
+                    x="0"
+                    y="0"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M12 0C5.372 0 0 5.372 0 12C0 18.628 5.372 24 12 24C18.628 24 24 18.628 24 12C24 5.372 18.628 0 12 0ZM12 22.4C6.26532 22.4 1.59998 17.7347 1.59998 12C1.59998 6.26532 6.26532 1.59998 12 1.59998C17.7347 1.59998 22.4 6.26532 22.4 12C22.4 17.7347 17.7347 22.4 12 22.4ZM12.0853 8.46933C13.796 8.46933 13.808 9.33733 13.812 9.624L15.412 9.6C15.392 8.12267 14.4093 7.13733 12.8 6.91733V5.33333H11.2V6.95467C9.60931 7.24133 8.58665 8.30133 8.58665 9.78267C8.58665 11.7747 10.376 12.3293 11.332 12.6267L12.1866 12.9C13.4626 13.296 13.812 13.58 13.812 14.2173C13.812 15.436 12.36 15.5307 11.9146 15.5307C10.204 15.5307 10.192 14.6627 10.188 14.376L8.58665 14.4C8.60798 15.8773 9.59065 16.8627 11.1986 17.0827V18.6667H12.7986V17.0453C14.3893 16.7587 15.4106 15.6987 15.4106 14.2173C15.4106 12.2253 13.6213 11.6707 12.66 11.3707L11.812 11.1C10.536 10.704 10.1866 10.42 10.1866 9.78267C10.188 8.564 11.64 8.46933 12.0853 8.46933Z"
+                      fill="white"
+                      fill-rule="evenodd"
+                    />
+                  </mask>
+                  <g
+                    mask="url(#mask0)"
+                  />
+                </svg>
+                <div
+                  class="MuiBox-root MuiBox-root-141"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-142"
+                  >
+                    <div
+                      type="style-8"
+                    >
+                      Annual limit
+                      (Typography)
+                    </div>
+                  </div>
+                  <div
+                    type="style-6"
+                  >
+                    90 days per disability per year²
+                    (Typography)
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-143 ServiceListForConsumber-benefitItem-133"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-144"
+                >
+                  <div
+                    type="style-5"
+                  >
+                    Plan 1
+                    (Typography)
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root MuiBox-root-145"
+                >
+                  <div
+                    type="style-6"
+                  >
+                    
+                    (Typography)
+                  </div>
+                </div>
+                
+                <div
+                  class="MuiBox-root MuiBox-root-146"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root"
+                    focusable="false"
+                    role="presentation"
+                    style="width: 1.125rem; height: 1.125rem;"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M0 0V8.04133V9.66267C0 17.236 5.07067 22 12 24C18.9307 22 24 15.6147 24 8.04133V0H0ZM22.4 8.04133C22.4 14.536 18.1453 20.3453 11.996 22.3293C7.91333 21.056 1.6 17.7733 1.6 9.66267V8.04133V1.6H22.4V8.04133Z"
+                      fill="#333333"
+                    />
+                  </svg>
+                  <div
+                    class="MuiBox-root MuiBox-root-147"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-148"
+                    >
+                      <div
+                        type="style-8"
+                      >
+                        Non panel doctor 100% coverage
+                        (Typography)
+                      </div>
+                    </div>
+                    <div
+                      type="style-6"
+                    >
+                      Max limit HKD 350 per day
+                      (Typography)
+                    </div>
+                  </div>
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      type="style-8"
+    >
+      Notes:
+      (Typography)
+    </div>
+    <div>
+      <span>
+        Grid Component
+      </span>
+      <div>
+        <div
+          data-md="6"
+          data-xs="12"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <div
+              class="MuiBox-root MuiBox-root-150"
+            >
+              <div
+                type="style-8"
+              >
+                <sup
+                  class="FootNotes-sup-149"
+                >
+                  1
+                </sup>
+                All MBS coverage shall be subject to maximum cap of HKD5,000,000.
+                (Typography)
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          data-md="6"
+          data-xs="12"
+        >
+          <span>
+            GridItem Component
+          </span>
+          <div>
+            <div
+              class="MuiBox-root MuiBox-root-151"
+            >
+              <div
+                type="style-8"
+              >
+                <sup
+                  class="FootNotes-sup-149"
+                >
+                  2
+                </sup>
+                Daily cash payment if insured is hospitalised for more than 6 hours, up to a maximum of 90 days per disability per year
+                (Typography)
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a
+      aria-disabled="false"
+      class="MuiButtonBase-root MuiFab-root makeStyles-backToTopButton-6 MuiFab-primary"
+      href="#myBenefits"
+      tabindex="0"
+    >
+      <span
+        class="MuiFab-label"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root"
+          focusable="false"
+          role="presentation"
+          style="width: 1.125rem; height: 1.125rem;"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M19.332 8.80153L10.9987 0.46582L2.66536 8.80153L2.66536 10.8206L10.2844 3.20153L10.2844 21.7146L11.713 21.7146L11.713 3.20153L19.332 10.8206L19.332 8.80153Z"
+            fill="white"
+          />
+        </svg>
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </a>
+  </div>
+</div>
+`;
+
+exports[`BenefitsSummary Component should match snapshot with empty benefits list 1`] = `
+<div>
+  
+</div>
+`;
